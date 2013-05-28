@@ -663,72 +663,72 @@
             <text>BOOK THIRD.&#8212;ACCOMPLISHMENT OF THE PROMISE MADE TO THE DEAD WOMAN</text>
           </navLabel>
           <content src="les-miserables-18.html#dlepubid00128"/>
-        </navPoint>
-        <navPoint id="np-130" playOrder="130">
-          <navLabel>
-            <text>CHAPTER I&#8212;THE WATER QUESTION AT MONTFERMEIL</text>
-          </navLabel>
-          <content src="les-miserables-18.html#dlepubid00129"/>
-        </navPoint>
-        <navPoint id="np-131" playOrder="131">
-          <navLabel>
-            <text>CHAPTER II&#8212;TWO COMPLETE PORTRAITS</text>
-          </navLabel>
-          <content src="les-miserables-18.html#dlepubid00130"/>
-        </navPoint>
-        <navPoint id="np-132" playOrder="132">
-          <navLabel>
-            <text>CHAPTER III&#8212;MEN MUST HAVE WINE, AND HORSES MUST HAVE WATER</text>
-          </navLabel>
-          <content src="les-miserables-18.html#dlepubid00131"/>
-        </navPoint>
-        <navPoint id="np-134" playOrder="134">
-          <navLabel>
-            <text>CHAPTER IV&#8212;ENTRANCE ON THE SCENE OF A DOLL</text>
-          </navLabel>
-          <content src="les-miserables-18.html#dlepubid00133"/>
-        </navPoint>
-        <navPoint id="np-135" playOrder="135">
-          <navLabel>
-            <text>CHAPTER V&#8212;THE LITTLE ONE ALL ALONE</text>
-          </navLabel>
-          <content src="les-miserables-18.html#dlepubid00134"/>
-        </navPoint>
-        <navPoint id="np-136" playOrder="136">
-          <navLabel>
-            <text>CHAPTER VI&#8212;WHICH POSSIBLY PROVES BOULATRUELLE'S INTELLIGENCE</text>
-          </navLabel>
-          <content src="les-miserables-19.html#dlepubid00135"/>
-        </navPoint>
-        <navPoint id="np-137" playOrder="137">
-          <navLabel>
-            <text>CHAPTER VII&#8212;COSETTE SIDE BY SIDE WITH THE STRANGER IN THE DARK</text>
-          </navLabel>
-          <content src="les-miserables-19.html#dlepubid00136"/>
-        </navPoint>
-        <navPoint id="np-139" playOrder="139">
-          <navLabel>
-            <text>CHAPTER VIII&#8212;THE UNPLEASANTNESS OF RECEIVING INTO ONE'S HOUSE A POOR MAN WHO MAY BE A RICH MAN</text>
-          </navLabel>
-          <content src="les-miserables-19.html#dlepubid00138"/>
-        </navPoint>
-        <navPoint id="np-140" playOrder="140">
-          <navLabel>
-            <text>CHAPTER IX&#8212;THENARDIER AND HIS MANOEUVRES</text>
-          </navLabel>
-          <content src="les-miserables-20.html#dlepubid00139"/>
-        </navPoint>
-        <navPoint id="np-141" playOrder="141">
-          <navLabel>
-            <text>CHAPTER X&#8212;HE WHO SEEKS TO BETTER HIMSELF MAY RENDER HIS SITUATION WORSE</text>
-          </navLabel>
-          <content src="les-miserables-20.html#dlepubid00140"/>
-        </navPoint>
-        <navPoint id="np-142" playOrder="142">
-          <navLabel>
-            <text>CHAPTER XI&#8212;NUMBER 9,430 REAPPEARS, AND COSETTE WINS IT IN THE LOTTERY</text>
-          </navLabel>
-          <content src="les-miserables-20.html#dlepubid00141"/>
+          <navPoint id="np-130" playOrder="130">
+            <navLabel>
+              <text>CHAPTER I&#8212;THE WATER QUESTION AT MONTFERMEIL</text>
+            </navLabel>
+            <content src="les-miserables-18.html#dlepubid00129"/>
+          </navPoint>
+          <navPoint id="np-131" playOrder="131">
+            <navLabel>
+              <text>CHAPTER II&#8212;TWO COMPLETE PORTRAITS</text>
+            </navLabel>
+            <content src="les-miserables-18.html#dlepubid00130"/>
+          </navPoint>
+          <navPoint id="np-132" playOrder="132">
+            <navLabel>
+              <text>CHAPTER III&#8212;MEN MUST HAVE WINE, AND HORSES MUST HAVE WATER</text>
+            </navLabel>
+            <content src="les-miserables-18.html#dlepubid00131"/>
+          </navPoint>
+          <navPoint id="np-134" playOrder="134">
+            <navLabel>
+              <text>CHAPTER IV&#8212;ENTRANCE ON THE SCENE OF A DOLL</text>
+            </navLabel>
+            <content src="les-miserables-18.html#dlepubid00133"/>
+          </navPoint>
+          <navPoint id="np-135" playOrder="135">
+            <navLabel>
+              <text>CHAPTER V&#8212;THE LITTLE ONE ALL ALONE</text>
+            </navLabel>
+            <content src="les-miserables-18.html#dlepubid00134"/>
+          </navPoint>
+          <navPoint id="np-136" playOrder="136">
+            <navLabel>
+              <text>CHAPTER VI&#8212;WHICH POSSIBLY PROVES BOULATRUELLE'S INTELLIGENCE</text>
+            </navLabel>
+            <content src="les-miserables-19.html#dlepubid00135"/>
+          </navPoint>
+          <navPoint id="np-137" playOrder="137">
+            <navLabel>
+              <text>CHAPTER VII&#8212;COSETTE SIDE BY SIDE WITH THE STRANGER IN THE DARK</text>
+            </navLabel>
+            <content src="les-miserables-19.html#dlepubid00136"/>
+          </navPoint>
+          <navPoint id="np-139" playOrder="139">
+            <navLabel>
+              <text>CHAPTER VIII&#8212;THE UNPLEASANTNESS OF RECEIVING INTO ONE'S HOUSE A POOR MAN WHO MAY BE A RICH MAN</text>
+            </navLabel>
+            <content src="les-miserables-19.html#dlepubid00138"/>
+          </navPoint>
+          <navPoint id="np-140" playOrder="140">
+            <navLabel>
+              <text>CHAPTER IX&#8212;THENARDIER AND HIS MANOEUVRES</text>
+            </navLabel>
+            <content src="les-miserables-20.html#dlepubid00139"/>
+          </navPoint>
+          <navPoint id="np-141" playOrder="141">
+            <navLabel>
+              <text>CHAPTER X&#8212;HE WHO SEEKS TO BETTER HIMSELF MAY RENDER HIS SITUATION WORSE</text>
+            </navLabel>
+            <content src="les-miserables-20.html#dlepubid00140"/>
+          </navPoint>
+          <navPoint id="np-142" playOrder="142">
+            <navLabel>
+              <text>CHAPTER XI&#8212;NUMBER 9,430 REAPPEARS, AND COSETTE WINS IT IN THE LOTTERY</text>
+            </navLabel>
+            <content src="les-miserables-20.html#dlepubid00141"/>
+          </navPoint>
         </navPoint>
         <navPoint id="np-144" playOrder="144">
           <navLabel>
