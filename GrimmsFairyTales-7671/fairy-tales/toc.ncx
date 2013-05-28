@@ -437,42 +437,6 @@
         <text>SNOW-WHITE AND ROSE-RED</text>
       </navLabel>
       <content src="fairy-tales-7.html#id00959"/>
-      <navPoint id="np-72" playOrder="72">
-        <navLabel>
-          <text>*** START: FULL LICENSE ***</text>
-        </navLabel>
-        <content src="fairy-tales-7.html#id00993"/>
-        <navPoint id="np-73" playOrder="73">
-          <navLabel>
-            <text>Section 1. General Terms of Use and Redistributing Project Gutenberg-tm electronic works</text>
-          </navLabel>
-          <content src="fairy-tales-7.html#id00996"/>
-        </navPoint>
-        <navPoint id="np-74" playOrder="74">
-          <navLabel>
-            <text>Section 2. Information about the Mission of Project Gutenberg-tm</text>
-          </navLabel>
-          <content src="fairy-tales-7.html#id01023"/>
-        </navPoint>
-        <navPoint id="np-75" playOrder="75">
-          <navLabel>
-            <text>Section 3. Information about the Project Gutenberg Literary Archive Foundation</text>
-          </navLabel>
-          <content src="fairy-tales-7.html#id01026"/>
-        </navPoint>
-        <navPoint id="np-76" playOrder="76">
-          <navLabel>
-            <text>Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation</text>
-          </navLabel>
-          <content src="fairy-tales-7.html#id01030"/>
-        </navPoint>
-        <navPoint id="np-77" playOrder="77">
-          <navLabel>
-            <text>Section 5. General Information About Project Gutenberg-tm electronic works.</text>
-          </navLabel>
-          <content src="fairy-tales-7.html#id01036"/>
-        </navPoint>
-      </navPoint>
     </navPoint>
   </navMap>
 </ncx>
