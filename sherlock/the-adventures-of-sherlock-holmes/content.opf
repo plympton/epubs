@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier id="id">the-adventures-of-sherlock-holmes</dc:identifier>
+    <dc:creator opf:file-as="Doyle, Arthur Conan, Sir">Sir Arthur Conan Doyle</dc:creator>
+    <dc:title>The Adventures of Sherlock Holmes</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Holmes, Sherlock (Fictitious character) -- Fiction</dc:subject>
+    <dc:subject>Private investigators -- England -- Fiction</dc:subject>
+    <dc:subject>Detective and mystery stories, English</dc:subject>
+    <dc:date opf:event="publication">1999-03-01</dc:date>
+    <dc:date opf:event="conversion">2013-05-25 04:58:25 GMT</dc:date>
+  </metadata>
+  <manifest>
+    <item href="0.css" id="item1" media-type="text/css"/>
+    <item href="the-adventures-of-sherlock-holmes-0.html" id="item2" media-type="application/xhtml+xml"/>
+    <item href="the-adventures-of-sherlock-holmes-1.html" id="item3" media-type="application/xhtml+xml"/>
+    <item href="the-adventures-of-sherlock-holmes-2.html" id="item4" media-type="application/xhtml+xml"/>
+    <item href="the-adventures-of-sherlock-holmes-3.html" id="item5" media-type="application/xhtml+xml"/>
+    <item href="the-adventures-of-sherlock-holmes-4.html" id="item6" media-type="application/xhtml+xml"/>
+    <item href="the-adventures-of-sherlock-holmes-5.html" id="item7" media-type="application/xhtml+xml"/>
+    <item href="the-adventures-of-sherlock-holmes-6.html" id="item8" media-type="application/xhtml+xml"/>
+    <item href="the-adventures-of-sherlock-holmes-7.html" id="item9" media-type="application/xhtml+xml"/>
+    <item href="the-adventures-of-sherlock-holmes-8.html" id="item10" media-type="application/xhtml+xml"/>
+    <item href="the-adventures-of-sherlock-holmes-9.html" id="item11" media-type="application/xhtml+xml"/>
+    <item href="the-adventures-of-sherlock-holmes-10.html" id="item12" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="item2" linear="yes"/>
+    <itemref idref="item3" linear="yes"/>
+    <itemref idref="item4" linear="yes"/>
+    <itemref idref="item5" linear="yes"/>
+    <itemref idref="item6" linear="yes"/>
+    <itemref idref="item7" linear="yes"/>
+    <itemref idref="item8" linear="yes"/>
+    <itemref idref="item9" linear="yes"/>
+    <itemref idref="item10" linear="yes"/>
+    <itemref idref="item11" linear="yes"/>
+    <itemref idref="item12" linear="yes"/>
+  </spine>
+  <guide>
+    <reference href="the-adventures-of-sherlock-holmes-0.html#pgepubid00003" type="toc" title="CONTENTS"/>
+  </guide>
+</package>

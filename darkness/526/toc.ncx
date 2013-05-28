@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="http://www.gutenberg.org/ebooks/526" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="EpubMaker 0.3.20a6 by Marcello Perathoner &lt;webmaster@gutenberg.org&gt;" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Heart of Darkness</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@526@526-0.txt.html#id00011"/>
+    </navPoint>
+    <navPoint id="np-2" playOrder="2">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@526@526-1.txt.html#id00086"/>
+    </navPoint>
+    <navPoint id="np-3" playOrder="3">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@526@526-2.txt.html#id00124"/>
+    </navPoint>
+  </navMap>
+</ncx>

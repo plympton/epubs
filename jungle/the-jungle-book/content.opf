@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier id="id">the-jungle-book</dc:identifier>
+    <dc:creator opf:file-as="Kipling, Rudyard">Rudyard Kipling</dc:creator>
+    <dc:title>The Jungle Book</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Children's stories, English</dc:subject>
+    <dc:subject>Animals -- Fiction</dc:subject>
+    <dc:subject>Jungles -- Fiction</dc:subject>
+    <dc:subject>India -- Fiction</dc:subject>
+    <dc:subject>Jungle animals -- Fiction</dc:subject>
+    <dc:subject>Mowgli (Fictitious character) -- Fiction</dc:subject>
+    <dc:date opf:event="publication">2006-01-16</dc:date>
+    <dc:date opf:event="conversion">2013-05-23 05:48:39 GMT</dc:date>
+  </metadata>
+  <manifest>
+    <item href="0.css" id="item1" media-type="text/css"/>
+    <item href="the-jungle-book-0.html" id="item2" media-type="application/xhtml+xml"/>
+    <item href="the-jungle-book-1.html" id="item3" media-type="application/xhtml+xml"/>
+    <item href="the-jungle-book-2.html" id="item4" media-type="application/xhtml+xml"/>
+    <item href="the-jungle-book-3.html" id="item5" media-type="application/xhtml+xml"/>
+    <item href="the-jungle-book-4.html" id="item6" media-type="application/xhtml+xml"/>
+    <item href="the-jungle-book-5.html" id="item7" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="item2" linear="yes"/>
+    <itemref idref="item3" linear="yes"/>
+    <itemref idref="item4" linear="yes"/>
+    <itemref idref="item5" linear="yes"/>
+    <itemref idref="item6" linear="yes"/>
+    <itemref idref="item7" linear="yes"/>
+  </spine>
+  <guide>
+    <reference href="the-jungle-book-0.html#pgepubid00001" type="toc" title="Contents"/>
+  </guide>
+</package>

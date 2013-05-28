@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="the-adventures-of-sherlock-holmes" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Adventures of Sherlock Holmes</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>THE ADVENTURES OF SHERLOCK HOLMES</text>
+      </navLabel>
+      <content src="the-adventures-of-sherlock-holmes-0.html#dlepubid00000"/>
+    </navPoint>
+    <navPoint id="np-3" playOrder="3">
+      <navLabel>
+        <text>SIR ARTHUR CONAN DOYLE</text>
+      </navLabel>
+      <content src="the-adventures-of-sherlock-holmes-0.html#dlepubid00002"/>
+    </navPoint>
+    <navPoint id="np-4" playOrder="4">
+      <navLabel>
+        <text>CONTENTS</text>
+      </navLabel>
+      <content src="the-adventures-of-sherlock-holmes-0.html#dlepubid00003"/>
+      <navPoint id="np-5" playOrder="5">
+        <navLabel>
+          <text>ADVENTURE &#160;I.&#160; A SCANDAL IN BOHEMIA</text>
+        </navLabel>
+        <content src="the-adventures-of-sherlock-holmes-0.html#dlepubid00004"/>
+      </navPoint>
+      <navPoint id="np-6" playOrder="6">
+        <navLabel>
+          <text>ADVENTURE &#160;II.&#160; THE RED-HEADED LEAGUE</text>
+        </navLabel>
+        <content src="the-adventures-of-sherlock-holmes-1.html#dlepubid00005"/>
+      </navPoint>
+      <navPoint id="np-7" playOrder="7">
+        <navLabel>
+          <text>ADVENTURE &#160;III.&#160; A CASE OF IDENTITY</text>
+        </navLabel>
+        <content src="the-adventures-of-sherlock-holmes-2.html#dlepubid00006"/>
+      </navPoint>
+      <navPoint id="np-8" playOrder="8">
+        <navLabel>
+          <text>ADVENTURE IV. THE BOSCOMBE VALLEY MYSTERY</text>
+        </navLabel>
+        <content src="the-adventures-of-sherlock-holmes-2.html#dlepubid00007"/>
+      </navPoint>
+      <navPoint id="np-9" playOrder="9">
+        <navLabel>
+          <text>ADVENTURE &#160;V.&#160; THE FIVE ORANGE PIPS</text>
+        </navLabel>
+        <content src="the-adventures-of-sherlock-holmes-3.html#dlepubid00008"/>
+      </navPoint>
+      <navPoint id="np-10" playOrder="10">
+        <navLabel>
+          <text>ADVENTURE &#160;VI.&#160; THE MAN WITH THE TWISTED LIP</text>
+        </navLabel>
+        <content src="the-adventures-of-sherlock-holmes-4.html#dlepubid00009"/>
+      </navPoint>
+      <navPoint id="np-11" playOrder="11">
+        <navLabel>
+          <text>VII.&#160; THE ADVENTURE OF THE BLUE CARBUNCLE</text>
+        </navLabel>
+        <content src="the-adventures-of-sherlock-holmes-5.html#dlepubid00010"/>
+      </navPoint>
+      <navPoint id="np-12" playOrder="12">
+        <navLabel>
+          <text>VIII.&#160; THE ADVENTURE OF THE SPECKLED BAND</text>
+        </navLabel>
+        <content src="the-adventures-of-sherlock-holmes-6.html#dlepubid00011"/>
+      </navPoint>
+      <navPoint id="np-13" playOrder="13">
+        <navLabel>
+          <text>IX.&#160; THE ADVENTURE OF THE ENGINEER&#8217;S THUMB</text>
+        </navLabel>
+        <content src="the-adventures-of-sherlock-holmes-7.html#dlepubid00012"/>
+      </navPoint>
+      <navPoint id="np-14" playOrder="14">
+        <navLabel>
+          <text>X.&#160; THE ADVENTURE OF THE NOBLE BACHELOR</text>
+        </navLabel>
+        <content src="the-adventures-of-sherlock-holmes-8.html#dlepubid00013"/>
+      </navPoint>
+      <navPoint id="np-15" playOrder="15">
+        <navLabel>
+          <text>XI.&#160; THE ADVENTURE OF THE BERYL CORONET</text>
+        </navLabel>
+        <content src="the-adventures-of-sherlock-holmes-9.html#dlepubid00014"/>
+      </navPoint>
+      <navPoint id="np-16" playOrder="16">
+        <navLabel>
+          <text>XII.&#160; THE ADVENTURE OF THE COPPER BEECHES</text>
+        </navLabel>
+        <content src="the-adventures-of-sherlock-holmes-10.html#dlepubid00015"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

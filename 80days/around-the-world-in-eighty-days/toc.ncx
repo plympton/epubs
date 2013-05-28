@@ -1,0 +1,484 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="around-the-world-in-eighty-days" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Around the World in 80 Days</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>AROUND THE WORLD IN EIGHTY DAYS</text>
+      </navLabel>
+      <content src="around-the-world-in-eighty-days-0.html#dlepubid00000"/>
+    </navPoint>
+    <navPoint id="np-2" playOrder="2">
+      <navLabel>
+        <text>By</text>
+      </navLabel>
+      <content src="around-the-world-in-eighty-days-0.html#dlepubid00001"/>
+    </navPoint>
+    <navPoint id="np-3" playOrder="3">
+      <navLabel>
+        <text>Jules Verne</text>
+      </navLabel>
+      <content src="around-the-world-in-eighty-days-0.html#dlepubid00002"/>
+    </navPoint>
+    <navPoint id="np-4" playOrder="4">
+      <navLabel>
+        <text>CONTENTS</text>
+      </navLabel>
+      <content src="around-the-world-in-eighty-days-0.html#dlepubid00003"/>
+      <navPoint id="np-5" playOrder="5">
+        <navLabel>
+          <text>Chapter I</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-0.html#dlepubid00004"/>
+        <navPoint id="np-6" playOrder="6">
+          <navLabel>
+            <text>IN WHICH PHILEAS FOGG AND PASSEPARTOUT ACCEPT EACH OTHER, THE ONE AS MASTER, THE OTHER AS MAN</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-0.html#dlepubid00005"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-7" playOrder="7">
+        <navLabel>
+          <text>Chapter II</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-0.html#dlepubid00006"/>
+        <navPoint id="np-8" playOrder="8">
+          <navLabel>
+            <text>IN WHICH PASSEPARTOUT IS CONVINCED THAT HE HAS AT LAST FOUND HIS IDEAL</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-0.html#dlepubid00007"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-9" playOrder="9">
+        <navLabel>
+          <text>Chapter III</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-0.html#dlepubid00008"/>
+        <navPoint id="np-10" playOrder="10">
+          <navLabel>
+            <text>IN WHICH A CONVERSATION TAKES PLACE WHICH SEEMS LIKELY TO COST PHILEAS FOGG DEAR</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-0.html#dlepubid00009"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-11" playOrder="11">
+        <navLabel>
+          <text>Chapter IV</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-0.html#dlepubid00010"/>
+        <navPoint id="np-12" playOrder="12">
+          <navLabel>
+            <text>IN WHICH PHILEAS FOGG ASTOUNDS PASSEPARTOUT, HIS SERVANT</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-0.html#dlepubid00011"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-13" playOrder="13">
+        <navLabel>
+          <text>Chapter V</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-0.html#dlepubid00012"/>
+        <navPoint id="np-14" playOrder="14">
+          <navLabel>
+            <text>IN WHICH A NEW SPECIES OF FUNDS, UNKNOWN TO THE MONEYED MEN, APPEARS ON 'CHANGE</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-0.html#dlepubid00013"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-15" playOrder="15">
+        <navLabel>
+          <text>Chapter VI</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-0.html#dlepubid00014"/>
+        <navPoint id="np-16" playOrder="16">
+          <navLabel>
+            <text>IN WHICH FIX, THE DETECTIVE, BETRAYS A VERY NATURAL IMPATIENCE</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-0.html#dlepubid00015"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-17" playOrder="17">
+        <navLabel>
+          <text>Chapter VII</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-0.html#dlepubid00016"/>
+        <navPoint id="np-18" playOrder="18">
+          <navLabel>
+            <text>WHICH ONCE MORE DEMONSTRATES THE USELESSNESS OF PASSPORTS AS AIDS TO DETECTIVES</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-0.html#dlepubid00017"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-19" playOrder="19">
+        <navLabel>
+          <text>Chapter VIII</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-0.html#dlepubid00018"/>
+        <navPoint id="np-20" playOrder="20">
+          <navLabel>
+            <text>IN WHICH PASSEPARTOUT TALKS RATHER MORE, PERHAPS, THAN IS PRUDENT</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-0.html#dlepubid00019"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-21" playOrder="21">
+        <navLabel>
+          <text>Chapter IX</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-1.html#dlepubid00020"/>
+        <navPoint id="np-22" playOrder="22">
+          <navLabel>
+            <text>IN WHICH THE RED SEA AND THE INDIAN OCEAN PROVE PROPITIOUS TO THE DESIGNS OF PHILEAS FOGG</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-1.html#dlepubid00021"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-23" playOrder="23">
+        <navLabel>
+          <text>Chapter X</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-1.html#dlepubid00022"/>
+        <navPoint id="np-24" playOrder="24">
+          <navLabel>
+            <text>IN WHICH PASSEPARTOUT IS ONLY TOO GLAD TO GET OFF WITH THE LOSS OF HIS SHOES</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-1.html#dlepubid00023"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-25" playOrder="25">
+        <navLabel>
+          <text>Chapter XI</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-1.html#dlepubid00024"/>
+        <navPoint id="np-26" playOrder="26">
+          <navLabel>
+            <text>IN WHICH PHILEAS FOGG SECURES A CURIOUS MEANS OF CONVEYANCE AT A FABULOUS PRICE</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-1.html#dlepubid00025"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-27" playOrder="27">
+        <navLabel>
+          <text>Chapter XII</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-1.html#dlepubid00026"/>
+        <navPoint id="np-28" playOrder="28">
+          <navLabel>
+            <text>IN WHICH PHILEAS FOGG AND HIS COMPANIONS VENTURE ACROSS THE INDIAN FORESTS, AND WHAT ENSUED</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-1.html#dlepubid00027"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-29" playOrder="29">
+        <navLabel>
+          <text>Chapter XIII</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-1.html#dlepubid00028"/>
+        <navPoint id="np-30" playOrder="30">
+          <navLabel>
+            <text>IN WHICH PASSEPARTOUT RECEIVES A NEW PROOF THAT FORTUNE FAVORS THE BRAVE</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-1.html#dlepubid00029"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-31" playOrder="31">
+        <navLabel>
+          <text>Chapter XIV</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-1.html#dlepubid00030"/>
+        <navPoint id="np-32" playOrder="32">
+          <navLabel>
+            <text>IN WHICH PHILEAS FOGG DESCENDS THE WHOLE LENGTH OF THE BEAUTIFUL VALLEY OF THE GANGES WITHOUT EVER THINKING OF SEEING IT</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-1.html#dlepubid00031"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-33" playOrder="33">
+        <navLabel>
+          <text>Chapter XV</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-2.html#dlepubid00032"/>
+        <navPoint id="np-34" playOrder="34">
+          <navLabel>
+            <text>IN WHICH THE BAG OF BANKNOTES DISGORGES SOME THOUSANDS OF POUNDS MORE</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-2.html#dlepubid00033"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-35" playOrder="35">
+        <navLabel>
+          <text>Chapter XVI</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-2.html#dlepubid00034"/>
+        <navPoint id="np-36" playOrder="36">
+          <navLabel>
+            <text>IN WHICH FIX DOES NOT SEEM TO UNDERSTAND IN THE LEAST WHAT IS SAID TO HIM</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-2.html#dlepubid00035"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-37" playOrder="37">
+        <navLabel>
+          <text>Chapter XVII</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-2.html#dlepubid00036"/>
+        <navPoint id="np-38" playOrder="38">
+          <navLabel>
+            <text>SHOWING WHAT HAPPENED ON THE VOYAGE FROM SINGAPORE TO HONG KONG</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-2.html#dlepubid00037"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-39" playOrder="39">
+        <navLabel>
+          <text>Chapter XVIII</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-2.html#dlepubid00038"/>
+        <navPoint id="np-40" playOrder="40">
+          <navLabel>
+            <text>IN WHICH PHILEAS FOGG, PASSEPARTOUT, AND FIX GO EACH ABOUT HIS BUSINESS</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-2.html#dlepubid00039"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-41" playOrder="41">
+        <navLabel>
+          <text>Chapter XIX</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-2.html#dlepubid00040"/>
+        <navPoint id="np-42" playOrder="42">
+          <navLabel>
+            <text>IN WHICH PASSEPARTOUT TAKES A TOO GREAT INTEREST IN HIS MASTER, AND WHAT COMES OF IT</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-2.html#dlepubid00041"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-43" playOrder="43">
+        <navLabel>
+          <text>Chapter XX</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-2.html#dlepubid00042"/>
+        <navPoint id="np-44" playOrder="44">
+          <navLabel>
+            <text>IN WHICH FIX COMES FACE TO FACE WITH PHILEAS FOGG</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-2.html#dlepubid00043"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-45" playOrder="45">
+        <navLabel>
+          <text>Chapter XXI</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-3.html#dlepubid00044"/>
+        <navPoint id="np-46" playOrder="46">
+          <navLabel>
+            <text>IN WHICH THE MASTER OF THE "TANKADERE" RUNS GREAT RISK OF LOSING A REWARD OF TWO HUNDRED POUNDS</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-3.html#dlepubid00045"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-47" playOrder="47">
+        <navLabel>
+          <text>Chapter XXII</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-3.html#dlepubid00046"/>
+        <navPoint id="np-48" playOrder="48">
+          <navLabel>
+            <text>IN WHICH PASSEPARTOUT FINDS OUT THAT, EVEN AT THE ANTIPODES, IT IS CONVENIENT TO HAVE SOME MONEY IN ONE'S POCKET</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-3.html#dlepubid00047"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-49" playOrder="49">
+        <navLabel>
+          <text>Chapter XXIII</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-3.html#dlepubid00048"/>
+        <navPoint id="np-50" playOrder="50">
+          <navLabel>
+            <text>IN WHICH PASSEPARTOUT'S NOSE BECOMES OUTRAGEOUSLY LONG</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-3.html#dlepubid00049"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-51" playOrder="51">
+        <navLabel>
+          <text>Chapter XXIV</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-3.html#dlepubid00050"/>
+        <navPoint id="np-52" playOrder="52">
+          <navLabel>
+            <text>DURING WHICH MR. FOGG AND PARTY CROSS THE PACIFIC OCEAN</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-3.html#dlepubid00051"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-53" playOrder="53">
+        <navLabel>
+          <text>Chapter XXV</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-3.html#dlepubid00052"/>
+        <navPoint id="np-54" playOrder="54">
+          <navLabel>
+            <text>IN WHICH A SLIGHT GLIMPSE IS HAD OF SAN FRANCISCO</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-3.html#dlepubid00053"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-55" playOrder="55">
+        <navLabel>
+          <text>Chapter XXVI</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-3.html#dlepubid00054"/>
+        <navPoint id="np-56" playOrder="56">
+          <navLabel>
+            <text>IN WHICH PHILEAS FOGG AND PARTY TRAVEL BY THE PACIFIC RAILROAD</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-3.html#dlepubid00055"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-57" playOrder="57">
+        <navLabel>
+          <text>Chapter XXVII</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-4.html#dlepubid00056"/>
+        <navPoint id="np-58" playOrder="58">
+          <navLabel>
+            <text>IN WHICH PASSEPARTOUT UNDERGOES, AT A SPEED OF TWENTY MILES AN HOUR, A COURSE OF MORMON HISTORY</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-4.html#dlepubid00057"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-59" playOrder="59">
+        <navLabel>
+          <text>Chapter XXVIII</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-4.html#dlepubid00058"/>
+        <navPoint id="np-60" playOrder="60">
+          <navLabel>
+            <text>IN WHICH PASSEPARTOUT DOES NOT SUCCEED IN MAKING ANYBODY LISTEN TO REASON</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-4.html#dlepubid00059"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-61" playOrder="61">
+        <navLabel>
+          <text>Chapter XXIX</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-4.html#dlepubid00060"/>
+        <navPoint id="np-62" playOrder="62">
+          <navLabel>
+            <text>IN WHICH CERTAIN INCIDENTS ARE NARRATED WHICH ARE ONLY TO BE MET WITH ON AMERICAN RAILROADS</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-4.html#dlepubid00061"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-63" playOrder="63">
+        <navLabel>
+          <text>Chapter XXX</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-4.html#dlepubid00062"/>
+        <navPoint id="np-64" playOrder="64">
+          <navLabel>
+            <text>IN WHICH PHILEAS FOGG SIMPLY DOES HIS DUTY</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-4.html#dlepubid00063"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-65" playOrder="65">
+        <navLabel>
+          <text>Chapter XXXI</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-4.html#dlepubid00064"/>
+        <navPoint id="np-66" playOrder="66">
+          <navLabel>
+            <text>IN WHICH FIX, THE DETECTIVE, CONSIDERABLY FURTHERS THE INTERESTS OF PHILEAS FOGG</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-4.html#dlepubid00065"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-67" playOrder="67">
+        <navLabel>
+          <text>Chapter XXXII</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-5.html#dlepubid00066"/>
+        <navPoint id="np-68" playOrder="68">
+          <navLabel>
+            <text>IN WHICH PHILEAS FOGG ENGAGES IN A DIRECT STRUGGLE WITH BAD FORTUNE</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-5.html#dlepubid00067"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-69" playOrder="69">
+        <navLabel>
+          <text>Chapter XXXIII</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-5.html#dlepubid00068"/>
+        <navPoint id="np-70" playOrder="70">
+          <navLabel>
+            <text>IN WHICH PHILEAS FOGG SHOWS HIMSELF EQUAL TO THE OCCASION</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-5.html#dlepubid00069"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-71" playOrder="71">
+        <navLabel>
+          <text>Chapter XXXIV</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-5.html#dlepubid00070"/>
+        <navPoint id="np-72" playOrder="72">
+          <navLabel>
+            <text>IN WHICH PHILEAS FOGG AT LAST REACHES LONDON</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-5.html#dlepubid00071"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-73" playOrder="73">
+        <navLabel>
+          <text>Chapter XXXV</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-5.html#dlepubid00072"/>
+        <navPoint id="np-74" playOrder="74">
+          <navLabel>
+            <text>IN WHICH PHILEAS FOGG DOES NOT HAVE TO REPEAT HIS ORDERS TO PASSEPARTOUT TWICE</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-5.html#dlepubid00073"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-75" playOrder="75">
+        <navLabel>
+          <text>Chapter XXXVI</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-5.html#dlepubid00074"/>
+        <navPoint id="np-76" playOrder="76">
+          <navLabel>
+            <text>IN WHICH PHILEAS FOGG'S NAME IS ONCE MORE AT A PREMIUM ON 'CHANGE</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-5.html#dlepubid00075"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-77" playOrder="77">
+        <navLabel>
+          <text>Chapter XXXVII</text>
+        </navLabel>
+        <content src="around-the-world-in-eighty-days-5.html#dlepubid00076"/>
+        <navPoint id="np-78" playOrder="78">
+          <navLabel>
+            <text>IN WHICH IT IS SHOWN THAT PHILEAS FOGG GAINED NOTHING BY HIS TOUR AROUND THE WORLD, UNLESS IT WERE HAPPINESS</text>
+          </navLabel>
+          <content src="around-the-world-in-eighty-days-5.html#dlepubid00077"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

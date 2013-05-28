@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier id="id" opf:scheme="URI">http://www.gutenberg.org/ebooks/1257</dc:identifier>
+    <dc:creator opf:file-as="Dumas, Alexandre">Alexandre Dumas</dc:creator>
+    <dc:title>The Three Musketeers</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>France -- History -- Louis XIII, 1610-1643 -- Fiction</dc:subject>
+    <dc:subject>Swordsmen -- Fiction</dc:subject>
+    <dc:subject>Historical fiction</dc:subject>
+    <dc:subject>Adventure and adventurers -- Fiction</dc:subject>
+    <dc:date opf:event="publication">1998-03-01</dc:date>
+    <dc:date opf:event="conversion">2013-04-01T14:00:28.833248+00:00</dc:date>
+    <dc:source>http://www.gutenberg.org/files/1257/1257-rst/1257-rst.rst</dc:source>
+  </metadata>
+  <manifest>
+    <item href="pgepub.css" id="item2" media-type="text/css"/>
+    <item href="0.css" id="item3" media-type="text/css"/>
+    <item href="1.css" id="item4" media-type="text/css"/>
+    <!--Chunk: size=3510 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-0.rst.html" id="dl-header" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=17014 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-1.rst.html" id="id1" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=6418 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-2.rst.html" id="author-s-preface" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=37990 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-3.rst.html" id="the-three-presents-of-d-artagnan-the-elder" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=25944 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-4.rst.html" id="the-antechamber-of-m-de-treville" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=28080 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-5.rst.html" id="the-audience" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=20347 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-6.rst.html" id="the-shoulder-of-athos-the-baldric-of-porthos-and-the-handkerchief-of-aramis" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=26199 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-7.rst.html" id="the-king-s-musketeers-and-the-cardinal-s-guards" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=67240 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-8.rst.html" id="his-majesty-king-louis-xiii" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=21228 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-9.rst.html" id="concerning-a-court-intrigue" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=20386 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-10.rst.html" id="d-artagnan-shows-himself" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=24427 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-11.rst.html" id="a-mousetrap-in-the-seventeenth-century" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=42454 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-12.rst.html" id="in-which-the-plot-thickens" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=20394 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-13.rst.html" id="george-villiers-duke-of-buckingham" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=21777 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-14.rst.html" id="monsieur-bonacieux" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=25684 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-15.rst.html" id="the-man-of-meung" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=20254 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-16.rst.html" id="men-of-the-robe-and-men-of-the-sword" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=28959 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-17.rst.html" id="in-which-m-seguier-keeper-of-the-seals-looks-more-than-once-for-the-bell" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=31930 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-18.rst.html" id="bonacieux-at-home" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=18233 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-19.rst.html" id="lover-and-husband" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=21942 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-20.rst.html" id="plan-of-campaign" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=28958 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-21.rst.html" id="the-journey" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=23903 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-22.rst.html" id="the-countess-de-winter" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=17726 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-23.rst.html" id="the-ballet-of-la-merlaison" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=27040 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-24.rst.html" id="the-rendezvous" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=24572 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-25.rst.html" id="the-pavilion" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=46373 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-26.rst.html" id="porthos" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=39667 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-27.rst.html" id="aramis-and-his-thesis" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=47286 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-28.rst.html" id="the-wife-of-athos" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=34925 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-29.rst.html" id="the-return" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=21341 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-30.rst.html" id="hunting-for-the-equipments" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=19278 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-31.rst.html" id="d-artagnan-and-the-englishman" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=19366 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-32.rst.html" id="english-and-french" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=23562 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-33.rst.html" id="a-procurator-s-dinner" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=43709 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-34.rst.html" id="soubrette-and-mistress" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=17860 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-35.rst.html" id="a-gascon-a-match-for-cupid" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=19005 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-36.rst.html" id="dream-of-vengeance" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=17580 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-37.rst.html" id="milady-s-secret" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=23587 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-38.rst.html" id="how-without-incommding-himself-athos-procures-his-equipment" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=22548 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-39.rst.html" id="a-vision" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=19521 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-40.rst.html" id="a-terrible-vision" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=30917 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-41.rst.html" id="the-seige-of-la-rochelle" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=19571 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-42.rst.html" id="the-anjou-wine" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=20197 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-43.rst.html" id="the-sign-of-the-red-dovecot" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=20633 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-44.rst.html" id="the-utility-of-stovepipes" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=15383 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-45.rst.html" id="a-conjugal-scene" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=17521 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-46.rst.html" id="the-bastion-saint-gervais" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=41584 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-47.rst.html" id="the-council-of-the-musketeers" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=35172 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-48.rst.html" id="a-family-affair" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=20095 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-49.rst.html" id="fatality" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=19051 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-50.rst.html" id="chat-between-brother-and-sister" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=26703 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-51.rst.html" id="officer" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=17834 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-52.rst.html" id="captivity-the-first-day" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=18218 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-53.rst.html" id="captivity-the-second-day" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=22034 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-54.rst.html" id="captivity-the-third-day" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=21030 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-55.rst.html" id="captivity-the-fourth-day" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=36174 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-56.rst.html" id="captivity-the-fifth-day" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=16938 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-57.rst.html" id="means-for-classical-tragedy" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=46018 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-58.rst.html" id="escape" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=13995 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-59.rst.html" id="in-france" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=31993 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-60.rst.html" id="the-carmelite-convent-at-bethune" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=14041 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-61.rst.html" id="two-varieties-of-demons" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=34525 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-62.rst.html" id="the-drop-of-water" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=14388 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-63.rst.html" id="the-man-in-the-red-cloak" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=19652 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-64.rst.html" id="trial" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=11975 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-65.rst.html" id="execution" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=22722 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-66.rst.html" id="conclusion" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=4925 Split on div.section-->
+    <item href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-67.rst.html" id="epilogue" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="dl-header" linear="yes"/>
+    <itemref idref="id1" linear="yes"/>
+    <itemref idref="author-s-preface" linear="yes"/>
+    <itemref idref="the-three-presents-of-d-artagnan-the-elder" linear="yes"/>
+    <itemref idref="the-antechamber-of-m-de-treville" linear="yes"/>
+    <itemref idref="the-audience" linear="yes"/>
+    <itemref idref="the-shoulder-of-athos-the-baldric-of-porthos-and-the-handkerchief-of-aramis" linear="yes"/>
+    <itemref idref="the-king-s-musketeers-and-the-cardinal-s-guards" linear="yes"/>
+    <itemref idref="his-majesty-king-louis-xiii" linear="yes"/>
+    <itemref idref="concerning-a-court-intrigue" linear="yes"/>
+    <itemref idref="d-artagnan-shows-himself" linear="yes"/>
+    <itemref idref="a-mousetrap-in-the-seventeenth-century" linear="yes"/>
+    <itemref idref="in-which-the-plot-thickens" linear="yes"/>
+    <itemref idref="george-villiers-duke-of-buckingham" linear="yes"/>
+    <itemref idref="monsieur-bonacieux" linear="yes"/>
+    <itemref idref="the-man-of-meung" linear="yes"/>
+    <itemref idref="men-of-the-robe-and-men-of-the-sword" linear="yes"/>
+    <itemref idref="in-which-m-seguier-keeper-of-the-seals-looks-more-than-once-for-the-bell" linear="yes"/>
+    <itemref idref="bonacieux-at-home" linear="yes"/>
+    <itemref idref="lover-and-husband" linear="yes"/>
+    <itemref idref="plan-of-campaign" linear="yes"/>
+    <itemref idref="the-journey" linear="yes"/>
+    <itemref idref="the-countess-de-winter" linear="yes"/>
+    <itemref idref="the-ballet-of-la-merlaison" linear="yes"/>
+    <itemref idref="the-rendezvous" linear="yes"/>
+    <itemref idref="the-pavilion" linear="yes"/>
+    <itemref idref="porthos" linear="yes"/>
+    <itemref idref="aramis-and-his-thesis" linear="yes"/>
+    <itemref idref="the-wife-of-athos" linear="yes"/>
+    <itemref idref="the-return" linear="yes"/>
+    <itemref idref="hunting-for-the-equipments" linear="yes"/>
+    <itemref idref="d-artagnan-and-the-englishman" linear="yes"/>
+    <itemref idref="english-and-french" linear="yes"/>
+    <itemref idref="a-procurator-s-dinner" linear="yes"/>
+    <itemref idref="soubrette-and-mistress" linear="yes"/>
+    <itemref idref="a-gascon-a-match-for-cupid" linear="yes"/>
+    <itemref idref="dream-of-vengeance" linear="yes"/>
+    <itemref idref="milady-s-secret" linear="yes"/>
+    <itemref idref="how-without-incommding-himself-athos-procures-his-equipment" linear="yes"/>
+    <itemref idref="a-vision" linear="yes"/>
+    <itemref idref="a-terrible-vision" linear="yes"/>
+    <itemref idref="the-seige-of-la-rochelle" linear="yes"/>
+    <itemref idref="the-anjou-wine" linear="yes"/>
+    <itemref idref="the-sign-of-the-red-dovecot" linear="yes"/>
+    <itemref idref="the-utility-of-stovepipes" linear="yes"/>
+    <itemref idref="a-conjugal-scene" linear="yes"/>
+    <itemref idref="the-bastion-saint-gervais" linear="yes"/>
+    <itemref idref="the-council-of-the-musketeers" linear="yes"/>
+    <itemref idref="a-family-affair" linear="yes"/>
+    <itemref idref="fatality" linear="yes"/>
+    <itemref idref="chat-between-brother-and-sister" linear="yes"/>
+    <itemref idref="officer" linear="yes"/>
+    <itemref idref="captivity-the-first-day" linear="yes"/>
+    <itemref idref="captivity-the-second-day" linear="yes"/>
+    <itemref idref="captivity-the-third-day" linear="yes"/>
+    <itemref idref="captivity-the-fourth-day" linear="yes"/>
+    <itemref idref="captivity-the-fifth-day" linear="yes"/>
+    <itemref idref="means-for-classical-tragedy" linear="yes"/>
+    <itemref idref="escape" linear="yes"/>
+    <itemref idref="in-france" linear="yes"/>
+    <itemref idref="the-carmelite-convent-at-bethune" linear="yes"/>
+    <itemref idref="two-varieties-of-demons" linear="yes"/>
+    <itemref idref="the-drop-of-water" linear="yes"/>
+    <itemref idref="the-man-in-the-red-cloak" linear="yes"/>
+    <itemref idref="trial" linear="yes"/>
+    <itemref idref="execution" linear="yes"/>
+    <itemref idref="conclusion" linear="yes"/>
+    <itemref idref="epilogue" linear="yes"/>
+  </spine>
+  <guide>
+    <reference href="@public@vhost@g@gutenberg@html@files@1257@1257-rst@1257-rst-1.rst.html#id1" type="toc" title="CONTENTS"/>
+  </guide>
+</package>

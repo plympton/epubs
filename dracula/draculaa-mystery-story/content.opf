@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier id="id">draculaa-mystery-story</dc:identifier>
+    <dc:creator opf:file-as="Stoker, Bram">Bram Stoker</dc:creator>
+    <dc:title>Dracula</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Vampires -- Fiction</dc:subject>
+    <dc:subject>Horror tales</dc:subject>
+    <dc:subject>Dracula, Count (Fictitious character) -- Fiction</dc:subject>
+    <dc:subject>Transylvania (Romania) -- Fiction</dc:subject>
+    <dc:subject>Whitby (England) -- Fiction</dc:subject>
+    <dc:subject>Epistolary fiction</dc:subject>
+    <dc:subject>Gothic fiction</dc:subject>
+    <dc:date opf:event="publication">1995-10-01</dc:date>
+    <dc:date opf:event="conversion">2013-05-23 19:56:39 GMT</dc:date>
+  </metadata>
+  <manifest>
+    <item href="0.css" id="item1" media-type="text/css"/>
+    <item href="draculaa-mystery-story-0.html" id="item2" media-type="application/xhtml+xml"/>
+    <item href="draculaa-mystery-story-1.html" id="item3" media-type="application/xhtml+xml"/>
+    <item href="draculaa-mystery-story-2.html" id="item4" media-type="application/xhtml+xml"/>
+    <item href="draculaa-mystery-story-3.html" id="item5" media-type="application/xhtml+xml"/>
+    <item href="draculaa-mystery-story-4.html" id="item6" media-type="application/xhtml+xml"/>
+    <item href="draculaa-mystery-story-5.html" id="item7" media-type="application/xhtml+xml"/>
+    <item href="draculaa-mystery-story-6.html" id="item8" media-type="application/xhtml+xml"/>
+    <item href="draculaa-mystery-story-7.html" id="item9" media-type="application/xhtml+xml"/>
+    <item href="draculaa-mystery-story-8.html" id="item10" media-type="application/xhtml+xml"/>
+    <item href="draculaa-mystery-story-9.html" id="item11" media-type="application/xhtml+xml"/>
+    <item href="draculaa-mystery-story-10.html" id="item12" media-type="application/xhtml+xml"/>
+    <item href="draculaa-mystery-story-11.html" id="item13" media-type="application/xhtml+xml"/>
+    <item href="draculaa-mystery-story-12.html" id="item14" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="item2" linear="yes"/>
+    <itemref idref="item3" linear="yes"/>
+    <itemref idref="item4" linear="yes"/>
+    <itemref idref="item5" linear="yes"/>
+    <itemref idref="item6" linear="yes"/>
+    <itemref idref="item7" linear="yes"/>
+    <itemref idref="item8" linear="yes"/>
+    <itemref idref="item9" linear="yes"/>
+    <itemref idref="item10" linear="yes"/>
+    <itemref idref="item11" linear="yes"/>
+    <itemref idref="item12" linear="yes"/>
+    <itemref idref="item13" linear="yes"/>
+    <itemref idref="item14" linear="yes"/>
+  </spine>
+  <guide>
+    <reference href="draculaa-mystery-story-0.html#pgepubid00004" type="toc" title="TABLE OF CONTENTS"/>
+  </guide>
+</package>

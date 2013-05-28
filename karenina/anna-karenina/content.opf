@@ -1,0 +1,521 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier id="id">anna-karenina</dc:identifier>
+    <dc:creator opf:file-as="Tolstoy, Leo">Leo Tolstoy</dc:creator>
+    <dc:contributor opf:file-as="Garnett, Constance" opf:role="trl">Constance Garnett</dc:contributor>
+    <dc:title>Anna Karenina</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Married women -- Fiction</dc:subject>
+    <dc:subject>Adultery -- Fiction</dc:subject>
+    <dc:subject>Russia -- Fiction</dc:subject>
+    <dc:subject>Didactic fiction</dc:subject>
+    <dc:subject>Love stories</dc:subject>
+    <dc:date opf:event="publication">1998-07-01</dc:date>
+    <dc:date opf:event="conversion">2013-05-24 23:38:47 GMT</dc:date>
+  </metadata>
+  <manifest>
+    <item href="0.css" id="item1" media-type="text/css"/>
+    <item href="anna-karenina-0.html" id="item2" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-1.html" id="item3" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-2.html" id="item4" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-3.html" id="item5" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-4.html" id="item6" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-5.html" id="item7" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-6.html" id="item8" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-7.html" id="item9" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-8.html" id="item10" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-9.html" id="item11" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-10.html" id="item12" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-11.html" id="item13" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-12.html" id="item14" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-13.html" id="item15" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-14.html" id="item16" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-15.html" id="item17" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-16.html" id="item18" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-17.html" id="item19" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-18.html" id="item20" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-19.html" id="item21" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-20.html" id="item22" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-21.html" id="item23" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-22.html" id="item24" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-23.html" id="item25" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-24.html" id="item26" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-25.html" id="item27" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-26.html" id="item28" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-27.html" id="item29" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-28.html" id="item30" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-29.html" id="item31" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-30.html" id="item32" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-31.html" id="item33" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-32.html" id="item34" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-33.html" id="item35" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-34.html" id="item36" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-35.html" id="item37" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-36.html" id="item38" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-37.html" id="item39" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-38.html" id="item40" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-39.html" id="item41" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-40.html" id="item42" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-41.html" id="item43" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-42.html" id="item44" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-43.html" id="item45" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-44.html" id="item46" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-45.html" id="item47" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-46.html" id="item48" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-47.html" id="item49" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-48.html" id="item50" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-49.html" id="item51" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-50.html" id="item52" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-51.html" id="item53" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-52.html" id="item54" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-53.html" id="item55" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-54.html" id="item56" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-55.html" id="item57" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-56.html" id="item58" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-57.html" id="item59" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-58.html" id="item60" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-59.html" id="item61" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-60.html" id="item62" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-61.html" id="item63" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-62.html" id="item64" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-63.html" id="item65" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-64.html" id="item66" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-65.html" id="item67" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-66.html" id="item68" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-67.html" id="item69" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-68.html" id="item70" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-69.html" id="item71" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-70.html" id="item72" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-71.html" id="item73" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-72.html" id="item74" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-73.html" id="item75" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-74.html" id="item76" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-75.html" id="item77" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-76.html" id="item78" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-77.html" id="item79" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-78.html" id="item80" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-79.html" id="item81" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-80.html" id="item82" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-81.html" id="item83" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-82.html" id="item84" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-83.html" id="item85" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-84.html" id="item86" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-85.html" id="item87" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-86.html" id="item88" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-87.html" id="item89" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-88.html" id="item90" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-89.html" id="item91" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-90.html" id="item92" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-91.html" id="item93" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-92.html" id="item94" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-93.html" id="item95" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-94.html" id="item96" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-95.html" id="item97" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-96.html" id="item98" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-97.html" id="item99" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-98.html" id="item100" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-99.html" id="item101" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-100.html" id="item102" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-101.html" id="item103" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-102.html" id="item104" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-103.html" id="item105" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-104.html" id="item106" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-105.html" id="item107" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-106.html" id="item108" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-107.html" id="item109" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-108.html" id="item110" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-109.html" id="item111" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-110.html" id="item112" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-111.html" id="item113" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-112.html" id="item114" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-113.html" id="item115" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-114.html" id="item116" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-115.html" id="item117" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-116.html" id="item118" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-117.html" id="item119" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-118.html" id="item120" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-119.html" id="item121" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-120.html" id="item122" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-121.html" id="item123" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-122.html" id="item124" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-123.html" id="item125" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-124.html" id="item126" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-125.html" id="item127" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-126.html" id="item128" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-127.html" id="item129" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-128.html" id="item130" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-129.html" id="item131" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-130.html" id="item132" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-131.html" id="item133" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-132.html" id="item134" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-133.html" id="item135" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-134.html" id="item136" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-135.html" id="item137" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-136.html" id="item138" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-137.html" id="item139" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-138.html" id="item140" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-139.html" id="item141" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-140.html" id="item142" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-141.html" id="item143" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-142.html" id="item144" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-143.html" id="item145" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-144.html" id="item146" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-145.html" id="item147" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-146.html" id="item148" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-147.html" id="item149" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-148.html" id="item150" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-149.html" id="item151" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-150.html" id="item152" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-151.html" id="item153" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-152.html" id="item154" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-153.html" id="item155" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-154.html" id="item156" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-155.html" id="item157" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-156.html" id="item158" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-157.html" id="item159" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-158.html" id="item160" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-159.html" id="item161" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-160.html" id="item162" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-161.html" id="item163" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-162.html" id="item164" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-163.html" id="item165" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-164.html" id="item166" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-165.html" id="item167" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-166.html" id="item168" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-167.html" id="item169" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-168.html" id="item170" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-169.html" id="item171" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-170.html" id="item172" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-171.html" id="item173" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-172.html" id="item174" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-173.html" id="item175" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-174.html" id="item176" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-175.html" id="item177" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-176.html" id="item178" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-177.html" id="item179" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-178.html" id="item180" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-179.html" id="item181" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-180.html" id="item182" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-181.html" id="item183" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-182.html" id="item184" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-183.html" id="item185" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-184.html" id="item186" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-185.html" id="item187" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-186.html" id="item188" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-187.html" id="item189" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-188.html" id="item190" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-189.html" id="item191" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-190.html" id="item192" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-191.html" id="item193" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-192.html" id="item194" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-193.html" id="item195" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-194.html" id="item196" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-195.html" id="item197" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-196.html" id="item198" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-197.html" id="item199" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-198.html" id="item200" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-199.html" id="item201" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-200.html" id="item202" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-201.html" id="item203" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-202.html" id="item204" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-203.html" id="item205" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-204.html" id="item206" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-205.html" id="item207" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-206.html" id="item208" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-207.html" id="item209" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-208.html" id="item210" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-209.html" id="item211" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-210.html" id="item212" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-211.html" id="item213" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-212.html" id="item214" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-213.html" id="item215" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-214.html" id="item216" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-215.html" id="item217" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-216.html" id="item218" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-217.html" id="item219" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-218.html" id="item220" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-219.html" id="item221" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-220.html" id="item222" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-221.html" id="item223" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-222.html" id="item224" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-223.html" id="item225" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-224.html" id="item226" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-225.html" id="item227" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-226.html" id="item228" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-227.html" id="item229" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-228.html" id="item230" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-229.html" id="item231" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-230.html" id="item232" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-231.html" id="item233" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-232.html" id="item234" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-233.html" id="item235" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-234.html" id="item236" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-235.html" id="item237" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-236.html" id="item238" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-237.html" id="item239" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-238.html" id="item240" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-239.html" id="item241" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-240.html" id="item242" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-241.html" id="item243" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-242.html" id="item244" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-243.html" id="item245" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-244.html" id="item246" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-245.html" id="item247" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-246.html" id="item248" media-type="application/xhtml+xml"/>
+    <item href="anna-karenina-247.html" id="item249" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="item2" linear="yes"/>
+    <itemref idref="item3" linear="yes"/>
+    <itemref idref="item4" linear="yes"/>
+    <itemref idref="item5" linear="yes"/>
+    <itemref idref="item6" linear="yes"/>
+    <itemref idref="item7" linear="yes"/>
+    <itemref idref="item8" linear="yes"/>
+    <itemref idref="item9" linear="yes"/>
+    <itemref idref="item10" linear="yes"/>
+    <itemref idref="item11" linear="yes"/>
+    <itemref idref="item12" linear="yes"/>
+    <itemref idref="item13" linear="yes"/>
+    <itemref idref="item14" linear="yes"/>
+    <itemref idref="item15" linear="yes"/>
+    <itemref idref="item16" linear="yes"/>
+    <itemref idref="item17" linear="yes"/>
+    <itemref idref="item18" linear="yes"/>
+    <itemref idref="item19" linear="yes"/>
+    <itemref idref="item20" linear="yes"/>
+    <itemref idref="item21" linear="yes"/>
+    <itemref idref="item22" linear="yes"/>
+    <itemref idref="item23" linear="yes"/>
+    <itemref idref="item24" linear="yes"/>
+    <itemref idref="item25" linear="yes"/>
+    <itemref idref="item26" linear="yes"/>
+    <itemref idref="item27" linear="yes"/>
+    <itemref idref="item28" linear="yes"/>
+    <itemref idref="item29" linear="yes"/>
+    <itemref idref="item30" linear="yes"/>
+    <itemref idref="item31" linear="yes"/>
+    <itemref idref="item32" linear="yes"/>
+    <itemref idref="item33" linear="yes"/>
+    <itemref idref="item34" linear="yes"/>
+    <itemref idref="item35" linear="yes"/>
+    <itemref idref="item36" linear="yes"/>
+    <itemref idref="item37" linear="yes"/>
+    <itemref idref="item38" linear="yes"/>
+    <itemref idref="item39" linear="yes"/>
+    <itemref idref="item40" linear="yes"/>
+    <itemref idref="item41" linear="yes"/>
+    <itemref idref="item42" linear="yes"/>
+    <itemref idref="item43" linear="yes"/>
+    <itemref idref="item44" linear="yes"/>
+    <itemref idref="item45" linear="yes"/>
+    <itemref idref="item46" linear="yes"/>
+    <itemref idref="item47" linear="yes"/>
+    <itemref idref="item48" linear="yes"/>
+    <itemref idref="item49" linear="yes"/>
+    <itemref idref="item50" linear="yes"/>
+    <itemref idref="item51" linear="yes"/>
+    <itemref idref="item52" linear="yes"/>
+    <itemref idref="item53" linear="yes"/>
+    <itemref idref="item54" linear="yes"/>
+    <itemref idref="item55" linear="yes"/>
+    <itemref idref="item56" linear="yes"/>
+    <itemref idref="item57" linear="yes"/>
+    <itemref idref="item58" linear="yes"/>
+    <itemref idref="item59" linear="yes"/>
+    <itemref idref="item60" linear="yes"/>
+    <itemref idref="item61" linear="yes"/>
+    <itemref idref="item62" linear="yes"/>
+    <itemref idref="item63" linear="yes"/>
+    <itemref idref="item64" linear="yes"/>
+    <itemref idref="item65" linear="yes"/>
+    <itemref idref="item66" linear="yes"/>
+    <itemref idref="item67" linear="yes"/>
+    <itemref idref="item68" linear="yes"/>
+    <itemref idref="item69" linear="yes"/>
+    <itemref idref="item70" linear="yes"/>
+    <itemref idref="item71" linear="yes"/>
+    <itemref idref="item72" linear="yes"/>
+    <itemref idref="item73" linear="yes"/>
+    <itemref idref="item74" linear="yes"/>
+    <itemref idref="item75" linear="yes"/>
+    <itemref idref="item76" linear="yes"/>
+    <itemref idref="item77" linear="yes"/>
+    <itemref idref="item78" linear="yes"/>
+    <itemref idref="item79" linear="yes"/>
+    <itemref idref="item80" linear="yes"/>
+    <itemref idref="item81" linear="yes"/>
+    <itemref idref="item82" linear="yes"/>
+    <itemref idref="item83" linear="yes"/>
+    <itemref idref="item84" linear="yes"/>
+    <itemref idref="item85" linear="yes"/>
+    <itemref idref="item86" linear="yes"/>
+    <itemref idref="item87" linear="yes"/>
+    <itemref idref="item88" linear="yes"/>
+    <itemref idref="item89" linear="yes"/>
+    <itemref idref="item90" linear="yes"/>
+    <itemref idref="item91" linear="yes"/>
+    <itemref idref="item92" linear="yes"/>
+    <itemref idref="item93" linear="yes"/>
+    <itemref idref="item94" linear="yes"/>
+    <itemref idref="item95" linear="yes"/>
+    <itemref idref="item96" linear="yes"/>
+    <itemref idref="item97" linear="yes"/>
+    <itemref idref="item98" linear="yes"/>
+    <itemref idref="item99" linear="yes"/>
+    <itemref idref="item100" linear="yes"/>
+    <itemref idref="item101" linear="yes"/>
+    <itemref idref="item102" linear="yes"/>
+    <itemref idref="item103" linear="yes"/>
+    <itemref idref="item104" linear="yes"/>
+    <itemref idref="item105" linear="yes"/>
+    <itemref idref="item106" linear="yes"/>
+    <itemref idref="item107" linear="yes"/>
+    <itemref idref="item108" linear="yes"/>
+    <itemref idref="item109" linear="yes"/>
+    <itemref idref="item110" linear="yes"/>
+    <itemref idref="item111" linear="yes"/>
+    <itemref idref="item112" linear="yes"/>
+    <itemref idref="item113" linear="yes"/>
+    <itemref idref="item114" linear="yes"/>
+    <itemref idref="item115" linear="yes"/>
+    <itemref idref="item116" linear="yes"/>
+    <itemref idref="item117" linear="yes"/>
+    <itemref idref="item118" linear="yes"/>
+    <itemref idref="item119" linear="yes"/>
+    <itemref idref="item120" linear="yes"/>
+    <itemref idref="item121" linear="yes"/>
+    <itemref idref="item122" linear="yes"/>
+    <itemref idref="item123" linear="yes"/>
+    <itemref idref="item124" linear="yes"/>
+    <itemref idref="item125" linear="yes"/>
+    <itemref idref="item126" linear="yes"/>
+    <itemref idref="item127" linear="yes"/>
+    <itemref idref="item128" linear="yes"/>
+    <itemref idref="item129" linear="yes"/>
+    <itemref idref="item130" linear="yes"/>
+    <itemref idref="item131" linear="yes"/>
+    <itemref idref="item132" linear="yes"/>
+    <itemref idref="item133" linear="yes"/>
+    <itemref idref="item134" linear="yes"/>
+    <itemref idref="item135" linear="yes"/>
+    <itemref idref="item136" linear="yes"/>
+    <itemref idref="item137" linear="yes"/>
+    <itemref idref="item138" linear="yes"/>
+    <itemref idref="item139" linear="yes"/>
+    <itemref idref="item140" linear="yes"/>
+    <itemref idref="item141" linear="yes"/>
+    <itemref idref="item142" linear="yes"/>
+    <itemref idref="item143" linear="yes"/>
+    <itemref idref="item144" linear="yes"/>
+    <itemref idref="item145" linear="yes"/>
+    <itemref idref="item146" linear="yes"/>
+    <itemref idref="item147" linear="yes"/>
+    <itemref idref="item148" linear="yes"/>
+    <itemref idref="item149" linear="yes"/>
+    <itemref idref="item150" linear="yes"/>
+    <itemref idref="item151" linear="yes"/>
+    <itemref idref="item152" linear="yes"/>
+    <itemref idref="item153" linear="yes"/>
+    <itemref idref="item154" linear="yes"/>
+    <itemref idref="item155" linear="yes"/>
+    <itemref idref="item156" linear="yes"/>
+    <itemref idref="item157" linear="yes"/>
+    <itemref idref="item158" linear="yes"/>
+    <itemref idref="item159" linear="yes"/>
+    <itemref idref="item160" linear="yes"/>
+    <itemref idref="item161" linear="yes"/>
+    <itemref idref="item162" linear="yes"/>
+    <itemref idref="item163" linear="yes"/>
+    <itemref idref="item164" linear="yes"/>
+    <itemref idref="item165" linear="yes"/>
+    <itemref idref="item166" linear="yes"/>
+    <itemref idref="item167" linear="yes"/>
+    <itemref idref="item168" linear="yes"/>
+    <itemref idref="item169" linear="yes"/>
+    <itemref idref="item170" linear="yes"/>
+    <itemref idref="item171" linear="yes"/>
+    <itemref idref="item172" linear="yes"/>
+    <itemref idref="item173" linear="yes"/>
+    <itemref idref="item174" linear="yes"/>
+    <itemref idref="item175" linear="yes"/>
+    <itemref idref="item176" linear="yes"/>
+    <itemref idref="item177" linear="yes"/>
+    <itemref idref="item178" linear="yes"/>
+    <itemref idref="item179" linear="yes"/>
+    <itemref idref="item180" linear="yes"/>
+    <itemref idref="item181" linear="yes"/>
+    <itemref idref="item182" linear="yes"/>
+    <itemref idref="item183" linear="yes"/>
+    <itemref idref="item184" linear="yes"/>
+    <itemref idref="item185" linear="yes"/>
+    <itemref idref="item186" linear="yes"/>
+    <itemref idref="item187" linear="yes"/>
+    <itemref idref="item188" linear="yes"/>
+    <itemref idref="item189" linear="yes"/>
+    <itemref idref="item190" linear="yes"/>
+    <itemref idref="item191" linear="yes"/>
+    <itemref idref="item192" linear="yes"/>
+    <itemref idref="item193" linear="yes"/>
+    <itemref idref="item194" linear="yes"/>
+    <itemref idref="item195" linear="yes"/>
+    <itemref idref="item196" linear="yes"/>
+    <itemref idref="item197" linear="yes"/>
+    <itemref idref="item198" linear="yes"/>
+    <itemref idref="item199" linear="yes"/>
+    <itemref idref="item200" linear="yes"/>
+    <itemref idref="item201" linear="yes"/>
+    <itemref idref="item202" linear="yes"/>
+    <itemref idref="item203" linear="yes"/>
+    <itemref idref="item204" linear="yes"/>
+    <itemref idref="item205" linear="yes"/>
+    <itemref idref="item206" linear="yes"/>
+    <itemref idref="item207" linear="yes"/>
+    <itemref idref="item208" linear="yes"/>
+    <itemref idref="item209" linear="yes"/>
+    <itemref idref="item210" linear="yes"/>
+    <itemref idref="item211" linear="yes"/>
+    <itemref idref="item212" linear="yes"/>
+    <itemref idref="item213" linear="yes"/>
+    <itemref idref="item214" linear="yes"/>
+    <itemref idref="item215" linear="yes"/>
+    <itemref idref="item216" linear="yes"/>
+    <itemref idref="item217" linear="yes"/>
+    <itemref idref="item218" linear="yes"/>
+    <itemref idref="item219" linear="yes"/>
+    <itemref idref="item220" linear="yes"/>
+    <itemref idref="item221" linear="yes"/>
+    <itemref idref="item222" linear="yes"/>
+    <itemref idref="item223" linear="yes"/>
+    <itemref idref="item224" linear="yes"/>
+    <itemref idref="item225" linear="yes"/>
+    <itemref idref="item226" linear="yes"/>
+    <itemref idref="item227" linear="yes"/>
+    <itemref idref="item228" linear="yes"/>
+    <itemref idref="item229" linear="yes"/>
+    <itemref idref="item230" linear="yes"/>
+    <itemref idref="item231" linear="yes"/>
+    <itemref idref="item232" linear="yes"/>
+    <itemref idref="item233" linear="yes"/>
+    <itemref idref="item234" linear="yes"/>
+    <itemref idref="item235" linear="yes"/>
+    <itemref idref="item236" linear="yes"/>
+    <itemref idref="item237" linear="yes"/>
+    <itemref idref="item238" linear="yes"/>
+    <itemref idref="item239" linear="yes"/>
+    <itemref idref="item240" linear="yes"/>
+    <itemref idref="item241" linear="yes"/>
+    <itemref idref="item242" linear="yes"/>
+    <itemref idref="item243" linear="yes"/>
+    <itemref idref="item244" linear="yes"/>
+    <itemref idref="item245" linear="yes"/>
+    <itemref idref="item246" linear="yes"/>
+    <itemref idref="item247" linear="yes"/>
+    <itemref idref="item248" linear="yes"/>
+    <itemref idref="item249" linear="yes"/>
+  </spine>
+</package>
