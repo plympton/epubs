@@ -1,0 +1,80 @@
+@charset "utf-8";
+/**/
+body {
+    color: Black;
+    background: White;
+    margin-right: 10%;
+    margin-left: 10%;
+    font-size: medium;
+    font-family: Georgia, serif;
+    text-align: justify
+    }
+/* Use H1 for Title and H3 for Author on Title Page*/
+h1 {
+	font-size: large;
+	font-family: Geneva, sans-serif;
+	font-style: normal;
+	text-align: center;
+	border-top-style:solid;
+	page-break-before: always;
+	padding-top: 3em
+	}
+/* Use H2 for Chapter Headings*/
+h2 {
+	font-size: large;
+	font-family: Geneva, sans-serif;
+	font-style: normal;
+	text-align: center;
+    page-break-before: always;
+    padding-top: 5em;
+	padding-bottom: 2em
+	}
+h3 {
+	font-size: medium;
+	font-family: Geneva, sans-serif;
+	font-style: normal;
+	text-align: center;
+	border-bottom-style:solid;
+	padding-bottom: 3em;
+	}
+/* Use H4 for DailyLit Classics on Title Page*/	
+h4 {
+	font-size: medium;
+	font-family: Geneva, sans-serif;
+	font-style: normal;
+	text-align: center;
+	padding-top: 2em;
+	padding-bottom: 3em;
+	page-break-after: always
+	}
+/* Use H5 for Contents*/
+h5 {
+	font-size: medium;
+	font-family: Geneva, sans-serif;
+	font-style: normal;
+	text-align: center;
+	padding-top: 5em;
+	page-break-before: always
+	}
+pre {
+    font-size: medium;
+    font-family: Georgia, serif
+    }
+p {
+    text-indent: 4%
+    }
+p.noindent {
+    text-indent: 0%
+    }
+p.poem {
+    text-indent: 0%;
+    margin-left: 10%;
+    font-size: small
+    }
+p.finis {
+    text-align: center;
+    text-indent: 0%;
+    margin-left: 0%;
+    margin-right: 0%
+    }
+/**/

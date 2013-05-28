@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier id="id">crime-and-punishment</dc:identifier>
+    <dc:creator opf:file-as="Dostoyevsky, Fyodor">Fyodor Dostoyevsky</dc:creator>
+    <dc:contributor opf:file-as="Garnett, Constance" opf:role="trl">Constance Garnett</dc:contributor>
+    <dc:title>Crime and Punishment</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Detective and mystery stories</dc:subject>
+    <dc:subject>Russia -- Fiction</dc:subject>
+    <dc:subject>Psychological fiction</dc:subject>
+    <dc:subject>Saint Petersburg (Russia) -- Fiction</dc:subject>
+    <dc:date opf:event="publication">2006-03-28</dc:date>
+    <dc:date opf:event="conversion">2013-05-24 18:17:42 GMT</dc:date>
+  </metadata>
+  <manifest>
+  	<item href="cover.html" id="cover" media-type="application/xhtml+xml"/>
+	<item href="cover.jpg" id="cover-image" media-type="image/jpeg"/>
+    <item href="0.css" id="item1" media-type="text/css"/>
+    <item href="crime-and-punishment-0.html" id="item2" media-type="application/xhtml+xml"/>
+    <item href="crime-and-punishment-1.html" id="item3" media-type="application/xhtml+xml"/>
+    <item href="crime-and-punishment-2.html" id="item4" media-type="application/xhtml+xml"/>
+    <item href="crime-and-punishment-3.html" id="item5" media-type="application/xhtml+xml"/>
+    <item href="crime-and-punishment-4.html" id="item6" media-type="application/xhtml+xml"/>
+    <item href="crime-and-punishment-5.html" id="item7" media-type="application/xhtml+xml"/>
+    <item href="crime-and-punishment-6.html" id="item8" media-type="application/xhtml+xml"/>
+    <item href="crime-and-punishment-7.html" id="item9" media-type="application/xhtml+xml"/>
+    <item href="crime-and-punishment-8.html" id="item10" media-type="application/xhtml+xml"/>
+    <item href="crime-and-punishment-9.html" id="item11" media-type="application/xhtml+xml"/>
+    <item href="crime-and-punishment-10.html" id="item12" media-type="application/xhtml+xml"/>
+    <item href="crime-and-punishment-11.html" id="item13" media-type="application/xhtml+xml"/>
+    <item href="crime-and-punishment-12.html" id="item14" media-type="application/xhtml+xml"/>
+    <item href="crime-and-punishment-13.html" id="item15" media-type="application/xhtml+xml"/>
+    <item href="crime-and-punishment-14.html" id="item16" media-type="application/xhtml+xml"/>
+    <item href="crime-and-punishment-15.html" id="item17" media-type="application/xhtml+xml"/>
+    <item href="crime-and-punishment-16.html" id="item18" media-type="application/xhtml+xml"/>
+    <item href="crime-and-punishment-17.html" id="item19" media-type="application/xhtml+xml"/>
+    <item href="crime-and-punishment-18.html" id="item20" media-type="application/xhtml+xml"/>
+    <item href="crime-and-punishment-19.html" id="item21" media-type="application/xhtml+xml"/>
+    <item href="crime-and-punishment-20.html" id="item22" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="item2" linear="yes"/>
+    <itemref idref="item3" linear="yes"/>
+    <itemref idref="item4" linear="yes"/>
+    <itemref idref="item5" linear="yes"/>
+    <itemref idref="item6" linear="yes"/>
+    <itemref idref="item7" linear="yes"/>
+    <itemref idref="item8" linear="yes"/>
+    <itemref idref="item9" linear="yes"/>
+    <itemref idref="item10" linear="yes"/>
+    <itemref idref="item11" linear="yes"/>
+    <itemref idref="item12" linear="yes"/>
+    <itemref idref="item13" linear="yes"/>
+    <itemref idref="item14" linear="yes"/>
+    <itemref idref="item15" linear="yes"/>
+    <itemref idref="item16" linear="yes"/>
+    <itemref idref="item17" linear="yes"/>
+    <itemref idref="item18" linear="yes"/>
+    <itemref idref="item19" linear="yes"/>
+    <itemref idref="item20" linear="yes"/>
+    <itemref idref="item21" linear="yes"/>
+    <itemref idref="item22" linear="yes"/>
+  </spine>
+ <guide>
+   <reference href="cover.html" type="cover" title="Cover"/>
+ </guide>
+</package>

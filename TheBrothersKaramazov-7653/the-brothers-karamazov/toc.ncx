@@ -1,0 +1,706 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="the-brothers-karamazov" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Brothers Karamazov</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src="the-brothers-karamazov-0.html#dlepubid00000"/>
+    </navPoint>
+    <navPoint id="np-2" playOrder="2">
+      <navLabel>
+        <text>Part I</text>
+      </navLabel>
+      <content src="the-brothers-karamazov-2.html#dlepubid00001"/>
+      <navPoint id="np-3" playOrder="3">
+        <navLabel>
+          <text>Book I. The History Of A Family</text>
+        </navLabel>
+        <content src="the-brothers-karamazov-2.html#dlepubid00002"/>
+        <navPoint id="np-4" playOrder="4">
+          <navLabel>
+            <text>Chapter I. Fyodor Pavlovitch Karamazov</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-2.html#dlepubid00003"/>
+        </navPoint>
+        <navPoint id="np-5" playOrder="5">
+          <navLabel>
+            <text>Chapter II. He Gets Rid Of His Eldest Son</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-2.html#dlepubid00004"/>
+        </navPoint>
+        <navPoint id="np-6" playOrder="6">
+          <navLabel>
+            <text>Chapter III. The Second Marriage And The Second Family</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-2.html#dlepubid00005"/>
+        </navPoint>
+        <navPoint id="np-7" playOrder="7">
+          <navLabel>
+            <text>Chapter IV. The Third Son, Alyosha</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-2.html#dlepubid00006"/>
+        </navPoint>
+        <navPoint id="np-8" playOrder="8">
+          <navLabel>
+            <text>Chapter V. Elders</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-2.html#dlepubid00007"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-9" playOrder="9">
+        <navLabel>
+          <text>Book II. An Unfortunate Gathering</text>
+        </navLabel>
+        <content src="the-brothers-karamazov-3.html#dlepubid00008"/>
+        <navPoint id="np-10" playOrder="10">
+          <navLabel>
+            <text>Chapter I. They Arrive At The Monastery</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-3.html#dlepubid00009"/>
+        </navPoint>
+        <navPoint id="np-11" playOrder="11">
+          <navLabel>
+            <text>Chapter II. The Old Buffoon</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-3.html#dlepubid00010"/>
+        </navPoint>
+        <navPoint id="np-12" playOrder="12">
+          <navLabel>
+            <text>Chapter III. Peasant Women Who Have Faith</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-3.html#dlepubid00011"/>
+        </navPoint>
+        <navPoint id="np-13" playOrder="13">
+          <navLabel>
+            <text>Chapter IV. A Lady Of Little Faith</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-4.html#dlepubid00012"/>
+        </navPoint>
+        <navPoint id="np-14" playOrder="14">
+          <navLabel>
+            <text>Chapter V. So Be It! So Be It!</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-4.html#dlepubid00013"/>
+        </navPoint>
+        <navPoint id="np-15" playOrder="15">
+          <navLabel>
+            <text>Chapter VI. Why Is Such A Man Alive?</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-4.html#dlepubid00014"/>
+        </navPoint>
+        <navPoint id="np-16" playOrder="16">
+          <navLabel>
+            <text>Chapter VII. A Young Man Bent On A Career</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-5.html#dlepubid00015"/>
+        </navPoint>
+        <navPoint id="np-17" playOrder="17">
+          <navLabel>
+            <text>Chapter VIII. The Scandalous Scene</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-5.html#dlepubid00016"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-18" playOrder="18">
+        <navLabel>
+          <text>Book III. The Sensualists</text>
+        </navLabel>
+        <content src="the-brothers-karamazov-7.html#dlepubid00017"/>
+        <navPoint id="np-19" playOrder="19">
+          <navLabel>
+            <text>Chapter I. In The Servants' Quarters</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-7.html#dlepubid00018"/>
+        </navPoint>
+        <navPoint id="np-20" playOrder="20">
+          <navLabel>
+            <text>Chapter II. Lizaveta</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-7.html#dlepubid00019"/>
+        </navPoint>
+        <navPoint id="np-21" playOrder="21">
+          <navLabel>
+            <text>Chapter III. The Confession Of A Passionate Heart&#8212;In Verse</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-7.html#dlepubid00020"/>
+        </navPoint>
+        <navPoint id="np-22" playOrder="22">
+          <navLabel>
+            <text>Chapter IV. The Confession Of A Passionate Heart&#8212;In Anecdote</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-8.html#dlepubid00021"/>
+        </navPoint>
+        <navPoint id="np-23" playOrder="23">
+          <navLabel>
+            <text>Chapter V. The Confession Of A Passionate Heart&#8212;"Heels Up"</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-8.html#dlepubid00022"/>
+        </navPoint>
+        <navPoint id="np-24" playOrder="24">
+          <navLabel>
+            <text>Chapter VI. Smerdyakov</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-8.html#dlepubid00023"/>
+        </navPoint>
+        <navPoint id="np-25" playOrder="25">
+          <navLabel>
+            <text>Chapter VII. The Controversy</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-9.html#dlepubid00024"/>
+        </navPoint>
+        <navPoint id="np-26" playOrder="26">
+          <navLabel>
+            <text>Chapter VIII. Over The Brandy</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-9.html#dlepubid00025"/>
+        </navPoint>
+        <navPoint id="np-27" playOrder="27">
+          <navLabel>
+            <text>Chapter IX. The Sensualists</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-9.html#dlepubid00026"/>
+        </navPoint>
+        <navPoint id="np-28" playOrder="28">
+          <navLabel>
+            <text>Chapter X. Both Together</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-10.html#dlepubid00027"/>
+        </navPoint>
+        <navPoint id="np-29" playOrder="29">
+          <navLabel>
+            <text>Chapter XI. Another Reputation Ruined</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-10.html#dlepubid00028"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-30" playOrder="30">
+      <navLabel>
+        <text>Part II</text>
+      </navLabel>
+      <content src="the-brothers-karamazov-12.html#dlepubid00029"/>
+      <navPoint id="np-31" playOrder="31">
+        <navLabel>
+          <text>Book IV. Lacerations</text>
+        </navLabel>
+        <content src="the-brothers-karamazov-13.html#dlepubid00030"/>
+        <navPoint id="np-32" playOrder="32">
+          <navLabel>
+            <text>Chapter I. Father Ferapont</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-13.html#dlepubid00031"/>
+        </navPoint>
+        <navPoint id="np-33" playOrder="33">
+          <navLabel>
+            <text>Chapter II. At His Father's</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-13.html#dlepubid00032"/>
+        </navPoint>
+        <navPoint id="np-34" playOrder="34">
+          <navLabel>
+            <text>Chapter III. A Meeting With The Schoolboys</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-13.html#dlepubid00033"/>
+        </navPoint>
+        <navPoint id="np-35" playOrder="35">
+          <navLabel>
+            <text>Chapter IV. At The Hohlakovs'</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-14.html#dlepubid00034"/>
+        </navPoint>
+        <navPoint id="np-36" playOrder="36">
+          <navLabel>
+            <text>Chapter V. A Laceration In The Drawing-Room</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-14.html#dlepubid00035"/>
+        </navPoint>
+        <navPoint id="np-37" playOrder="37">
+          <navLabel>
+            <text>Chapter VI. A Laceration In The Cottage</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-15.html#dlepubid00036"/>
+        </navPoint>
+        <navPoint id="np-38" playOrder="38">
+          <navLabel>
+            <text>Chapter VII. And In The Open Air</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-15.html#dlepubid00037"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-39" playOrder="39">
+        <navLabel>
+          <text>Book V. Pro And Contra</text>
+        </navLabel>
+        <content src="the-brothers-karamazov-17.html#dlepubid00038"/>
+        <navPoint id="np-40" playOrder="40">
+          <navLabel>
+            <text>Chapter I. The Engagement</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-17.html#dlepubid00039"/>
+        </navPoint>
+        <navPoint id="np-41" playOrder="41">
+          <navLabel>
+            <text>Chapter II. Smerdyakov With A Guitar</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-17.html#dlepubid00040"/>
+        </navPoint>
+        <navPoint id="np-42" playOrder="42">
+          <navLabel>
+            <text>Chapter III. The Brothers Make Friends</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-18.html#dlepubid00041"/>
+        </navPoint>
+        <navPoint id="np-43" playOrder="43">
+          <navLabel>
+            <text>Chapter IV. Rebellion</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-18.html#dlepubid00042"/>
+        </navPoint>
+        <navPoint id="np-44" playOrder="44">
+          <navLabel>
+            <text>Chapter V. The Grand Inquisitor</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-19.html#dlepubid00043"/>
+        </navPoint>
+        <navPoint id="np-45" playOrder="45">
+          <navLabel>
+            <text>Chapter VI. For Awhile A Very Obscure One</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-20.html#dlepubid00044"/>
+        </navPoint>
+        <navPoint id="np-46" playOrder="46">
+          <navLabel>
+            <text>Chapter VII. &#8220;It's Always Worth While Speaking To A Clever Man&#8221;</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-20.html#dlepubid00045"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-47" playOrder="47">
+        <navLabel>
+          <text>Book VI. The Russian Monk</text>
+        </navLabel>
+        <content src="the-brothers-karamazov-22.html#dlepubid00046"/>
+        <navPoint id="np-48" playOrder="48">
+          <navLabel>
+            <text>Chapter I. Father Zossima And His Visitors</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-22.html#dlepubid00047"/>
+        </navPoint>
+        <navPoint id="np-49" playOrder="49">
+          <navLabel>
+            <text>Chapter II. The Duel</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-23.html#dlepubid00048"/>
+        </navPoint>
+        <navPoint id="np-50" playOrder="50">
+          <navLabel>
+            <text>Chapter III. Conversations And Exhortations Of Father Zossima</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-24.html#dlepubid00049"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-51" playOrder="51">
+      <navLabel>
+        <text>Part III</text>
+      </navLabel>
+      <content src="the-brothers-karamazov-26.html#dlepubid00050"/>
+      <navPoint id="np-52" playOrder="52">
+        <navLabel>
+          <text>Book VII. Alyosha</text>
+        </navLabel>
+        <content src="the-brothers-karamazov-27.html#dlepubid00051"/>
+        <navPoint id="np-53" playOrder="53">
+          <navLabel>
+            <text>Chapter I. The Breath Of Corruption</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-27.html#dlepubid00052"/>
+        </navPoint>
+        <navPoint id="np-54" playOrder="54">
+          <navLabel>
+            <text>Chapter II. A Critical Moment</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-27.html#dlepubid00053"/>
+        </navPoint>
+        <navPoint id="np-55" playOrder="55">
+          <navLabel>
+            <text>Chapter III. An Onion</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-28.html#dlepubid00054"/>
+        </navPoint>
+        <navPoint id="np-56" playOrder="56">
+          <navLabel>
+            <text>Chapter IV. Cana Of Galilee</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-29.html#dlepubid00055"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-57" playOrder="57">
+        <navLabel>
+          <text>Book VIII. Mitya</text>
+        </navLabel>
+        <content src="the-brothers-karamazov-31.html#dlepubid00056"/>
+        <navPoint id="np-58" playOrder="58">
+          <navLabel>
+            <text>Chapter I. Kuzma Samsonov</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-31.html#dlepubid00057"/>
+        </navPoint>
+        <navPoint id="np-59" playOrder="59">
+          <navLabel>
+            <text>Chapter II. Lyagavy</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-31.html#dlepubid00058"/>
+        </navPoint>
+        <navPoint id="np-60" playOrder="60">
+          <navLabel>
+            <text>Chapter III. Gold-Mines</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-32.html#dlepubid00059"/>
+        </navPoint>
+        <navPoint id="np-61" playOrder="61">
+          <navLabel>
+            <text>Chapter IV. In The Dark</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-32.html#dlepubid00060"/>
+        </navPoint>
+        <navPoint id="np-62" playOrder="62">
+          <navLabel>
+            <text>Chapter V. A Sudden Resolution</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-33.html#dlepubid00061"/>
+        </navPoint>
+        <navPoint id="np-63" playOrder="63">
+          <navLabel>
+            <text>Chapter VI. &#8220;I Am Coming, Too!&#8221;</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-34.html#dlepubid00062"/>
+        </navPoint>
+        <navPoint id="np-64" playOrder="64">
+          <navLabel>
+            <text>Chapter VII. The First And Rightful Lover</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-34.html#dlepubid00063"/>
+        </navPoint>
+        <navPoint id="np-65" playOrder="65">
+          <navLabel>
+            <text>Chapter VIII. Delirium</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-35.html#dlepubid00064"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-66" playOrder="66">
+        <navLabel>
+          <text>Book IX. The Preliminary Investigation</text>
+        </navLabel>
+        <content src="the-brothers-karamazov-37.html#dlepubid00065"/>
+        <navPoint id="np-67" playOrder="67">
+          <navLabel>
+            <text>Chapter I. The Beginning Of Perhotin's Official Career</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-37.html#dlepubid00066"/>
+        </navPoint>
+        <navPoint id="np-68" playOrder="68">
+          <navLabel>
+            <text>Chapter II. The Alarm</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-37.html#dlepubid00067"/>
+        </navPoint>
+        <navPoint id="np-69" playOrder="69">
+          <navLabel>
+            <text>Chapter III. The Sufferings Of A Soul, The First Ordeal</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-37.html#dlepubid00068"/>
+        </navPoint>
+        <navPoint id="np-70" playOrder="70">
+          <navLabel>
+            <text>Chapter IV. The Second Ordeal</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-38.html#dlepubid00069"/>
+        </navPoint>
+        <navPoint id="np-71" playOrder="71">
+          <navLabel>
+            <text>Chapter V. The Third Ordeal</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-38.html#dlepubid00070"/>
+        </navPoint>
+        <navPoint id="np-72" playOrder="72">
+          <navLabel>
+            <text>Chapter VI. The Prosecutor Catches Mitya</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-39.html#dlepubid00071"/>
+        </navPoint>
+        <navPoint id="np-73" playOrder="73">
+          <navLabel>
+            <text>Chapter VII. Mitya's Great Secret. Received With Hisses</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-39.html#dlepubid00072"/>
+        </navPoint>
+        <navPoint id="np-74" playOrder="74">
+          <navLabel>
+            <text>Chapter VIII. The Evidence Of The Witnesses. The Babe</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-40.html#dlepubid00073"/>
+        </navPoint>
+        <navPoint id="np-75" playOrder="75">
+          <navLabel>
+            <text>Chapter IX. They Carry Mitya Away</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-40.html#dlepubid00074"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-76" playOrder="76">
+      <navLabel>
+        <text>Part IV</text>
+      </navLabel>
+      <content src="the-brothers-karamazov-42.html#dlepubid00075"/>
+      <navPoint id="np-77" playOrder="77">
+        <navLabel>
+          <text>Book X. The Boys</text>
+        </navLabel>
+        <content src="the-brothers-karamazov-43.html#dlepubid00076"/>
+        <navPoint id="np-78" playOrder="78">
+          <navLabel>
+            <text>Chapter I. Kolya Krassotkin</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-43.html#dlepubid00077"/>
+        </navPoint>
+        <navPoint id="np-79" playOrder="79">
+          <navLabel>
+            <text>Chapter II. Children</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-43.html#dlepubid00078"/>
+        </navPoint>
+        <navPoint id="np-80" playOrder="80">
+          <navLabel>
+            <text>Chapter III. The Schoolboy</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-43.html#dlepubid00079"/>
+        </navPoint>
+        <navPoint id="np-81" playOrder="81">
+          <navLabel>
+            <text>Chapter IV. The Lost Dog</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-44.html#dlepubid00080"/>
+        </navPoint>
+        <navPoint id="np-82" playOrder="82">
+          <navLabel>
+            <text>Chapter V. By Ilusha's Bedside</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-44.html#dlepubid00081"/>
+        </navPoint>
+        <navPoint id="np-83" playOrder="83">
+          <navLabel>
+            <text>Chapter VI. Precocity</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-45.html#dlepubid00082"/>
+        </navPoint>
+        <navPoint id="np-84" playOrder="84">
+          <navLabel>
+            <text>Chapter VII. Ilusha</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-45.html#dlepubid00083"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-85" playOrder="85">
+        <navLabel>
+          <text>Book XI. Ivan</text>
+        </navLabel>
+        <content src="the-brothers-karamazov-47.html#dlepubid00084"/>
+        <navPoint id="np-86" playOrder="86">
+          <navLabel>
+            <text>Chapter I. At Grushenka's</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-47.html#dlepubid00085"/>
+        </navPoint>
+        <navPoint id="np-87" playOrder="87">
+          <navLabel>
+            <text>Chapter II. The Injured Foot</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-47.html#dlepubid00086"/>
+        </navPoint>
+        <navPoint id="np-88" playOrder="88">
+          <navLabel>
+            <text>Chapter III. A Little Demon</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-48.html#dlepubid00087"/>
+        </navPoint>
+        <navPoint id="np-89" playOrder="89">
+          <navLabel>
+            <text>Chapter IV. A Hymn And A Secret</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-48.html#dlepubid00088"/>
+        </navPoint>
+        <navPoint id="np-90" playOrder="90">
+          <navLabel>
+            <text>Chapter V. Not You, Not You!</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-49.html#dlepubid00089"/>
+        </navPoint>
+        <navPoint id="np-91" playOrder="91">
+          <navLabel>
+            <text>Chapter VI. The First Interview With Smerdyakov</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-49.html#dlepubid00090"/>
+        </navPoint>
+        <navPoint id="np-92" playOrder="92">
+          <navLabel>
+            <text>Chapter VII. The Second Visit To Smerdyakov</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-49.html#dlepubid00091"/>
+        </navPoint>
+        <navPoint id="np-93" playOrder="93">
+          <navLabel>
+            <text>Chapter VIII. The Third And Last Interview With Smerdyakov</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-50.html#dlepubid00092"/>
+        </navPoint>
+        <navPoint id="np-94" playOrder="94">
+          <navLabel>
+            <text>Chapter IX. The Devil. Ivan's Nightmare</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-51.html#dlepubid00093"/>
+        </navPoint>
+        <navPoint id="np-95" playOrder="95">
+          <navLabel>
+            <text>Chapter X. &#8220;It Was He Who Said That&#8221;</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-52.html#dlepubid00094"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-96" playOrder="96">
+        <navLabel>
+          <text>Book XII. A Judicial Error</text>
+        </navLabel>
+        <content src="the-brothers-karamazov-54.html#dlepubid00095"/>
+        <navPoint id="np-97" playOrder="97">
+          <navLabel>
+            <text>Chapter I. The Fatal Day</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-54.html#dlepubid00096"/>
+        </navPoint>
+        <navPoint id="np-98" playOrder="98">
+          <navLabel>
+            <text>Chapter II. Dangerous Witnesses</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-54.html#dlepubid00097"/>
+        </navPoint>
+        <navPoint id="np-99" playOrder="99">
+          <navLabel>
+            <text>Chapter III. The Medical Experts And A Pound Of Nuts</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-54.html#dlepubid00098"/>
+        </navPoint>
+        <navPoint id="np-100" playOrder="100">
+          <navLabel>
+            <text>Chapter IV. Fortune Smiles On Mitya</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-55.html#dlepubid00099"/>
+        </navPoint>
+        <navPoint id="np-101" playOrder="101">
+          <navLabel>
+            <text>Chapter V. A Sudden Catastrophe</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-55.html#dlepubid00100"/>
+        </navPoint>
+        <navPoint id="np-102" playOrder="102">
+          <navLabel>
+            <text>Chapter VI. The Prosecutor's Speech. Sketches Of Character</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-56.html#dlepubid00101"/>
+        </navPoint>
+        <navPoint id="np-103" playOrder="103">
+          <navLabel>
+            <text>Chapter VII. An Historical Survey</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-56.html#dlepubid00102"/>
+        </navPoint>
+        <navPoint id="np-104" playOrder="104">
+          <navLabel>
+            <text>Chapter VIII. A Treatise On Smerdyakov</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-56.html#dlepubid00103"/>
+        </navPoint>
+        <navPoint id="np-105" playOrder="105">
+          <navLabel>
+            <text>Chapter IX. The Galloping Troika. The End Of The Prosecutor's Speech.</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-57.html#dlepubid00104"/>
+        </navPoint>
+        <navPoint id="np-106" playOrder="106">
+          <navLabel>
+            <text>Chapter X. The Speech For The Defense. An Argument That Cuts Both Ways</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-57.html#dlepubid00105"/>
+        </navPoint>
+        <navPoint id="np-107" playOrder="107">
+          <navLabel>
+            <text>Chapter XI. There Was No Money. There Was No Robbery</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-57.html#dlepubid00106"/>
+        </navPoint>
+        <navPoint id="np-108" playOrder="108">
+          <navLabel>
+            <text>Chapter XII. And There Was No Murder Either</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-58.html#dlepubid00107"/>
+        </navPoint>
+        <navPoint id="np-109" playOrder="109">
+          <navLabel>
+            <text>Chapter XIII. A Corrupter Of Thought</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-58.html#dlepubid00108"/>
+        </navPoint>
+        <navPoint id="np-110" playOrder="110">
+          <navLabel>
+            <text>Chapter XIV. The Peasants Stand Firm</text>
+          </navLabel>
+          <content src="the-brothers-karamazov-58.html#dlepubid00109"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-111" playOrder="111">
+      <navLabel>
+        <text>Epilogue</text>
+      </navLabel>
+      <content src="the-brothers-karamazov-59.html#dlepubid00110"/>
+      <navPoint id="np-112" playOrder="112">
+        <navLabel>
+          <text>Chapter I. Plans For Mitya's Escape</text>
+        </navLabel>
+        <content src="the-brothers-karamazov-59.html#dlepubid00111"/>
+      </navPoint>
+      <navPoint id="np-113" playOrder="113">
+        <navLabel>
+          <text>Chapter II. For A Moment The Lie Becomes Truth</text>
+        </navLabel>
+        <content src="the-brothers-karamazov-59.html#dlepubid00112"/>
+      </navPoint>
+      <navPoint id="np-114" playOrder="114">
+        <navLabel>
+          <text>Chapter III. Ilusha's Funeral. The Speech At The Stone</text>
+        </navLabel>
+        <content src="the-brothers-karamazov-59.html#dlepubid00113"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-115" playOrder="115">
+      <navLabel>
+        <text>Footnotes</text>
+      </navLabel>
+      <content src="the-brothers-karamazov-60.html#dlepubid00114"/>
+    </navPoint>
+  </navMap>
+</ncx>

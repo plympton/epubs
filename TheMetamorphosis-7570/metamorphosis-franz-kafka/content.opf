@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Copyrighted. Read the copyright notice inside this book for details.</dc:rights>
+    <dc:identifier id="id">metamorphosis-franz-kafka</dc:identifier>
+    <dc:creator opf:file-as="Kafka, Franz">Franz Kafka</dc:creator>
+    <dc:contributor opf:file-as="Wyllie, David" opf:role="trl">David Wyllie</dc:contributor>
+    <dc:title>Metamorphosis</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Psychological fiction</dc:subject>
+    <dc:subject>Metamorphosis -- Fiction</dc:subject>
+    <dc:date opf:event="publication">2005-08-17</dc:date>
+    <dc:date opf:event="conversion">2013-05-23 17:57:06 GMT</dc:date>
+  </metadata>
+  <manifest>
+  	<item href="cover.html" id="cover" media-type="application/xhtml+xml"/>
+	<item href="cover.jpg" id="cover-image" media-type="image/jpeg"/>
+    <item href="0.css" id="item1" media-type="text/css"/>
+    <item href="metamorphosis-franz-kafka-0.html" id="item2" media-type="application/xhtml+xml"/>
+    <item href="metamorphosis-franz-kafka-1.html" id="item3" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="item2" linear="yes"/>
+    <itemref idref="item3" linear="yes"/>
+  </spine>
+  <guide>
+	<reference href="cover.html" type="cover" title="Cover"/>
+  </guide>
+</package>

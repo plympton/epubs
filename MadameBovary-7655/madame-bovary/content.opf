@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier id="id">madame-bovary</dc:identifier>
+    <dc:creator opf:file-as="Flaubert, Gustave">Gustave Flaubert</dc:creator>
+    <dc:contributor opf:file-as="Aveling, Eleanor Marx" opf:role="trl">Eleanor Marx Aveling</dc:contributor>
+    <dc:title>Madame Bovary</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Adultery -- Fiction</dc:subject>
+    <dc:subject>Domestic fiction</dc:subject>
+    <dc:subject>France -- Fiction</dc:subject>
+    <dc:subject>Married women -- Fiction</dc:subject>
+    <dc:subject>Middle class -- Fiction</dc:subject>
+    <dc:subject>Physicians' spouses -- Fiction</dc:subject>
+    <dc:subject>Suicide victims -- Fiction</dc:subject>
+    <dc:date opf:event="publication">2006-02-26</dc:date>
+    <dc:date opf:event="conversion">2013-05-24 08:43:46 GMT</dc:date>
+  </metadata>
+  <manifest>
+    <item href="cover.html" id="cover" media-type="application/xhtml+xml"/>
+	<item href="cover.jpg" id="cover-image" media-type="image/jpeg"/>
+    <item href="0.css" id="item1" media-type="text/css"/>
+    <item href="madame-bovary-0.html" id="item2" media-type="application/xhtml+xml"/>
+    <item href="madame-bovary-1.html" id="item3" media-type="application/xhtml+xml"/>
+    <item href="madame-bovary-2.html" id="item4" media-type="application/xhtml+xml"/>
+    <item href="madame-bovary-3.html" id="item5" media-type="application/xhtml+xml"/>
+    <item href="madame-bovary-4.html" id="item6" media-type="application/xhtml+xml"/>
+    <item href="madame-bovary-5.html" id="item7" media-type="application/xhtml+xml"/>
+    <item href="madame-bovary-6.html" id="item8" media-type="application/xhtml+xml"/>
+    <item href="madame-bovary-7.html" id="item9" media-type="application/xhtml+xml"/>
+    <item href="madame-bovary-8.html" id="item10" media-type="application/xhtml+xml"/>
+    <item href="madame-bovary-9.html" id="item11" media-type="application/xhtml+xml"/>
+    <item href="madame-bovary-10.html" id="item12" media-type="application/xhtml+xml"/>
+    <item href="madame-bovary-11.html" id="item13" media-type="application/xhtml+xml"/>
+    <item href="madame-bovary-12.html" id="item14" media-type="application/xhtml+xml"/>
+    <item href="madame-bovary-13.html" id="item15" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+     <itemref idref="cover" linear="no"/>
+    <itemref idref="item2" linear="yes"/>
+    <itemref idref="item3" linear="yes"/>
+    <itemref idref="item4" linear="yes"/>
+    <itemref idref="item5" linear="yes"/>
+    <itemref idref="item6" linear="yes"/>
+    <itemref idref="item7" linear="yes"/>
+    <itemref idref="item8" linear="yes"/>
+    <itemref idref="item9" linear="yes"/>
+    <itemref idref="item10" linear="yes"/>
+    <itemref idref="item11" linear="yes"/>
+    <itemref idref="item12" linear="yes"/>
+    <itemref idref="item13" linear="yes"/>
+    <itemref idref="item14" linear="yes"/>
+    <itemref idref="item15" linear="yes"/>
+  </spine>
+  <guide>
+	<reference href="cover.html" type="cover" title="Cover"/>
+  </guide>
+</package>

@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="the-life-and-adventures-of-robinson-crusoe" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Robinson Crusoe</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>The Life and Adventures of Robinson Crusoe</text>
+      </navLabel>
+      <content src="the-life-and-adventures-of-robinson-crusoe-0.html#dlepubid00000"/>
+    </navPoint>
+    <navPoint id="np-2" playOrder="2">
+      <navLabel>
+        <text>CHAPTER I&#8212;START IN LIFE</text>
+      </navLabel>
+      <content src="the-life-and-adventures-of-robinson-crusoe-0.html#dlepubid00001"/>
+    </navPoint>
+    <navPoint id="np-3" playOrder="3">
+      <navLabel>
+        <text>CHAPTER II&#8212;SLAVERY AND ESCAPE</text>
+      </navLabel>
+      <content src="the-life-and-adventures-of-robinson-crusoe-0.html#dlepubid00002"/>
+    </navPoint>
+    <navPoint id="np-4" playOrder="4">
+      <navLabel>
+        <text>CHAPTER III&#8212;WRECKED ON A DESERT ISLAND</text>
+      </navLabel>
+      <content src="the-life-and-adventures-of-robinson-crusoe-0.html#dlepubid00003"/>
+    </navPoint>
+    <navPoint id="np-5" playOrder="5">
+      <navLabel>
+        <text>CHAPTER IV&#8212;FIRST WEEKS ON THE ISLAND</text>
+      </navLabel>
+      <content src="the-life-and-adventures-of-robinson-crusoe-1.html#dlepubid00004"/>
+    </navPoint>
+    <navPoint id="np-6" playOrder="6">
+      <navLabel>
+        <text>CHAPTER V&#8212;BUILDS A HOUSE&#8212;THE JOURNAL</text>
+      </navLabel>
+      <content src="the-life-and-adventures-of-robinson-crusoe-1.html#dlepubid00005"/>
+    </navPoint>
+    <navPoint id="np-7" playOrder="7">
+      <navLabel>
+        <text>CHAPTER VI&#8212;ILL AND CONSCIENCE-STRICKEN</text>
+      </navLabel>
+      <content src="the-life-and-adventures-of-robinson-crusoe-2.html#dlepubid00006"/>
+    </navPoint>
+    <navPoint id="np-8" playOrder="8">
+      <navLabel>
+        <text>CHAPTER VII&#8212;AGRICULTURAL EXPERIENCE</text>
+      </navLabel>
+      <content src="the-life-and-adventures-of-robinson-crusoe-2.html#dlepubid00007"/>
+    </navPoint>
+    <navPoint id="np-9" playOrder="9">
+      <navLabel>
+        <text>CHAPTER VIII&#8212;SURVEYS HIS POSITION</text>
+      </navLabel>
+      <content src="the-life-and-adventures-of-robinson-crusoe-3.html#dlepubid00008"/>
+    </navPoint>
+    <navPoint id="np-10" playOrder="10">
+      <navLabel>
+        <text>CHAPTER IX&#8212;A BOAT</text>
+      </navLabel>
+      <content src="the-life-and-adventures-of-robinson-crusoe-3.html#dlepubid00009"/>
+    </navPoint>
+    <navPoint id="np-11" playOrder="11">
+      <navLabel>
+        <text>CHAPTER X&#8212;TAMES GOATS</text>
+      </navLabel>
+      <content src="the-life-and-adventures-of-robinson-crusoe-3.html#dlepubid00010"/>
+    </navPoint>
+    <navPoint id="np-12" playOrder="12">
+      <navLabel>
+        <text>CHAPTER XI&#8212;FINDS PRINT OF MAN&#8217;S FOOT ON THE SAND</text>
+      </navLabel>
+      <content src="the-life-and-adventures-of-robinson-crusoe-4.html#dlepubid00011"/>
+    </navPoint>
+    <navPoint id="np-13" playOrder="13">
+      <navLabel>
+        <text>CHAPTER XII&#8212;A CAVE RETREAT</text>
+      </navLabel>
+      <content src="the-life-and-adventures-of-robinson-crusoe-4.html#dlepubid00012"/>
+    </navPoint>
+    <navPoint id="np-14" playOrder="14">
+      <navLabel>
+        <text>CHAPTER XIII&#8212;WRECK OF A SPANISH SHIP</text>
+      </navLabel>
+      <content src="the-life-and-adventures-of-robinson-crusoe-5.html#dlepubid00013"/>
+    </navPoint>
+    <navPoint id="np-15" playOrder="15">
+      <navLabel>
+        <text>CHAPTER XIV&#8212;A DREAM REALISED</text>
+      </navLabel>
+      <content src="the-life-and-adventures-of-robinson-crusoe-5.html#dlepubid00014"/>
+    </navPoint>
+    <navPoint id="np-16" playOrder="16">
+      <navLabel>
+        <text>CHAPTER XV&#8212;FRIDAY&#8217;S EDUCATION</text>
+      </navLabel>
+      <content src="the-life-and-adventures-of-robinson-crusoe-5.html#dlepubid00015"/>
+    </navPoint>
+    <navPoint id="np-17" playOrder="17">
+      <navLabel>
+        <text>CHAPTER XVI&#8212;RESCUE OF PRISONERS FROM CANNIBALS</text>
+      </navLabel>
+      <content src="the-life-and-adventures-of-robinson-crusoe-6.html#dlepubid00016"/>
+    </navPoint>
+    <navPoint id="np-18" playOrder="18">
+      <navLabel>
+        <text>CHAPTER XVII&#8212;VISIT OF MUTINEERS</text>
+      </navLabel>
+      <content src="the-life-and-adventures-of-robinson-crusoe-6.html#dlepubid00017"/>
+    </navPoint>
+    <navPoint id="np-19" playOrder="19">
+      <navLabel>
+        <text>CHAPTER XVIII&#8212;THE SHIP RECOVERED</text>
+      </navLabel>
+      <content src="the-life-and-adventures-of-robinson-crusoe-7.html#dlepubid00018"/>
+    </navPoint>
+    <navPoint id="np-20" playOrder="20">
+      <navLabel>
+        <text>CHAPTER XIX&#8212;RETURN TO ENGLAND</text>
+      </navLabel>
+      <content src="the-life-and-adventures-of-robinson-crusoe-7.html#dlepubid00019"/>
+    </navPoint>
+    <navPoint id="np-21" playOrder="21">
+      <navLabel>
+        <text>CHAPTER XX&#8212;FIGHT BETWEEN FRIDAY AND A BEAR</text>
+      </navLabel>
+      <content src="the-life-and-adventures-of-robinson-crusoe-8.html#dlepubid00020"/>
+    </navPoint>
+  </navMap>
+</ncx>

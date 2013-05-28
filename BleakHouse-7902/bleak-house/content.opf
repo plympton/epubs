@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier id="id">bleak-house</dc:identifier>
+    <dc:creator opf:file-as="Dickens, Charles">Charles Dickens</dc:creator>
+    <dc:title>Bleak House</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Illegitimate children -- Fiction</dc:subject>
+    <dc:subject>Guardian and ward -- Fiction</dc:subject>
+    <dc:subject>Young women -- Fiction</dc:subject>
+    <dc:subject>London (England) -- Fiction</dc:subject>
+    <dc:subject>Domestic fiction</dc:subject>
+    <dc:subject>Legal stories</dc:subject>
+    <dc:date opf:event="publication">1997-08-01</dc:date>
+    <dc:date opf:event="conversion">2013-05-24 06:40:48 GMT</dc:date>
+  </metadata>
+  <manifest>
+    <item href="cover.html" id="cover" media-type="application/xhtml+xml"/>
+	<item href="cover.jpg" id="cover-image" media-type="image/jpeg"/>
+    <item href="0.css" id="item1" media-type="text/css"/>
+    <item href="bleak-house-0.html" id="item2" media-type="application/xhtml+xml"/>
+    <item href="bleak-house-1.html" id="item3" media-type="application/xhtml+xml"/>
+    <item href="bleak-house-2.html" id="item4" media-type="application/xhtml+xml"/>
+    <item href="bleak-house-3.html" id="item5" media-type="application/xhtml+xml"/>
+    <item href="bleak-house-4.html" id="item6" media-type="application/xhtml+xml"/>
+    <item href="bleak-house-5.html" id="item7" media-type="application/xhtml+xml"/>
+    <item href="bleak-house-6.html" id="item8" media-type="application/xhtml+xml"/>
+    <item href="bleak-house-7.html" id="item9" media-type="application/xhtml+xml"/>
+    <item href="bleak-house-8.html" id="item10" media-type="application/xhtml+xml"/>
+    <item href="bleak-house-9.html" id="item11" media-type="application/xhtml+xml"/>
+    <item href="bleak-house-10.html" id="item12" media-type="application/xhtml+xml"/>
+    <item href="bleak-house-11.html" id="item13" media-type="application/xhtml+xml"/>
+    <item href="bleak-house-12.html" id="item14" media-type="application/xhtml+xml"/>
+    <item href="bleak-house-13.html" id="item15" media-type="application/xhtml+xml"/>
+    <item href="bleak-house-14.html" id="item16" media-type="application/xhtml+xml"/>
+    <item href="bleak-house-15.html" id="item17" media-type="application/xhtml+xml"/>
+    <item href="bleak-house-16.html" id="item18" media-type="application/xhtml+xml"/>
+    <item href="bleak-house-17.html" id="item19" media-type="application/xhtml+xml"/>
+    <item href="bleak-house-18.html" id="item20" media-type="application/xhtml+xml"/>
+    <item href="bleak-house-19.html" id="item21" media-type="application/xhtml+xml"/>
+    <item href="bleak-house-20.html" id="item22" media-type="application/xhtml+xml"/>
+    <item href="bleak-house-21.html" id="item23" media-type="application/xhtml+xml"/>
+    <item href="bleak-house-22.html" id="item24" media-type="application/xhtml+xml"/>
+    <item href="bleak-house-23.html" id="item25" media-type="application/xhtml+xml"/>
+    <item href="bleak-house-24.html" id="item26" media-type="application/xhtml+xml"/>
+    <item href="bleak-house-25.html" id="item27" media-type="application/xhtml+xml"/>
+    <item href="bleak-house-26.html" id="item28" media-type="application/xhtml+xml"/>
+    <item href="bleak-house-27.html" id="item29" media-type="application/xhtml+xml"/>
+    <item href="bleak-house-28.html" id="item30" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="item2" linear="yes"/>
+    <itemref idref="item3" linear="yes"/>
+    <itemref idref="item4" linear="yes"/>
+    <itemref idref="item5" linear="yes"/>
+    <itemref idref="item6" linear="yes"/>
+    <itemref idref="item7" linear="yes"/>
+    <itemref idref="item8" linear="yes"/>
+    <itemref idref="item9" linear="yes"/>
+    <itemref idref="item10" linear="yes"/>
+    <itemref idref="item11" linear="yes"/>
+    <itemref idref="item12" linear="yes"/>
+    <itemref idref="item13" linear="yes"/>
+    <itemref idref="item14" linear="yes"/>
+    <itemref idref="item15" linear="yes"/>
+    <itemref idref="item16" linear="yes"/>
+    <itemref idref="item17" linear="yes"/>
+    <itemref idref="item18" linear="yes"/>
+    <itemref idref="item19" linear="yes"/>
+    <itemref idref="item20" linear="yes"/>
+    <itemref idref="item21" linear="yes"/>
+    <itemref idref="item22" linear="yes"/>
+    <itemref idref="item23" linear="yes"/>
+    <itemref idref="item24" linear="yes"/>
+    <itemref idref="item25" linear="yes"/>
+    <itemref idref="item26" linear="yes"/>
+    <itemref idref="item27" linear="yes"/>
+    <itemref idref="item28" linear="yes"/>
+    <itemref idref="item29" linear="yes"/>
+    <itemref idref="item30" linear="yes"/>
+  </spine>
+  <guide>
+    <reference href="bleak-house-0.html#pgepubid00003" type="toc" title="CONTENTS"/>
+    <reference href="cover.html" type="cover" title="Cover"/>
+  </guide>
+</package>

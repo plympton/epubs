@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier id="id">notre-dame-de-paris</dc:identifier>
+    <dc:creator opf:file-as="Hugo, Victor">Victor Hugo</dc:creator>
+    <dc:contributor opf:file-as="Hapgood, Isabel Florence" opf:role="trl">Isabel Florence Hapgood</dc:contributor>
+    <dc:title>Notre-Dame De Paris</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>France -- History -- Louis XI, 1461-1483 -- Fiction</dc:subject>
+    <dc:subject>Paris (France) -- History -- To 1515 -- Fiction</dc:subject>
+    <dc:subject>Notre-Dame de Paris (Cathedral) -- Fiction</dc:subject>
+    <dc:subject>People with disabilities -- Fiction</dc:subject>
+    <dc:subject>Clergy -- Fiction</dc:subject>
+    <dc:subject>Historical fiction</dc:subject>
+    <dc:subject>Romances</dc:subject>
+    <dc:date opf:event="publication">2001-04-01</dc:date>
+    <dc:date opf:event="conversion">2013-05-23 04:50:03 GMT</dc:date>
+  </metadata>
+  <manifest>
+  	<item href="cover.html" id="cover" media-type="application/xhtml+xml"/>
+	<item href="cover.jpg" id="cover-image" media-type="image/jpeg"/>
+    <item href="0.css" id="item1" media-type="text/css"/>
+    <item href="notre-dame-de-paris-0.html" id="item2" media-type="application/xhtml+xml"/>
+    <item href="notre-dame-de-paris-1.html" id="item3" media-type="application/xhtml+xml"/>
+    <item href="notre-dame-de-paris-2.html" id="item4" media-type="application/xhtml+xml"/>
+    <item href="notre-dame-de-paris-3.html" id="item5" media-type="application/xhtml+xml"/>
+    <item href="notre-dame-de-paris-4.html" id="item6" media-type="application/xhtml+xml"/>
+    <item href="notre-dame-de-paris-5.html" id="item7" media-type="application/xhtml+xml"/>
+    <item href="notre-dame-de-paris-6.html" id="item8" media-type="application/xhtml+xml"/>
+    <item href="notre-dame-de-paris-7.html" id="item9" media-type="application/xhtml+xml"/>
+    <item href="notre-dame-de-paris-8.html" id="item10" media-type="application/xhtml+xml"/>
+    <item href="notre-dame-de-paris-9.html" id="item11" media-type="application/xhtml+xml"/>
+    <item href="notre-dame-de-paris-10.html" id="item12" media-type="application/xhtml+xml"/>
+    <item href="notre-dame-de-paris-11.html" id="item13" media-type="application/xhtml+xml"/>
+    <item href="notre-dame-de-paris-12.html" id="item14" media-type="application/xhtml+xml"/>
+    <item href="notre-dame-de-paris-13.html" id="item15" media-type="application/xhtml+xml"/>
+    <item href="notre-dame-de-paris-14.html" id="item16" media-type="application/xhtml+xml"/>
+    <item href="notre-dame-de-paris-15.html" id="item17" media-type="application/xhtml+xml"/>
+    <item href="notre-dame-de-paris-16.html" id="item18" media-type="application/xhtml+xml"/>
+    <item href="notre-dame-de-paris-17.html" id="item19" media-type="application/xhtml+xml"/>
+    <item href="notre-dame-de-paris-18.html" id="item20" media-type="application/xhtml+xml"/>
+    <item href="notre-dame-de-paris-19.html" id="item21" media-type="application/xhtml+xml"/>
+    <item href="notre-dame-de-paris-20.html" id="item22" media-type="application/xhtml+xml"/>
+    <item href="notre-dame-de-paris-21.html" id="item23" media-type="application/xhtml+xml"/>
+    <item href="notre-dame-de-paris-22.html" id="item24" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="item2" linear="yes"/>
+    <itemref idref="item3" linear="yes"/>
+    <itemref idref="item4" linear="yes"/>
+    <itemref idref="item5" linear="yes"/>
+    <itemref idref="item6" linear="yes"/>
+    <itemref idref="item7" linear="yes"/>
+    <itemref idref="item8" linear="yes"/>
+    <itemref idref="item9" linear="yes"/>
+    <itemref idref="item10" linear="yes"/>
+    <itemref idref="item11" linear="yes"/>
+    <itemref idref="item12" linear="yes"/>
+    <itemref idref="item13" linear="yes"/>
+    <itemref idref="item14" linear="yes"/>
+    <itemref idref="item15" linear="yes"/>
+    <itemref idref="item16" linear="yes"/>
+    <itemref idref="item17" linear="yes"/>
+    <itemref idref="item18" linear="yes"/>
+    <itemref idref="item19" linear="yes"/>
+    <itemref idref="item20" linear="yes"/>
+    <itemref idref="item21" linear="yes"/>
+    <itemref idref="item22" linear="yes"/>
+    <itemref idref="item23" linear="yes"/>
+    <itemref idref="item24" linear="yes"/>
+  </spine>
+  <guide>
+    <reference href="notre-dame-de-paris-10.html#pgepubid00041" type="toc" title="TABLE OF CONTENTS."/>
+	<reference href="cover.html" type="cover" title="Cover"/>
+  </guide>
+</package>
