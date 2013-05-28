@@ -1,0 +1,2560 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="les-miserables" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Les Mis&#233;rables</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>LES MIS&#201;RABLES</text>
+      </navLabel>
+      <content src="les-miserables-0.html#dlepubid00000"/>
+      <navPoint id="np-2" playOrder="2">
+        <navLabel>
+          <text>Translated by Isabel F. Hapgood</text>
+        </navLabel>
+        <content src="les-miserables-0.html#dlepubid00001"/>
+      </navPoint>
+      <navPoint id="np-5" playOrder="5">
+        <navLabel>
+          <text>Contents</text>
+        </navLabel>
+        <content src="les-miserables-0.html#dlepubid00004"/>
+      </navPoint>
+      <navPoint id="np-9" playOrder="9">
+        <navLabel>
+          <text>VOLUME I.&#8212;FANTINE.</text>
+        </navLabel>
+        <content src="les-miserables-1.html#dlepubid00008"/>
+        <navPoint id="np-10" playOrder="10">
+          <navLabel>
+            <text>PREFACE</text>
+          </navLabel>
+          <content src="les-miserables-1.html#dlepubid00009"/>
+        </navPoint>
+        <navPoint id="np-12" playOrder="12">
+          <navLabel>
+            <text>BOOK FIRST&#8212;A JUST MAN</text>
+          </navLabel>
+          <content src="les-miserables-1.html#dlepubid00011"/>
+          <navPoint id="np-13" playOrder="13">
+            <navLabel>
+              <text>CHAPTER I&#8212;M. MYRIEL</text>
+            </navLabel>
+            <content src="les-miserables-1.html#dlepubid00012"/>
+          </navPoint>
+          <navPoint id="np-14" playOrder="14">
+            <navLabel>
+              <text>CHAPTER II&#8212;M. MYRIEL BECOMES M. WELCOME</text>
+            </navLabel>
+            <content src="les-miserables-1.html#dlepubid00013"/>
+          </navPoint>
+          <navPoint id="np-15" playOrder="15">
+            <navLabel>
+              <text>CHAPTER III&#8212;A HARD BISHOPRIC FOR A GOOD BISHOP</text>
+            </navLabel>
+            <content src="les-miserables-1.html#dlepubid00014"/>
+          </navPoint>
+          <navPoint id="np-16" playOrder="16">
+            <navLabel>
+              <text>CHAPTER IV&#8212;WORKS CORRESPONDING TO WORDS</text>
+            </navLabel>
+            <content src="les-miserables-1.html#dlepubid00015"/>
+          </navPoint>
+          <navPoint id="np-17" playOrder="17">
+            <navLabel>
+              <text>CHAPTER V&#8212;MONSEIGNEUR BIENVENU MADE HIS CASSOCKS LAST TOO LONG</text>
+            </navLabel>
+            <content src="les-miserables-1.html#dlepubid00016"/>
+          </navPoint>
+          <navPoint id="np-18" playOrder="18">
+            <navLabel>
+              <text>CHAPTER VI&#8212;WHO GUARDED HIS HOUSE FOR HIM</text>
+            </navLabel>
+            <content src="les-miserables-2.html#dlepubid00017"/>
+          </navPoint>
+          <navPoint id="np-19" playOrder="19">
+            <navLabel>
+              <text>CHAPTER VII&#8212;CRAVATTE</text>
+            </navLabel>
+            <content src="les-miserables-2.html#dlepubid00018"/>
+          </navPoint>
+          <navPoint id="np-20" playOrder="20">
+            <navLabel>
+              <text>CHAPTER VIII&#8212;PHILOSOPHY AFTER DRINKING</text>
+            </navLabel>
+            <content src="les-miserables-2.html#dlepubid00019"/>
+          </navPoint>
+          <navPoint id="np-21" playOrder="21">
+            <navLabel>
+              <text>CHAPTER IX&#8212;THE BROTHER AS DEPICTED BY THE SISTER</text>
+            </navLabel>
+            <content src="les-miserables-2.html#dlepubid00020"/>
+          </navPoint>
+          <navPoint id="np-22" playOrder="22">
+            <navLabel>
+              <text>CHAPTER X&#8212;THE BISHOP IN THE PRESENCE OF AN UNKNOWN LIGHT</text>
+            </navLabel>
+            <content src="les-miserables-2.html#dlepubid00021"/>
+          </navPoint>
+          <navPoint id="np-23" playOrder="23">
+            <navLabel>
+              <text>CHAPTER XI&#8212;A RESTRICTION</text>
+            </navLabel>
+            <content src="les-miserables-3.html#dlepubid00022"/>
+          </navPoint>
+          <navPoint id="np-24" playOrder="24">
+            <navLabel>
+              <text>CHAPTER XII&#8212;THE SOLITUDE OF MONSEIGNEUR WELCOME</text>
+            </navLabel>
+            <content src="les-miserables-3.html#dlepubid00023"/>
+          </navPoint>
+          <navPoint id="np-25" playOrder="25">
+            <navLabel>
+              <text>CHAPTER XIII&#8212;WHAT HE BELIEVED</text>
+            </navLabel>
+            <content src="les-miserables-3.html#dlepubid00024"/>
+          </navPoint>
+          <navPoint id="np-26" playOrder="26">
+            <navLabel>
+              <text>CHAPTER XIV&#8212;WHAT HE THOUGHT</text>
+            </navLabel>
+            <content src="les-miserables-3.html#dlepubid00025"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="np-27" playOrder="27">
+          <navLabel>
+            <text>BOOK SECOND&#8212;THE FALL</text>
+          </navLabel>
+          <content src="les-miserables-3.html#dlepubid00026"/>
+          <navPoint id="np-28" playOrder="28">
+            <navLabel>
+              <text>CHAPTER I&#8212;THE EVENING OF A DAY OF WALKING</text>
+            </navLabel>
+            <content src="les-miserables-3.html#dlepubid00027"/>
+          </navPoint>
+          <navPoint id="np-29" playOrder="29">
+            <navLabel>
+              <text>CHAPTER II&#8212;PRUDENCE COUNSELLED TO WISDOM.</text>
+            </navLabel>
+            <content src="les-miserables-4.html#dlepubid00028"/>
+          </navPoint>
+          <navPoint id="np-30" playOrder="30">
+            <navLabel>
+              <text>CHAPTER III&#8212;THE HEROISM OF PASSIVE OBEDIENCE.</text>
+            </navLabel>
+            <content src="les-miserables-4.html#dlepubid00029"/>
+          </navPoint>
+          <navPoint id="np-32" playOrder="32">
+            <navLabel>
+              <text>CHAPTER IV&#8212;DETAILS CONCERNING THE CHEESE-DAIRIES OF PONTARLIER.</text>
+            </navLabel>
+            <content src="les-miserables-4.html#dlepubid00031"/>
+          </navPoint>
+          <navPoint id="np-33" playOrder="33">
+            <navLabel>
+              <text>CHAPTER V&#8212;TRANQUILLITY</text>
+            </navLabel>
+            <content src="les-miserables-4.html#dlepubid00032"/>
+          </navPoint>
+          <navPoint id="np-34" playOrder="34">
+            <navLabel>
+              <text>CHAPTER VI&#8212;JEAN VALJEAN</text>
+            </navLabel>
+            <content src="les-miserables-4.html#dlepubid00033"/>
+          </navPoint>
+          <navPoint id="np-36" playOrder="36">
+            <navLabel>
+              <text>CHAPTER VII&#8212;THE INTERIOR OF DESPAIR</text>
+            </navLabel>
+            <content src="les-miserables-4.html#dlepubid00035"/>
+          </navPoint>
+          <navPoint id="np-37" playOrder="37">
+            <navLabel>
+              <text>CHAPTER VIII&#8212;BILLOWS AND SHADOWS</text>
+            </navLabel>
+            <content src="les-miserables-5.html#dlepubid00036"/>
+          </navPoint>
+          <navPoint id="np-38" playOrder="38">
+            <navLabel>
+              <text>CHAPTER IX&#8212;NEW TROUBLES</text>
+            </navLabel>
+            <content src="les-miserables-5.html#dlepubid00037"/>
+          </navPoint>
+          <navPoint id="np-39" playOrder="39">
+            <navLabel>
+              <text>CHAPTER X&#8212;THE MAN AROUSED</text>
+            </navLabel>
+            <content src="les-miserables-5.html#dlepubid00038"/>
+          </navPoint>
+          <navPoint id="np-41" playOrder="41">
+            <navLabel>
+              <text>CHAPTER XI&#8212;WHAT HE DOES</text>
+            </navLabel>
+            <content src="les-miserables-5.html#dlepubid00040"/>
+          </navPoint>
+          <navPoint id="np-43" playOrder="43">
+            <navLabel>
+              <text>CHAPTER XII&#8212;THE BISHOP WORKS</text>
+            </navLabel>
+            <content src="les-miserables-5.html#dlepubid00042"/>
+          </navPoint>
+          <navPoint id="np-44" playOrder="44">
+            <navLabel>
+              <text>CHAPTER XIII&#8212;LITTLE GERVAIS</text>
+            </navLabel>
+            <content src="les-miserables-5.html#dlepubid00043"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="np-45" playOrder="45">
+          <navLabel>
+            <text>BOOK THIRD.&#8212;IN THE YEAR 1817</text>
+          </navLabel>
+          <content src="les-miserables-6.html#dlepubid00044"/>
+          <navPoint id="np-46" playOrder="46">
+            <navLabel>
+              <text>CHAPTER I&#8212;THE YEAR 1817</text>
+            </navLabel>
+            <content src="les-miserables-6.html#dlepubid00045"/>
+          </navPoint>
+          <navPoint id="np-47" playOrder="47">
+            <navLabel>
+              <text>CHAPTER II&#8212;A DOUBLE QUARTETTE</text>
+            </navLabel>
+            <content src="les-miserables-6.html#dlepubid00046"/>
+          </navPoint>
+          <navPoint id="np-48" playOrder="48">
+            <navLabel>
+              <text>CHAPTER III&#8212;FOUR AND FOUR</text>
+            </navLabel>
+            <content src="les-miserables-6.html#dlepubid00047"/>
+          </navPoint>
+          <navPoint id="np-49" playOrder="49">
+            <navLabel>
+              <text>CHAPTER IV&#8212;THOLOMYES IS SO MERRY THAT HE SINGS A SPANISH DITTY</text>
+            </navLabel>
+            <content src="les-miserables-6.html#dlepubid00048"/>
+          </navPoint>
+          <navPoint id="np-50" playOrder="50">
+            <navLabel>
+              <text>CHAPTER V&#8212;AT BOMBARDA'S</text>
+            </navLabel>
+            <content src="les-miserables-6.html#dlepubid00049"/>
+          </navPoint>
+          <navPoint id="np-51" playOrder="51">
+            <navLabel>
+              <text>CHAPTER VI&#8212;A CHAPTER IN WHICH THEY ADORE EACH OTHER</text>
+            </navLabel>
+            <content src="les-miserables-7.html#dlepubid00050"/>
+          </navPoint>
+          <navPoint id="np-52" playOrder="52">
+            <navLabel>
+              <text>CHAPTER VII&#8212;THE WISDOM OF THOLOMYES</text>
+            </navLabel>
+            <content src="les-miserables-7.html#dlepubid00051"/>
+          </navPoint>
+          <navPoint id="np-53" playOrder="53">
+            <navLabel>
+              <text>CHAPTER VIII&#8212;THE DEATH OF A HORSE</text>
+            </navLabel>
+            <content src="les-miserables-7.html#dlepubid00052"/>
+          </navPoint>
+          <navPoint id="np-54" playOrder="54">
+            <navLabel>
+              <text>CHAPTER IX&#8212;A MERRY END TO MIRTH</text>
+            </navLabel>
+            <content src="les-miserables-7.html#dlepubid00053"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="np-55" playOrder="55">
+          <navLabel>
+            <text>BOOK FOURTH.&#8212;TO CONFIDE IS SOMETIMES TO DELIVER INTO A PERSON'S POWER</text>
+          </navLabel>
+          <content src="les-miserables-7.html#dlepubid00054"/>
+          <navPoint id="np-56" playOrder="56">
+            <navLabel>
+              <text>CHAPTER I&#8212;ONE MOTHER MEETS ANOTHER MOTHER</text>
+            </navLabel>
+            <content src="les-miserables-7.html#dlepubid00055"/>
+          </navPoint>
+          <navPoint id="np-57" playOrder="57">
+            <navLabel>
+              <text>CHAPTER II&#8212;FIRST SKETCH OF TWO UNPREPOSSESSING FIGURES</text>
+            </navLabel>
+            <content src="les-miserables-8.html#dlepubid00056"/>
+          </navPoint>
+          <navPoint id="np-58" playOrder="58">
+            <navLabel>
+              <text>CHAPTER III&#8212;THE LARK</text>
+            </navLabel>
+            <content src="les-miserables-8.html#dlepubid00057"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="np-59" playOrder="59">
+          <navLabel>
+            <text>BOOK FIFTH.&#8212;THE DESCENT.</text>
+          </navLabel>
+          <content src="les-miserables-8.html#dlepubid00058"/>
+          <navPoint id="np-60" playOrder="60">
+            <navLabel>
+              <text>CHAPTER I&#8212;THE HISTORY OF A PROGRESS IN BLACK GLASS TRINKETS</text>
+            </navLabel>
+            <content src="les-miserables-8.html#dlepubid00059"/>
+          </navPoint>
+          <navPoint id="np-61" playOrder="61">
+            <navLabel>
+              <text>CHAPTER II&#8212;MADELEINE</text>
+            </navLabel>
+            <content src="les-miserables-8.html#dlepubid00060"/>
+          </navPoint>
+          <navPoint id="np-62" playOrder="62">
+            <navLabel>
+              <text>CHAPTER III&#8212;SUMS DEPOSITED WITH LAFFITTE</text>
+            </navLabel>
+            <content src="les-miserables-8.html#dlepubid00061"/>
+          </navPoint>
+          <navPoint id="np-63" playOrder="63">
+            <navLabel>
+              <text>CHAPTER IV&#8212;M. MADELEINE IN MOURNING</text>
+            </navLabel>
+            <content src="les-miserables-8.html#dlepubid00062"/>
+          </navPoint>
+          <navPoint id="np-64" playOrder="64">
+            <navLabel>
+              <text>CHAPTER V&#8212;VAGUE FLASHES ON THE HORIZON</text>
+            </navLabel>
+            <content src="les-miserables-8.html#dlepubid00063"/>
+          </navPoint>
+          <navPoint id="np-65" playOrder="65">
+            <navLabel>
+              <text>CHAPTER VI&#8212;FATHER FAUCHELEVENT</text>
+            </navLabel>
+            <content src="les-miserables-9.html#dlepubid00064"/>
+          </navPoint>
+          <navPoint id="np-66" playOrder="66">
+            <navLabel>
+              <text>CHAPTER VII&#8212;FAUCHELEVENT BECOMES A GARDENER IN PARIS</text>
+            </navLabel>
+            <content src="les-miserables-9.html#dlepubid00065"/>
+          </navPoint>
+          <navPoint id="np-67" playOrder="67">
+            <navLabel>
+              <text>CHAPTER VIII&#8212;MADAME VICTURNIEN EXPENDS THIRTY FRANCS ON MORALITY</text>
+            </navLabel>
+            <content src="les-miserables-9.html#dlepubid00066"/>
+          </navPoint>
+          <navPoint id="np-68" playOrder="68">
+            <navLabel>
+              <text>CHAPTER IX&#8212;MADAME VICTURNIEN'S SUCCESS</text>
+            </navLabel>
+            <content src="les-miserables-9.html#dlepubid00067"/>
+          </navPoint>
+          <navPoint id="np-70" playOrder="70">
+            <navLabel>
+              <text>CHAPTER X&#8212;RESULT OF THE SUCCESS</text>
+            </navLabel>
+            <content src="les-miserables-9.html#dlepubid00069"/>
+          </navPoint>
+          <navPoint id="np-71" playOrder="71">
+            <navLabel>
+              <text>CHAPTER XI&#8212;CHRISTUS NOS LIBERAVIT</text>
+            </navLabel>
+            <content src="les-miserables-9.html#dlepubid00070"/>
+          </navPoint>
+          <navPoint id="np-73" playOrder="73">
+            <navLabel>
+              <text>CHAPTER XII&#8212;M. BAMATABOIS'S INACTIVITY</text>
+            </navLabel>
+            <content src="les-miserables-9.html#dlepubid00072"/>
+          </navPoint>
+          <navPoint id="np-74" playOrder="74">
+            <navLabel>
+              <text>CHAPTER XIII&#8212;THE SOLUTION OF SOME QUESTIONS CONNECTED WITH THE</text>
+            </navLabel>
+            <content src="les-miserables-9.html#dlepubid00073"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="np-75" playOrder="75">
+          <navLabel>
+            <text>BOOK SIXTH.&#8212;JAVERT</text>
+          </navLabel>
+          <content src="les-miserables-10.html#dlepubid00074"/>
+          <navPoint id="np-76" playOrder="76">
+            <navLabel>
+              <text>CHAPTER I&#8212;THE BEGINNING OF REPOSE</text>
+            </navLabel>
+            <content src="les-miserables-10.html#dlepubid00075"/>
+          </navPoint>
+          <navPoint id="np-77" playOrder="77">
+            <navLabel>
+              <text>CHAPTER II&#8212;HOW JEAN MAY BECOME CHAMP</text>
+            </navLabel>
+            <content src="les-miserables-10.html#dlepubid00076"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="np-78" playOrder="78">
+          <navLabel>
+            <text>BOOK SEVENTH.&#8212;THE CHAMPMATHIEU AFFAIR</text>
+          </navLabel>
+          <content src="les-miserables-10.html#dlepubid00077"/>
+          <navPoint id="np-79" playOrder="79">
+            <navLabel>
+              <text>CHAPTER I&#8212;SISTER SIMPLICE</text>
+            </navLabel>
+            <content src="les-miserables-10.html#dlepubid00078"/>
+          </navPoint>
+          <navPoint id="np-80" playOrder="80">
+            <navLabel>
+              <text>CHAPTER II&#8212;THE PERSPICACITY OF MASTER SCAUFFLAIRE</text>
+            </navLabel>
+            <content src="les-miserables-10.html#dlepubid00079"/>
+          </navPoint>
+          <navPoint id="np-81" playOrder="81">
+            <navLabel>
+              <text>CHAPTER III&#8212;A TEMPEST IN A SKULL</text>
+            </navLabel>
+            <content src="les-miserables-11.html#dlepubid00080"/>
+          </navPoint>
+          <navPoint id="np-82" playOrder="82">
+            <navLabel>
+              <text>CHAPTER IV&#8212;FORMS ASSUMED BY SUFFERING DURING SLEEP</text>
+            </navLabel>
+            <content src="les-miserables-11.html#dlepubid00081"/>
+          </navPoint>
+          <navPoint id="np-83" playOrder="83">
+            <navLabel>
+              <text>CHAPTER V&#8212;HINDRANCES</text>
+            </navLabel>
+            <content src="les-miserables-12.html#dlepubid00082"/>
+          </navPoint>
+          <navPoint id="np-84" playOrder="84">
+            <navLabel>
+              <text>CHAPTER VI&#8212;SISTER SIMPLICE PUT TO THE PROOF</text>
+            </navLabel>
+            <content src="les-miserables-12.html#dlepubid00083"/>
+          </navPoint>
+          <navPoint id="np-86" playOrder="86">
+            <navLabel>
+              <text>CHAPTER VII&#8212;THE TRAVELLER ON HIS ARRIVAL TAKES PRECAUTIONS FOR</text>
+            </navLabel>
+            <content src="les-miserables-12.html#dlepubid00085"/>
+          </navPoint>
+          <navPoint id="np-87" playOrder="87">
+            <navLabel>
+              <text>CHAPTER VIII&#8212;AN ENTRANCE BY FAVOR</text>
+            </navLabel>
+            <content src="les-miserables-13.html#dlepubid00086"/>
+          </navPoint>
+          <navPoint id="np-88" playOrder="88">
+            <navLabel>
+              <text>CHAPTER IX&#8212;A PLACE WHERE CONVICTIONS ARE IN PROCESS OF FORMATION</text>
+            </navLabel>
+            <content src="les-miserables-13.html#dlepubid00087"/>
+          </navPoint>
+          <navPoint id="np-89" playOrder="89">
+            <navLabel>
+              <text>CHAPTER X&#8212;THE SYSTEM OF DENIALS</text>
+            </navLabel>
+            <content src="les-miserables-13.html#dlepubid00088"/>
+          </navPoint>
+          <navPoint id="np-90" playOrder="90">
+            <navLabel>
+              <text>CHAPTER XI&#8212;CHAMPMATHIEU MORE AND MORE ASTONISHED</text>
+            </navLabel>
+            <content src="les-miserables-13.html#dlepubid00089"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="np-91" playOrder="91">
+          <navLabel>
+            <text>BOOK EIGHTH.&#8212;A COUNTER-BLOW</text>
+          </navLabel>
+          <content src="les-miserables-14.html#dlepubid00090"/>
+          <navPoint id="np-92" playOrder="92">
+            <navLabel>
+              <text>CHAPTER I&#8212;IN WHAT MIRROR M. MADELEINE CONTEMPLATES HIS HAIR</text>
+            </navLabel>
+            <content src="les-miserables-14.html#dlepubid00091"/>
+          </navPoint>
+          <navPoint id="np-93" playOrder="93">
+            <navLabel>
+              <text>CHAPTER II&#8212;FANTINE HAPPY</text>
+            </navLabel>
+            <content src="les-miserables-14.html#dlepubid00092"/>
+          </navPoint>
+          <navPoint id="np-94" playOrder="94">
+            <navLabel>
+              <text>CHAPTER III&#8212;JAVERT SATISFIED</text>
+            </navLabel>
+            <content src="les-miserables-14.html#dlepubid00093"/>
+          </navPoint>
+          <navPoint id="np-96" playOrder="96">
+            <navLabel>
+              <text>CHAPTER IV&#8212;AUTHORITY REASSERTS ITS RIGHTS</text>
+            </navLabel>
+            <content src="les-miserables-14.html#dlepubid00095"/>
+          </navPoint>
+          <navPoint id="np-97" playOrder="97">
+            <navLabel>
+              <text>CHAPTER V&#8212;A SUITABLE TOMB</text>
+            </navLabel>
+            <content src="les-miserables-14.html#dlepubid00096"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-99" playOrder="99">
+        <navLabel>
+          <text>VOLUME II.&#8212;COSETTE</text>
+        </navLabel>
+        <content src="les-miserables-15.html#dlepubid00098"/>
+        <navPoint id="np-100" playOrder="100">
+          <navLabel>
+            <text>BOOK FIRST.&#8212;WATERLOO</text>
+          </navLabel>
+          <content src="les-miserables-15.html#dlepubid00099"/>
+          <navPoint id="np-101" playOrder="101">
+            <navLabel>
+              <text>CHAPTER I&#8212;WHAT IS MET WITH ON THE WAY FROM NIVELLES</text>
+            </navLabel>
+            <content src="les-miserables-15.html#dlepubid00100"/>
+          </navPoint>
+          <navPoint id="np-102" playOrder="102">
+            <navLabel>
+              <text>CHAPTER II&#8212;HOUGOMONT</text>
+            </navLabel>
+            <content src="les-miserables-15.html#dlepubid00101"/>
+          </navPoint>
+          <navPoint id="np-103" playOrder="103">
+            <navLabel>
+              <text>CHAPTER III&#8212;THE EIGHTEENTH OF JUNE, 1815</text>
+            </navLabel>
+            <content src="les-miserables-15.html#dlepubid00102"/>
+          </navPoint>
+          <navPoint id="np-104" playOrder="104">
+            <navLabel>
+              <text>CHAPTER IV&#8212;A</text>
+            </navLabel>
+            <content src="les-miserables-15.html#dlepubid00103"/>
+          </navPoint>
+          <navPoint id="np-105" playOrder="105">
+            <navLabel>
+              <text>CHAPTER V&#8212;THE QUID OBSCURUM OF BATTLES</text>
+            </navLabel>
+            <content src="les-miserables-15.html#dlepubid00104"/>
+          </navPoint>
+          <navPoint id="np-106" playOrder="106">
+            <navLabel>
+              <text>CHAPTER VI&#8212;FOUR O'CLOCK IN THE AFTERNOON</text>
+            </navLabel>
+            <content src="les-miserables-15.html#dlepubid00105"/>
+          </navPoint>
+          <navPoint id="np-107" playOrder="107">
+            <navLabel>
+              <text>CHAPTER VII&#8212;NAPOLEON IN A GOOD HUMOR</text>
+            </navLabel>
+            <content src="les-miserables-15.html#dlepubid00106"/>
+          </navPoint>
+          <navPoint id="np-108" playOrder="108">
+            <navLabel>
+              <text>CHAPTER VIII&#8212;THE EMPEROR PUTS A QUESTION TO THE GUIDE LACOSTE</text>
+            </navLabel>
+            <content src="les-miserables-16.html#dlepubid00107"/>
+          </navPoint>
+          <navPoint id="np-110" playOrder="110">
+            <navLabel>
+              <text>CHAPTER IX&#8212;THE UNEXPECTED</text>
+            </navLabel>
+            <content src="les-miserables-16.html#dlepubid00109"/>
+          </navPoint>
+          <navPoint id="np-111" playOrder="111">
+            <navLabel>
+              <text>CHAPTER X&#8212;THE PLATEAU OF MONT-SAINT-JEAN</text>
+            </navLabel>
+            <content src="les-miserables-16.html#dlepubid00110"/>
+          </navPoint>
+          <navPoint id="np-113" playOrder="113">
+            <navLabel>
+              <text>CHAPTER XI&#8212;A BAD GUIDE TO NAPOLEON; A GOOD GUIDE TO BULOW</text>
+            </navLabel>
+            <content src="les-miserables-16.html#dlepubid00112"/>
+          </navPoint>
+          <navPoint id="np-114" playOrder="114">
+            <navLabel>
+              <text>CHAPTER XII&#8212;THE GUARD</text>
+            </navLabel>
+            <content src="les-miserables-16.html#dlepubid00113"/>
+          </navPoint>
+          <navPoint id="np-115" playOrder="115">
+            <navLabel>
+              <text>CHAPTER XIII&#8212;THE CATASTROPHE</text>
+            </navLabel>
+            <content src="les-miserables-16.html#dlepubid00114"/>
+          </navPoint>
+          <navPoint id="np-117" playOrder="117">
+            <navLabel>
+              <text>CHAPTER XIV&#8212;THE LAST SQUARE</text>
+            </navLabel>
+            <content src="les-miserables-16.html#dlepubid00116"/>
+          </navPoint>
+          <navPoint id="np-118" playOrder="118">
+            <navLabel>
+              <text>CHAPTER XV&#8212;CAMBRONNE</text>
+            </navLabel>
+            <content src="les-miserables-16.html#dlepubid00117"/>
+          </navPoint>
+          <navPoint id="np-119" playOrder="119">
+            <navLabel>
+              <text>CHAPTER XVI&#8212;QUOT LIBRAS IN DUCE?</text>
+            </navLabel>
+            <content src="les-miserables-16.html#dlepubid00118"/>
+          </navPoint>
+          <navPoint id="np-120" playOrder="120">
+            <navLabel>
+              <text>CHAPTER XVII&#8212;IS WATERLOO TO BE CONSIDERED GOOD?</text>
+            </navLabel>
+            <content src="les-miserables-17.html#dlepubid00119"/>
+          </navPoint>
+          <navPoint id="np-121" playOrder="121">
+            <navLabel>
+              <text>CHAPTER XVIII&#8212;A RECRUDESCENCE OF DIVINE RIGHT</text>
+            </navLabel>
+            <content src="les-miserables-17.html#dlepubid00120"/>
+          </navPoint>
+          <navPoint id="np-123" playOrder="123">
+            <navLabel>
+              <text>CHAPTER XIX&#8212;THE BATTLE-FIELD AT NIGHT</text>
+            </navLabel>
+            <content src="les-miserables-17.html#dlepubid00122"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="np-124" playOrder="124">
+          <navLabel>
+            <text>BOOK SECOND.&#8212;THE SHIP ORION</text>
+          </navLabel>
+          <content src="les-miserables-17.html#dlepubid00123"/>
+          <navPoint id="np-125" playOrder="125">
+            <navLabel>
+              <text>CHAPTER I&#8212;NUMBER 24,601 BECOMES NUMBER 9,430</text>
+            </navLabel>
+            <content src="les-miserables-17.html#dlepubid00124"/>
+          </navPoint>
+          <navPoint id="np-127" playOrder="127">
+            <navLabel>
+              <text>CHAPTER II&#8212;IN WHICH THE READER WILL PERUSE TWO VERSES, WHICH ARE OF THE DEVIL'S COMPOSITION, POSSIBLY</text>
+            </navLabel>
+            <content src="les-miserables-17.html#dlepubid00126"/>
+          </navPoint>
+          <navPoint id="np-128" playOrder="128">
+            <navLabel>
+              <text>CHAPTER III&#8212;THE ANKLE-CHAIN MUST HAVE UNDERGONE A CERTAIN PREPARATORY MANIPULATION TO BE THUS BROKEN WITH A BLOW FROM A HAMMER</text>
+            </navLabel>
+            <content src="les-miserables-17.html#dlepubid00127"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="np-129" playOrder="129">
+          <navLabel>
+            <text>BOOK THIRD.&#8212;ACCOMPLISHMENT OF THE PROMISE MADE TO THE DEAD WOMAN</text>
+          </navLabel>
+          <content src="les-miserables-18.html#dlepubid00128"/>
+        </navPoint>
+        <navPoint id="np-130" playOrder="130">
+          <navLabel>
+            <text>CHAPTER I&#8212;THE WATER QUESTION AT MONTFERMEIL</text>
+          </navLabel>
+          <content src="les-miserables-18.html#dlepubid00129"/>
+        </navPoint>
+        <navPoint id="np-131" playOrder="131">
+          <navLabel>
+            <text>CHAPTER II&#8212;TWO COMPLETE PORTRAITS</text>
+          </navLabel>
+          <content src="les-miserables-18.html#dlepubid00130"/>
+        </navPoint>
+        <navPoint id="np-132" playOrder="132">
+          <navLabel>
+            <text>CHAPTER III&#8212;MEN MUST HAVE WINE, AND HORSES MUST HAVE WATER</text>
+          </navLabel>
+          <content src="les-miserables-18.html#dlepubid00131"/>
+        </navPoint>
+        <navPoint id="np-134" playOrder="134">
+          <navLabel>
+            <text>CHAPTER IV&#8212;ENTRANCE ON THE SCENE OF A DOLL</text>
+          </navLabel>
+          <content src="les-miserables-18.html#dlepubid00133"/>
+        </navPoint>
+        <navPoint id="np-135" playOrder="135">
+          <navLabel>
+            <text>CHAPTER V&#8212;THE LITTLE ONE ALL ALONE</text>
+          </navLabel>
+          <content src="les-miserables-18.html#dlepubid00134"/>
+        </navPoint>
+        <navPoint id="np-136" playOrder="136">
+          <navLabel>
+            <text>CHAPTER VI&#8212;WHICH POSSIBLY PROVES BOULATRUELLE'S INTELLIGENCE</text>
+          </navLabel>
+          <content src="les-miserables-19.html#dlepubid00135"/>
+        </navPoint>
+        <navPoint id="np-137" playOrder="137">
+          <navLabel>
+            <text>CHAPTER VII&#8212;COSETTE SIDE BY SIDE WITH THE STRANGER IN THE DARK</text>
+          </navLabel>
+          <content src="les-miserables-19.html#dlepubid00136"/>
+        </navPoint>
+        <navPoint id="np-139" playOrder="139">
+          <navLabel>
+            <text>CHAPTER VIII&#8212;THE UNPLEASANTNESS OF RECEIVING INTO ONE'S HOUSE A POOR MAN WHO MAY BE A RICH MAN</text>
+          </navLabel>
+          <content src="les-miserables-19.html#dlepubid00138"/>
+        </navPoint>
+        <navPoint id="np-140" playOrder="140">
+          <navLabel>
+            <text>CHAPTER IX&#8212;THENARDIER AND HIS MANOEUVRES</text>
+          </navLabel>
+          <content src="les-miserables-20.html#dlepubid00139"/>
+        </navPoint>
+        <navPoint id="np-141" playOrder="141">
+          <navLabel>
+            <text>CHAPTER X&#8212;HE WHO SEEKS TO BETTER HIMSELF MAY RENDER HIS SITUATION WORSE</text>
+          </navLabel>
+          <content src="les-miserables-20.html#dlepubid00140"/>
+        </navPoint>
+        <navPoint id="np-142" playOrder="142">
+          <navLabel>
+            <text>CHAPTER XI&#8212;NUMBER 9,430 REAPPEARS, AND COSETTE WINS IT IN THE LOTTERY</text>
+          </navLabel>
+          <content src="les-miserables-20.html#dlepubid00141"/>
+        </navPoint>
+        <navPoint id="np-144" playOrder="144">
+          <navLabel>
+            <text>BOOK FOURTH.&#8212;THE GORBEAU HOVEL</text>
+          </navLabel>
+          <content src="les-miserables-20.html#dlepubid00143"/>
+        </navPoint>
+        <navPoint id="np-145" playOrder="145">
+          <navLabel>
+            <text>CHAPTER I&#8212;MASTER GORBEAU</text>
+          </navLabel>
+          <content src="les-miserables-20.html#dlepubid00144"/>
+        </navPoint>
+        <navPoint id="np-146" playOrder="146">
+          <navLabel>
+            <text>CHAPTER II&#8212;A NEST FOR OWL AND A WARBLER</text>
+          </navLabel>
+          <content src="les-miserables-21.html#dlepubid00145"/>
+        </navPoint>
+        <navPoint id="np-147" playOrder="147">
+          <navLabel>
+            <text>CHAPTER III&#8212;TWO MISFORTUNES MAKE ONE PIECE OF GOOD FORTUNE</text>
+          </navLabel>
+          <content src="les-miserables-21.html#dlepubid00146"/>
+        </navPoint>
+        <navPoint id="np-148" playOrder="148">
+          <navLabel>
+            <text>CHAPTER IV&#8212;THE REMARKS OF THE PRINCIPAL TENANT</text>
+          </navLabel>
+          <content src="les-miserables-21.html#dlepubid00147"/>
+        </navPoint>
+        <navPoint id="np-149" playOrder="149">
+          <navLabel>
+            <text>CHAPTER V&#8212;A FIVE-FRANC PIECE FALLS ON THE GROUND AND PRODUCES A TUMULT</text>
+          </navLabel>
+          <content src="les-miserables-21.html#dlepubid00148"/>
+        </navPoint>
+        <navPoint id="np-150" playOrder="150">
+          <navLabel>
+            <text>BOOK FIFTH.&#8212;FOR A BLACK HUNT, A MUTE PACK</text>
+          </navLabel>
+          <content src="les-miserables-21.html#dlepubid00149"/>
+        </navPoint>
+        <navPoint id="np-151" playOrder="151">
+          <navLabel>
+            <text>CHAPTER I&#8212;THE ZIGZAGS OF STRATEGY</text>
+          </navLabel>
+          <content src="les-miserables-21.html#dlepubid00150"/>
+        </navPoint>
+        <navPoint id="np-152" playOrder="152">
+          <navLabel>
+            <text>CHAPTER II&#8212;IT IS LUCKY THAT THE PONT D'AUSTERLITZ BEARS CARRIAGES</text>
+          </navLabel>
+          <content src="les-miserables-21.html#dlepubid00151"/>
+        </navPoint>
+        <navPoint id="np-153" playOrder="153">
+          <navLabel>
+            <text>CHAPTER III&#8212;TO WIT, THE PLAN OF PARIS IN 1727</text>
+          </navLabel>
+          <content src="les-miserables-21.html#dlepubid00152"/>
+        </navPoint>
+        <navPoint id="np-154" playOrder="154">
+          <navLabel>
+            <text>CHAPTER IV&#8212;THE GROPINGS OF FLIGHT</text>
+          </navLabel>
+          <content src="les-miserables-22.html#dlepubid00153"/>
+        </navPoint>
+        <navPoint id="np-155" playOrder="155">
+          <navLabel>
+            <text>CHAPTER V&#8212;WHICH WOULD BE IMPOSSIBLE WITH GAS LANTERNS</text>
+          </navLabel>
+          <content src="les-miserables-22.html#dlepubid00154"/>
+        </navPoint>
+        <navPoint id="np-156" playOrder="156">
+          <navLabel>
+            <text>CHAPTER VI&#8212;THE BEGINNING OF AN ENIGMA</text>
+          </navLabel>
+          <content src="les-miserables-22.html#dlepubid00155"/>
+        </navPoint>
+        <navPoint id="np-157" playOrder="157">
+          <navLabel>
+            <text>CHAPTER VII&#8212;CONTINUATION OF THE ENIGMA</text>
+          </navLabel>
+          <content src="les-miserables-22.html#dlepubid00156"/>
+        </navPoint>
+        <navPoint id="np-158" playOrder="158">
+          <navLabel>
+            <text>CHAPTER VIII&#8212;THE ENIGMA BECOMES DOUBLY MYSTERIOUS</text>
+          </navLabel>
+          <content src="les-miserables-22.html#dlepubid00157"/>
+        </navPoint>
+        <navPoint id="np-160" playOrder="160">
+          <navLabel>
+            <text>CHAPTER IX&#8212;THE MAN WITH THE BELL</text>
+          </navLabel>
+          <content src="les-miserables-22.html#dlepubid00159"/>
+        </navPoint>
+        <navPoint id="np-161" playOrder="161">
+          <navLabel>
+            <text>CHAPTER X&#8212;WHICH EXPLAINS HOW JAVERT GOT ON THE SCENT</text>
+          </navLabel>
+          <content src="les-miserables-22.html#dlepubid00160"/>
+        </navPoint>
+        <navPoint id="np-162" playOrder="162">
+          <navLabel>
+            <text>BOOK SIXTH.&#8212;LE PETIT-PICPUS</text>
+          </navLabel>
+          <content src="les-miserables-23.html#dlepubid00161"/>
+        </navPoint>
+        <navPoint id="np-163" playOrder="163">
+          <navLabel>
+            <text>CHAPTER I&#8212;NUMBER 62 RUE PETIT-PICPUS</text>
+          </navLabel>
+          <content src="les-miserables-23.html#dlepubid00162"/>
+        </navPoint>
+        <navPoint id="np-164" playOrder="164">
+          <navLabel>
+            <text>CHAPTER II&#8212;THE OBEDIENCE OF MARTIN VERGA</text>
+          </navLabel>
+          <content src="les-miserables-23.html#dlepubid00163"/>
+        </navPoint>
+        <navPoint id="np-165" playOrder="165">
+          <navLabel>
+            <text>CHAPTER III&#8212;AUSTERITIES</text>
+          </navLabel>
+          <content src="les-miserables-23.html#dlepubid00164"/>
+        </navPoint>
+        <navPoint id="np-166" playOrder="166">
+          <navLabel>
+            <text>CHAPTER IV&#8212;GAYETIES</text>
+          </navLabel>
+          <content src="les-miserables-23.html#dlepubid00165"/>
+        </navPoint>
+        <navPoint id="np-167" playOrder="167">
+          <navLabel>
+            <text>CHAPTER V&#8212;DISTRACTIONS</text>
+          </navLabel>
+          <content src="les-miserables-23.html#dlepubid00166"/>
+        </navPoint>
+        <navPoint id="np-168" playOrder="168">
+          <navLabel>
+            <text>CHAPTER VI&#8212;THE LITTLE CONVENT</text>
+          </navLabel>
+          <content src="les-miserables-24.html#dlepubid00167"/>
+        </navPoint>
+        <navPoint id="np-169" playOrder="169">
+          <navLabel>
+            <text>CHAPTER VII&#8212;SOME SILHOUETTES OF THIS DARKNESS</text>
+          </navLabel>
+          <content src="les-miserables-24.html#dlepubid00168"/>
+        </navPoint>
+        <navPoint id="np-170" playOrder="170">
+          <navLabel>
+            <text>CHAPTER VIII&#8212;POST CORDA LAPIDES</text>
+          </navLabel>
+          <content src="les-miserables-24.html#dlepubid00169"/>
+        </navPoint>
+        <navPoint id="np-171" playOrder="171">
+          <navLabel>
+            <text>CHAPTER IX&#8212;A CENTURY UNDER A GUIMPE</text>
+          </navLabel>
+          <content src="les-miserables-24.html#dlepubid00170"/>
+        </navPoint>
+        <navPoint id="np-172" playOrder="172">
+          <navLabel>
+            <text>CHAPTER X&#8212;ORIGIN OF THE PERPETUAL ADORATION</text>
+          </navLabel>
+          <content src="les-miserables-24.html#dlepubid00171"/>
+        </navPoint>
+        <navPoint id="np-173" playOrder="173">
+          <navLabel>
+            <text>CHAPTER XI&#8212;END OF THE PETIT-PICPUS</text>
+          </navLabel>
+          <content src="les-miserables-24.html#dlepubid00172"/>
+        </navPoint>
+        <navPoint id="np-174" playOrder="174">
+          <navLabel>
+            <text>BOOK SEVENTH.&#8212;PARENTHESIS</text>
+          </navLabel>
+          <content src="les-miserables-24.html#dlepubid00173"/>
+        </navPoint>
+        <navPoint id="np-175" playOrder="175">
+          <navLabel>
+            <text>CHAPTER I&#8212;THE CONVENT AS AN ABSTRACT IDEA</text>
+          </navLabel>
+          <content src="les-miserables-24.html#dlepubid00174"/>
+        </navPoint>
+        <navPoint id="np-177" playOrder="177">
+          <navLabel>
+            <text>CHAPTER II&#8212;THE CONVENT AS AN HISTORICAL FACT</text>
+          </navLabel>
+          <content src="les-miserables-24.html#dlepubid00176"/>
+        </navPoint>
+        <navPoint id="np-178" playOrder="178">
+          <navLabel>
+            <text>CHAPTER III&#8212;ON WHAT CONDITIONS ONE CAN RESPECT THE PAST</text>
+          </navLabel>
+          <content src="les-miserables-24.html#dlepubid00177"/>
+        </navPoint>
+        <navPoint id="np-179" playOrder="179">
+          <navLabel>
+            <text>CHAPTER IV&#8212;THE CONVENT FROM THE POINT OF VIEW OF PRINCIPLES</text>
+          </navLabel>
+          <content src="les-miserables-24.html#dlepubid00178"/>
+        </navPoint>
+        <navPoint id="np-180" playOrder="180">
+          <navLabel>
+            <text>CHAPTER V&#8212;PRAYER</text>
+          </navLabel>
+          <content src="les-miserables-24.html#dlepubid00179"/>
+        </navPoint>
+        <navPoint id="np-182" playOrder="182">
+          <navLabel>
+            <text>CHAPTER VI&#8212;THE ABSOLUTE GOODNESS OF PRAYER</text>
+          </navLabel>
+          <content src="les-miserables-25.html#dlepubid00181"/>
+        </navPoint>
+        <navPoint id="np-183" playOrder="183">
+          <navLabel>
+            <text>CHAPTER VII&#8212;PRECAUTIONS TO BE OBSERVED IN BLAME</text>
+          </navLabel>
+          <content src="les-miserables-25.html#dlepubid00182"/>
+        </navPoint>
+        <navPoint id="np-184" playOrder="184">
+          <navLabel>
+            <text>CHAPTER VIII&#8212;FAITH, LAW</text>
+          </navLabel>
+          <content src="les-miserables-25.html#dlepubid00183"/>
+        </navPoint>
+        <navPoint id="np-186" playOrder="186">
+          <navLabel>
+            <text>BOOK EIGHTH.&#8212;CEMETERIES TAKE THAT WHICH IS COMMITTED THEM</text>
+          </navLabel>
+          <content src="les-miserables-25.html#dlepubid00185"/>
+        </navPoint>
+        <navPoint id="np-187" playOrder="187">
+          <navLabel>
+            <text>CHAPTER I&#8212;WHICH TREATS OF THE MANNER OF ENTERING A CONVENT</text>
+          </navLabel>
+          <content src="les-miserables-25.html#dlepubid00186"/>
+        </navPoint>
+        <navPoint id="np-188" playOrder="188">
+          <navLabel>
+            <text>CHAPTER II&#8212;FAUCHELEVENT IN THE PRESENCE OF A DIFFICULTY</text>
+          </navLabel>
+          <content src="les-miserables-25.html#dlepubid00187"/>
+        </navPoint>
+        <navPoint id="np-189" playOrder="189">
+          <navLabel>
+            <text>CHAPTER III&#8212;MOTHER INNOCENTE</text>
+          </navLabel>
+          <content src="les-miserables-25.html#dlepubid00188"/>
+        </navPoint>
+        <navPoint id="np-190" playOrder="190">
+          <navLabel>
+            <text>CHAPTER IV&#8212;IN WHICH JEAN VALJEAN HAS QUITE THE AIR OF HAVING READ</text>
+          </navLabel>
+          <content src="les-miserables-26.html#dlepubid00189"/>
+        </navPoint>
+        <navPoint id="np-191" playOrder="191">
+          <navLabel>
+            <text>CHAPTER V&#8212;IT IS NOT NECESSARY TO BE DRUNK IN ORDER TO BE IMMORTAL</text>
+          </navLabel>
+          <content src="les-miserables-26.html#dlepubid00190"/>
+        </navPoint>
+        <navPoint id="np-192" playOrder="192">
+          <navLabel>
+            <text>CHAPTER VI&#8212;BETWEEN FOUR PLANKS</text>
+          </navLabel>
+          <content src="les-miserables-26.html#dlepubid00191"/>
+        </navPoint>
+        <navPoint id="np-194" playOrder="194">
+          <navLabel>
+            <text>CHAPTER VII&#8212;IN WHICH WILL BE FOUND THE ORIGIN OF THE SAYING: DON'T LOSE THE CARD</text>
+          </navLabel>
+          <content src="les-miserables-26.html#dlepubid00193"/>
+        </navPoint>
+        <navPoint id="np-195" playOrder="195">
+          <navLabel>
+            <text>CHAPTER VIII&#8212;A SUCCESSFUL INTERROGATORY</text>
+          </navLabel>
+          <content src="les-miserables-27.html#dlepubid00194"/>
+        </navPoint>
+        <navPoint id="np-196" playOrder="196">
+          <navLabel>
+            <text>CHAPTER IX&#8212;CLOISTERED</text>
+          </navLabel>
+          <content src="les-miserables-27.html#dlepubid00195"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-198" playOrder="198">
+        <navLabel>
+          <text>VOLUME III&#8212;MARIUS.</text>
+        </navLabel>
+        <content src="les-miserables-27.html#dlepubid00197"/>
+        <navPoint id="np-199" playOrder="199">
+          <navLabel>
+            <text>BOOK FIRST.&#8212;PARIS STUDIED IN ITS ATOM</text>
+          </navLabel>
+          <content src="les-miserables-27.html#dlepubid00198"/>
+        </navPoint>
+        <navPoint id="np-200" playOrder="200">
+          <navLabel>
+            <text>CHAPTER I&#8212;PARVULUS</text>
+          </navLabel>
+          <content src="les-miserables-27.html#dlepubid00199"/>
+        </navPoint>
+        <navPoint id="np-201" playOrder="201">
+          <navLabel>
+            <text>CHAPTER II&#8212;SOME OF HIS PARTICULAR CHARACTERISTICS</text>
+          </navLabel>
+          <content src="les-miserables-27.html#dlepubid00200"/>
+        </navPoint>
+        <navPoint id="np-203" playOrder="203">
+          <navLabel>
+            <text>CHAPTER III&#8212;HE IS AGREEABLE</text>
+          </navLabel>
+          <content src="les-miserables-27.html#dlepubid00202"/>
+        </navPoint>
+        <navPoint id="np-204" playOrder="204">
+          <navLabel>
+            <text>CHAPTER IV&#8212;HE MAY BE OF USE</text>
+          </navLabel>
+          <content src="les-miserables-27.html#dlepubid00203"/>
+        </navPoint>
+        <navPoint id="np-205" playOrder="205">
+          <navLabel>
+            <text>CHAPTER V&#8212;HIS FRONTIERS</text>
+          </navLabel>
+          <content src="les-miserables-27.html#dlepubid00204"/>
+        </navPoint>
+        <navPoint id="np-206" playOrder="206">
+          <navLabel>
+            <text>CHAPTER VI&#8212;A BIT OF HISTORY</text>
+          </navLabel>
+          <content src="les-miserables-27.html#dlepubid00205"/>
+        </navPoint>
+        <navPoint id="np-207" playOrder="207">
+          <navLabel>
+            <text>CHAPTER VII&#8212;THE GAMIN SHOULD HAVE HIS PLACE IN THE CLASSIFICATIONS OF INDIA</text>
+          </navLabel>
+          <content src="les-miserables-27.html#dlepubid00206"/>
+        </navPoint>
+        <navPoint id="np-208" playOrder="208">
+          <navLabel>
+            <text>CHAPTER VIII&#8212;IN WHICH THE READER WILL FIND A CHARMING SAYING OF THE LAST KING</text>
+          </navLabel>
+          <content src="les-miserables-28.html#dlepubid00207"/>
+        </navPoint>
+        <navPoint id="np-209" playOrder="209">
+          <navLabel>
+            <text>CHAPTER IX&#8212;THE OLD SOUL OF GAUL</text>
+          </navLabel>
+          <content src="les-miserables-28.html#dlepubid00208"/>
+        </navPoint>
+        <navPoint id="np-210" playOrder="210">
+          <navLabel>
+            <text>CHAPTER X&#8212;ECCE PARIS, ECCE HOMO</text>
+          </navLabel>
+          <content src="les-miserables-28.html#dlepubid00209"/>
+        </navPoint>
+        <navPoint id="np-211" playOrder="211">
+          <navLabel>
+            <text>CHAPTER XI&#8212;TO SCOFF, TO REIGN</text>
+          </navLabel>
+          <content src="les-miserables-28.html#dlepubid00210"/>
+        </navPoint>
+        <navPoint id="np-212" playOrder="212">
+          <navLabel>
+            <text>CHAPTER XII&#8212;THE FUTURE LATENT IN THE PEOPLE</text>
+          </navLabel>
+          <content src="les-miserables-28.html#dlepubid00211"/>
+        </navPoint>
+        <navPoint id="np-213" playOrder="213">
+          <navLabel>
+            <text>CHAPTER XIII&#8212;LITTLE GAVROCHE</text>
+          </navLabel>
+          <content src="les-miserables-28.html#dlepubid00212"/>
+        </navPoint>
+        <navPoint id="np-214" playOrder="214">
+          <navLabel>
+            <text>BOOK SECOND.&#8212;THE GREAT BOURGEOIS</text>
+          </navLabel>
+          <content src="les-miserables-28.html#dlepubid00213"/>
+        </navPoint>
+        <navPoint id="np-215" playOrder="215">
+          <navLabel>
+            <text>CHAPTER I&#8212;NINETY YEARS AND THIRTY-TWO TEETH</text>
+          </navLabel>
+          <content src="les-miserables-28.html#dlepubid00214"/>
+        </navPoint>
+        <navPoint id="np-216" playOrder="216">
+          <navLabel>
+            <text>CHAPTER II&#8212;LIKE MASTER, LIKE HOUSE</text>
+          </navLabel>
+          <content src="les-miserables-28.html#dlepubid00215"/>
+        </navPoint>
+        <navPoint id="np-217" playOrder="217">
+          <navLabel>
+            <text>CHAPTER III&#8212;LUC-ESPRIT</text>
+          </navLabel>
+          <content src="les-miserables-28.html#dlepubid00216"/>
+        </navPoint>
+        <navPoint id="np-218" playOrder="218">
+          <navLabel>
+            <text>CHAPTER IV&#8212;A CENTENARIAN ASPIRANT</text>
+          </navLabel>
+          <content src="les-miserables-28.html#dlepubid00217"/>
+        </navPoint>
+        <navPoint id="np-219" playOrder="219">
+          <navLabel>
+            <text>CHAPTER V&#8212;BASQUE AND NICOLETTE</text>
+          </navLabel>
+          <content src="les-miserables-28.html#dlepubid00218"/>
+        </navPoint>
+        <navPoint id="np-220" playOrder="220">
+          <navLabel>
+            <text>CHAPTER VI&#8212;IN WHICH MAGNON AND HER TWO CHILDREN ARE SEEN</text>
+          </navLabel>
+          <content src="les-miserables-28.html#dlepubid00219"/>
+        </navPoint>
+        <navPoint id="np-221" playOrder="221">
+          <navLabel>
+            <text>CHAPTER VII&#8212;RULE: RECEIVE NO ONE EXCEPT IN THE EVENING</text>
+          </navLabel>
+          <content src="les-miserables-28.html#dlepubid00220"/>
+        </navPoint>
+        <navPoint id="np-222" playOrder="222">
+          <navLabel>
+            <text>CHAPTER VIII&#8212;TWO DO NOT MAKE A PAIR</text>
+          </navLabel>
+          <content src="les-miserables-28.html#dlepubid00221"/>
+        </navPoint>
+        <navPoint id="np-223" playOrder="223">
+          <navLabel>
+            <text>BOOK THIRD.&#8212;THE GRANDFATHER AND THE GRANDSON</text>
+          </navLabel>
+          <content src="les-miserables-29.html#dlepubid00222"/>
+        </navPoint>
+        <navPoint id="np-224" playOrder="224">
+          <navLabel>
+            <text>CHAPTER I&#8212;AN ANCIENT SALON</text>
+          </navLabel>
+          <content src="les-miserables-29.html#dlepubid00223"/>
+        </navPoint>
+        <navPoint id="np-225" playOrder="225">
+          <navLabel>
+            <text>CHAPTER II&#8212;ONE OF THE RED SPECTRES OF THAT EPOCH</text>
+          </navLabel>
+          <content src="les-miserables-29.html#dlepubid00224"/>
+        </navPoint>
+        <navPoint id="np-226" playOrder="226">
+          <navLabel>
+            <text>CHAPTER III&#8212;REQUIESCANT</text>
+          </navLabel>
+          <content src="les-miserables-29.html#dlepubid00225"/>
+        </navPoint>
+        <navPoint id="np-227" playOrder="227">
+          <navLabel>
+            <text>CHAPTER IV&#8212;END OF THE BRIGAND</text>
+          </navLabel>
+          <content src="les-miserables-29.html#dlepubid00226"/>
+        </navPoint>
+        <navPoint id="np-228" playOrder="228">
+          <navLabel>
+            <text>CHAPTER V&#8212;THE UTILITY OF GOING TO MASS, IN ORDER TO BECOME A REVOLUTIONIST</text>
+          </navLabel>
+          <content src="les-miserables-30.html#dlepubid00227"/>
+        </navPoint>
+        <navPoint id="np-229" playOrder="229">
+          <navLabel>
+            <text>CHAPTER VI&#8212;THE CONSEQUENCES OF HAVING MET A WARDEN</text>
+          </navLabel>
+          <content src="les-miserables-30.html#dlepubid00228"/>
+        </navPoint>
+        <navPoint id="np-231" playOrder="231">
+          <navLabel>
+            <text>CHAPTER VII&#8212;SOME PETTICOAT</text>
+          </navLabel>
+          <content src="les-miserables-30.html#dlepubid00230"/>
+        </navPoint>
+        <navPoint id="np-233" playOrder="233">
+          <navLabel>
+            <text>CHAPTER VIII&#8212;MARBLE AGAINST GRANITE</text>
+          </navLabel>
+          <content src="les-miserables-30.html#dlepubid00232"/>
+        </navPoint>
+        <navPoint id="np-234" playOrder="234">
+          <navLabel>
+            <text>BOOK FOURTH.&#8212;THE FRIENDS OF THE A B C</text>
+          </navLabel>
+          <content src="les-miserables-30.html#dlepubid00233"/>
+        </navPoint>
+        <navPoint id="np-235" playOrder="235">
+          <navLabel>
+            <text>CHAPTER I&#8212;A GROUP WHICH BARELY MISSED BECOMING HISTORIC</text>
+          </navLabel>
+          <content src="les-miserables-30.html#dlepubid00234"/>
+        </navPoint>
+        <navPoint id="np-236" playOrder="236">
+          <navLabel>
+            <text>CHAPTER II&#8212;BLONDEAU'S FUNERAL ORATION BY BOSSUET</text>
+          </navLabel>
+          <content src="les-miserables-31.html#dlepubid00235"/>
+        </navPoint>
+        <navPoint id="np-237" playOrder="237">
+          <navLabel>
+            <text>CHAPTER III&#8212;MARIUS' ASTONISHMENTS</text>
+          </navLabel>
+          <content src="les-miserables-31.html#dlepubid00236"/>
+        </navPoint>
+        <navPoint id="np-238" playOrder="238">
+          <navLabel>
+            <text>CHAPTER IV&#8212;THE BACK ROOM OF THE CAFE MUSAIN</text>
+          </navLabel>
+          <content src="les-miserables-31.html#dlepubid00237"/>
+        </navPoint>
+        <navPoint id="np-239" playOrder="239">
+          <navLabel>
+            <text>CHAPTER V&#8212;ENLARGEMENT OF HORIZON</text>
+          </navLabel>
+          <content src="les-miserables-32.html#dlepubid00238"/>
+        </navPoint>
+        <navPoint id="np-240" playOrder="240">
+          <navLabel>
+            <text>CHAPTER VI&#8212;RES ANGUSTA</text>
+          </navLabel>
+          <content src="les-miserables-32.html#dlepubid00239"/>
+        </navPoint>
+        <navPoint id="np-241" playOrder="241">
+          <navLabel>
+            <text>BOOK FIFTH.&#8212;THE EXCELLENCE OF MISFORTUNE</text>
+          </navLabel>
+          <content src="les-miserables-32.html#dlepubid00240"/>
+        </navPoint>
+        <navPoint id="np-242" playOrder="242">
+          <navLabel>
+            <text>CHAPTER I&#8212;MARIUS INDIGENT</text>
+          </navLabel>
+          <content src="les-miserables-32.html#dlepubid00241"/>
+        </navPoint>
+        <navPoint id="np-243" playOrder="243">
+          <navLabel>
+            <text>CHAPTER II&#8212;MARIUS POOR</text>
+          </navLabel>
+          <content src="les-miserables-32.html#dlepubid00242"/>
+        </navPoint>
+        <navPoint id="np-244" playOrder="244">
+          <navLabel>
+            <text>CHAPTER III&#8212;MARIUS GROWN UP</text>
+          </navLabel>
+          <content src="les-miserables-32.html#dlepubid00243"/>
+        </navPoint>
+        <navPoint id="np-245" playOrder="245">
+          <navLabel>
+            <text>CHAPTER IV&#8212;M. MABEUF</text>
+          </navLabel>
+          <content src="les-miserables-32.html#dlepubid00244"/>
+        </navPoint>
+        <navPoint id="np-246" playOrder="246">
+          <navLabel>
+            <text>CHAPTER V&#8212;POVERTY A GOOD NEIGHBOR FOR MISERY</text>
+          </navLabel>
+          <content src="les-miserables-33.html#dlepubid00245"/>
+        </navPoint>
+        <navPoint id="np-247" playOrder="247">
+          <navLabel>
+            <text>CHAPTER VI&#8212;THE SUBSTITUTE</text>
+          </navLabel>
+          <content src="les-miserables-33.html#dlepubid00246"/>
+        </navPoint>
+        <navPoint id="np-248" playOrder="248">
+          <navLabel>
+            <text>BOOK SIXTH.&#8212;THE CONJUNCTION OF TWO STARS</text>
+          </navLabel>
+          <content src="les-miserables-33.html#dlepubid00247"/>
+        </navPoint>
+        <navPoint id="np-249" playOrder="249">
+          <navLabel>
+            <text>CHAPTER I&#8212;THE SOBRIQUET: MODE OF FORMATION OF FAMILY NAMES</text>
+          </navLabel>
+          <content src="les-miserables-33.html#dlepubid00248"/>
+        </navPoint>
+        <navPoint id="np-250" playOrder="250">
+          <navLabel>
+            <text>CHAPTER II&#8212;LUX FACTA EST</text>
+          </navLabel>
+          <content src="les-miserables-33.html#dlepubid00249"/>
+        </navPoint>
+        <navPoint id="np-251" playOrder="251">
+          <navLabel>
+            <text>CHAPTER III&#8212;EFFECT OF THE SPRING</text>
+          </navLabel>
+          <content src="les-miserables-33.html#dlepubid00250"/>
+        </navPoint>
+        <navPoint id="np-252" playOrder="252">
+          <navLabel>
+            <text>CHAPTER IV&#8212;BEGINNING OF A GREAT MALADY</text>
+          </navLabel>
+          <content src="les-miserables-33.html#dlepubid00251"/>
+        </navPoint>
+        <navPoint id="np-253" playOrder="253">
+          <navLabel>
+            <text>CHAPTER V&#8212;DIVRS CLAPS OF THUNDER FALL ON MA'AM BOUGON</text>
+          </navLabel>
+          <content src="les-miserables-33.html#dlepubid00252"/>
+        </navPoint>
+        <navPoint id="np-254" playOrder="254">
+          <navLabel>
+            <text>CHAPTER VI&#8212;TAKEN PRISONER</text>
+          </navLabel>
+          <content src="les-miserables-33.html#dlepubid00253"/>
+        </navPoint>
+        <navPoint id="np-255" playOrder="255">
+          <navLabel>
+            <text>CHAPTER VII&#8212;ADVENTURES OF THE LETTER U DELIVERED OVER TO CONJECTURES</text>
+          </navLabel>
+          <content src="les-miserables-34.html#dlepubid00254"/>
+        </navPoint>
+        <navPoint id="np-256" playOrder="256">
+          <navLabel>
+            <text>CHAPTER VIII&#8212;THE VETERANS THEMSELVES CAN BE HAPPY</text>
+          </navLabel>
+          <content src="les-miserables-34.html#dlepubid00255"/>
+        </navPoint>
+        <navPoint id="np-257" playOrder="257">
+          <navLabel>
+            <text>CHAPTER IX&#8212;ECLIPSE</text>
+          </navLabel>
+          <content src="les-miserables-34.html#dlepubid00256"/>
+        </navPoint>
+        <navPoint id="np-258" playOrder="258">
+          <navLabel>
+            <text>BOOK SEVENTH.&#8212;PATRON MINETTE</text>
+          </navLabel>
+          <content src="les-miserables-34.html#dlepubid00257"/>
+        </navPoint>
+        <navPoint id="np-259" playOrder="259">
+          <navLabel>
+            <text>CHAPTER I&#8212;MINES AND MINERS</text>
+          </navLabel>
+          <content src="les-miserables-34.html#dlepubid00258"/>
+        </navPoint>
+        <navPoint id="np-260" playOrder="260">
+          <navLabel>
+            <text>CHAPTER II&#8212;THE LOWEST DEPTHS</text>
+          </navLabel>
+          <content src="les-miserables-34.html#dlepubid00259"/>
+        </navPoint>
+        <navPoint id="np-261" playOrder="261">
+          <navLabel>
+            <text>CHAPTER III&#8212;BABET, GUEULEMER, CLAQUESOUS, AND MONTPARNASSE</text>
+          </navLabel>
+          <content src="les-miserables-34.html#dlepubid00260"/>
+        </navPoint>
+        <navPoint id="np-262" playOrder="262">
+          <navLabel>
+            <text>CHAPTER IV&#8212;COMPOSITION OF THE TROUPE</text>
+          </navLabel>
+          <content src="les-miserables-34.html#dlepubid00261"/>
+        </navPoint>
+        <navPoint id="np-263" playOrder="263">
+          <navLabel>
+            <text>BOOK EIGHTH.&#8212;THE WICKED POOR MAN</text>
+          </navLabel>
+          <content src="les-miserables-34.html#dlepubid00262"/>
+        </navPoint>
+        <navPoint id="np-264" playOrder="264">
+          <navLabel>
+            <text>CHAPTER I&#8212;MARIUS, WHILE SEEKING A GIRL IN A BONNET, ENCOUNTERS A MAN IN A CAP</text>
+          </navLabel>
+          <content src="les-miserables-34.html#dlepubid00263"/>
+        </navPoint>
+        <navPoint id="np-265" playOrder="265">
+          <navLabel>
+            <text>CHAPTER II&#8212;TREASURE TROVE</text>
+          </navLabel>
+          <content src="les-miserables-34.html#dlepubid00264"/>
+        </navPoint>
+        <navPoint id="np-266" playOrder="266">
+          <navLabel>
+            <text>CHAPTER III&#8212;QUADRIFRONS</text>
+          </navLabel>
+          <content src="les-miserables-34.html#dlepubid00265"/>
+        </navPoint>
+        <navPoint id="np-267" playOrder="267">
+          <navLabel>
+            <text>CHAPTER IV&#8212;A ROSE IN MISERY</text>
+          </navLabel>
+          <content src="les-miserables-35.html#dlepubid00266"/>
+        </navPoint>
+        <navPoint id="np-268" playOrder="268">
+          <navLabel>
+            <text>CHAPTER V&#8212;A PROVIDENTIAL PEEP-HOLE</text>
+          </navLabel>
+          <content src="les-miserables-35.html#dlepubid00267"/>
+        </navPoint>
+        <navPoint id="np-269" playOrder="269">
+          <navLabel>
+            <text>CHAPTER VI&#8212;THE WILD MAN IN HIS LAIR</text>
+          </navLabel>
+          <content src="les-miserables-35.html#dlepubid00268"/>
+        </navPoint>
+        <navPoint id="np-270" playOrder="270">
+          <navLabel>
+            <text>CHAPTER VII&#8212;STRATEGY AND TACTICS</text>
+          </navLabel>
+          <content src="les-miserables-35.html#dlepubid00269"/>
+        </navPoint>
+        <navPoint id="np-271" playOrder="271">
+          <navLabel>
+            <text>CHAPTER VIII&#8212;THE RAY OF LIGHT IN THE HOVEL</text>
+          </navLabel>
+          <content src="les-miserables-36.html#dlepubid00270"/>
+        </navPoint>
+        <navPoint id="np-273" playOrder="273">
+          <navLabel>
+            <text>CHAPTER IX&#8212;JONDRETTE COMES NEAR WEEPING</text>
+          </navLabel>
+          <content src="les-miserables-36.html#dlepubid00272"/>
+        </navPoint>
+        <navPoint id="np-274" playOrder="274">
+          <navLabel>
+            <text>CHAPTER X&#8212;TARIFF OF LICENSED CABS: TWO FRANCS AN HOUR</text>
+          </navLabel>
+          <content src="les-miserables-36.html#dlepubid00273"/>
+        </navPoint>
+        <navPoint id="np-275" playOrder="275">
+          <navLabel>
+            <text>CHAPTER XI&#8212;OFFERS OF SERVICE FROM MISERY TO WRETCHEDNESS</text>
+          </navLabel>
+          <content src="les-miserables-36.html#dlepubid00274"/>
+        </navPoint>
+        <navPoint id="np-276" playOrder="276">
+          <navLabel>
+            <text>CHAPTER XII&#8212;THE USE MADE OF M. LEBLANC'S FIVE-FRANC PIECE</text>
+          </navLabel>
+          <content src="les-miserables-36.html#dlepubid00275"/>
+        </navPoint>
+        <navPoint id="np-277" playOrder="277">
+          <navLabel>
+            <text>CHAPTER XIII&#8212;SOLUS CUM SOLO, IN LOCO REMOTO, NON COGITABUNTUR ORARE</text>
+          </navLabel>
+          <content src="les-miserables-36.html#dlepubid00276"/>
+        </navPoint>
+        <navPoint id="np-278" playOrder="278">
+          <navLabel>
+            <text>CHAPTER XIV&#8212;IN WHICH A POLICE AGENT BESTOWS TWO FISTFULS ON A LAWYER</text>
+          </navLabel>
+          <content src="les-miserables-37.html#dlepubid00277"/>
+        </navPoint>
+        <navPoint id="np-279" playOrder="279">
+          <navLabel>
+            <text>CHAPTER XV&#8212;JONDRETTE MAKES HIS PURCHASES</text>
+          </navLabel>
+          <content src="les-miserables-37.html#dlepubid00278"/>
+        </navPoint>
+        <navPoint id="np-280" playOrder="280">
+          <navLabel>
+            <text>CHAPTER XVI&#8212;IN WHICH WILL BE FOUND THE WORDS TO AN ENGLISH AIR WHICH WAS IN FASHION IN 1832</text>
+          </navLabel>
+          <content src="les-miserables-37.html#dlepubid00279"/>
+        </navPoint>
+        <navPoint id="np-281" playOrder="281">
+          <navLabel>
+            <text>CHAPTER XVII&#8212;THE USE MADE OF MARIUS' FIVE-FRANC PIECE</text>
+          </navLabel>
+          <content src="les-miserables-37.html#dlepubid00280"/>
+        </navPoint>
+        <navPoint id="np-282" playOrder="282">
+          <navLabel>
+            <text>CHAPTER XVIII&#8212;MARIUS' TWO CHAIRS FORM A VIS-A-VIS</text>
+          </navLabel>
+          <content src="les-miserables-37.html#dlepubid00281"/>
+        </navPoint>
+        <navPoint id="np-283" playOrder="283">
+          <navLabel>
+            <text>CHAPTER XIX&#8212;OCCUPYING ONE'S SELF WITH OBSCURE DEPTHS</text>
+          </navLabel>
+          <content src="les-miserables-37.html#dlepubid00282"/>
+        </navPoint>
+        <navPoint id="np-284" playOrder="284">
+          <navLabel>
+            <text>CHAPTER XX&#8212;THE TRAP</text>
+          </navLabel>
+          <content src="les-miserables-38.html#dlepubid00283"/>
+        </navPoint>
+        <navPoint id="np-285" playOrder="285">
+          <navLabel>
+            <text>CHAPTER XXI&#8212;ONE SHOULD ALWAYS BEGIN BY ARRESTING THE VICTIMS</text>
+          </navLabel>
+          <content src="les-miserables-39.html#dlepubid00284"/>
+        </navPoint>
+        <navPoint id="np-286" playOrder="286">
+          <navLabel>
+            <text>CHAPTER XXII&#8212;THE LITTLE ONE WHO WAS CRYING IN VOLUME TWO</text>
+          </navLabel>
+          <content src="les-miserables-39.html#dlepubid00285"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-287" playOrder="287">
+        <navLabel>
+          <text>VOLUME IV.&#8212;SAINT-DENIS.</text>
+        </navLabel>
+        <content src="les-miserables-39.html#dlepubid00286"/>        
+        <navPoint id="np-288" playOrder="288">
+          <navLabel>
+            <text>BOOK FIRST.&#8212;A FEW PAGES OF HISTORY</text>
+          </navLabel>
+          <content src="les-miserables-39.html#dlepubid00287"/>
+        </navPoint>
+        <navPoint id="np-289" playOrder="289">
+          <navLabel>
+            <text>CHAPTER I&#8212;WELL CUT</text>
+          </navLabel>
+          <content src="les-miserables-39.html#dlepubid00288"/>
+        </navPoint>
+        <navPoint id="np-290" playOrder="290">
+          <navLabel>
+            <text>CHAPTER II&#8212;BADLY SEWED</text>
+          </navLabel>
+          <content src="les-miserables-39.html#dlepubid00289"/>
+        </navPoint>
+        <navPoint id="np-291" playOrder="291">
+          <navLabel>
+            <text>CHAPTER III&#8212;LOUIS PHILIPPE</text>
+          </navLabel>
+          <content src="les-miserables-39.html#dlepubid00290"/>
+        </navPoint>
+        <navPoint id="np-292" playOrder="292">
+          <navLabel>
+            <text>CHAPTER IV&#8212;CRACKS BENEATH THE FOUNDATION</text>
+          </navLabel>
+          <content src="les-miserables-40.html#dlepubid00291"/>
+        </navPoint>
+        <navPoint id="np-293" playOrder="293">
+          <navLabel>
+            <text>CHAPTER V&#8212;FACTS WHENCE HISTORY SPRINGS AND WHICH HISTORY IGNORES</text>
+          </navLabel>
+          <content src="les-miserables-40.html#dlepubid00292"/>
+        </navPoint>
+        <navPoint id="np-294" playOrder="294">
+          <navLabel>
+            <text>CHAPTER VI&#8212;ENJOLRAS AND HIS LIEUTENANTS</text>
+          </navLabel>
+          <content src="les-miserables-40.html#dlepubid00293"/>
+        </navPoint>
+        <navPoint id="np-295" playOrder="295">
+          <navLabel>
+            <text>BOOK SECOND.&#8212;EPONINE</text>
+          </navLabel>
+          <content src="les-miserables-41.html#dlepubid00294"/>
+        </navPoint>
+        <navPoint id="np-296" playOrder="296">
+          <navLabel>
+            <text>CHAPTER I&#8212;THE LARK'S MEADOW</text>
+          </navLabel>
+          <content src="les-miserables-41.html#dlepubid00295"/>
+        </navPoint>
+        <navPoint id="np-297" playOrder="297">
+          <navLabel>
+            <text>CHAPTER II&#8212;EMBRYONIC FORMATION OF CRIMES IN THE INCUBATION OF PRISONS</text>
+          </navLabel>
+          <content src="les-miserables-41.html#dlepubid00296"/>
+        </navPoint>
+        <navPoint id="np-298" playOrder="298">
+          <navLabel>
+            <text>CHAPTER III&#8212;APPARITION TO FATHER MABEUF</text>
+          </navLabel>
+          <content src="les-miserables-41.html#dlepubid00297"/>
+        </navPoint>
+        <navPoint id="np-299" playOrder="299">
+          <navLabel>
+            <text>CHAPTER IV&#8212;AN APPARITION TO MARIUS</text>
+          </navLabel>
+          <content src="les-miserables-41.html#dlepubid00298"/>
+        </navPoint>
+        <navPoint id="np-300" playOrder="300">
+          <navLabel>
+            <text>BOOK THIRD.&#8212;THE HOUSE IN THE RUE PLUMET</text>
+          </navLabel>
+          <content src="les-miserables-41.html#dlepubid00299"/>
+        </navPoint>
+        <navPoint id="np-301" playOrder="301">
+          <navLabel>
+            <text>CHAPTER I&#8212;THE HOUSE WITH A SECRET</text>
+          </navLabel>
+          <content src="les-miserables-41.html#dlepubid00300"/>
+        </navPoint>
+        <navPoint id="np-302" playOrder="302">
+          <navLabel>
+            <text>CHAPTER II&#8212;JEAN VALJEAN AS A NATIONAL GUARD</text>
+          </navLabel>
+          <content src="les-miserables-42.html#dlepubid00301"/>
+        </navPoint>
+        <navPoint id="np-303" playOrder="303">
+          <navLabel>
+            <text>CHAPTER III&#8212;FOLIIS AC FRONDIBUS</text>
+          </navLabel>
+          <content src="les-miserables-42.html#dlepubid00302"/>
+        </navPoint>
+        <navPoint id="np-304" playOrder="304">
+          <navLabel>
+            <text>CHAPTER IV&#8212;CHANGE OF GATE</text>
+          </navLabel>
+          <content src="les-miserables-42.html#dlepubid00303"/>
+        </navPoint>
+        <navPoint id="np-305" playOrder="305">
+          <navLabel>
+            <text>CHAPTER V&#8212;THE ROSE PERCEIVES THAT IT IS AN ENGINE OF WAR</text>
+          </navLabel>
+          <content src="les-miserables-42.html#dlepubid00304"/>
+        </navPoint>
+        <navPoint id="np-306" playOrder="306">
+          <navLabel>
+            <text>CHAPTER VI&#8212;THE BATTLE BEGUN</text>
+          </navLabel>
+          <content src="les-miserables-42.html#dlepubid00305"/>
+        </navPoint>
+        <navPoint id="np-307" playOrder="307">
+          <navLabel>
+            <text>CHAPTER VII&#8212;TO ONE SADNESS OPPOSE A SADNESS AND A HALF</text>
+          </navLabel>
+          <content src="les-miserables-42.html#dlepubid00306"/>
+        </navPoint>
+        <navPoint id="np-308" playOrder="308">
+          <navLabel>
+            <text>CHAPTER VIII&#8212;THE CHAIN-GANG</text>
+          </navLabel>
+          <content src="les-miserables-43.html#dlepubid00307"/>
+        </navPoint>
+        <navPoint id="np-309" playOrder="309">
+          <navLabel>
+            <text>BOOK FOURTH.&#8212;SUCCOR FROM BELOW MAY TURN OUT TO BE SUCCOR FROM ON HIGH</text>
+          </navLabel>
+          <content src="les-miserables-43.html#dlepubid00308"/>
+        </navPoint>
+        <navPoint id="np-310" playOrder="310">
+          <navLabel>
+            <text>CHAPTER I&#8212;A WOUND WITHOUT, HEALING WITHIN</text>
+          </navLabel>
+          <content src="les-miserables-43.html#dlepubid00309"/>
+        </navPoint>
+        <navPoint id="np-312" playOrder="312">
+          <navLabel>
+            <text>CHAPTER II&#8212;MOTHER PLUTARQUE FINDS NO DIFFICULTY IN EXPLAINING A PHENOMENON</text>
+          </navLabel>
+          <content src="les-miserables-43.html#dlepubid00311"/>
+        </navPoint>
+        <navPoint id="np-313" playOrder="313">
+          <navLabel>
+            <text>BOOK FIFTH.&#8212;THE END OF WHICH DOES NOT RESEMBLE THE BEGINNING</text>
+          </navLabel>
+          <content src="les-miserables-44.html#dlepubid00312"/>
+        </navPoint>
+        <navPoint id="np-314" playOrder="314">
+          <navLabel>
+            <text>CHAPTER I&#8212;SOLITUDE AND THE BARRACKS COMBINED</text>
+          </navLabel>
+          <content src="les-miserables-44.html#dlepubid00313"/>
+        </navPoint>
+        <navPoint id="np-315" playOrder="315">
+          <navLabel>
+            <text>CHAPTER II&#8212;COSETTE'S APPREHENSIONS</text>
+          </navLabel>
+          <content src="les-miserables-44.html#dlepubid00314"/>
+        </navPoint>
+        <navPoint id="np-316" playOrder="316">
+          <navLabel>
+            <text>CHAPTER III&#8212;ENRICHED WITH COMMENTARIES BY TOUSSAINT</text>
+          </navLabel>
+          <content src="les-miserables-44.html#dlepubid00315"/>
+        </navPoint>
+        <navPoint id="np-317" playOrder="317">
+          <navLabel>
+            <text>CHAPTER IV&#8212;A HEART BENEATH A STONE</text>
+          </navLabel>
+          <content src="les-miserables-44.html#dlepubid00316"/>
+        </navPoint>
+        <navPoint id="np-319" playOrder="319">
+          <navLabel>
+            <text>CHAPTER V&#8212;COSETTE AFTER THE LETTER</text>
+          </navLabel>
+          <content src="les-miserables-44.html#dlepubid00318"/>
+        </navPoint>
+        <navPoint id="np-320" playOrder="320">
+          <navLabel>
+            <text>CHAPTER VI&#8212;OLD PEOPLE ARE MADE TO GO OUT OPPORTUNELY</text>
+          </navLabel>
+          <content src="les-miserables-44.html#dlepubid00319"/>
+        </navPoint>
+        <navPoint id="np-321" playOrder="321">
+          <navLabel>
+            <text>BOOK SIXTH.&#8212;LITTLE GAVROCHE</text>
+          </navLabel>
+          <content src="les-miserables-44.html#dlepubid00320"/>
+        </navPoint>
+        <navPoint id="np-322" playOrder="322">
+          <navLabel>
+            <text>CHAPTER I&#8212;THE MALICIOUS PLAYFULNESS OF THE WIND</text>
+          </navLabel>
+          <content src="les-miserables-44.html#dlepubid00321"/>
+        </navPoint>
+        <navPoint id="np-323" playOrder="323">
+          <navLabel>
+            <text>CHAPTER II&#8212;IN WHICH LITTLE GAVROCHE EXTRACTS PROFIT FROM NAPOLEON THE GREAT</text>
+          </navLabel>
+          <content src="les-miserables-45.html#dlepubid00322"/>
+        </navPoint>
+        <navPoint id="np-324" playOrder="324">
+          <navLabel>
+            <text>CHAPTER III&#8212;THE VICISSITUDES OF FLIGHT</text>
+          </navLabel>
+          <content src="les-miserables-46.html#dlepubid00323"/>
+        </navPoint>
+        <navPoint id="np-326" playOrder="326">
+          <navLabel>
+            <text>BOOK SEVENTH.&#8212;SLANG</text>
+          </navLabel>
+          <content src="les-miserables-46.html#dlepubid00325"/>
+        </navPoint>
+        <navPoint id="np-327" playOrder="327">
+          <navLabel>
+            <text>CHAPTER I&#8212;ORIGIN</text>
+          </navLabel>
+          <content src="les-miserables-46.html#dlepubid00326"/>
+        </navPoint>
+        <navPoint id="np-329" playOrder="329">
+          <navLabel>
+            <text>CHAPTER II&#8212;ROOTS</text>
+          </navLabel>
+          <content src="les-miserables-47.html#dlepubid00328"/>
+        </navPoint>
+        <navPoint id="np-331" playOrder="331">
+          <navLabel>
+            <text>CHAPTER III&#8212;SLANG WHICH WEEPS AND SLANG WHICH LAUGHS</text>
+          </navLabel>
+          <content src="les-miserables-47.html#dlepubid00330"/>
+        </navPoint>
+        <navPoint id="np-332" playOrder="332">
+          <navLabel>
+            <text>CHAPTER IV&#8212;THE TWO DUTIES: TO WATCH AND TO HOPE</text>
+          </navLabel>
+          <content src="les-miserables-47.html#dlepubid00331"/>
+        </navPoint>
+        <navPoint id="np-333" playOrder="333">
+          <navLabel>
+            <text>BOOK EIGHTH.&#8212;ENCHANTMENTS AND DESOLATIONS</text>
+          </navLabel>
+          <content src="les-miserables-47.html#dlepubid00332"/>
+        </navPoint>
+        <navPoint id="np-334" playOrder="334">
+          <navLabel>
+            <text>CHAPTER I&#8212;FULL LIGHT</text>
+          </navLabel>
+          <content src="les-miserables-47.html#dlepubid00333"/>
+        </navPoint>
+        <navPoint id="np-335" playOrder="335">
+          <navLabel>
+            <text>CHAPTER II&#8212;THE BEWILDERMENT OF PERFECT HAPPINESS</text>
+          </navLabel>
+          <content src="les-miserables-48.html#dlepubid00334"/>
+        </navPoint>
+        <navPoint id="np-336" playOrder="336">
+          <navLabel>
+            <text>CHAPTER III&#8212;THE BEGINNING OF SHADOW</text>
+          </navLabel>
+          <content src="les-miserables-48.html#dlepubid00335"/>
+        </navPoint>
+        <navPoint id="np-338" playOrder="338">
+          <navLabel>
+            <text>CHAPTER IV&#8212;A CAB RUNS IN ENGLISH AND BARKS IN SLANG</text>
+          </navLabel>
+          <content src="les-miserables-48.html#dlepubid00337"/>
+        </navPoint>
+        <navPoint id="np-339" playOrder="339">
+          <navLabel>
+            <text>CHAPTER V&#8212;THINGS OF THE NIGHT</text>
+          </navLabel>
+          <content src="les-miserables-48.html#dlepubid00338"/>
+        </navPoint>
+        <navPoint id="np-340" playOrder="340">
+          <navLabel>
+            <text>CHAPTER VI&#8212;MARIUS BECOMES PRACTICAL ONCE MORE TO THE EXTENT OF GIVING COSETTE HIS ADDRESS</text>
+          </navLabel>
+          <content src="les-miserables-48.html#dlepubid00339"/>
+        </navPoint>
+        <navPoint id="np-341" playOrder="341">
+          <navLabel>
+            <text>CHAPTER VII&#8212;THE OLD HEART AND THE YOUNG HEART IN THE PRESENCE OF EACH OTHER</text>
+          </navLabel>
+          <content src="les-miserables-49.html#dlepubid00340"/>
+        </navPoint>
+        <navPoint id="np-342" playOrder="342">
+          <navLabel>
+            <text>BOOK NINTH.&#8212;WHITHER ARE THEY GOING?</text>
+          </navLabel>
+          <content src="les-miserables-49.html#dlepubid00341"/>
+        </navPoint>
+        <navPoint id="np-343" playOrder="343">
+          <navLabel>
+            <text>CHAPTER I&#8212;JEAN VALJEAN</text>
+          </navLabel>
+          <content src="les-miserables-49.html#dlepubid00342"/>
+        </navPoint>
+        <navPoint id="np-344" playOrder="344">
+          <navLabel>
+            <text>CHAPTER II&#8212;MARIUS</text>
+          </navLabel>
+          <content src="les-miserables-49.html#dlepubid00343"/>
+        </navPoint>
+        <navPoint id="np-345" playOrder="345">
+          <navLabel>
+            <text>CHAPTER III&#8212;M. MABEUF</text>
+          </navLabel>
+          <content src="les-miserables-49.html#dlepubid00344"/>
+        </navPoint>
+        <navPoint id="np-346" playOrder="346">
+          <navLabel>
+            <text>BOOK TENTH.&#8212;THE 5TH OF JUNE, 1832</text>
+          </navLabel>
+          <content src="les-miserables-50.html#dlepubid00345"/>
+        </navPoint>
+        <navPoint id="np-347" playOrder="347">
+          <navLabel>
+            <text>CHAPTER I&#8212;THE SURFACE OF THE QUESTION</text>
+          </navLabel>
+          <content src="les-miserables-50.html#dlepubid00346"/>
+        </navPoint>
+        <navPoint id="np-348" playOrder="348">
+          <navLabel>
+            <text>CHAPTER II&#8212;THE ROOT OF THE MATTER</text>
+          </navLabel>
+          <content src="les-miserables-50.html#dlepubid00347"/>
+        </navPoint>
+        <navPoint id="np-349" playOrder="349">
+          <navLabel>
+            <text>CHAPTER III&#8212;A BURIAL; AN OCCASION TO BE BORN AGAIN</text>
+          </navLabel>
+          <content src="les-miserables-50.html#dlepubid00348"/>
+        </navPoint>
+        <navPoint id="np-350" playOrder="350">
+          <navLabel>
+            <text>CHAPTER IV&#8212;THE EBULLITIONS OF FORMER DAYS</text>
+          </navLabel>
+          <content src="les-miserables-50.html#dlepubid00349"/>
+        </navPoint>
+        <navPoint id="np-351" playOrder="351">
+          <navLabel>
+            <text>CHAPTER V&#8212;ORIGINALITY OF PARIS</text>
+          </navLabel>
+          <content src="les-miserables-50.html#dlepubid00350"/>
+        </navPoint>
+        <navPoint id="np-352" playOrder="352">
+          <navLabel>
+            <text>BOOK ELEVENTH.&#8212;THE ATOM FRATERNIZES WITH THE HURRICANE</text>
+          </navLabel>
+          <content src="les-miserables-51.html#dlepubid00351"/>
+        </navPoint>
+        <navPoint id="np-353" playOrder="353">
+          <navLabel>
+            <text>CHAPTER I&#8212;SOME EXPLANATIONS WITH REGARD TO THE ORIGIN OF GAVROCHE'S POETRY. THE INFLUENCE OF AN ACADEMICIAN ON THIS POETRY</text>
+          </navLabel>
+          <content src="les-miserables-51.html#dlepubid00352"/>
+        </navPoint>
+        <navPoint id="np-354" playOrder="354">
+          <navLabel>
+            <text>CHAPTER II&#8212;GAVROCHE ON THE MARCH</text>
+          </navLabel>
+          <content src="les-miserables-51.html#dlepubid00353"/>
+        </navPoint>
+        <navPoint id="np-355" playOrder="355">
+          <navLabel>
+            <text>CHAPTER III&#8212;JUST INDIGNATION OF A HAIR-DRESSER</text>
+          </navLabel>
+          <content src="les-miserables-51.html#dlepubid00354"/>
+        </navPoint>
+        <navPoint id="np-356" playOrder="356">
+          <navLabel>
+            <text>CHAPTER IV&#8212;THE CHILD IS AMAZED AT THE OLD MAN</text>
+          </navLabel>
+          <content src="les-miserables-51.html#dlepubid00355"/>
+        </navPoint>
+        <navPoint id="np-357" playOrder="357">
+          <navLabel>
+            <text>CHAPTER V&#8212;THE OLD MAN</text>
+          </navLabel>
+          <content src="les-miserables-51.html#dlepubid00356"/>
+        </navPoint>
+        <navPoint id="np-359" playOrder="359">
+          <navLabel>
+            <text>CHAPTER VI&#8212;RECRUITS</text>
+          </navLabel>
+          <content src="les-miserables-51.html#dlepubid00358"/>
+        </navPoint>
+        <navPoint id="np-360" playOrder="360">
+          <navLabel>
+            <text>BOOK TWELFTH.&#8212;CORINTHE</text>
+          </navLabel>
+          <content src="les-miserables-51.html#dlepubid00359"/>
+        </navPoint>
+        <navPoint id="np-361" playOrder="361">
+          <navLabel>
+            <text>CHAPTER I&#8212;HISTORY OF CORINTHE FROM ITS FOUNDATION</text>
+          </navLabel>
+          <content src="les-miserables-51.html#dlepubid00360"/>
+        </navPoint>
+        <navPoint id="np-362" playOrder="362">
+          <navLabel>
+            <text>CHAPTER II&#8212;PRELIMINARY GAYETIES</text>
+          </navLabel>
+          <content src="les-miserables-51.html#dlepubid00361"/>
+        </navPoint>
+        <navPoint id="np-363" playOrder="363">
+          <navLabel>
+            <text>CHAPTER III&#8212;NIGHT BEGINS TO DESCEND UPON GRANTAIRE</text>
+          </navLabel>
+          <content src="les-miserables-52.html#dlepubid00362"/>
+        </navPoint>
+        <navPoint id="np-364" playOrder="364">
+          <navLabel>
+            <text>CHAPTER IV&#8212;AN ATTEMPT TO CONSOLE THE WIDOW HUCHELOUP</text>
+          </navLabel>
+          <content src="les-miserables-52.html#dlepubid00363"/>
+        </navPoint>
+        <navPoint id="np-366" playOrder="366">
+          <navLabel>
+            <text>CHAPTER V&#8212;PREPARATIONS</text>
+          </navLabel>
+          <content src="les-miserables-52.html#dlepubid00365"/>
+        </navPoint>
+        <navPoint id="np-367" playOrder="367">
+          <navLabel>
+            <text>CHAPTER VI&#8212;WAITING</text>
+          </navLabel>
+          <content src="les-miserables-52.html#dlepubid00366"/>
+        </navPoint>
+        <navPoint id="np-369" playOrder="369">
+          <navLabel>
+            <text>CHAPTER VII&#8212;THE MAN RECRUITED IN THE RUE DES BILLETTES</text>
+          </navLabel>
+          <content src="les-miserables-52.html#dlepubid00368"/>
+        </navPoint>
+        <navPoint id="np-370" playOrder="370">
+          <navLabel>
+            <text>CHAPTER VIII&#8212;MANY INTERROGATION POINTS WITH REGARD TO A CERTAIN LE CABUC WHOSE NAME MAY NOT HAVE BEEN LE CABUC</text>
+          </navLabel>
+          <content src="les-miserables-52.html#dlepubid00369"/>
+        </navPoint>
+        <navPoint id="np-371" playOrder="371">
+          <navLabel>
+            <text>BOOK THIRTEENTH.&#8212;MARIUS ENTERS THE SHADOW</text>
+          </navLabel>
+          <content src="les-miserables-53.html#dlepubid00370"/>
+        </navPoint>
+        <navPoint id="np-372" playOrder="372">
+          <navLabel>
+            <text>CHAPTER I&#8212;FROM THE RUE PLUMET TO THE QUARTIER SAINT-DENIS</text>
+          </navLabel>
+          <content src="les-miserables-53.html#dlepubid00371"/>
+        </navPoint>
+        <navPoint id="np-373" playOrder="373">
+          <navLabel>
+            <text>CHAPTER II&#8212;AN OWL'S VIEW OF PARIS</text>
+          </navLabel>
+          <content src="les-miserables-53.html#dlepubid00372"/>
+        </navPoint>
+        <navPoint id="np-374" playOrder="374">
+          <navLabel>
+            <text>CHAPTER III&#8212;THE EXTREME EDGE</text>
+          </navLabel>
+          <content src="les-miserables-53.html#dlepubid00373"/>
+        </navPoint>
+        <navPoint id="np-376" playOrder="376">
+          <navLabel>
+            <text>BOOK FOURTEENTH.&#8212;THE GRANDEURS OF DESPAIR</text>
+          </navLabel>
+          <content src="les-miserables-53.html#dlepubid00375"/>
+        </navPoint>
+        <navPoint id="np-377" playOrder="377">
+          <navLabel>
+            <text>CHAPTER I&#8212;THE FLAG: ACT FIRST</text>
+          </navLabel>
+          <content src="les-miserables-53.html#dlepubid00376"/>
+        </navPoint>
+        <navPoint id="np-378" playOrder="378">
+          <navLabel>
+            <text>CHAPTER II&#8212;THE FLAG: ACT SECOND</text>
+          </navLabel>
+          <content src="les-miserables-53.html#dlepubid00377"/>
+        </navPoint>
+        <navPoint id="np-379" playOrder="379">
+          <navLabel>
+            <text>CHAPTER III&#8212;GAVROCHE WOULD HAVE DONE BETTER TO ACCEPT ENJOLRAS' CARBINE</text>
+          </navLabel>
+          <content src="les-miserables-53.html#dlepubid00378"/>
+        </navPoint>
+        <navPoint id="np-380" playOrder="380">
+          <navLabel>
+            <text>CHAPTER IV&#8212;THE BARREL OF POWDER</text>
+          </navLabel>
+          <content src="les-miserables-53.html#dlepubid00379"/>
+        </navPoint>
+        <navPoint id="np-381" playOrder="381">
+          <navLabel>
+            <text>CHAPTER V&#8212;END OF THE VERSES OF JEAN PROUVAIRE</text>
+          </navLabel>
+          <content src="les-miserables-54.html#dlepubid00380"/>
+        </navPoint>
+        <navPoint id="np-383" playOrder="383">
+          <navLabel>
+            <text>CHAPTER VI&#8212;THE AGONY OF DEATH AFTER THE AGONY OF LIFE</text>
+          </navLabel>
+          <content src="les-miserables-54.html#dlepubid00382"/>
+        </navPoint>
+        <navPoint id="np-384" playOrder="384">
+          <navLabel>
+            <text>CHAPTER VII&#8212;GAVROCHE AS A PROFOUND CALCULATOR OF DISTANCES</text>
+          </navLabel>
+          <content src="les-miserables-54.html#dlepubid00383"/>
+        </navPoint>
+        <navPoint id="np-385" playOrder="385">
+          <navLabel>
+            <text>BOOK FIFTEENTH.&#8212;THE RUE DE L'HOMME ARME</text>
+          </navLabel>
+          <content src="les-miserables-54.html#dlepubid00384"/>
+        </navPoint>
+        <navPoint id="np-386" playOrder="386">
+          <navLabel>
+            <text>CHAPTER I&#8212;A DRINKER IS A BABBLER</text>
+          </navLabel>
+          <content src="les-miserables-54.html#dlepubid00385"/>
+        </navPoint>
+        <navPoint id="np-387" playOrder="387">
+          <navLabel>
+            <text>CHAPTER II&#8212;THE STREET URCHIN AN ENEMY OF LIGHT</text>
+          </navLabel>
+          <content src="les-miserables-54.html#dlepubid00386"/>
+        </navPoint>
+        <navPoint id="np-388" playOrder="388">
+          <navLabel>
+            <text>CHAPTER III&#8212;WHILE COSETTE AND TOUSSAINT ARE ASLEEP</text>
+          </navLabel>
+          <content src="les-miserables-55.html#dlepubid00387"/>
+        </navPoint>
+        <navPoint id="np-390" playOrder="390">
+          <navLabel>
+            <text>CHAPTER IV&#8212;GAVROCHE'S EXCESS OF ZEAL</text>
+          </navLabel>
+          <content src="les-miserables-55.html#dlepubid00389"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-392" playOrder="392">
+        <navLabel>
+          <text>VOLUME V&#8212;JEAN VALJEAN</text>
+        </navLabel>
+        <content src="les-miserables-55.html#dlepubid00391"/>
+        <navPoint id="np-393" playOrder="393">
+          <navLabel>
+            <text>BOOK FIRST.&#8212;THE WAR BETWEEN FOUR WALLS</text>
+          </navLabel>
+          <content src="les-miserables-55.html#dlepubid00392"/>
+        </navPoint>
+        <navPoint id="np-394" playOrder="394">
+          <navLabel>
+            <text>CHAPTER I&#8212;THE CHARYBDIS OF THE FAUBOURG SAINT ANTOINE AND THE SCYLLA OF THE FAUBOURG DU TEMPLE</text>
+          </navLabel>
+          <content src="les-miserables-55.html#dlepubid00393"/>
+        </navPoint>
+        <navPoint id="np-395" playOrder="395">
+          <navLabel>
+            <text>CHAPTER II&#8212;WHAT IS TO BE DONE IN THE ABYSS IF ONE DOES NOT CONVERSE</text>
+          </navLabel>
+          <content src="les-miserables-55.html#dlepubid00394"/>
+        </navPoint>
+        <navPoint id="np-396" playOrder="396">
+          <navLabel>
+            <text>CHAPTER III&#8212;LIGHT AND SHADOW</text>
+          </navLabel>
+          <content src="les-miserables-56.html#dlepubid00395"/>
+        </navPoint>
+        <navPoint id="np-397" playOrder="397">
+          <navLabel>
+            <text>CHAPTER IV&#8212;MINUS FIVE, PLUS ONE</text>
+          </navLabel>
+          <content src="les-miserables-56.html#dlepubid00396"/>
+        </navPoint>
+        <navPoint id="np-398" playOrder="398">
+          <navLabel>
+            <text>CHAPTER V&#8212;THE HORIZON WHICH ONE BEHOLDS FROM THE SUMMIT OF A BARRICADE</text>
+          </navLabel>
+          <content src="les-miserables-56.html#dlepubid00397"/>
+        </navPoint>
+        <navPoint id="np-399" playOrder="399">
+          <navLabel>
+            <text>CHAPTER VI&#8212;MARIUS HAGGARD, JAVERT LACONIC</text>
+          </navLabel>
+          <content src="les-miserables-56.html#dlepubid00398"/>
+        </navPoint>
+        <navPoint id="np-401" playOrder="401">
+          <navLabel>
+            <text>CHAPTER VII&#8212;THE SITUATION BECOMES AGGRAVATED</text>
+          </navLabel>
+          <content src="les-miserables-56.html#dlepubid00400"/>
+        </navPoint>
+        <navPoint id="np-402" playOrder="402">
+          <navLabel>
+            <text>CHAPTER VIII&#8212;THE ARTILLERY-MEN COMPEL PEOPLE TO TAKE THEM SERIOUSLY</text>
+          </navLabel>
+          <content src="les-miserables-56.html#dlepubid00401"/>
+        </navPoint>
+        <navPoint id="np-403" playOrder="403">
+          <navLabel>
+            <text>CHAPTER IX&#8212;EMPLOYMENT OF THE OLD TALENTS OF A POACHER AND THAT INFALLIBLE MARKSMANSHIP WHICH INFLUENCED THE CONDEMNATION OF 1796</text>
+          </navLabel>
+          <content src="les-miserables-57.html#dlepubid00402"/>
+        </navPoint>
+        <navPoint id="np-404" playOrder="404">
+          <navLabel>
+            <text>CHAPTER X&#8212;DAWN</text>
+          </navLabel>
+          <content src="les-miserables-57.html#dlepubid00403"/>
+        </navPoint>
+        <navPoint id="np-406" playOrder="406">
+          <navLabel>
+            <text>CHAPTER XI&#8212;THE SHOT WHICH MISSES NOTHING AND KILLS NO ONE</text>
+          </navLabel>
+          <content src="les-miserables-57.html#dlepubid00405"/>
+        </navPoint>
+        <navPoint id="np-407" playOrder="407">
+          <navLabel>
+            <text>CHAPTER XII&#8212;DISORDER A PARTISAN OF ORDER</text>
+          </navLabel>
+          <content src="les-miserables-57.html#dlepubid00406"/>
+        </navPoint>
+        <navPoint id="np-409" playOrder="409">
+          <navLabel>
+            <text>CHAPTER XIII&#8212;PASSING GLEAMS</text>
+          </navLabel>
+          <content src="les-miserables-57.html#dlepubid00408"/>
+        </navPoint>
+        <navPoint id="np-410" playOrder="410">
+          <navLabel>
+            <text>CHAPTER XIV&#8212;WHEREIN WILL APPEAR THE NAME OF ENJOLRAS' MISTRESS</text>
+          </navLabel>
+          <content src="les-miserables-57.html#dlepubid00409"/>
+        </navPoint>
+        <navPoint id="np-411" playOrder="411">
+          <navLabel>
+            <text>CHAPTER XV&#8212;GAVROCHE OUTSIDE</text>
+          </navLabel>
+          <content src="les-miserables-57.html#dlepubid00410"/>
+        </navPoint>
+        <navPoint id="np-412" playOrder="412">
+          <navLabel>
+            <text>CHAPTER XVI&#8212;HOW FROM A BROTHER ONE BECOMES A FATHER</text>
+          </navLabel>
+          <content src="les-miserables-57.html#dlepubid00411"/>
+        </navPoint>
+        <navPoint id="np-413" playOrder="413">
+          <navLabel>
+            <text>CHAPTER XVII&#8212;MORTUUS PATER FILIUM MORITURUM EXPECTAT</text>
+          </navLabel>
+          <content src="les-miserables-58.html#dlepubid00412"/>
+        </navPoint>
+        <navPoint id="np-414" playOrder="414">
+          <navLabel>
+            <text>CHAPTER XVIII&#8212;THE VULTURE BECOME PREY</text>
+          </navLabel>
+          <content src="les-miserables-58.html#dlepubid00413"/>
+        </navPoint>
+        <navPoint id="np-415" playOrder="415">
+          <navLabel>
+            <text>CHAPTER XIX&#8212;JEAN VALJEAN TAKES HIS REVENGE</text>
+          </navLabel>
+          <content src="les-miserables-58.html#dlepubid00414"/>
+        </navPoint>
+        <navPoint id="np-416" playOrder="416">
+          <navLabel>
+            <text>CHAPTER XX&#8212;THE DEAD ARE IN THE RIGHT AND THE LIVING ARE NOT IN THE WRONG</text>
+          </navLabel>
+          <content src="les-miserables-58.html#dlepubid00415"/>
+        </navPoint>
+        <navPoint id="np-417" playOrder="417">
+          <navLabel>
+            <text>CHAPTER XXI&#8212;THE HEROES</text>
+          </navLabel>
+          <content src="les-miserables-58.html#dlepubid00416"/>
+        </navPoint>
+        <navPoint id="np-419" playOrder="419">
+          <navLabel>
+            <text>CHAPTER XXII&#8212;FOOT TO FOOT</text>
+          </navLabel>
+          <content src="les-miserables-59.html#dlepubid00418"/>
+        </navPoint>
+        <navPoint id="np-420" playOrder="420">
+          <navLabel>
+            <text>CHAPTER XXIII&#8212;ORESTES FASTING AND PYLADES DRUNK</text>
+          </navLabel>
+          <content src="les-miserables-59.html#dlepubid00419"/>
+        </navPoint>
+        <navPoint id="np-421" playOrder="421">
+          <navLabel>
+            <text>CHAPTER XXIV&#8212;PRISONER</text>
+          </navLabel>
+          <content src="les-miserables-59.html#dlepubid00420"/>
+        </navPoint>
+        <navPoint id="np-423" playOrder="423">
+          <navLabel>
+            <text>BOOK SECOND.&#8212;THE INTESTINE OF THE LEVIATHAN</text>
+          </navLabel>
+          <content src="les-miserables-59.html#dlepubid00422"/>
+        </navPoint>
+        <navPoint id="np-424" playOrder="424">
+          <navLabel>
+            <text>CHAPTER I&#8212;THE LAND IMPOVERISHED BY THE SEA</text>
+          </navLabel>
+          <content src="les-miserables-59.html#dlepubid00423"/>
+        </navPoint>
+        <navPoint id="np-425" playOrder="425">
+          <navLabel>
+            <text>CHAPTER II&#8212;ANCIENT HISTORY OF THE SEWER</text>
+          </navLabel>
+          <content src="les-miserables-59.html#dlepubid00424"/>
+        </navPoint>
+        <navPoint id="np-426" playOrder="426">
+          <navLabel>
+            <text>CHAPTER III&#8212;BRUNESEAU</text>
+          </navLabel>
+          <content src="les-miserables-59.html#dlepubid00425"/>
+        </navPoint>
+        <navPoint id="np-427" playOrder="427">
+          <navLabel>
+            <text>CHAPTER IV&#8212;BRUNESEAU.</text>
+          </navLabel>
+          <content src="les-miserables-59.html#dlepubid00426"/>
+        </navPoint>
+        <navPoint id="np-428" playOrder="428">
+          <navLabel>
+            <text>CHAPTER V&#8212;PRESENT PROGRESS</text>
+          </navLabel>
+          <content src="les-miserables-60.html#dlepubid00427"/>
+        </navPoint>
+        <navPoint id="np-429" playOrder="429">
+          <navLabel>
+            <text>CHAPTER VI&#8212;FUTURE PROGRESS</text>
+          </navLabel>
+          <content src="les-miserables-60.html#dlepubid00428"/>
+        </navPoint>
+        <navPoint id="np-430" playOrder="430">
+          <navLabel>
+            <text>BOOK THIRD.&#8212;MUD BUT THE SOUL</text>
+          </navLabel>
+          <content src="les-miserables-60.html#dlepubid00429"/>
+        </navPoint>
+        <navPoint id="np-431" playOrder="431">
+          <navLabel>
+            <text>CHAPTER I&#8212;THE SEWER AND ITS SURPRISES</text>
+          </navLabel>
+          <content src="les-miserables-60.html#dlepubid00430"/>
+        </navPoint>
+        <navPoint id="np-433" playOrder="433">
+          <navLabel>
+            <text>CHAPTER II&#8212;EXPLANATION</text>
+          </navLabel>
+          <content src="les-miserables-60.html#dlepubid00432"/>
+        </navPoint>
+        <navPoint id="np-434" playOrder="434">
+          <navLabel>
+            <text>CHAPTER III&#8212;THE "SPUN" MAN</text>
+          </navLabel>
+          <content src="les-miserables-60.html#dlepubid00433"/>
+        </navPoint>
+        <navPoint id="np-435" playOrder="435">
+          <navLabel>
+            <text>CHAPTER IV&#8212;HE ALSO BEARS HIS CROSS</text>
+          </navLabel>
+          <content src="les-miserables-60.html#dlepubid00434"/>
+        </navPoint>
+        <navPoint id="np-437" playOrder="437">
+          <navLabel>
+            <text>CHAPTER V&#8212;IN THE CASE OF SAND AS IN THAT OF WOMAN, THERE IS A FINENESS WHICH IS TREACHEROUS</text>
+          </navLabel>
+          <content src="les-miserables-61.html#dlepubid00436"/>
+        </navPoint>
+        <navPoint id="np-438" playOrder="438">
+          <navLabel>
+            <text>CHAPTER VI&#8212;THE FONTIS</text>
+          </navLabel>
+          <content src="les-miserables-61.html#dlepubid00437"/>
+        </navPoint>
+        <navPoint id="np-440" playOrder="440">
+          <navLabel>
+            <text>CHAPTER VII&#8212;ONE SOMETIMES RUNS AGROUND WHEN ONE FANCIES THAT ONE IS DISEMBARKING</text>
+          </navLabel>
+          <content src="les-miserables-61.html#dlepubid00439"/>
+        </navPoint>
+        <navPoint id="np-441" playOrder="441">
+          <navLabel>
+            <text>CHAPTER VIII&#8212;THE TORN COAT-TAIL</text>
+          </navLabel>
+          <content src="les-miserables-61.html#dlepubid00440"/>
+        </navPoint>
+        <navPoint id="np-442" playOrder="442">
+          <navLabel>
+            <text>CHAPTER IX&#8212;MARIUS PRODUCES ON SOME ONE WHO IS A JUDGE OF THE MATTER,</text>
+          </navLabel>
+          <content src="les-miserables-61.html#dlepubid00441"/>
+        </navPoint>
+        <navPoint id="np-443" playOrder="443">
+          <navLabel>
+            <text>CHAPTER X&#8212;RETURN OF THE SON WHO WAS PRODIGAL OF HIS LIFE</text>
+          </navLabel>
+          <content src="les-miserables-61.html#dlepubid00442"/>
+        </navPoint>
+        <navPoint id="np-444" playOrder="444">
+          <navLabel>
+            <text>CHAPTER XI&#8212;CONCUSSION IN THE ABSOLUTE</text>
+          </navLabel>
+          <content src="les-miserables-62.html#dlepubid00443"/>
+        </navPoint>
+        <navPoint id="np-446" playOrder="446">
+          <navLabel>
+            <text>CHAPTER XII&#8212;THE GRANDFATHER</text>
+          </navLabel>
+          <content src="les-miserables-62.html#dlepubid00445"/>
+        </navPoint>
+        <navPoint id="np-447" playOrder="447">
+          <navLabel>
+            <text>BOOK FOURTH.&#8212;JAVERT DERAILED</text>
+          </navLabel>
+          <content src="les-miserables-62.html#dlepubid00446"/>
+        </navPoint>
+        <navPoint id="np-448" playOrder="448">
+          <navLabel>
+            <text>CHAPTER I&#8212;JAVERT</text>
+          </navLabel>
+          <content src="les-miserables-62.html#dlepubid00447"/>
+        </navPoint>
+        <navPoint id="np-450" playOrder="450">
+          <navLabel>
+            <text>BOOK FIFTH.&#8212;GRANDSON AND GRANDFATHER</text>
+          </navLabel>
+          <content src="les-miserables-63.html#dlepubid00449"/>
+        </navPoint>
+        <navPoint id="np-451" playOrder="451">
+          <navLabel>
+            <text>CHAPTER I&#8212;IN WHICH THE TREE WITH THE ZINC PLASTER APPEARS AGAIN</text>
+          </navLabel>
+          <content src="les-miserables-63.html#dlepubid00450"/>
+        </navPoint>
+        <navPoint id="np-452" playOrder="452">
+          <navLabel>
+            <text>CHAPTER II&#8212;MARIUS, EMERGING FROM CIVIL WAR, MAKES READY FOR DOMESTIC WAR</text>
+          </navLabel>
+          <content src="les-miserables-63.html#dlepubid00451"/>
+        </navPoint>
+        <navPoint id="np-453" playOrder="453">
+          <navLabel>
+            <text>CHAPTER III&#8212;MARIUS ATTACKED</text>
+          </navLabel>
+          <content src="les-miserables-63.html#dlepubid00452"/>
+        </navPoint>
+        <navPoint id="np-454" playOrder="454">
+          <navLabel>
+            <text>CHAPTER IV&#8212;MADEMOISELLE GILLENORMAND ENDS BY NO LONGER THINKING IT A BAD THING THAT M. FAUCHELEVENT SHOULD HAVE ENTERED WITH SOMETHING UNDER HIS ARM</text>
+          </navLabel>
+          <content src="les-miserables-63.html#dlepubid00453"/>
+        </navPoint>
+        <navPoint id="np-456" playOrder="456">
+          <navLabel>
+            <text>CHAPTER V&#8212;DEPOSIT YOUR MONEY IN A FOREST RATHER THAN WITH A NOTARY</text>
+          </navLabel>
+          <content src="les-miserables-63.html#dlepubid00455"/>
+        </navPoint>
+        <navPoint id="np-457" playOrder="457">
+          <navLabel>
+            <text>CHAPTER VI&#8212;THE TWO OLD MEN DO EVERYTHING, EACH ONE AFTER HIS OWN FASHION, TO RENDER COSETTE HAPPY</text>
+          </navLabel>
+          <content src="les-miserables-63.html#dlepubid00456"/>
+        </navPoint>
+        <navPoint id="np-458" playOrder="458">
+          <navLabel>
+            <text>CHAPTER VII&#8212;THE EFFECTS OF DREAMS MINGLED WITH HAPPINESS</text>
+          </navLabel>
+          <content src="les-miserables-64.html#dlepubid00457"/>
+        </navPoint>
+        <navPoint id="np-459" playOrder="459">
+          <navLabel>
+            <text>CHAPTER VIII&#8212;TWO MEN IMPOSSIBLE TO FIND</text>
+          </navLabel>
+          <content src="les-miserables-64.html#dlepubid00458"/>
+        </navPoint>
+        <navPoint id="np-460" playOrder="460">
+          <navLabel>
+            <text>BOOK SIXTH.&#8212;THE SLEEPLESS NIGHT</text>
+          </navLabel>
+          <content src="les-miserables-64.html#dlepubid00459"/>
+        </navPoint>
+        <navPoint id="np-461" playOrder="461">
+          <navLabel>
+            <text>CHAPTER I&#8212;THE 16TH OF FEBRUARY, 1833</text>
+          </navLabel>
+          <content src="les-miserables-64.html#dlepubid00460"/>
+        </navPoint>
+        <navPoint id="np-462" playOrder="462">
+          <navLabel>
+            <text>CHAPTER II&#8212;JEAN VALJEAN STILL WEARS HIS ARM IN A SLING</text>
+          </navLabel>
+          <content src="les-miserables-64.html#dlepubid00461"/>
+        </navPoint>
+        <navPoint id="np-463" playOrder="463">
+          <navLabel>
+            <text>CHAPTER III&#8212;THE INSEPARABLE</text>
+          </navLabel>
+          <content src="les-miserables-65.html#dlepubid00462"/>
+        </navPoint>
+        <navPoint id="np-465" playOrder="465">
+          <navLabel>
+            <text>CHAPTER IV&#8212;THE IMMORTAL LIVER 68</text>
+          </navLabel>
+          <content src="les-miserables-65.html#dlepubid00464"/>
+        </navPoint>
+        <navPoint id="np-466" playOrder="466">
+          <navLabel>
+            <text>BOOK SEVENTH.&#8212;THE LAST DRAUGHT FROM THE CUP</text>
+          </navLabel>
+          <content src="les-miserables-65.html#dlepubid00465"/>
+        </navPoint>
+        <navPoint id="np-467" playOrder="467">
+          <navLabel>
+            <text>CHAPTER I&#8212;THE SEVENTH CIRCLE AND THE EIGHTH HEAVEN</text>
+          </navLabel>
+          <content src="les-miserables-65.html#dlepubid00466"/>
+        </navPoint>
+        <navPoint id="np-468" playOrder="468">
+          <navLabel>
+            <text>CHAPTER II&#8212;THE OBSCURITIES WHICH A REVELATION CAN CONTAIN</text>
+          </navLabel>
+          <content src="les-miserables-66.html#dlepubid00467"/>
+        </navPoint>
+        <navPoint id="np-470" playOrder="470">
+          <navLabel>
+            <text>BOOK EIGHTH.&#8212;FADING AWAY OF THE TWILIGHT</text>
+          </navLabel>
+          <content src="les-miserables-66.html#dlepubid00469"/>
+        </navPoint>
+        <navPoint id="np-471" playOrder="471">
+          <navLabel>
+            <text>CHAPTER I&#8212;THE LOWER CHAMBER</text>
+          </navLabel>
+          <content src="les-miserables-66.html#dlepubid00470"/>
+        </navPoint>
+        <navPoint id="np-472" playOrder="472">
+          <navLabel>
+            <text>CHAPTER II&#8212;ANOTHER STEP BACKWARDS</text>
+          </navLabel>
+          <content src="les-miserables-66.html#dlepubid00471"/>
+        </navPoint>
+        <navPoint id="np-474" playOrder="474">
+          <navLabel>
+            <text>CHAPTER III&#8212;THEY RECALL THE GARDEN OF THE RUE PLUMET</text>
+          </navLabel>
+          <content src="les-miserables-66.html#dlepubid00473"/>
+        </navPoint>
+        <navPoint id="np-475" playOrder="475">
+          <navLabel>
+            <text>CHAPTER IV&#8212;ATTRACTION AND EXTINCTION</text>
+          </navLabel>
+          <content src="les-miserables-67.html#dlepubid00474"/>
+        </navPoint>
+        <navPoint id="np-476" playOrder="476">
+          <navLabel>
+            <text>BOOK NINTH.&#8212;SUPREME SHADOW, SUPREME DAWN</text>
+          </navLabel>
+          <content src="les-miserables-67.html#dlepubid00475"/>
+        </navPoint>
+        <navPoint id="np-477" playOrder="477">
+          <navLabel>
+            <text>CHAPTER I&#8212;PITY FOR THE UNHAPPY, BUT INDULGENCE FOR THE HAPPY</text>
+          </navLabel>
+          <content src="les-miserables-67.html#dlepubid00476"/>
+        </navPoint>
+        <navPoint id="np-478" playOrder="478">
+          <navLabel>
+            <text>CHAPTER II&#8212;LAST FLICKERINGS OF A LAMP WITHOUT OIL</text>
+          </navLabel>
+          <content src="les-miserables-67.html#dlepubid00477"/>
+        </navPoint>
+        <navPoint id="np-479" playOrder="479">
+          <navLabel>
+            <text>CHAPTER III&#8212;A PEN IS HEAVY TO THE MAN WHO LIFTED THE FAUCHELEVENT'S CART</text>
+          </navLabel>
+          <content src="les-miserables-67.html#dlepubid00478"/>
+        </navPoint>
+        <navPoint id="np-480" playOrder="480">
+          <navLabel>
+            <text>CHAPTER IV&#8212;A BOTTLE OF INK WHICH ONLY SUCCEEDED IN WHITENING</text>
+          </navLabel>
+          <content src="les-miserables-67.html#dlepubid00479"/>
+        </navPoint>
+        <navPoint id="np-481" playOrder="481">
+          <navLabel>
+            <text>CHAPTER V&#8212;A NIGHT BEHIND WHICH THERE IS DAY</text>
+          </navLabel>
+          <content src="les-miserables-68.html#dlepubid00480"/>
+        </navPoint>
+        <navPoint id="np-483" playOrder="483">
+          <navLabel>
+            <text>CHAPTER VI&#8212;THE GRASS COVERS AND THE RAIN EFFACES</text>
+          </navLabel>
+          <content src="les-miserables-68.html#dlepubid00482"/>
+        </navPoint>
+        <navPoint id="np-484" playOrder="484">
+          <navLabel>
+            <text>LETTER TO M. DAELLI</text>
+          </navLabel>
+          <content src="les-miserables-68.html#dlepubid00483"/>
+        </navPoint>
+        <navPoint id="np-486" playOrder="486">
+          <navLabel>
+            <text>FOOTNOTES:</text>
+          </navLabel>
+          <content src="les-miserables-68.html#dlepubid00485"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
