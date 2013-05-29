@@ -17,24 +17,18 @@
         <text>MADAME BOVARY</text>
       </navLabel>
       <content src="madame-bovary-0.html#dlepubid00000"/>
-      <navPoint id="np-2" playOrder="2">
-        <navLabel>
-          <text>Translated from the French by Eleanor Marx-Aveling</text>
-        </navLabel>
-        <content src="madame-bovary-0.html#dlepubid00001"/>
-      </navPoint>
     </navPoint>
-    <navPoint id="np-3" playOrder="3">
+    <navPoint id="np-2" playOrder="2">
       <navLabel>
-        <text>MADAME BOVARY</text>
-      </navLabel>
-      <content src="madame-bovary-0.html#dlepubid00002"/>
-      <navPoint id="np-4" playOrder="4">
-        <navLabel>
-          <text>Part I</text>
+        <text>Translated from the French by Eleanor Marx-Aveling</text>
         </navLabel>
-        <content src="madame-bovary-0.html#dlepubid00003"/>
-      </navPoint>
+      <content src="madame-bovary-0.html#dlepubid00001"/>
+    </navPoint>
+    <navPoint id="np-4" playOrder="4">
+      <navLabel>
+        <text>Part I</text>
+      </navLabel>
+      <content src="madame-bovary-0.html#dlepubid00003"/>        
       <navPoint id="np-5" playOrder="5">
         <navLabel>
           <text>Chapter One</text>
@@ -89,12 +83,12 @@
         </navLabel>
         <content src="madame-bovary-2.html#dlepubid00012"/>
       </navPoint>
-      <navPoint id="np-14" playOrder="14">
-        <navLabel>
-          <text>Part II</text>
-        </navLabel>
-        <content src="madame-bovary-2.html#dlepubid00013"/>
-      </navPoint>
+    </navPoint>
+    <navPoint id="np-14" playOrder="14">
+      <navLabel>
+        <text>Part II</text>
+      </navLabel>
+      <content src="madame-bovary-2.html#dlepubid00013"/>
       <navPoint id="np-15" playOrder="15">
         <navLabel>
           <text>Chapter One</text>
@@ -124,12 +118,6 @@
           <text>Chapter Five</text>
         </navLabel>
         <content src="madame-bovary-4.html#dlepubid00018"/>
-        <navPoint id="np-20" playOrder="20">
-          <navLabel>
-            <text>It was a Sunday in February, an afternoon when the snow was falling.</text>
-          </navLabel>
-          <content src="madame-bovary-4.html#dlepubid00019"/>
-        </navPoint>
       </navPoint>
       <navPoint id="np-21" playOrder="21">
         <navLabel>
@@ -191,12 +179,12 @@
         </navLabel>
         <content src="madame-bovary-8.html#dlepubid00029"/>
       </navPoint>
-      <navPoint id="np-31" playOrder="31">
-        <navLabel>
-          <text>Part III</text>
-        </navLabel>
-        <content src="madame-bovary-8.html#dlepubid00030"/>
-      </navPoint>
+    </navPoint>
+    <navPoint id="np-31" playOrder="31">
+      <navLabel>
+        <text>Part III</text>
+      </navLabel>
+      <content src="madame-bovary-8.html#dlepubid00030"/>
       <navPoint id="np-32" playOrder="32">
         <navLabel>
           <text>Chapter One</text>
