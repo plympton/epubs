@@ -23,60 +23,60 @@
         <text>STORY OF THE DOOR</text>
       </navLabel>
       <content src="strange-case-of-dr.-jekyll-and-mr.-hyde-0.html#id00010"/>
-      <navPoint id="np-3" playOrder="3">
-        <navLabel>
-          <text>SEARCH FOR MR. HYDE</text>
-        </navLabel>
-        <content src="strange-case-of-dr.-jekyll-and-mr.-hyde-0.html#id00056"/>
-      </navPoint>
-      <navPoint id="np-4" playOrder="4">
-        <navLabel>
-          <text>DR. JEKYLL WAS QUITE AT EASE</text>
-        </navLabel>
-        <content src="strange-case-of-dr.-jekyll-and-mr.-hyde-0.html#id00130"/>
-      </navPoint>
-      <navPoint id="np-5" playOrder="5">
-        <navLabel>
-          <text>THE CAREW MURDER CASE</text>
-        </navLabel>
-        <content src="strange-case-of-dr.-jekyll-and-mr.-hyde-0.html#id00154"/>
-      </navPoint>
-      <navPoint id="np-6" playOrder="6">
-        <navLabel>
-          <text>INCIDENT OF THE LETTER</text>
-        </navLabel>
-        <content src="strange-case-of-dr.-jekyll-and-mr.-hyde-0.html#id00185"/>
-      </navPoint>
-      <navPoint id="np-7" playOrder="7">
-        <navLabel>
-          <text>REMARKABLE INCIDENT OF DR. LANYON</text>
-        </navLabel>
-        <content src="strange-case-of-dr.-jekyll-and-mr.-hyde-0.html#id00235"/>
-      </navPoint>
-      <navPoint id="np-8" playOrder="8">
-        <navLabel>
-          <text>INCIDENT AT THE WINDOW</text>
-        </navLabel>
-        <content src="strange-case-of-dr.-jekyll-and-mr.-hyde-0.html#id00260"/>
-      </navPoint>
-      <navPoint id="np-9" playOrder="9">
-        <navLabel>
-          <text>THE LAST NIGHT</text>
-        </navLabel>
-        <content src="strange-case-of-dr.-jekyll-and-mr.-hyde-1.html#id00279"/>
-      </navPoint>
-      <navPoint id="np-10" playOrder="10">
-        <navLabel>
-          <text>DR. LANYON'S NARRATIVE</text>
-        </navLabel>
-        <content src="strange-case-of-dr.-jekyll-and-mr.-hyde-1.html#id00409"/>
-      </navPoint>
-      <navPoint id="np-11" playOrder="11">
-        <navLabel>
-          <text>HENRY JEKYLL'S FULL STATEMENT OF THE CASE</text>
-        </navLabel>
-        <content src="strange-case-of-dr.-jekyll-and-mr.-hyde-1.html#id00465"/>
-      </navPoint>
+    </navPoint>
+    <navPoint id="np-3" playOrder="3">
+      <navLabel>
+        <text>SEARCH FOR MR. HYDE</text>
+      </navLabel>
+      <content src="strange-case-of-dr.-jekyll-and-mr.-hyde-0.html#id00056"/>
+    </navPoint>
+    <navPoint id="np-4" playOrder="4">
+      <navLabel>
+        <text>DR. JEKYLL WAS QUITE AT EASE</text>
+      </navLabel>
+      <content src="strange-case-of-dr.-jekyll-and-mr.-hyde-0.html#id00130"/>
+    </navPoint>
+    <navPoint id="np-5" playOrder="5">
+      <navLabel>
+        <text>THE CAREW MURDER CASE</text>
+      </navLabel>
+      <content src="strange-case-of-dr.-jekyll-and-mr.-hyde-0.html#id00154"/>
+    </navPoint>
+    <navPoint id="np-6" playOrder="6">
+      <navLabel>
+        <text>INCIDENT OF THE LETTER</text>
+      </navLabel>
+      <content src="strange-case-of-dr.-jekyll-and-mr.-hyde-0.html#id00185"/>
+    </navPoint>
+    <navPoint id="np-7" playOrder="7">
+      <navLabel>
+        <text>REMARKABLE INCIDENT OF DR. LANYON</text>
+      </navLabel>
+      <content src="strange-case-of-dr.-jekyll-and-mr.-hyde-0.html#id00235"/>
+    </navPoint>
+    <navPoint id="np-8" playOrder="8">
+      <navLabel>
+        <text>INCIDENT AT THE WINDOW</text>
+      </navLabel>
+      <content src="strange-case-of-dr.-jekyll-and-mr.-hyde-0.html#id00260"/>
+    </navPoint>
+    <navPoint id="np-9" playOrder="9">
+      <navLabel>
+        <text>THE LAST NIGHT</text>
+      </navLabel>
+      <content src="strange-case-of-dr.-jekyll-and-mr.-hyde-1.html#id00279"/>
+    </navPoint>
+    <navPoint id="np-10" playOrder="10">
+      <navLabel>
+        <text>DR. LANYON'S NARRATIVE</text>
+      </navLabel>
+      <content src="strange-case-of-dr.-jekyll-and-mr.-hyde-1.html#id00409"/>
+    </navPoint>
+    <navPoint id="np-11" playOrder="11">
+      <navLabel>
+        <text>HENRY JEKYLL'S FULL STATEMENT OF THE CASE</text>
+      </navLabel>
+      <content src="strange-case-of-dr.-jekyll-and-mr.-hyde-1.html#id00465"/>
     </navPoint>
   </navMap>
 </ncx>
