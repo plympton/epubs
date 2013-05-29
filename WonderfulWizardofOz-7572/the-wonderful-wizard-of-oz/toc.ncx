@@ -17,186 +17,162 @@
         <text>The Wonderful Wizard of Oz</text>
       </navLabel>
       <content src="the-wonderful-wizard-of-oz-0.html#dlepubid00000"/>
-      <navPoint id="np-2" playOrder="2">
-        <navLabel>
-          <text>by</text>
-        </navLabel>
-        <content src="the-wonderful-wizard-of-oz-0.html#dlepubid00001"/>
-      </navPoint>
-      <navPoint id="np-3" playOrder="3">
-        <navLabel>
-          <text>L. Frank Baum</text>
-        </navLabel>
-        <content src="the-wonderful-wizard-of-oz-0.html#dlepubid00002"/>
-      </navPoint>
-      <navPoint id="np-4" playOrder="4">
-        <navLabel>
-          <text>Contents</text>
-        </navLabel>
-        <content src="the-wonderful-wizard-of-oz-0.html#dlepubid00003"/>
-        <navPoint id="np-5" playOrder="5">
-          <navLabel>
-            <text>Introduction</text>
-          </navLabel>
-          <content src="the-wonderful-wizard-of-oz-1.html#dlepubid00004"/>
-        </navPoint>
-      </navPoint>
     </navPoint>
-    <navPoint id="np-6" playOrder="6">
+    <navPoint id="np-4" playOrder="4">
       <navLabel>
-        <text>THE WONDERFUL WIZARD OF OZ</text>
+        <text>Contents</text>
       </navLabel>
-      <content src="the-wonderful-wizard-of-oz-1.html#dlepubid00005"/>
-      <navPoint id="np-7" playOrder="7">
-        <navLabel>
-          <text>1. The Cyclone</text>
-        </navLabel>
-        <content src="the-wonderful-wizard-of-oz-1.html#dlepubid00006"/>
-        <navPoint id="np-8" playOrder="8">
-          <navLabel>
-            <text>2. The Council with the Munchkins</text>
-          </navLabel>
-          <content src="the-wonderful-wizard-of-oz-1.html#dlepubid00007"/>
-        </navPoint>
-        <navPoint id="np-9" playOrder="9">
-          <navLabel>
-            <text>"LET DOROTHY GO TO THE CITY OF EMERALDS"</text>
-          </navLabel>
-          <content src="the-wonderful-wizard-of-oz-2.html#dlepubid00008"/>
-        </navPoint>
-        <navPoint id="np-10" playOrder="10">
-          <navLabel>
-            <text>3. How Dorothy Saved the Scarecrow</text>
-          </navLabel>
-          <content src="the-wonderful-wizard-of-oz-3.html#dlepubid00009"/>
-        </navPoint>
-        <navPoint id="np-11" playOrder="11">
-          <navLabel>
-            <text>4. The Road Through the Forest</text>
-          </navLabel>
-          <content src="the-wonderful-wizard-of-oz-3.html#dlepubid00010"/>
-        </navPoint>
-        <navPoint id="np-12" playOrder="12">
-          <navLabel>
-            <text>5. The Rescue of the Tin Woodman</text>
-          </navLabel>
-          <content src="the-wonderful-wizard-of-oz-4.html#dlepubid00011"/>
-        </navPoint>
-        <navPoint id="np-13" playOrder="13">
-          <navLabel>
-            <text>6. The Cowardly Lion</text>
-          </navLabel>
-          <content src="the-wonderful-wizard-of-oz-5.html#dlepubid00012"/>
-        </navPoint>
-        <navPoint id="np-14" playOrder="14">
-          <navLabel>
-            <text>7. The Journey to the Great Oz</text>
-          </navLabel>
-          <content src="the-wonderful-wizard-of-oz-5.html#dlepubid00013"/>
-        </navPoint>
-        <navPoint id="np-15" playOrder="15">
-          <navLabel>
-            <text>8. The Deadly Poppy Field</text>
-          </navLabel>
-          <content src="the-wonderful-wizard-of-oz-6.html#dlepubid00014"/>
-        </navPoint>
-        <navPoint id="np-16" playOrder="16">
-          <navLabel>
-            <text>9. The Queen of the Field Mice</text>
-          </navLabel>
-          <content src="the-wonderful-wizard-of-oz-7.html#dlepubid00015"/>
-        </navPoint>
-        <navPoint id="np-17" playOrder="17">
-          <navLabel>
-            <text>10. The Guardian of the Gates</text>
-          </navLabel>
-          <content src="the-wonderful-wizard-of-oz-7.html#dlepubid00016"/>
-        </navPoint>
-        <navPoint id="np-18" playOrder="18">
-          <navLabel>
-            <text>11. The Emerald City of Oz</text>
-          </navLabel>
-          <content src="the-wonderful-wizard-of-oz-8.html#dlepubid00017"/>
-        </navPoint>
-        <navPoint id="np-19" playOrder="19">
-          <navLabel>
-            <text>12. The Search for the Wicked Witch</text>
-          </navLabel>
-          <content src="the-wonderful-wizard-of-oz-9.html#dlepubid00018"/>
-        </navPoint>
-        <navPoint id="np-20" playOrder="20">
-          <navLabel>
-            <text>13. The Rescue</text>
-          </navLabel>
-          <content src="the-wonderful-wizard-of-oz-11.html#dlepubid00019"/>
-        </navPoint>
-        <navPoint id="np-21" playOrder="21">
-          <navLabel>
-            <text>14. The Winged Monkeys</text>
-          </navLabel>
-          <content src="the-wonderful-wizard-of-oz-11.html#dlepubid00020"/>
-        </navPoint>
-        <navPoint id="np-22" playOrder="22">
-          <navLabel>
-            <text>15. The Discovery of Oz, the Terrible</text>
-          </navLabel>
-          <content src="the-wonderful-wizard-of-oz-12.html#dlepubid00021"/>
-        </navPoint>
-        <navPoint id="np-23" playOrder="23">
-          <navLabel>
-            <text>16. The Magic Art of the Great Humbug</text>
-          </navLabel>
-          <content src="the-wonderful-wizard-of-oz-13.html#dlepubid00022"/>
-        </navPoint>
-        <navPoint id="np-24" playOrder="24">
-          <navLabel>
-            <text>17. How the Balloon Was Launched</text>
-          </navLabel>
-          <content src="the-wonderful-wizard-of-oz-14.html#dlepubid00023"/>
-        </navPoint>
-        <navPoint id="np-25" playOrder="25">
-          <navLabel>
-            <text>18. Away to the South</text>
-          </navLabel>
-          <content src="the-wonderful-wizard-of-oz-14.html#dlepubid00024"/>
-        </navPoint>
-        <navPoint id="np-26" playOrder="26">
-          <navLabel>
-            <text>19. Attacked by the Fighting Trees</text>
-          </navLabel>
-          <content src="the-wonderful-wizard-of-oz-15.html#dlepubid00025"/>
-        </navPoint>
-        <navPoint id="np-27" playOrder="27">
-          <navLabel>
-            <text>20. The Dainty China Country</text>
-          </navLabel>
-          <content src="the-wonderful-wizard-of-oz-15.html#dlepubid00026"/>
-        </navPoint>
-        <navPoint id="np-28" playOrder="28">
-          <navLabel>
-            <text>21. The Lion Becomes the King of Beasts</text>
-          </navLabel>
-          <content src="the-wonderful-wizard-of-oz-16.html#dlepubid00027"/>
-        </navPoint>
-        <navPoint id="np-29" playOrder="29">
-          <navLabel>
-            <text>22. The Country of the Quadlings</text>
-          </navLabel>
-          <content src="the-wonderful-wizard-of-oz-16.html#dlepubid00028"/>
-        </navPoint>
-        <navPoint id="np-30" playOrder="30">
-          <navLabel>
-            <text>23. Glinda The Good Witch Grants Dorothy's Wish</text>
-          </navLabel>
-          <content src="the-wonderful-wizard-of-oz-16.html#dlepubid00029"/>
-        </navPoint>
-        <navPoint id="np-31" playOrder="31">
-          <navLabel>
-            <text>24. Home Again</text>
-          </navLabel>
-          <content src="the-wonderful-wizard-of-oz-17.html#dlepubid00030"/>
-        </navPoint>
-      </navPoint>
+      <content src="the-wonderful-wizard-of-oz-0.html#dlepubid00003"/>
+    </navPoint>
+    <navPoint id="np-5" playOrder="5">
+      <navLabel>
+        <text>Introduction</text>
+      </navLabel>
+      <content src="the-wonderful-wizard-of-oz-1.html#dlepubid00004"/>
+    </navPoint>
+    <navPoint id="np-7" playOrder="7">
+      <navLabel>
+        <text>1. The Cyclone</text>
+      </navLabel>
+      <content src="the-wonderful-wizard-of-oz-1.html#dlepubid00006"/>
+    </navPoint>
+    <navPoint id="np-8" playOrder="8">
+      <navLabel>
+        <text>2. The Council with the Munchkins</text>
+      </navLabel>
+      <content src="the-wonderful-wizard-of-oz-1.html#dlepubid00007"/>
+    </navPoint>
+    <navPoint id="np-10" playOrder="10">
+      <navLabel>
+        <text>3. How Dorothy Saved the Scarecrow</text>
+      </navLabel>
+      <content src="the-wonderful-wizard-of-oz-3.html#dlepubid00009"/>
+    </navPoint>
+    <navPoint id="np-11" playOrder="11">
+      <navLabel>
+        <text>4. The Road Through the Forest</text>
+      </navLabel>
+      <content src="the-wonderful-wizard-of-oz-3.html#dlepubid00010"/>
+    </navPoint>
+    <navPoint id="np-12" playOrder="12">
+      <navLabel>
+        <text>5. The Rescue of the Tin Woodman</text>
+      </navLabel>
+      <content src="the-wonderful-wizard-of-oz-4.html#dlepubid00011"/>
+    </navPoint>
+    <navPoint id="np-13" playOrder="13">
+      <navLabel>
+        <text>6. The Cowardly Lion</text>
+      </navLabel>
+      <content src="the-wonderful-wizard-of-oz-5.html#dlepubid00012"/>
+    </navPoint>
+    <navPoint id="np-14" playOrder="14">
+      <navLabel>
+        <text>7. The Journey to the Great Oz</text>
+      </navLabel>
+      <content src="the-wonderful-wizard-of-oz-5.html#dlepubid00013"/>
+    </navPoint>
+    <navPoint id="np-15" playOrder="15">
+      <navLabel>
+        <text>8. The Deadly Poppy Field</text>
+      </navLabel>
+      <content src="the-wonderful-wizard-of-oz-6.html#dlepubid00014"/>
+    </navPoint>
+    <navPoint id="np-16" playOrder="16">
+      <navLabel>
+        <text>9. The Queen of the Field Mice</text>
+      </navLabel>
+      <content src="the-wonderful-wizard-of-oz-7.html#dlepubid00015"/>
+    </navPoint>
+    <navPoint id="np-17" playOrder="17">
+      <navLabel>
+        <text>10. The Guardian of the Gates</text>
+      </navLabel>
+      <content src="the-wonderful-wizard-of-oz-7.html#dlepubid00016"/>
+    </navPoint>
+    <navPoint id="np-18" playOrder="18">
+      <navLabel>
+        <text>11. The Emerald City of Oz</text>
+      </navLabel>
+      <content src="the-wonderful-wizard-of-oz-8.html#dlepubid00017"/>
+    </navPoint>
+    <navPoint id="np-19" playOrder="19">
+      <navLabel>
+        <text>12. The Search for the Wicked Witch</text>
+      </navLabel>
+      <content src="the-wonderful-wizard-of-oz-9.html#dlepubid00018"/>
+    </navPoint>
+    <navPoint id="np-20" playOrder="20">
+      <navLabel>
+        <text>13. The Rescue</text>
+      </navLabel>
+      <content src="the-wonderful-wizard-of-oz-11.html#dlepubid00019"/>
+    </navPoint>
+    <navPoint id="np-21" playOrder="21">
+      <navLabel>
+        <text>14. The Winged Monkeys</text>
+      </navLabel>
+      <content src="the-wonderful-wizard-of-oz-11.html#dlepubid00020"/>
+    </navPoint>
+    <navPoint id="np-22" playOrder="22">
+      <navLabel>
+        <text>15. The Discovery of Oz, the Terrible</text>
+      </navLabel>
+      <content src="the-wonderful-wizard-of-oz-12.html#dlepubid00021"/>
+    </navPoint>
+    <navPoint id="np-23" playOrder="23">
+      <navLabel>
+        <text>16. The Magic Art of the Great Humbug</text>
+      </navLabel>
+      <content src="the-wonderful-wizard-of-oz-13.html#dlepubid00022"/>
+    </navPoint>
+    <navPoint id="np-24" playOrder="24">
+      <navLabel>
+        <text>17. How the Balloon Was Launched</text>
+      </navLabel>
+      <content src="the-wonderful-wizard-of-oz-14.html#dlepubid00023"/>
+    </navPoint>
+    <navPoint id="np-25" playOrder="25">
+      <navLabel>
+        <text>18. Away to the South</text>
+      </navLabel>
+      <content src="the-wonderful-wizard-of-oz-14.html#dlepubid00024"/>
+    </navPoint>
+    <navPoint id="np-26" playOrder="26">
+      <navLabel>
+        <text>19. Attacked by the Fighting Trees</text>
+      </navLabel>
+      <content src="the-wonderful-wizard-of-oz-15.html#dlepubid00025"/>
+    </navPoint>
+    <navPoint id="np-27" playOrder="27">
+      <navLabel>
+        <text>20. The Dainty China Country</text>
+      </navLabel>
+      <content src="the-wonderful-wizard-of-oz-15.html#dlepubid00026"/>
+    </navPoint>
+    <navPoint id="np-28" playOrder="28">
+      <navLabel>
+        <text>21. The Lion Becomes the King of Beasts</text>
+      </navLabel>
+      <content src="the-wonderful-wizard-of-oz-16.html#dlepubid00027"/>
+    </navPoint>
+    <navPoint id="np-29" playOrder="29">
+      <navLabel>
+        <text>22. The Country of the Quadlings</text>
+      </navLabel>
+      <content src="the-wonderful-wizard-of-oz-16.html#dlepubid00028"/>
+    </navPoint>
+    <navPoint id="np-30" playOrder="30">
+      <navLabel>
+        <text>23. Glinda The Good Witch Grants Dorothy's Wish</text>
+      </navLabel>
+      <content src="the-wonderful-wizard-of-oz-16.html#dlepubid00029"/>
+    </navPoint>
+    <navPoint id="np-31" playOrder="31">
+      <navLabel>
+        <text>24. Home Again</text>
+      </navLabel>
+      <content src="the-wonderful-wizard-of-oz-17.html#dlepubid00030"/>
     </navPoint>
   </navMap>
 </ncx>
