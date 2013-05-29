@@ -18,12 +18,6 @@
       </navLabel>
       <content src="through-the-looking-glass-0.html#dlepubid00000"/>
     </navPoint>
-    <navPoint id="np-2" playOrder="2">
-      <navLabel>
-        <text>The Millennium Fulcrum Edition 1.7</text>
-      </navLabel>
-      <content src="through-the-looking-glass-0.html#dlepubid00001"/>
-    </navPoint>
     <navPoint id="np-3" playOrder="3">
       <navLabel>
         <text>Contents</text>
@@ -95,12 +89,6 @@
         <text>CHAPTER XI. Waking</text>
       </navLabel>
       <content src="through-the-looking-glass-3.html#dlepubid00013"/>
-      <navPoint id="np-15" playOrder="15">
-        <navLabel>
-          <text>&#8212;and it really WAS a kitten, after all.</text>
-        </navLabel>
-        <content src="through-the-looking-glass-3.html#dlepubid00014"/>
-      </navPoint>
     </navPoint>
     <navPoint id="np-16" playOrder="16">
       <navLabel>
