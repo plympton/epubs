@@ -191,12 +191,12 @@
         </navLabel>
         <content src="war-and-peace-6.html#dlepubid00029"/>
       </navPoint>
-      <navPoint id="np-31" playOrder="31">
-        <navLabel>
-          <text>BOOK TWO: 1805</text>
-        </navLabel>
-        <content src="war-and-peace-6.html#dlepubid00030"/>
-      </navPoint>
+    </navPoint>
+    <navPoint id="np-31" playOrder="31">
+      <navLabel>
+        <text>BOOK TWO: 1805</text>
+      </navLabel>
+      <content src="war-and-peace-6.html#dlepubid00030"/>      
       <navPoint id="np-32" playOrder="32">
         <navLabel>
           <text>CHAPTER I</text>
@@ -323,12 +323,12 @@
         </navLabel>
         <content src="war-and-peace-11.html#dlepubid00051"/>
       </navPoint>
-      <navPoint id="np-53" playOrder="53">
-        <navLabel>
-          <text>BOOK THREE: 1805</text>
-        </navLabel>
-        <content src="war-and-peace-11.html#dlepubid00052"/>
-      </navPoint>
+    </navPoint>
+    <navPoint id="np-53" playOrder="53">
+      <navLabel>
+        <text>BOOK THREE: 1805</text>
+      </navLabel>
+      <content src="war-and-peace-11.html#dlepubid00052"/>
       <navPoint id="np-54" playOrder="54">
         <navLabel>
           <text>CHAPTER I</text>
@@ -443,12 +443,12 @@
         </navLabel>
         <content src="war-and-peace-16.html#dlepubid00071"/>
       </navPoint>
-      <navPoint id="np-73" playOrder="73">
-        <navLabel>
-          <text>BOOK FOUR: 1806</text>
-        </navLabel>
-        <content src="war-and-peace-16.html#dlepubid00072"/>
-      </navPoint>
+    </navPoint>
+    <navPoint id="np-73" playOrder="73">
+      <navLabel>
+        <text>BOOK FOUR: 1806</text>
+      </navLabel>
+      <content src="war-and-peace-16.html#dlepubid00072"/>
       <navPoint id="np-74" playOrder="74">
         <navLabel>
           <text>CHAPTER I</text>
@@ -545,12 +545,12 @@
         </navLabel>
         <content src="war-and-peace-19.html#dlepubid00088"/>
       </navPoint>
-      <navPoint id="np-90" playOrder="90">
-        <navLabel>
-          <text>BOOK FIVE: 1806 - 07</text>
-        </navLabel>
-        <content src="war-and-peace-19.html#dlepubid00089"/>
-      </navPoint>
+    </navPoint>
+    <navPoint id="np-90" playOrder="90">
+      <navLabel>
+        <text>BOOK FIVE: 1806 - 07</text>
+      </navLabel>
+      <content src="war-and-peace-19.html#dlepubid00089"/>
       <navPoint id="np-91" playOrder="91">
         <navLabel>
           <text>CHAPTER I</text>
@@ -683,12 +683,12 @@
         </navLabel>
         <content src="war-and-peace-23.html#dlepubid00111"/>
       </navPoint>
-      <navPoint id="np-113" playOrder="113">
-        <navLabel>
-          <text>BOOK SIX: 1808 - 10</text>
-        </navLabel>
-        <content src="war-and-peace-23.html#dlepubid00112"/>
-      </navPoint>
+    </navPoint>
+    <navPoint id="np-113" playOrder="113">
+      <navLabel>
+        <text>BOOK SIX: 1808 - 10</text>
+      </navLabel>
+      <content src="war-and-peace-23.html#dlepubid00112"/>
       <navPoint id="np-114" playOrder="114">
         <navLabel>
           <text>CHAPTER I</text>
@@ -845,12 +845,12 @@
         </navLabel>
         <content src="war-and-peace-27.html#dlepubid00138"/>
       </navPoint>
-      <navPoint id="np-140" playOrder="140">
-        <navLabel>
-          <text>BOOK SEVEN: 1810 - 11</text>
-        </navLabel>
-        <content src="war-and-peace-27.html#dlepubid00139"/>
-      </navPoint>
+    </navPoint>
+    <navPoint id="np-140" playOrder="140">
+      <navLabel>
+        <text>BOOK SEVEN: 1810 - 11</text>
+      </navLabel>
+      <content src="war-and-peace-27.html#dlepubid00139"/>
       <navPoint id="np-141" playOrder="141">
         <navLabel>
           <text>CHAPTER I</text>
@@ -929,12 +929,12 @@
         </navLabel>
         <content src="war-and-peace-30.html#dlepubid00152"/>
       </navPoint>
-      <navPoint id="np-154" playOrder="154">
-        <navLabel>
-          <text>BOOK EIGHT: 1811 - 12</text>
-        </navLabel>
-        <content src="war-and-peace-30.html#dlepubid00153"/>
-      </navPoint>
+    </navPoint>
+    <navPoint id="np-154" playOrder="154">
+      <navLabel>
+        <text>BOOK EIGHT: 1811 - 12</text>
+      </navLabel>
+      <content src="war-and-peace-30.html#dlepubid00153"/>
       <navPoint id="np-155" playOrder="155">
         <navLabel>
           <text>CHAPTER I</text>
@@ -1067,12 +1067,12 @@
         </navLabel>
         <content src="war-and-peace-34.html#dlepubid00175"/>
       </navPoint>
-      <navPoint id="np-177" playOrder="177">
-        <navLabel>
-          <text>BOOK NINE: 1812</text>
-        </navLabel>
-        <content src="war-and-peace-34.html#dlepubid00176"/>
-      </navPoint>
+    </navPoint>
+    <navPoint id="np-177" playOrder="177">
+      <navLabel>
+        <text>BOOK NINE: 1812</text>
+      </navLabel>
+      <content src="war-and-peace-34.html#dlepubid00176"/>
       <navPoint id="np-178" playOrder="178">
         <navLabel>
           <text>CHAPTER I</text>
@@ -1211,12 +1211,12 @@
         </navLabel>
         <content src="war-and-peace-38.html#dlepubid00199"/>
       </navPoint>
-      <navPoint id="np-201" playOrder="201">
-        <navLabel>
-          <text>BOOK TEN: 1812</text>
-        </navLabel>
-        <content src="war-and-peace-38.html#dlepubid00200"/>
-      </navPoint>
+    </navPoint>
+    <navPoint id="np-201" playOrder="201">
+      <navLabel>
+        <text>BOOK TEN: 1812</text>
+      </navLabel>
+      <content src="war-and-peace-38.html#dlepubid00200"/>
       <navPoint id="np-202" playOrder="202">
         <navLabel>
           <text>CHAPTER I</text>
@@ -1451,12 +1451,12 @@
         </navLabel>
         <content src="war-and-peace-46.html#dlepubid00239"/>
       </navPoint>
-      <navPoint id="np-241" playOrder="241">
-        <navLabel>
-          <text>BOOK ELEVEN: 1812</text>
-        </navLabel>
-        <content src="war-and-peace-46.html#dlepubid00240"/>
-      </navPoint>
+    </navPoint>
+    <navPoint id="np-241" playOrder="241">
+      <navLabel>
+        <text>BOOK ELEVEN: 1812</text>
+      </navLabel>
+      <content src="war-and-peace-46.html#dlepubid00240"/>
       <navPoint id="np-242" playOrder="242">
         <navLabel>
           <text>CHAPTER I</text>
@@ -1661,12 +1661,12 @@
         </navLabel>
         <content src="war-and-peace-52.html#dlepubid00274"/>
       </navPoint>
-      <navPoint id="np-276" playOrder="276">
-        <navLabel>
-          <text>BOOK TWELVE: 1812</text>
-        </navLabel>
-        <content src="war-and-peace-52.html#dlepubid00275"/>
-      </navPoint>
+    </navPoint>
+    <navPoint id="np-276" playOrder="276">
+      <navLabel>
+        <text>BOOK TWELVE: 1812</text>
+      </navLabel>
+      <content src="war-and-peace-52.html#dlepubid00275"/>
       <navPoint id="np-277" playOrder="277">
         <navLabel>
           <text>CHAPTER I</text>
@@ -1763,12 +1763,12 @@
         </navLabel>
         <content src="war-and-peace-55.html#dlepubid00291"/>
       </navPoint>
-      <navPoint id="np-293" playOrder="293">
-        <navLabel>
-          <text>BOOK THIRTEEN: 1812</text>
-        </navLabel>
-        <content src="war-and-peace-55.html#dlepubid00292"/>
-      </navPoint>
+    </navPoint>
+    <navPoint id="np-293" playOrder="293">
+      <navLabel>
+        <text>BOOK THIRTEEN: 1812</text>
+      </navLabel>
+      <content src="war-and-peace-55.html#dlepubid00292"/>
       <navPoint id="np-294" playOrder="294">
         <navLabel>
           <text>CHAPTER I</text>
@@ -1883,12 +1883,12 @@
         </navLabel>
         <content src="war-and-peace-58.html#dlepubid00311"/>
       </navPoint>
-      <navPoint id="np-313" playOrder="313">
-        <navLabel>
-          <text>BOOK FOURTEEN: 1812</text>
-        </navLabel>
-        <content src="war-and-peace-58.html#dlepubid00312"/>
-      </navPoint>
+    </navPoint>
+    <navPoint id="np-313" playOrder="313">
+      <navLabel>
+        <text>BOOK FOURTEEN: 1812</text>
+      </navLabel>
+      <content src="war-and-peace-58.html#dlepubid00312"/>
       <navPoint id="np-314" playOrder="314">
         <navLabel>
           <text>CHAPTER I</text>
@@ -2003,12 +2003,12 @@
         </navLabel>
         <content src="war-and-peace-60.html#dlepubid00331"/>
       </navPoint>
-      <navPoint id="np-333" playOrder="333">
-        <navLabel>
-          <text>BOOK FIFTEEN: 1812 - 13</text>
-        </navLabel>
-        <content src="war-and-peace-60.html#dlepubid00332"/>
-      </navPoint>
+    </navPoint>
+    <navPoint id="np-333" playOrder="333">
+      <navLabel>
+        <text>BOOK FIFTEEN: 1812 - 13</text>
+      </navLabel>
+      <content src="war-and-peace-60.html#dlepubid00332"/>
       <navPoint id="np-334" playOrder="334">
         <navLabel>
           <text>CHAPTER I</text>
@@ -2129,12 +2129,12 @@
         </navLabel>
         <content src="war-and-peace-63.html#dlepubid00352"/>
       </navPoint>
-      <navPoint id="np-354" playOrder="354">
-        <navLabel>
-          <text>FIRST EPILOGUE: 1813 - 20</text>
-        </navLabel>
-        <content src="war-and-peace-64.html#dlepubid00353"/>
-      </navPoint>
+    </navPoint>
+    <navPoint id="np-354" playOrder="354">
+      <navLabel>
+        <text>FIRST EPILOGUE: 1813 - 20</text>
+      </navLabel>
+      <content src="war-and-peace-64.html#dlepubid00353"/>
       <navPoint id="np-355" playOrder="355">
         <navLabel>
           <text>CHAPTER I</text>
@@ -2231,12 +2231,12 @@
         </navLabel>
         <content src="war-and-peace-66.html#dlepubid00369"/>
       </navPoint>
-      <navPoint id="np-371" playOrder="371">
-        <navLabel>
-          <text>SECOND EPILOGUE</text>
-        </navLabel>
-        <content src="war-and-peace-66.html#dlepubid00370"/>
-      </navPoint>
+    </navPoint>
+    <navPoint id="np-371" playOrder="371">
+      <navLabel>
+        <text>SECOND EPILOGUE</text>
+      </navLabel>
+      <content src="war-and-peace-66.html#dlepubid00370"/>
       <navPoint id="np-372" playOrder="372">
         <navLabel>
           <text>CHAPTER I</text>
