@@ -26,15 +26,9 @@
     </navPoint>
     <navPoint id="np-3" playOrder="3">
       <navLabel>
-        <text>CONTENTS:</text>
+        <text>CONTENTS</text>
       </navLabel>
       <content src="fairy-tales-0.html#id00013"/>
-    </navPoint>
-    <navPoint id="np-4" playOrder="4">
-      <navLabel>
-        <text>THE BROTHERS GRIMM FAIRY TALES</text>
-      </navLabel>
-      <content src="fairy-tales-0.html#id00015"/>
     </navPoint>
     <navPoint id="np-5" playOrder="5">
       <navLabel>
@@ -130,18 +124,18 @@
           <text>1. HOW THEY WENT TO THE MOUNTAINS TO EAT NUTS</text>
         </navLabel>
         <content src="fairy-tales-1.html#id00208"/>
-        <navPoint id="np-21" playOrder="21">
-          <navLabel>
-            <text>2. HOW CHANTICLEER AND PARTLET WENT TO VISIT MR KORBES</text>
-          </navLabel>
-          <content src="fairy-tales-1.html#id00215"/>
-        </navPoint>
-        <navPoint id="np-22" playOrder="22">
-          <navLabel>
-            <text>3. HOW PARTLET DIED AND WAS BURIED, AND HOW CHANTICLEER DIED OF GRIEF</text>
-          </navLabel>
-          <content src="fairy-tales-1.html#id00223"/>
-        </navPoint>
+      </navPoint>
+      <navPoint id="np-21" playOrder="21">
+        <navLabel>
+          <text>2. HOW CHANTICLEER AND PARTLET WENT TO VISIT MR KORBES</text>
+        </navLabel>
+        <content src="fairy-tales-1.html#id00215"/>
+      </navPoint>
+      <navPoint id="np-22" playOrder="22">
+        <navLabel>
+          <text>3. HOW PARTLET DIED AND WAS BURIED, AND HOW CHANTICLEER DIED OF GRIEF</text>
+        </navLabel>
+        <content src="fairy-tales-1.html#id00223"/>
       </navPoint>
     </navPoint>
     <navPoint id="np-23" playOrder="23">
@@ -394,12 +388,12 @@
           <text>FIRST STORY</text>
         </navLabel>
         <content src="fairy-tales-6.html#id00863"/>
-        <navPoint id="np-65" playOrder="65">
-          <navLabel>
-            <text>SECOND STORY</text>
-          </navLabel>
-          <content src="fairy-tales-6.html#id00876"/>
-        </navPoint>
+      </navPoint>
+      <navPoint id="np-65" playOrder="65">
+        <navLabel>
+          <text>SECOND STORY</text>
+        </navLabel>
+        <content src="fairy-tales-6.html#id00876"/>
       </navPoint>
     </navPoint>
     <navPoint id="np-66" playOrder="66">
