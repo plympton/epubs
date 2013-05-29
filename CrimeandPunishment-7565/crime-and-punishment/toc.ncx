@@ -17,30 +17,24 @@
         <text>CRIME AND PUNISHMENT</text>
       </navLabel>
       <content src="crime-and-punishment-0.html#dlepubid00000"/>
-      <navPoint id="np-2" playOrder="2">
-        <navLabel>
-          <text>Translated By Constance Garnett</text>
-        </navLabel>
-        <content src="crime-and-punishment-0.html#dlepubid00001"/>
-      </navPoint>
-      <navPoint id="np-3" playOrder="3">
-        <navLabel>
-          <text>TRANSLATOR'S PREFACE</text>
-        </navLabel>
-        <content src="crime-and-punishment-0.html#dlepubid00002"/>
-      </navPoint>
     </navPoint>
-    <navPoint id="np-4" playOrder="4">
+    <navPoint id="np-2" playOrder="2">
       <navLabel>
-        <text>CRIME AND PUNISHMENT</text>
+        <text>Translated By Constance Garnett</text>
       </navLabel>
-      <content src="crime-and-punishment-0.html#dlepubid00003"/>
-      <navPoint id="np-5" playOrder="5">
-        <navLabel>
-          <text>PART I</text>
-        </navLabel>
-        <content src="crime-and-punishment-0.html#dlepubid00004"/>
-      </navPoint>
+      <content src="crime-and-punishment-0.html#dlepubid00001"/>
+    </navPoint>
+    <navPoint id="np-3" playOrder="3">
+      <navLabel>
+        <text>TRANSLATOR'S PREFACE</text>
+      </navLabel>
+      <content src="crime-and-punishment-0.html#dlepubid00002"/>
+    </navPoint>    
+    <navPoint id="np-5" playOrder="5">
+      <navLabel>
+        <text>PART I</text>
+      </navLabel>
+      <content src="crime-and-punishment-0.html#dlepubid00004"/>
       <navPoint id="np-6" playOrder="6">
         <navLabel>
           <text>CHAPTER I</text>
@@ -83,12 +77,12 @@
         </navLabel>
         <content src="crime-and-punishment-3.html#dlepubid00011"/>
       </navPoint>
-      <navPoint id="np-13" playOrder="13">
-        <navLabel>
-          <text>PART II</text>
-        </navLabel>
-        <content src="crime-and-punishment-3.html#dlepubid00012"/>
-      </navPoint>
+    </navPoint>
+    <navPoint id="np-13" playOrder="13">
+      <navLabel>
+        <text>PART II</text>
+      </navLabel>
+      <content src="crime-and-punishment-3.html#dlepubid00012"/>
       <navPoint id="np-14" playOrder="14">
         <navLabel>
           <text>CHAPTER I</text>
@@ -131,12 +125,12 @@
         </navLabel>
         <content src="crime-and-punishment-7.html#dlepubid00019"/>
       </navPoint>
-      <navPoint id="np-21" playOrder="21">
-        <navLabel>
-          <text>PART III</text>
-        </navLabel>
-        <content src="crime-and-punishment-7.html#dlepubid00020"/>
-      </navPoint>
+    </navPoint>
+    <navPoint id="np-21" playOrder="21">
+      <navLabel>
+        <text>PART III</text>
+      </navLabel>
+      <content src="crime-and-punishment-7.html#dlepubid00020"/>
       <navPoint id="np-22" playOrder="22">
         <navLabel>
           <text>CHAPTER I</text>
@@ -173,12 +167,12 @@
         </navLabel>
         <content src="crime-and-punishment-10.html#dlepubid00026"/>
       </navPoint>
-      <navPoint id="np-28" playOrder="28">
-        <navLabel>
-          <text>PART IV</text>
-        </navLabel>
-        <content src="crime-and-punishment-10.html#dlepubid00027"/>
-      </navPoint>
+    </navPoint>
+    <navPoint id="np-28" playOrder="28">
+      <navLabel>
+        <text>PART IV</text>
+      </navLabel>
+      <content src="crime-and-punishment-10.html#dlepubid00027"/>
       <navPoint id="np-29" playOrder="29">
         <navLabel>
           <text>CHAPTER I</text>
@@ -215,12 +209,12 @@
         </navLabel>
         <content src="crime-and-punishment-13.html#dlepubid00033"/>
       </navPoint>
-      <navPoint id="np-35" playOrder="35">
-        <navLabel>
-          <text>PART V</text>
-        </navLabel>
-        <content src="crime-and-punishment-13.html#dlepubid00034"/>
-      </navPoint>
+    </navPoint>
+    <navPoint id="np-35" playOrder="35">
+      <navLabel>
+        <text>PART V</text>
+      </navLabel>
+      <content src="crime-and-punishment-13.html#dlepubid00034"/>
       <navPoint id="np-36" playOrder="36">
         <navLabel>
           <text>CHAPTER I</text>
@@ -251,12 +245,12 @@
         </navLabel>
         <content src="crime-and-punishment-15.html#dlepubid00039"/>
       </navPoint>
-      <navPoint id="np-41" playOrder="41">
-        <navLabel>
-          <text>PART VI</text>
-        </navLabel>
-        <content src="crime-and-punishment-16.html#dlepubid00040"/>
-      </navPoint>
+    </navPoint>
+    <navPoint id="np-41" playOrder="41">
+      <navLabel>
+        <text>PART VI</text>
+      </navLabel>
+      <content src="crime-and-punishment-16.html#dlepubid00040"/>
       <navPoint id="np-42" playOrder="42">
         <navLabel>
           <text>CHAPTER I</text>
@@ -305,23 +299,23 @@
         </navLabel>
         <content src="crime-and-punishment-19.html#dlepubid00048"/>
       </navPoint>
-      <navPoint id="np-50" playOrder="50">
+    </navPoint>
+    <navPoint id="np-50" playOrder="50">
+      <navLabel>
+        <text>EPILOGUE</text>
+      </navLabel>
+      <content src="crime-and-punishment-19.html#dlepubid00049"/>
+      <navPoint id="np-51" playOrder="51">
         <navLabel>
-          <text>EPILOGUE</text>
+          <text>I</text>
         </navLabel>
-        <content src="crime-and-punishment-19.html#dlepubid00049"/>
-        <navPoint id="np-51" playOrder="51">
-          <navLabel>
-            <text>I</text>
-          </navLabel>
-          <content src="crime-and-punishment-19.html#dlepubid00050"/>
-        </navPoint>
-        <navPoint id="np-52" playOrder="52">
-          <navLabel>
-            <text>II</text>
-          </navLabel>
-          <content src="crime-and-punishment-19.html#dlepubid00051"/>
-        </navPoint>
+        <content src="crime-and-punishment-19.html#dlepubid00050"/>
+      </navPoint>
+      <navPoint id="np-52" playOrder="52">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="crime-and-punishment-19.html#dlepubid00051"/>
       </navPoint>
     </navPoint>
   </navMap>
