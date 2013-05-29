@@ -27,7 +27,6 @@
     <item href="gullivers-travelsinto-several-remote-nations-of-the-world-5.html" id="item7" media-type="application/xhtml+xml"/>
     <item href="gullivers-travelsinto-several-remote-nations-of-the-world-6.html" id="item8" media-type="application/xhtml+xml"/>
     <item href="gullivers-travelsinto-several-remote-nations-of-the-world-7.html" id="item9" media-type="application/xhtml+xml"/>
-    <item href="gullivers-travelsinto-several-remote-nations-of-the-world-8.html" id="item10" media-type="application/xhtml+xml"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
   </manifest>
   <spine toc="ncx">
@@ -40,7 +39,6 @@
     <itemref idref="item7" linear="yes"/>
     <itemref idref="item8" linear="yes"/>
     <itemref idref="item9" linear="yes"/>
-    <itemref idref="item10" linear="yes"/>
   </spine>
   <guide>
 	<reference href="cover.html" type="cover" title="Cover"/>
