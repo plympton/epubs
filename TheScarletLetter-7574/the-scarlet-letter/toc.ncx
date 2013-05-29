@@ -17,168 +17,168 @@
         <text>THE SCARLET LETTER</text>
       </navLabel>
       <content src="the-scarlet-letter-0.html#id00008"/>
-      <navPoint id="np-2" playOrder="2">
-        <navLabel>
-          <text>EDITOR'S NOTE</text>
-        </navLabel>
-        <content src="the-scarlet-letter-0.html#id00010"/>
-      </navPoint>
-      <navPoint id="np-3" playOrder="3">
-        <navLabel>
-          <text>CONTENTS</text>
-        </navLabel>
-        <content src="the-scarlet-letter-0.html#id00018"/>
-      </navPoint>      
-      <navPoint id="np-4" playOrder="4">
-        <navLabel>
-          <text>THE CUSTOM-HOUSE</text>
-        </navLabel>
-        <content src="the-scarlet-letter-0.html#id00044"/>
-      </navPoint>
-      <navPoint id="np-6" playOrder="6">
-        <navLabel>
-          <text>I. THE PRISON DOOR</text>
-        </navLabel>
-        <content src="the-scarlet-letter-1.html#id00106"/>
-      </navPoint>
-      <navPoint id="np-7" playOrder="7">
-        <navLabel>
-          <text>II. THE MARKET-PLACE</text>
-        </navLabel>
-        <content src="the-scarlet-letter-1.html#id00110"/>
-      </navPoint>
-      <navPoint id="np-8" playOrder="8">
-        <navLabel>
-          <text>III. THE RECOGNITION</text>
-        </navLabel>
-        <content src="the-scarlet-letter-1.html#id00133"/>
-      </navPoint>
-      <navPoint id="np-9" playOrder="9">
-        <navLabel>
-          <text>IV. THE INTERVIEW</text>
-        </navLabel>
-        <content src="the-scarlet-letter-1.html#id00168"/>
-      </navPoint>
-      <navPoint id="np-10" playOrder="10">
-        <navLabel>
-          <text>V. HESTER AT HER NEEDLE</text>
-        </navLabel>
-        <content src="the-scarlet-letter-1.html#id00202"/>
-      </navPoint>
-      <navPoint id="np-11" playOrder="11">
-        <navLabel>
-          <text>VI. PEARL</text>
-        </navLabel>
-        <content src="the-scarlet-letter-2.html#id00216"/>
-      </navPoint>
-      <navPoint id="np-12" playOrder="12">
-        <navLabel>
-          <text>VII. THE GOVERNOR'S HALL</text>
-        </navLabel>
-        <content src="the-scarlet-letter-2.html#id00244"/>
-      </navPoint>
-      <navPoint id="np-13" playOrder="13">
-        <navLabel>
-          <text>VIII. THE ELF-CHILD AND THE MINISTER</text>
-        </navLabel>
-        <content src="the-scarlet-letter-2.html#id00270"/>
-      </navPoint>
-      <navPoint id="np-14" playOrder="14">
-        <navLabel>
-          <text>IX. THE LEECH</text>
-        </navLabel>
-        <content src="the-scarlet-letter-2.html#id00314"/>
-      </navPoint>
-      <navPoint id="np-15" playOrder="15">
-        <navLabel>
-          <text>X. THE LEECH AND HIS PATIENT</text>
-        </navLabel>
-        <content src="the-scarlet-letter-3.html#id00334"/>
-      </navPoint>
-      <navPoint id="np-16" playOrder="16">
-        <navLabel>
-          <text>XI. THE INTERIOR OF A HEART</text>
-        </navLabel>
-        <content src="the-scarlet-letter-3.html#id00381"/>
-      </navPoint>
-      <navPoint id="np-17" playOrder="17">
-        <navLabel>
-          <text>XII. THE MINISTER'S VIGIL</text>
-        </navLabel>
-        <content src="the-scarlet-letter-3.html#id00392"/>
-      </navPoint>
-      <navPoint id="np-18" playOrder="18">
-        <navLabel>
-          <text>XIII. ANOTHER VIEW OF HESTER</text>
-        </navLabel>
-        <content src="the-scarlet-letter-4.html#id00446"/>
-      </navPoint>
-      <navPoint id="np-19" playOrder="19">
-        <navLabel>
-          <text>XIV. HESTER AND THE PHYSICIAN</text>
-        </navLabel>
-        <content src="the-scarlet-letter-4.html#id00458"/>
-      </navPoint>
-      <navPoint id="np-20" playOrder="20">
-        <navLabel>
-          <text>XV. HESTER AND PEARL</text>
-        </navLabel>        
-        <content src="the-scarlet-letter-4.html#id00491"/>
-      </navPoint>
-      <navPoint id="np-21" playOrder="21">
-        <navLabel>
-          <text>XVI. A FOREST WALK</text>
-        </navLabel>
-        <content src="the-scarlet-letter-4.html#id00525"/>
-      </navPoint>
-      <navPoint id="np-22" playOrder="22">
-        <navLabel>
-          <text>XVII. THE PASTOR AND HIS PARISHIONER</text>
-        </navLabel>
-        <content src="the-scarlet-letter-4.html#id00562"/>
-      </navPoint>
-      <navPoint id="np-23" playOrder="23">
-        <navLabel>
-          <text>XVIII. A FLOOD OF SUNSHINE</text>
-        </navLabel>
-        <content src="the-scarlet-letter-5.html#id00616"/>
-      </navPoint>
-      <navPoint id="np-24" playOrder="24">
-        <navLabel>
-          <text>XIX. THE CHILD AT THE BROOKSIDE</text>
-        </navLabel>
-        <content src="the-scarlet-letter-5.html#id00639"/>
-      </navPoint>
-      <navPoint id="np-25" playOrder="25">
-        <navLabel>
-          <text>XX. THE MINISTER IN A MAZE</text>
-        </navLabel>
-        <content src="the-scarlet-letter-5.html#id00678"/>
-      </navPoint>
-      <navPoint id="np-26" playOrder="26">
-        <navLabel>
-          <text>XXI. THE NEW ENGLAND HOLIDAY</text>
-        </navLabel>
-        <content src="the-scarlet-letter-5.html#id00710"/>
-      </navPoint>
-      <navPoint id="np-27" playOrder="27">
-        <navLabel>
-          <text>XXII. THE PROCESSION</text>
-        </navLabel>
-        <content src="the-scarlet-letter-5.html#id00738"/>
-      </navPoint>
-      <navPoint id="np-28" playOrder="28">
-        <navLabel>
-          <text>XXIII. THE REVELATION OF THE SCARLET LETTER</text>
-        </navLabel>
-        <content src="the-scarlet-letter-6.html#id00769"/>
-      </navPoint>
-      <navPoint id="np-29" playOrder="29">
-        <navLabel>
-          <text>XXIV. CONCLUSION</text>
-        </navLabel>
-        <content src="the-scarlet-letter-6.html#id00808"/>
-      </navPoint>
+    </navPoint>
+    <navPoint id="np-2" playOrder="2">
+      <navLabel>
+        <text>EDITOR'S NOTE</text>
+      </navLabel>
+      <content src="the-scarlet-letter-0.html#id00010"/>
+    </navPoint>
+    <navPoint id="np-3" playOrder="3">
+      <navLabel>
+        <text>CONTENTS</text>
+      </navLabel>
+      <content src="the-scarlet-letter-0.html#id00018"/>
+    </navPoint>      
+    <navPoint id="np-4" playOrder="4">
+      <navLabel>
+        <text>THE CUSTOM-HOUSE</text>
+      </navLabel>
+      <content src="the-scarlet-letter-0.html#id00044"/>
+    </navPoint>
+    <navPoint id="np-6" playOrder="6">
+      <navLabel>
+        <text>I. THE PRISON DOOR</text>
+      </navLabel>
+      <content src="the-scarlet-letter-1.html#id00106"/>
+    </navPoint>
+    <navPoint id="np-7" playOrder="7">
+      <navLabel>
+        <text>II. THE MARKET-PLACE</text>
+      </navLabel>
+      <content src="the-scarlet-letter-1.html#id00110"/>
+    </navPoint>
+    <navPoint id="np-8" playOrder="8">
+      <navLabel>
+        <text>III. THE RECOGNITION</text>
+      </navLabel>
+      <content src="the-scarlet-letter-1.html#id00133"/>
+    </navPoint>
+    <navPoint id="np-9" playOrder="9">
+      <navLabel>
+        <text>IV. THE INTERVIEW</text>
+      </navLabel>
+      <content src="the-scarlet-letter-1.html#id00168"/>
+    </navPoint>
+    <navPoint id="np-10" playOrder="10">
+      <navLabel>
+        <text>V. HESTER AT HER NEEDLE</text>
+      </navLabel>
+      <content src="the-scarlet-letter-1.html#id00202"/>
+    </navPoint>
+    <navPoint id="np-11" playOrder="11">
+      <navLabel>
+        <text>VI. PEARL</text>
+      </navLabel>
+      <content src="the-scarlet-letter-2.html#id00216"/>
+    </navPoint>
+    <navPoint id="np-12" playOrder="12">
+      <navLabel>
+        <text>VII. THE GOVERNOR'S HALL</text>
+      </navLabel>
+      <content src="the-scarlet-letter-2.html#id00244"/>
+    </navPoint>
+    <navPoint id="np-13" playOrder="13">
+      <navLabel>
+        <text>VIII. THE ELF-CHILD AND THE MINISTER</text>
+      </navLabel>
+      <content src="the-scarlet-letter-2.html#id00270"/>
+    </navPoint>
+    <navPoint id="np-14" playOrder="14">
+      <navLabel>
+        <text>IX. THE LEECH</text>
+      </navLabel>
+      <content src="the-scarlet-letter-2.html#id00314"/>
+    </navPoint>
+    <navPoint id="np-15" playOrder="15">
+      <navLabel>
+        <text>X. THE LEECH AND HIS PATIENT</text>
+      </navLabel>
+      <content src="the-scarlet-letter-3.html#id00334"/>
+    </navPoint>
+    <navPoint id="np-16" playOrder="16">
+      <navLabel>
+        <text>XI. THE INTERIOR OF A HEART</text>
+      </navLabel>
+      <content src="the-scarlet-letter-3.html#id00381"/>
+    </navPoint>
+    <navPoint id="np-17" playOrder="17">
+      <navLabel>
+        <text>XII. THE MINISTER'S VIGIL</text>
+      </navLabel>
+      <content src="the-scarlet-letter-3.html#id00392"/>
+    </navPoint>
+    <navPoint id="np-18" playOrder="18">
+      <navLabel>
+        <text>XIII. ANOTHER VIEW OF HESTER</text>
+      </navLabel>
+      <content src="the-scarlet-letter-4.html#id00446"/>
+    </navPoint>
+    <navPoint id="np-19" playOrder="19">
+      <navLabel>
+        <text>XIV. HESTER AND THE PHYSICIAN</text>
+      </navLabel>
+      <content src="the-scarlet-letter-4.html#id00458"/>
+    </navPoint>
+    <navPoint id="np-20" playOrder="20">
+      <navLabel>
+        <text>XV. HESTER AND PEARL</text>
+      </navLabel>        
+      <content src="the-scarlet-letter-4.html#id00491"/>
+    </navPoint>
+    <navPoint id="np-21" playOrder="21">
+      <navLabel>
+        <text>XVI. A FOREST WALK</text>
+      </navLabel>
+      <content src="the-scarlet-letter-4.html#id00525"/>
+    </navPoint>
+    <navPoint id="np-22" playOrder="22">
+      <navLabel>
+        <text>XVII. THE PASTOR AND HIS PARISHIONER</text>
+      </navLabel>
+      <content src="the-scarlet-letter-4.html#id00562"/>
+    </navPoint>
+    <navPoint id="np-23" playOrder="23">
+      <navLabel>
+        <text>XVIII. A FLOOD OF SUNSHINE</text>
+      </navLabel>
+      <content src="the-scarlet-letter-5.html#id00616"/>
+    </navPoint>
+    <navPoint id="np-24" playOrder="24">
+      <navLabel>
+        <text>XIX. THE CHILD AT THE BROOKSIDE</text>
+      </navLabel>
+      <content src="the-scarlet-letter-5.html#id00639"/>
+    </navPoint>
+    <navPoint id="np-25" playOrder="25">
+      <navLabel>
+        <text>XX. THE MINISTER IN A MAZE</text>
+      </navLabel>
+      <content src="the-scarlet-letter-5.html#id00678"/>
+    </navPoint>
+    <navPoint id="np-26" playOrder="26">
+      <navLabel>
+        <text>XXI. THE NEW ENGLAND HOLIDAY</text>
+      </navLabel>
+      <content src="the-scarlet-letter-5.html#id00710"/>
+    </navPoint>
+    <navPoint id="np-27" playOrder="27">
+      <navLabel>
+        <text>XXII. THE PROCESSION</text>
+      </navLabel>
+      <content src="the-scarlet-letter-5.html#id00738"/>
+    </navPoint>
+    <navPoint id="np-28" playOrder="28">
+      <navLabel>
+        <text>XXIII. THE REVELATION OF THE SCARLET LETTER</text>
+      </navLabel>
+      <content src="the-scarlet-letter-6.html#id00769"/>
+    </navPoint>
+    <navPoint id="np-29" playOrder="29">
+      <navLabel>
+        <text>XXIV. CONCLUSION</text>
+      </navLabel>
+      <content src="the-scarlet-letter-6.html#id00808"/>
     </navPoint>
   </navMap>
 </ncx>
