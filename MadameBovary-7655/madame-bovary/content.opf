@@ -39,7 +39,7 @@
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
   </manifest>
   <spine toc="ncx">
-     <itemref idref="cover" linear="no"/>
+    <itemref idref="cover" linear="no"/>
     <itemref idref="item2" linear="yes"/>
     <itemref idref="item3" linear="yes"/>
     <itemref idref="item4" linear="yes"/>
