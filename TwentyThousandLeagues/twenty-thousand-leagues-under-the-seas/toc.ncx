@@ -1,0 +1,322 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="twenty-thousand-leagues-under-the-seas" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Twenty Thousand Leagues Under the Sea</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>TWENTY THOUSAND LEAGUES UNDER THE SEA</text>
+      </navLabel>
+      <content src="twenty-thousand-leagues-under-the-seas-0.html#id00054"/>
+    </navPoint>
+    <navPoint id="np-4" playOrder="4">
+      <navLabel>
+        <text>VERNE'S TITLE</text>
+      </navLabel>
+      <content src="twenty-thousand-leagues-under-the-seas-0.html#id00067"/>
+    </navPoint>
+    <navPoint id="np-5" playOrder="5">
+      <navLabel>
+        <text>FIRST PART</text>
+      </navLabel>
+      <content src="twenty-thousand-leagues-under-the-seas-0.html#id00073"/>
+      <navPoint id="np-8" playOrder="8">
+        <navLabel>
+          <text>CHAPTER 1</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-0.html#id00175"/>
+      </navPoint>
+      <navPoint id="np-9" playOrder="9">
+        <navLabel>
+          <text>CHAPTER 2</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-1.html#id00208"/>
+      </navPoint>
+      <navPoint id="np-10" playOrder="10">
+        <navLabel>
+          <text>CHAPTER 3</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-1.html#id00252"/>
+      </navPoint>
+      <navPoint id="np-11" playOrder="11">
+        <navLabel>
+          <text>CHAPTER 4</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-1.html#id00312"/>
+      </navPoint>
+      <navPoint id="np-12" playOrder="12">
+        <navLabel>
+          <text>CHAPTER 5</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-1.html#id00370"/>
+      </navPoint>
+      <navPoint id="np-13" playOrder="13">
+        <navLabel>
+          <text>CHAPTER 6</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-2.html#id00412"/>
+      </navPoint>
+      <navPoint id="np-14" playOrder="14">
+        <navLabel>
+          <text>CHAPTER 7</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-2.html#id00519"/>
+      </navPoint>
+      <navPoint id="np-15" playOrder="15">
+        <navLabel>
+          <text>CHAPTER 8</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-2.html#id00611"/>
+      </navPoint>
+      <navPoint id="np-17" playOrder="17">
+        <navLabel>
+          <text>CHAPTER 9</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-3.html#id00683"/>
+      </navPoint>
+      <navPoint id="np-18" playOrder="18">
+        <navLabel>
+          <text>CHAPTER 10</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-3.html#id00754"/>
+      </navPoint>
+      <navPoint id="np-19" playOrder="19">
+        <navLabel>
+          <text>CHAPTER 11</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-3.html#id00839"/>
+      </navPoint>
+      <navPoint id="np-20" playOrder="20">
+        <navLabel>
+          <text>CHAPTER 12</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-4.html#id00889"/>
+      </navPoint>
+      <navPoint id="np-21" playOrder="21">
+        <navLabel>
+          <text>CHAPTER 13</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-4.html#id00955"/>
+      </navPoint>
+      <navPoint id="np-22" playOrder="22">
+        <navLabel>
+          <text>CHAPTER 14</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-4.html#id01012"/>
+      </navPoint>
+      <navPoint id="np-23" playOrder="23">
+        <navLabel>
+          <text>CHAPTER 15</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-5.html#id01121"/>
+      </navPoint>
+      <navPoint id="np-25" playOrder="25">
+        <navLabel>
+          <text>CHAPTER 16</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-5.html#id01217"/>
+      </navPoint>
+      <navPoint id="np-26" playOrder="26">
+        <navLabel>
+          <text>CHAPTER 17</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-5.html#id01256"/>
+      </navPoint>
+      <navPoint id="np-27" playOrder="27">
+        <navLabel>
+          <text>CHAPTER 18</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-6.html#id01291"/>
+      </navPoint>
+      <navPoint id="np-28" playOrder="28">
+        <navLabel>
+          <text>CHAPTER 19</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-6.html#id01343"/>
+      </navPoint>
+      <navPoint id="np-29" playOrder="29">
+        <navLabel>
+          <text>CHAPTER 20</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-6.html#id01415"/>
+      </navPoint>
+      <navPoint id="np-30" playOrder="30">
+        <navLabel>
+          <text>CHAPTER 21</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-7.html#id01489"/>
+      </navPoint>
+      <navPoint id="np-31" playOrder="31">
+        <navLabel>
+          <text>CHAPTER 22</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-7.html#id01617"/>
+      </navPoint>
+      <navPoint id="np-32" playOrder="32">
+        <navLabel>
+          <text>CHAPTER 23</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-7.html#id01756"/>
+      </navPoint>
+      <navPoint id="np-33" playOrder="33">
+        <navLabel>
+          <text>CHAPTER 24</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-8.html#id01826"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-35" playOrder="35">
+      <navLabel>
+        <text>SECOND PART</text>
+      </navLabel>
+      <content src="twenty-thousand-leagues-under-the-seas-8.html#id02004"/>
+      <navPoint id="np-36" playOrder="36">
+        <navLabel>
+          <text>CHAPTER 1</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-8.html#id02006"/>
+      </navPoint>
+      <navPoint id="np-37" playOrder="37">
+        <navLabel>
+          <text>CHAPTER 2</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-9.html#id02056"/>
+      </navPoint>
+      <navPoint id="np-38" playOrder="38">
+        <navLabel>
+          <text>CHAPTER 3</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-9.html#id02175"/>
+      </navPoint>
+      <navPoint id="np-39" playOrder="39">
+        <navLabel>
+          <text>CHAPTER 4</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-10.html#id02264"/>
+      </navPoint>
+      <navPoint id="np-40" playOrder="40">
+        <navLabel>
+          <text>CHAPTER 5</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-10.html#id02371"/>
+      </navPoint>
+      <navPoint id="np-41" playOrder="41">
+        <navLabel>
+          <text>CHAPTER 6</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-11.html#id02472"/>
+      </navPoint>
+      <navPoint id="np-42" playOrder="42">
+        <navLabel>
+          <text>CHAPTER 7</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-11.html#id02605"/>
+      </navPoint>
+      <navPoint id="np-43" playOrder="43">
+        <navLabel>
+          <text>CHAPTER 8</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-12.html#id02653"/>
+      </navPoint>
+      <navPoint id="np-44" playOrder="44">
+        <navLabel>
+          <text>CHAPTER 9</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-12.html#id02733"/>
+      </navPoint>
+      <navPoint id="np-45" playOrder="45">
+        <navLabel>
+          <text>CHAPTER 10</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-13.html#id02803"/>
+      </navPoint>
+      <navPoint id="np-46" playOrder="46">
+        <navLabel>
+          <text>CHAPTER 11</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-13.html#id02887"/>
+      </navPoint>
+      <navPoint id="np-47" playOrder="47">
+        <navLabel>
+          <text>CHAPTER 12</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-13.html#id02939"/>
+      </navPoint>
+      <navPoint id="np-48" playOrder="48">
+        <navLabel>
+          <text>CHAPTER 13</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-14.html#id03069"/>
+      </navPoint>
+      <navPoint id="np-49" playOrder="49">
+        <navLabel>
+          <text>CHAPTER 14</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-14.html#id03172"/>
+      </navPoint>
+      <navPoint id="np-50" playOrder="50">
+        <navLabel>
+          <text>CHAPTER 15</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-15.html#id03271"/>
+      </navPoint>
+      <navPoint id="np-51" playOrder="51">
+        <navLabel>
+          <text>CHAPTER 16</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-15.html#id03367"/>
+      </navPoint>
+      <navPoint id="np-52" playOrder="52">
+        <navLabel>
+          <text>CHAPTER 17</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-15.html#id03459"/>
+      </navPoint>
+      <navPoint id="np-53" playOrder="53">
+        <navLabel>
+          <text>CHAPTER 18</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-16.html#id03532"/>
+      </navPoint>
+      <navPoint id="np-54" playOrder="54">
+        <navLabel>
+          <text>CHAPTER 19</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-16.html#id03644"/>
+      </navPoint>
+      <navPoint id="np-55" playOrder="55">
+        <navLabel>
+          <text>CHAPTER 20</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-17.html#id03725"/>
+      </navPoint>
+      <navPoint id="np-56" playOrder="56">
+        <navLabel>
+          <text>CHAPTER 21</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-17.html#id03782"/>
+      </navPoint>
+      <navPoint id="np-57" playOrder="57">
+        <navLabel>
+          <text>CHAPTER 22</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-17.html#id03876"/>
+      </navPoint>
+      <navPoint id="np-58" playOrder="58">
+        <navLabel>
+          <text>CHAPTER 23</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-18.html#id03941"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

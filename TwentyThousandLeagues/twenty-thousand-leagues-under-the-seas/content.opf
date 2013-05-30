@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier id="id">twenty-thousand-leagues-under-the-seas</dc:identifier>
+    <dc:creator opf:file-as="Verne, Jules">Jules Verne</dc:creator>
+    <dc:contributor opf:file-as="Walter, F. P." opf:role="trl">F. P. Walter</dc:contributor>
+    <dc:title>Twenty Thousand Leagues Under the Sea</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Science fiction</dc:subject>
+    <dc:subject>Submarines (Ships) -- Fiction</dc:subject>
+    <dc:subject>Sea stories</dc:subject>
+    <dc:subject>Underwater exploration -- Fiction</dc:subject>
+    <dc:date opf:event="publication">2001-01-01</dc:date>
+    <dc:date opf:event="conversion">2013-05-30 00:22:53 GMT</dc:date>
+  </metadata>
+  <manifest>
+    <item href="0.css" id="item1" media-type="text/css"/>
+    <item href="twenty-thousand-leagues-under-the-seas-0.html" id="item2" media-type="application/xhtml+xml"/>
+    <item href="twenty-thousand-leagues-under-the-seas-1.html" id="item3" media-type="application/xhtml+xml"/>
+    <item href="twenty-thousand-leagues-under-the-seas-2.html" id="item4" media-type="application/xhtml+xml"/>
+    <item href="twenty-thousand-leagues-under-the-seas-3.html" id="item5" media-type="application/xhtml+xml"/>
+    <item href="twenty-thousand-leagues-under-the-seas-4.html" id="item6" media-type="application/xhtml+xml"/>
+    <item href="twenty-thousand-leagues-under-the-seas-5.html" id="item7" media-type="application/xhtml+xml"/>
+    <item href="twenty-thousand-leagues-under-the-seas-6.html" id="item8" media-type="application/xhtml+xml"/>
+    <item href="twenty-thousand-leagues-under-the-seas-7.html" id="item9" media-type="application/xhtml+xml"/>
+    <item href="twenty-thousand-leagues-under-the-seas-8.html" id="item10" media-type="application/xhtml+xml"/>
+    <item href="twenty-thousand-leagues-under-the-seas-9.html" id="item11" media-type="application/xhtml+xml"/>
+    <item href="twenty-thousand-leagues-under-the-seas-10.html" id="item12" media-type="application/xhtml+xml"/>
+    <item href="twenty-thousand-leagues-under-the-seas-11.html" id="item13" media-type="application/xhtml+xml"/>
+    <item href="twenty-thousand-leagues-under-the-seas-12.html" id="item14" media-type="application/xhtml+xml"/>
+    <item href="twenty-thousand-leagues-under-the-seas-13.html" id="item15" media-type="application/xhtml+xml"/>
+    <item href="twenty-thousand-leagues-under-the-seas-14.html" id="item16" media-type="application/xhtml+xml"/>
+    <item href="twenty-thousand-leagues-under-the-seas-15.html" id="item17" media-type="application/xhtml+xml"/>
+    <item href="twenty-thousand-leagues-under-the-seas-16.html" id="item18" media-type="application/xhtml+xml"/>
+    <item href="twenty-thousand-leagues-under-the-seas-17.html" id="item19" media-type="application/xhtml+xml"/>
+    <item href="twenty-thousand-leagues-under-the-seas-18.html" id="item20" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="item2" linear="yes"/>
+    <itemref idref="item3" linear="yes"/>
+    <itemref idref="item4" linear="yes"/>
+    <itemref idref="item5" linear="yes"/>
+    <itemref idref="item6" linear="yes"/>
+    <itemref idref="item7" linear="yes"/>
+    <itemref idref="item8" linear="yes"/>
+    <itemref idref="item9" linear="yes"/>
+    <itemref idref="item10" linear="yes"/>
+    <itemref idref="item11" linear="yes"/>
+    <itemref idref="item12" linear="yes"/>
+    <itemref idref="item13" linear="yes"/>
+    <itemref idref="item14" linear="yes"/>
+    <itemref idref="item15" linear="yes"/>
+    <itemref idref="item16" linear="yes"/>
+    <itemref idref="item17" linear="yes"/>
+    <itemref idref="item18" linear="yes"/>
+    <itemref idref="item19" linear="yes"/>
+    <itemref idref="item20" linear="yes"/>
+  </spine>
+</package>
