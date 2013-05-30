@@ -23,6 +23,8 @@
   <meta content="coverpage" name="cover"/>
   </metadata>
   <manifest>
+    <item href="cover.html" id="cover" media-type="application/xhtml+xml"/>
+	<item href="cover.jpg" id="cover-image" media-type="image/jpeg"/>
     <item href="0.css" id="item1" media-type="text/css"/>
     <item href="adventures-of-huckleberry-finn-0.html" id="item2" media-type="application/xhtml+xml"/>
     <item href="adventures-of-huckleberry-finn-1.html" id="item3" media-type="application/xhtml+xml"/>
@@ -42,6 +44,7 @@
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
   </manifest>
   <spine toc="ncx">
+    <itemref idref="cover" linear="no"/>
     <itemref idref="item2" linear="yes"/>
     <itemref idref="item3" linear="yes"/>
     <itemref idref="item4" linear="yes"/>
@@ -60,6 +63,6 @@
   </spine>
   <guide>
     <reference href="adventures-of-huckleberry-finn-0.html#pgepubid00004" type="toc" title="CONTENTS."/>
-    <reference href="wrap0000.html" type="cover" title="Cover"/>
+    <reference href="cover.html" type="cover" title="Cover"/>
   </guide>
 </package>
