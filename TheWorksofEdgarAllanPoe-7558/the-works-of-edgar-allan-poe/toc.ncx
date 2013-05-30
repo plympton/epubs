@@ -79,7 +79,7 @@
       </navPoint>
       <navPoint id="np-14" playOrder="14">
         <navLabel>
-          <text>THE MYSTERY OF MARIE ROGET.(*1)</text>
+          <text>THE MYSTERY OF MARIE ROGET.</text>
         </navLabel>
         <content src="the-works-of-edgar-allan-poe-6.html#dlepubid00013"/>
         <navPoint id="np-16" playOrder="16">
