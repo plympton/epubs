@@ -173,6 +173,12 @@
         </navLabel>
         <content src="twenty-thousand-leagues-under-the-seas-8.html#id01826"/>
       </navPoint>
+      <navPoint id="np-34" playOrder="34">
+        <navLabel>
+          <text>ENDNOTES FOR FIRST PART</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-8.html#end1"/>
+      </navPoint>
     </navPoint>
     <navPoint id="np-35" playOrder="35">
       <navLabel>
@@ -316,6 +322,12 @@
           <text>CHAPTER 23</text>
         </navLabel>
         <content src="twenty-thousand-leagues-under-the-seas-18.html#id03941"/>
+      </navPoint>
+      <navPoint id="np-59" playOrder="59">
+        <navLabel>
+          <text>ENDNOTES FOR SECOND PART</text>
+        </navLabel>
+        <content src="twenty-thousand-leagues-under-the-seas-18.html#end2"/>
       </navPoint>
     </navPoint>
   </navMap>
