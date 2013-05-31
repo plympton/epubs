@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier id="id">winesburg-ohio</dc:identifier>
+    <dc:creator opf:file-as="Anderson, Sherwood">Sherwood Anderson</dc:creator>
+    <dc:title>Winesburg, Ohio; a group of tales of Ohio small town life</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>City and town life -- Fiction</dc:subject>
+    <dc:subject>Pastoral fiction</dc:subject>
+    <dc:subject>Ohio -- Social life and customs -- Fiction</dc:subject>
+    <dc:date opf:event="publication">1996-02-01</dc:date>
+    <dc:date opf:event="conversion">2013-05-31 19:55:27 GMT</dc:date>
+    <meta name="cover" content="cover-image"/>
+  </metadata>
+  <manifest>
+    <item href="cover.html" id="cover" media-type="application/xhtml+xml"/>
+    <item href="cover.jpg" id="cover-image" media-type="image/jpeg"/>
+    <item href="0.css" id="item1" media-type="text/css"/>
+    <item href="winesburg-ohio-0.html" id="item2" media-type="application/xhtml+xml"/>
+    <item href="winesburg-ohio-1.html" id="item3" media-type="application/xhtml+xml"/>
+    <item href="winesburg-ohio-2.html" id="item4" media-type="application/xhtml+xml"/>
+    <item href="winesburg-ohio-3.html" id="item5" media-type="application/xhtml+xml"/>
+    <item href="winesburg-ohio-4.html" id="item6" media-type="application/xhtml+xml"/>
+    <item href="winesburg-ohio-5.html" id="item7" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="item2" linear="yes"/>
+    <itemref idref="item3" linear="yes"/>
+    <itemref idref="item4" linear="yes"/>
+    <itemref idref="item5" linear="yes"/>
+    <itemref idref="item6" linear="yes"/>
+    <itemref idref="item7" linear="yes"/>
+  </spine>
+  <guide>
+    <reference href="winesburg-ohio-0.html#id00010" type="toc" title="CONTENTS"/>
+    <reference href="cover.html" type="cover" title="Cover"/>
+  </guide>
+</package>

@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="winesburg-ohio" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Winesburg, Ohio; a group of tales of Ohio small town life</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>WINESBURG,OHIO</text>
+      </navLabel>
+      <content src="winesburg-ohio-0.html#id00008"/>
+    </navPoint>
+    <navPoint id="np-2" playOrder="2">
+      <navLabel>
+        <text>CONTENTS</text>
+      </navLabel>
+      <content src="winesburg-ohio-0.html#id00010"/>
+    </navPoint>
+    <navPoint id="np-3" playOrder="3">
+      <navLabel>
+        <text>INTRODUCTION</text>
+      </navLabel>
+      <content src="winesburg-ohio-0.html#id00035"/>
+    </navPoint>
+    <navPoint id="np-5" playOrder="5">
+      <navLabel>
+        <text>THE TALES AND THE PERSONS</text>
+      </navLabel>
+      <content src="winesburg-ohio-0.html#id00064"/>
+    </navPoint>
+    <navPoint id="np-6" playOrder="6">
+      <navLabel>
+        <text>THE BOOK OF THE GROTESQUE</text>
+      </navLabel>
+      <content src="winesburg-ohio-0.html#id00065"/>
+    </navPoint>
+    <navPoint id="np-7" playOrder="7">
+      <navLabel>
+        <text>HANDS</text>
+      </navLabel>
+      <content src="winesburg-ohio-0.html#id00082"/>
+    </navPoint>
+    <navPoint id="np-8" playOrder="8">
+      <navLabel>
+        <text>PAPER PILLS</text>
+      </navLabel>
+      <content src="winesburg-ohio-0.html#id00108"/>
+    </navPoint>
+    <navPoint id="np-9" playOrder="9">
+      <navLabel>
+        <text>MOTHER</text>
+      </navLabel>
+      <content src="winesburg-ohio-0.html#id00122"/>
+    </navPoint>
+    <navPoint id="np-10" playOrder="10">
+      <navLabel>
+        <text>THE PHILOSOPHER</text>
+      </navLabel>
+      <content src="winesburg-ohio-1.html#id00145"/>
+    </navPoint>
+    <navPoint id="np-11" playOrder="11">
+      <navLabel>
+        <text>NOBODY KNOWS</text>
+      </navLabel>
+      <content src="winesburg-ohio-1.html#id00176"/>
+    </navPoint>
+    <navPoint id="np-12" playOrder="12">
+      <navLabel>
+        <text>GODLINESS</text>
+      </navLabel>
+      <content src="winesburg-ohio-1.html#id00196"/>
+      <navPoint id="np-13" playOrder="13">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="winesburg-ohio-1.html#id00222"/>
+      </navPoint>
+      <navPoint id="np-14" playOrder="14">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="winesburg-ohio-1.html#id00245"/>
+      </navPoint>
+      <navPoint id="np-15" playOrder="15">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="winesburg-ohio-2.html#id00279"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-16" playOrder="16">
+      <navLabel>
+        <text>A MAN OF IDEAS</text>
+      </navLabel>
+      <content src="winesburg-ohio-2.html#id00297"/>
+    </navPoint>
+    <navPoint id="np-17" playOrder="17">
+      <navLabel>
+        <text>ADVENTURE</text>
+      </navLabel>
+      <content src="winesburg-ohio-2.html#id00330"/>
+    </navPoint>
+    <navPoint id="np-18" playOrder="18">
+      <navLabel>
+        <text>RESPECTABILITY</text>
+      </navLabel>
+      <content src="winesburg-ohio-2.html#id00357"/>
+    </navPoint>
+    <navPoint id="np-19" playOrder="19">
+      <navLabel>
+        <text>THE THINKER</text>
+      </navLabel>
+      <content src="winesburg-ohio-2.html#id00380"/>
+    </navPoint>
+    <navPoint id="np-20" playOrder="20">
+      <navLabel>
+        <text>TANDY</text>
+      </navLabel>
+      <content src="winesburg-ohio-3.html#id00432"/>
+    </navPoint>
+    <navPoint id="np-21" playOrder="21">
+      <navLabel>
+        <text>THE STRENGTH OF GOD</text>
+      </navLabel>
+      <content src="winesburg-ohio-3.html#id00447"/>
+    </navPoint>
+    <navPoint id="np-22" playOrder="22">
+      <navLabel>
+        <text>THE TEACHER</text>
+      </navLabel>
+      <content src="winesburg-ohio-3.html#id00469"/>
+    </navPoint>
+    <navPoint id="np-23" playOrder="23">
+      <navLabel>
+        <text>LONELINESS</text>
+      </navLabel>
+      <content src="winesburg-ohio-3.html#id00499"/>
+    </navPoint>
+    <navPoint id="np-24" playOrder="24">
+      <navLabel>
+        <text>AN AWAKENING</text>
+      </navLabel>
+      <content src="winesburg-ohio-4.html#id00532"/>
+    </navPoint>
+    <navPoint id="np-25" playOrder="25">
+      <navLabel>
+        <text>"QUEER"</text>
+      </navLabel>
+      <content src="winesburg-ohio-4.html#id00561"/>
+    </navPoint>
+    <navPoint id="np-26" playOrder="26">
+      <navLabel>
+        <text>THE UNTOLD LIE</text>
+      </navLabel>
+      <content src="winesburg-ohio-4.html#id00600"/>
+    </navPoint>
+    <navPoint id="np-27" playOrder="27">
+      <navLabel>
+        <text>DRINK</text>
+      </navLabel>
+      <content src="winesburg-ohio-4.html#id00626"/>
+    </navPoint>
+    <navPoint id="np-28" playOrder="28">
+      <navLabel>
+        <text>DEATH</text>
+      </navLabel>
+      <content src="winesburg-ohio-5.html#id00663"/>
+    </navPoint>
+    <navPoint id="np-29" playOrder="29">
+      <navLabel>
+        <text>SOPHISTICATION</text>
+      </navLabel>
+      <content src="winesburg-ohio-5.html#id00699"/>
+    </navPoint>
+    <navPoint id="np-30" playOrder="30">
+      <navLabel>
+        <text>DEPARTURE</text>
+      </navLabel>
+      <content src="winesburg-ohio-5.html#id00730"/>
+    </navPoint>
+  </navMap>
+</ncx>
