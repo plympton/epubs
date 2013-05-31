@@ -36,7 +36,6 @@
     <item href="the-wonderful-wizard-of-oz-16.html" id="item20" media-type="application/xhtml+xml"/>
     <item href="the-wonderful-wizard-of-oz-17.html" id="item21" media-type="application/xhtml+xml"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
-    <item href="title.html" id="title" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="cover" linear="no"/>
