@@ -2,6 +2,7 @@
 
 <package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
   <metadata>
+    <meta name="cover" content="cover-image"/>
     <dc:rights>Public domain in the USA.</dc:rights>
     <dc:identifier id="id">notre-dame-de-paris</dc:identifier>
     <dc:creator opf:file-as="Hugo, Victor">Victor Hugo</dc:creator>
