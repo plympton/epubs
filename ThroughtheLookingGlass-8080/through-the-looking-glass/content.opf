@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier id="id">through-the-looking-glass</dc:identifier>
+    <dc:creator opf:file-as="Carroll, Lewis">Lewis Carroll</dc:creator>
+    <dc:title>Through the Looking-Glass</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Fantasy</dc:subject>
+    <dc:date opf:event="publication">2008-06-25</dc:date>
+    <dc:date opf:event="conversion">2013-05-23 05:55:52 GMT</dc:date>
+  </metadata>
+  <manifest>
+  	<item href="cover.html" id="cover" media-type="application/xhtml+xml"/>
+	<item href="cover.jpg" id="cover-image" media-type="image/jpeg"/>
+    <item href="0.css" id="item1" media-type="text/css"/>
+    <item href="through-the-looking-glass-0.html" id="item2" media-type="application/xhtml+xml"/>
+    <item href="through-the-looking-glass-1.html" id="item3" media-type="application/xhtml+xml"/>
+    <item href="through-the-looking-glass-2.html" id="item4" media-type="application/xhtml+xml"/>
+    <item href="through-the-looking-glass-3.html" id="item5" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="item2" linear="yes"/>
+    <itemref idref="item3" linear="yes"/>
+    <itemref idref="item4" linear="yes"/>
+    <itemref idref="item5" linear="yes"/>
+  </spine>
+  <guide>
+    <reference href="through-the-looking-glass-0.html#pgepubid00002" type="toc" title="Contents"/>
+	<reference href="cover.html" type="cover" title="Cover"/>
+  </guide>
+</package>

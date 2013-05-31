@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="through-the-looking-glass" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Through the Looking-Glass</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>THROUGH THE LOOKING-GLASS</text>
+      </navLabel>
+      <content src="through-the-looking-glass-0.html#dlepubid00000"/>
+    </navPoint>
+    <navPoint id="np-3" playOrder="3">
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src="through-the-looking-glass-0.html#dlepubid00002"/>
+    </navPoint>
+    <navPoint id="np-4" playOrder="4">
+      <navLabel>
+        <text>CHAPTER I. Looking-Glass house</text>
+      </navLabel>
+      <content src="through-the-looking-glass-0.html#dlepubid00003"/>
+    </navPoint>
+    <navPoint id="np-5" playOrder="5">
+      <navLabel>
+        <text>CHAPTER II. The Garden of Live Flowers</text>
+      </navLabel>
+      <content src="through-the-looking-glass-0.html#dlepubid00004"/>
+    </navPoint>
+    <navPoint id="np-6" playOrder="6">
+      <navLabel>
+        <text>CHAPTER III. Looking-Glass Insects</text>
+      </navLabel>
+      <content src="through-the-looking-glass-0.html#dlepubid00005"/>
+    </navPoint>
+    <navPoint id="np-7" playOrder="7">
+      <navLabel>
+        <text>CHAPTER IV. Tweedledum And Tweedledee</text>
+      </navLabel>
+      <content src="through-the-looking-glass-1.html#dlepubid00006"/>
+    </navPoint>
+    <navPoint id="np-8" playOrder="8">
+      <navLabel>
+        <text>CHAPTER V. Wool and Water</text>
+      </navLabel>
+      <content src="through-the-looking-glass-1.html#dlepubid00007"/>
+    </navPoint>
+    <navPoint id="np-9" playOrder="9">
+      <navLabel>
+        <text>CHAPTER VI. Humpty Dumpty</text>
+      </navLabel>
+      <content src="through-the-looking-glass-2.html#dlepubid00008"/>
+    </navPoint>
+    <navPoint id="np-10" playOrder="10">
+      <navLabel>
+        <text>CHAPTER VII. The Lion and the Unicorn</text>
+      </navLabel>
+      <content src="through-the-looking-glass-2.html#dlepubid00009"/>
+    </navPoint>
+    <navPoint id="np-11" playOrder="11">
+      <navLabel>
+        <text>CHAPTER VIII. 'It's my own Invention'</text>
+      </navLabel>
+      <content src="through-the-looking-glass-2.html#dlepubid00010"/>
+    </navPoint>
+    <navPoint id="np-12" playOrder="12">
+      <navLabel>
+        <text>CHAPTER IX. Queen Alice</text>
+      </navLabel>
+      <content src="through-the-looking-glass-3.html#dlepubid00011"/>
+    </navPoint>
+    <navPoint id="np-13" playOrder="13">
+      <navLabel>
+        <text>CHAPTER X. Shaking</text>
+      </navLabel>
+      <content src="through-the-looking-glass-3.html#dlepubid00012"/>
+    </navPoint>
+    <navPoint id="np-14" playOrder="14">
+      <navLabel>
+        <text>CHAPTER XI. Waking</text>
+      </navLabel>
+      <content src="through-the-looking-glass-3.html#dlepubid00013"/>
+    </navPoint>
+    <navPoint id="np-16" playOrder="16">
+      <navLabel>
+        <text>CHAPTER XII. Which Dreamed it?</text>
+      </navLabel>
+      <content src="through-the-looking-glass-3.html#dlepubid00015"/>
+    </navPoint>
+  </navMap>
+</ncx>

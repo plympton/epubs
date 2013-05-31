@@ -18,6 +18,8 @@
     <dc:date opf:event="conversion">2013-05-29 23:35:01 GMT</dc:date>
   </metadata>
   <manifest>
+    <item href="cover.html" id="cover" media-type="application/xhtml+xml"/>
+	<item href="cover.jpg" id="cover-image" media-type="image/jpeg"/>
     <item href="0.css" id="item1" media-type="text/css"/>
     <item href="the-jungle-0.html" id="item2" media-type="application/xhtml+xml"/>
     <item href="the-jungle-1.html" id="item3" media-type="application/xhtml+xml"/>
@@ -37,6 +39,7 @@
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
   </manifest>
   <spine toc="ncx">
+    <itemref idref="cover" linear="no"/>
     <itemref idref="item2" linear="yes"/>
     <itemref idref="item3" linear="yes"/>
     <itemref idref="item4" linear="yes"/>
@@ -53,4 +56,7 @@
     <itemref idref="item15" linear="yes"/>
     <itemref idref="item16" linear="yes"/>
   </spine>
+  <guide>
+    <reference href="cover.html" type="cover" title="Cover"/>
+  </guide>
 </package>

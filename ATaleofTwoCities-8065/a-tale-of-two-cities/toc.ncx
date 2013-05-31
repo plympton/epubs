@@ -1,0 +1,310 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="a-tale-of-two-cities" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>A Tale of Two Cities</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>A TALE OF TWO CITIES</text>
+      </navLabel>
+      <content src="a-tale-of-two-cities-0.html#dlepubid00000"/>
+    </navPoint>
+    <navPoint id="np-3" playOrder="3">
+      <navLabel>
+        <text>Book the First&#8212;Recalled to Life</text>
+      </navLabel>
+      <content src="a-tale-of-two-cities-0.html#dlepubid00002"/>
+      <navPoint id="np-4" playOrder="4">
+        <navLabel>
+          <text>I. The Period</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-0.html#dlepubid00003"/>
+      </navPoint>
+      <navPoint id="np-5" playOrder="5">
+        <navLabel>
+          <text>II. The Mail</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-0.html#dlepubid00004"/>
+      </navPoint>
+      <navPoint id="np-6" playOrder="6">
+        <navLabel>
+          <text>III. The Night Shadows</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-0.html#dlepubid00005"/>
+      </navPoint>
+      <navPoint id="np-7" playOrder="7">
+        <navLabel>
+          <text>IV. The Preparation</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-0.html#dlepubid00006"/>
+      </navPoint>
+      <navPoint id="np-8" playOrder="8">
+        <navLabel>
+          <text>V. The Wine-shop</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-1.html#dlepubid00007"/>
+      </navPoint>
+      <navPoint id="np-9" playOrder="9">
+        <navLabel>
+          <text>VI. The Shoemaker</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-1.html#dlepubid00008"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-10" playOrder="10">
+      <navLabel>
+        <text>Book the Second&#8212;the Golden Thread</text>
+      </navLabel>
+      <content src="a-tale-of-two-cities-2.html#dlepubid00009"/>
+      <navPoint id="np-11" playOrder="11">
+        <navLabel>
+          <text>I. Five Years Later</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-2.html#dlepubid00010"/>
+      </navPoint>
+      <navPoint id="np-12" playOrder="12">
+        <navLabel>
+          <text>II. A Sight</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-2.html#dlepubid00011"/>
+      </navPoint>
+      <navPoint id="np-13" playOrder="13">
+        <navLabel>
+          <text>III. A Disappointment</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-2.html#dlepubid00012"/>
+      </navPoint>
+      <navPoint id="np-14" playOrder="14">
+        <navLabel>
+          <text>IV. Congratulatory</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-3.html#dlepubid00013"/>
+      </navPoint>
+      <navPoint id="np-15" playOrder="15">
+        <navLabel>
+          <text>V. The Jackal</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-3.html#dlepubid00014"/>
+      </navPoint>
+      <navPoint id="np-16" playOrder="16">
+        <navLabel>
+          <text>VI. Hundreds of People</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-3.html#dlepubid00015"/>
+      </navPoint>
+      <navPoint id="np-17" playOrder="17">
+        <navLabel>
+          <text>VII. Monseigneur in Town</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-4.html#dlepubid00016"/>
+      </navPoint>
+      <navPoint id="np-18" playOrder="18">
+        <navLabel>
+          <text>VIII. Monseigneur in the Country</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-4.html#dlepubid00017"/>
+      </navPoint>
+      <navPoint id="np-19" playOrder="19">
+        <navLabel>
+          <text>IX. The Gorgon's Head</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-4.html#dlepubid00018"/>
+      </navPoint>
+      <navPoint id="np-20" playOrder="20">
+        <navLabel>
+          <text>X. Two Promises</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-5.html#dlepubid00019"/>
+      </navPoint>
+      <navPoint id="np-21" playOrder="21">
+        <navLabel>
+          <text>XI. A Companion Picture</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-5.html#dlepubid00020"/>
+      </navPoint>
+      <navPoint id="np-22" playOrder="22">
+        <navLabel>
+          <text>XII. The Fellow of Delicacy</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-5.html#dlepubid00021"/>
+      </navPoint>
+      <navPoint id="np-23" playOrder="23">
+        <navLabel>
+          <text>XIII. The Fellow of No Delicacy</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-5.html#dlepubid00022"/>
+      </navPoint>
+      <navPoint id="np-24" playOrder="24">
+        <navLabel>
+          <text>XIV. The Honest Tradesman</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-6.html#dlepubid00023"/>
+      </navPoint>
+      <navPoint id="np-25" playOrder="25">
+        <navLabel>
+          <text>XV. Knitting</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-6.html#dlepubid00024"/>
+      </navPoint>
+      <navPoint id="np-26" playOrder="26">
+        <navLabel>
+          <text>XVI. Still Knitting</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-7.html#dlepubid00025"/>
+      </navPoint>
+      <navPoint id="np-27" playOrder="27">
+        <navLabel>
+          <text>XVII. One Night</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-7.html#dlepubid00026"/>
+      </navPoint>
+      <navPoint id="np-28" playOrder="28">
+        <navLabel>
+          <text>XVIII. Nine Days</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-7.html#dlepubid00027"/>
+      </navPoint>
+      <navPoint id="np-29" playOrder="29">
+        <navLabel>
+          <text>XIX. An Opinion</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-8.html#dlepubid00028"/>
+      </navPoint>
+      <navPoint id="np-30" playOrder="30">
+        <navLabel>
+          <text>XX. A Plea</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-8.html#dlepubid00029"/>
+      </navPoint>
+      <navPoint id="np-31" playOrder="31">
+        <navLabel>
+          <text>XXI. Echoing Footsteps</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-8.html#dlepubid00030"/>
+      </navPoint>
+      <navPoint id="np-32" playOrder="32">
+        <navLabel>
+          <text>XXII. The Sea Still Rises</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-9.html#dlepubid00031"/>
+      </navPoint>
+      <navPoint id="np-33" playOrder="33">
+        <navLabel>
+          <text>XXIII. Fire Rises</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-9.html#dlepubid00032"/>
+      </navPoint>
+      <navPoint id="np-34" playOrder="34">
+        <navLabel>
+          <text>XXIV. Drawn to the Loadstone Rock</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-9.html#dlepubid00033"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-35" playOrder="35">
+      <navLabel>
+        <text>Book the Third&#8212;the Track of a Storm</text>
+      </navLabel>
+      <content src="a-tale-of-two-cities-10.html#dlepubid00034"/>
+      <navPoint id="np-36" playOrder="36">
+        <navLabel>
+          <text>I. In Secret</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-10.html#dlepubid00035"/>
+      </navPoint>
+      <navPoint id="np-37" playOrder="37">
+        <navLabel>
+          <text>II. The Grindstone</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-10.html#dlepubid00036"/>
+      </navPoint>
+      <navPoint id="np-38" playOrder="38">
+        <navLabel>
+          <text>III. The Shadow</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-10.html#dlepubid00037"/>
+      </navPoint>
+      <navPoint id="np-39" playOrder="39">
+        <navLabel>
+          <text>IV. Calm in Storm</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-11.html#dlepubid00038"/>
+      </navPoint>
+      <navPoint id="np-40" playOrder="40">
+        <navLabel>
+          <text>V. The Wood-Sawyer</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-11.html#dlepubid00039"/>
+      </navPoint>
+      <navPoint id="np-41" playOrder="41">
+        <navLabel>
+          <text>VI. Triumph</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-11.html#dlepubid00040"/>
+      </navPoint>
+      <navPoint id="np-42" playOrder="42">
+        <navLabel>
+          <text>VII. A Knock at the Door</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-12.html#dlepubid00041"/>
+      </navPoint>
+      <navPoint id="np-43" playOrder="43">
+        <navLabel>
+          <text>VIII. A Hand at Cards</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-12.html#dlepubid00042"/>
+      </navPoint>
+      <navPoint id="np-44" playOrder="44">
+        <navLabel>
+          <text>IX. The Game Made</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-12.html#dlepubid00043"/>
+      </navPoint>
+      <navPoint id="np-45" playOrder="45">
+        <navLabel>
+          <text>X. The Substance of the Shadow</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-13.html#dlepubid00044"/>
+      </navPoint>
+      <navPoint id="np-46" playOrder="46">
+        <navLabel>
+          <text>XI. Dusk</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-13.html#dlepubid00045"/>
+      </navPoint>
+      <navPoint id="np-47" playOrder="47">
+        <navLabel>
+          <text>XII. Darkness</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-13.html#dlepubid00046"/>
+      </navPoint>
+      <navPoint id="np-48" playOrder="48">
+        <navLabel>
+          <text>XIII. Fifty-two</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-14.html#dlepubid00047"/>
+      </navPoint>
+      <navPoint id="np-49" playOrder="49">
+        <navLabel>
+          <text>XIV. The Knitting Done</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-14.html#dlepubid00048"/>
+      </navPoint>
+      <navPoint id="np-50" playOrder="50">
+        <navLabel>
+          <text>XV. The Footsteps Die Out For Ever</text>
+        </navLabel>
+        <content src="a-tale-of-two-cities-15.html#dlepubid00049"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

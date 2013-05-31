@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier id="id">the-wonderful-wizard-of-oz</dc:identifier>
+    <dc:creator opf:file-as="Baum, L. Frank (Lyman Frank)">L. Frank Baum</dc:creator>
+    <dc:title>The Wonderful Wizard of Oz</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Fantasy</dc:subject>
+    <dc:subject>Oz (Imaginary place) -- Fiction</dc:subject>
+    <dc:date opf:event="publication">1993-02-01</dc:date>
+    <dc:date opf:event="conversion">2013-05-07 01:24:48 GMT</dc:date>
+  </metadata>
+  <manifest>
+  	<item href="cover.html" id="cover" media-type="application/xhtml+xml"/>
+	<item href="cover.jpg" id="cover-image" media-type="image/jpeg"/>
+    <item href="0.css" id="item1" media-type="text/css"/>
+    <item href="the-wonderful-wizard-of-oz-0.html" id="item4" media-type="application/xhtml+xml"/>
+    <item href="the-wonderful-wizard-of-oz-1.html" id="item5" media-type="application/xhtml+xml"/>
+    <item href="the-wonderful-wizard-of-oz-2.html" id="item6" media-type="application/xhtml+xml"/>
+    <item href="the-wonderful-wizard-of-oz-3.html" id="item7" media-type="application/xhtml+xml"/>
+    <item href="the-wonderful-wizard-of-oz-4.html" id="item8" media-type="application/xhtml+xml"/>
+    <item href="the-wonderful-wizard-of-oz-5.html" id="item9" media-type="application/xhtml+xml"/>
+    <item href="the-wonderful-wizard-of-oz-6.html" id="item10" media-type="application/xhtml+xml"/>
+    <item href="the-wonderful-wizard-of-oz-7.html" id="item11" media-type="application/xhtml+xml"/>
+    <item href="the-wonderful-wizard-of-oz-8.html" id="item12" media-type="application/xhtml+xml"/>
+    <item href="the-wonderful-wizard-of-oz-9.html" id="item13" media-type="application/xhtml+xml"/>
+    <item href="the-wonderful-wizard-of-oz-10.html" id="item14" media-type="application/xhtml+xml"/>
+    <item href="the-wonderful-wizard-of-oz-11.html" id="item15" media-type="application/xhtml+xml"/>
+    <item href="the-wonderful-wizard-of-oz-12.html" id="item16" media-type="application/xhtml+xml"/>
+    <item href="the-wonderful-wizard-of-oz-13.html" id="item17" media-type="application/xhtml+xml"/>
+    <item href="the-wonderful-wizard-of-oz-14.html" id="item18" media-type="application/xhtml+xml"/>
+    <item href="the-wonderful-wizard-of-oz-15.html" id="item19" media-type="application/xhtml+xml"/>
+    <item href="the-wonderful-wizard-of-oz-16.html" id="item20" media-type="application/xhtml+xml"/>
+    <item href="the-wonderful-wizard-of-oz-17.html" id="item21" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="title.html" id="title" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="title" linear="yes"/>
+    <itemref idref="item4" linear="yes"/>
+    <itemref idref="item5" linear="yes"/>
+    <itemref idref="item6" linear="yes"/>
+    <itemref idref="item7" linear="yes"/>
+    <itemref idref="item8" linear="yes"/>
+    <itemref idref="item9" linear="yes"/>
+    <itemref idref="item10" linear="yes"/>
+    <itemref idref="item11" linear="yes"/>
+    <itemref idref="item12" linear="yes"/>
+    <itemref idref="item13" linear="yes"/>
+    <itemref idref="item14" linear="yes"/>
+    <itemref idref="item15" linear="yes"/>
+    <itemref idref="item16" linear="yes"/>
+    <itemref idref="item17" linear="yes"/>
+    <itemref idref="item18" linear="yes"/>
+    <itemref idref="item19" linear="yes"/>
+    <itemref idref="item20" linear="yes"/>
+    <itemref idref="item21" linear="yes"/>
+  </spine>
+  <guide>
+    <reference href="the-wonderful-wizard-of-oz-0.html#dlepubid00003" type="toc" title="Contents"/>
+    <reference href="cover.html" type="cover" title="Cover"/>
+  </guide>
+</package>
