@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="swanns-way" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Swann's Way</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>SWANN'S WAY</text>
+      </navLabel>
+      <content src="swanns-way-0.html#dlepubid00000"/>
+    </navPoint>
+    <navPoint id="np-5" playOrder="5">
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src="swanns-way-0.html#dlepubid00004"/>
+    </navPoint>
+    <navPoint id="np-6" playOrder="6">
+      <navLabel>
+        <text>OVERTURE</text>
+      </navLabel>
+      <content src="swanns-way-0.html#dlepubid00005"/>
+    </navPoint>
+    <navPoint id="np-7" playOrder="7">
+      <navLabel>
+        <text>COMBRAY</text>
+      </navLabel>
+      <content src="swanns-way-2.html#dlepubid00006"/>
+    </navPoint>
+    <navPoint id="np-8" playOrder="8">
+      <navLabel>
+        <text>SWANN IN LOVE</text>
+      </navLabel>
+      <content src="swanns-way-7.html#dlepubid00007"/>
+    </navPoint>
+    <navPoint id="np-9" playOrder="9">
+      <navLabel>
+        <text>PLACE-NAMES: THE NAME</text>
+      </navLabel>
+      <content src="swanns-way-13.html#dlepubid00008"/>
+    </navPoint>
+  </navMap>
+</ncx>
