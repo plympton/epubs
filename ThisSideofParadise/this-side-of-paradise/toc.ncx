@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="this-side-of-paradise" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>This Side of Paradise</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>THIS SIDE OF PARADISE</text>
+      </navLabel>
+      <content src="this-side-of-paradise-0.html#dlepubid00000"/>
+    </navPoint>
+    <navPoint id="np-2" playOrder="2">
+      <navLabel>
+        <text>BOOK ONE&#8212;The Romantic Egotist</text>
+      </navLabel>
+      <content src="this-side-of-paradise-0.html#dlepubid00001"/>
+      <navPoint id="np-3" playOrder="3">
+        <navLabel>
+          <text>CHAPTER 1. Amory, Son of Beatrice</text>
+        </navLabel>
+        <content src="this-side-of-paradise-0.html#dlepubid00002"/>
+      </navPoint>
+      <navPoint id="np-4" playOrder="4">
+        <navLabel>
+          <text>CHAPTER 2. Spires and Gargoyles</text>
+        </navLabel>
+        <content src="this-side-of-paradise-1.html#dlepubid00003"/>
+      </navPoint>
+      <navPoint id="np-5" playOrder="5">
+        <navLabel>
+          <text>CHAPTER 3. The Egotist Considers</text>
+        </navLabel>
+        <content src="this-side-of-paradise-3.html#dlepubid00004"/>
+      </navPoint>
+      <navPoint id="np-6" playOrder="6">
+        <navLabel>
+          <text>CHAPTER 4. Narcissus Off Duty</text>
+        </navLabel>
+        <content src="this-side-of-paradise-4.html#dlepubid00005"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-7" playOrder="7">
+      <navLabel>
+        <text>INTERLUDE</text>
+      </navLabel>
+      <content src="this-side-of-paradise-5.html#dlepubid00006"/>
+    </navPoint>
+    <navPoint id="np-9" playOrder="9">
+      <navLabel>
+        <text>BOOK TWO&#8212;The Education of a Personage</text>
+      </navLabel>
+      <content src="this-side-of-paradise-6.html#dlepubid00008"/>
+      <navPoint id="np-10" playOrder="10">
+        <navLabel>
+          <text>CHAPTER 1. The Debutante</text>
+        </navLabel>
+        <content src="this-side-of-paradise-6.html#dlepubid00009"/>
+      </navPoint>
+      <navPoint id="np-11" playOrder="11">
+        <navLabel>
+          <text>CHAPTER 2. Experiments in Convalescence</text>
+        </navLabel>
+        <content src="this-side-of-paradise-7.html#dlepubid00010"/>
+      </navPoint>
+      <navPoint id="np-12" playOrder="12">
+        <navLabel>
+          <text>CHAPTER 3. Young Irony</text>
+        </navLabel>
+        <content src="this-side-of-paradise-8.html#dlepubid00011"/>
+      </navPoint>
+      <navPoint id="np-13" playOrder="13">
+        <navLabel>
+          <text>CHAPTER 4. The Supercilious Sacrifice</text>
+        </navLabel>
+        <content src="this-side-of-paradise-9.html#dlepubid00012"/>
+      </navPoint>
+      <navPoint id="np-14" playOrder="14">
+        <navLabel>
+          <text>CHAPTER 5. The Egotist Becomes a Personage</text>
+        </navLabel>
+        <content src="this-side-of-paradise-9.html#dlepubid00013"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
