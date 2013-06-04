@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="king-solomons-mines" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>King Solomon's Mines</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>KING SOLOMON'S MINES</text>
+      </navLabel>
+      <content src="king-solomons-mines-0.html#dlepubid00000"/>
+    </navPoint>
+    <navPoint id="np-4" playOrder="4">
+      <navLabel>
+        <text>DEDICATION</text>
+      </navLabel>
+      <content src="king-solomons-mines-0.html#dlepubid00003"/>
+    </navPoint>
+    <navPoint id="np-5" playOrder="5">
+      <navLabel>
+        <text>AUTHOR'S NOTE</text>
+      </navLabel>
+      <content src="king-solomons-mines-0.html#dlepubid00004"/>
+    </navPoint>
+    <navPoint id="np-6" playOrder="6">
+      <navLabel>
+        <text>POST SCRIPTUM</text>
+      </navLabel>
+      <content src="king-solomons-mines-0.html#dlepubid00005"/>
+    </navPoint>
+    <navPoint id="np-7" playOrder="7">
+      <navLabel>
+        <text>INTRODUCTION</text>
+      </navLabel>
+      <content src="king-solomons-mines-0.html#dlepubid00006"/>
+    </navPoint>
+    <navPoint id="np-8" playOrder="8">
+      <navLabel>
+        <text>CONTENTS</text>
+      </navLabel>
+      <content src="king-solomons-mines-0.html#dlepubid00007"/>
+    </navPoint>
+    <navPoint id="np-10" playOrder="10">
+      <navLabel>
+        <text>CHAPTER I</text>
+      </navLabel>
+      <content src="king-solomons-mines-0.html#dlepubid00009"/>
+    </navPoint>
+    <navPoint id="np-12" playOrder="12">
+      <navLabel>
+        <text>CHAPTER II</text>
+      </navLabel>
+      <content src="king-solomons-mines-0.html#dlepubid00011"/>
+    </navPoint>
+    <navPoint id="np-14" playOrder="14">
+      <navLabel>
+        <text>CHAPTER III</text>
+      </navLabel>
+      <content src="king-solomons-mines-0.html#dlepubid00013"/>
+    </navPoint>
+    <navPoint id="np-16" playOrder="16">
+      <navLabel>
+        <text>CHAPTER IV</text>
+      </navLabel>
+      <content src="king-solomons-mines-1.html#dlepubid00015"/>
+    </navPoint>
+    <navPoint id="np-18" playOrder="18">
+      <navLabel>
+        <text>CHAPTER V</text>
+      </navLabel>
+      <content src="king-solomons-mines-1.html#dlepubid00017"/>
+    </navPoint>
+    <navPoint id="np-20" playOrder="20">
+      <navLabel>
+        <text>CHAPTER VI</text>
+      </navLabel>
+      <content src="king-solomons-mines-1.html#dlepubid00019"/>
+    </navPoint>
+    <navPoint id="np-22" playOrder="22">
+      <navLabel>
+        <text>CHAPTER VII</text>
+      </navLabel>
+      <content src="king-solomons-mines-2.html#dlepubid00021"/>
+    </navPoint>
+    <navPoint id="np-24" playOrder="24">
+      <navLabel>
+        <text>CHAPTER VIII</text>
+      </navLabel>
+      <content src="king-solomons-mines-2.html#dlepubid00023"/>
+    </navPoint>
+    <navPoint id="np-26" playOrder="26">
+      <navLabel>
+        <text>CHAPTER IX</text>
+      </navLabel>
+      <content src="king-solomons-mines-2.html#dlepubid00025"/>
+    </navPoint>
+    <navPoint id="np-28" playOrder="28">
+      <navLabel>
+        <text>CHAPTER X</text>
+      </navLabel>
+      <content src="king-solomons-mines-3.html#dlepubid00027"/>
+    </navPoint>
+    <navPoint id="np-30" playOrder="30">
+      <navLabel>
+        <text>CHAPTER XI</text>
+      </navLabel>
+      <content src="king-solomons-mines-3.html#dlepubid00029"/>
+    </navPoint>
+    <navPoint id="np-32" playOrder="32">
+      <navLabel>
+        <text>CHAPTER XII</text>
+      </navLabel>
+      <content src="king-solomons-mines-3.html#dlepubid00031"/>
+    </navPoint>
+    <navPoint id="np-34" playOrder="34">
+      <navLabel>
+        <text>CHAPTER XIII</text>
+      </navLabel>
+      <content src="king-solomons-mines-4.html#dlepubid00033"/>
+    </navPoint>
+    <navPoint id="np-36" playOrder="36">
+      <navLabel>
+        <text>CHAPTER XIV</text>
+      </navLabel>
+      <content src="king-solomons-mines-4.html#dlepubid00035"/>
+    </navPoint>
+    <navPoint id="np-38" playOrder="38">
+      <navLabel>
+        <text>CHAPTER XV</text>
+      </navLabel>
+      <content src="king-solomons-mines-4.html#dlepubid00037"/>
+    </navPoint>
+    <navPoint id="np-40" playOrder="40">
+      <navLabel>
+        <text>CHAPTER XVI</text>
+      </navLabel>
+      <content src="king-solomons-mines-5.html#dlepubid00039"/>
+    </navPoint>
+    <navPoint id="np-42" playOrder="42">
+      <navLabel>
+        <text>CHAPTER XVII</text>
+      </navLabel>
+      <content src="king-solomons-mines-5.html#dlepubid00041"/>
+    </navPoint>
+    <navPoint id="np-44" playOrder="44">
+      <navLabel>
+        <text>CHAPTER XVIII</text>
+      </navLabel>
+      <content src="king-solomons-mines-5.html#dlepubid00043"/>
+    </navPoint>
+    <navPoint id="np-46" playOrder="46">
+      <navLabel>
+        <text>CHAPTER XIX</text>
+      </navLabel>
+      <content src="king-solomons-mines-6.html#dlepubid00045"/>
+    </navPoint>
+    <navPoint id="np-48" playOrder="48">
+      <navLabel>
+        <text>CHAPTER XX</text>
+      </navLabel>
+      <content src="king-solomons-mines-6.html#dlepubid00047"/>
+    </navPoint>
+  </navMap>
+</ncx>
