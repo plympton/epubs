@@ -1,0 +1,3196 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="le-morte-darthur" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Le Morte d'Arthur</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>LE MORTE D'ARTHUR</text>
+      </navLabel>
+      <content src="le-morte-darthur-0.html#dlepubid00000"/>
+    </navPoint>
+    <navPoint id="np-3" playOrder="3">
+      <navLabel>
+        <text>BIBLIOGRAPHICAL NOTE</text>
+      </navLabel>
+      <content src="le-morte-darthur-0.html#dlepubid00003"/>
+    </navPoint>
+    <navPoint id="np-4" playOrder="4">
+      <navLabel>
+        <text>PREFACE OF WILLIAM CAXTON</text>
+      </navLabel>
+      <content src="le-morte-darthur-1.html#dlepubid00004"/>
+    </navPoint>
+    <navPoint id="np-5" playOrder="5">
+      <navLabel>
+        <text>VOLUME I</text>
+      </navLabel>
+      <content src="le-morte-darthur-1.html#dlepubid00002"/>
+      <navPoint id="np-6" playOrder="6">
+        <navLabel>
+          <text>BOOK I</text>
+        </navLabel>
+        <content src="le-morte-darthur-1.html#dlepubid00005"/>
+        <navPoint id="np-7" playOrder="7">
+          <navLabel>
+            <text>CHAPTER I. How Uther Pendragon sent for the duke of Cornwall and Igraine his wife, and of their departing suddenly again.</text>
+          </navLabel>
+          <content src="le-morte-darthur-1.html#dlepubid00006"/>
+        </navPoint>
+        <navPoint id="np-8" playOrder="8">
+          <navLabel>
+            <text>CHAPTER II. How Uther Pendragon made war on the duke of Cornwall, and how by the mean of Merlin he lay by the duchess and gat Arthur.</text>
+          </navLabel>
+          <content src="le-morte-darthur-1.html#dlepubid00007"/>
+        </navPoint>
+        <navPoint id="np-9" playOrder="9">
+          <navLabel>
+            <text>CHAPTER III. Of the birth of King Arthur and of his nurture.</text>
+          </navLabel>
+          <content src="le-morte-darthur-1.html#dlepubid00008"/>
+        </navPoint>
+        <navPoint id="np-10" playOrder="10">
+          <navLabel>
+            <text>CHAPTER IV. Of the death of King Uther Pendragon.</text>
+          </navLabel>
+          <content src="le-morte-darthur-1.html#dlepubid00009"/>
+        </navPoint>
+        <navPoint id="np-11" playOrder="11">
+          <navLabel>
+            <text>CHAPTER V. How Arthur was chosen king, and of wonders and marvels of a sword taken out of a stone by the said Arthur.</text>
+          </navLabel>
+          <content src="le-morte-darthur-1.html#dlepubid00010"/>
+        </navPoint>
+        <navPoint id="np-12" playOrder="12">
+          <navLabel>
+            <text>CHAPTER VI. How King Arthur pulled out the sword divers times.</text>
+          </navLabel>
+          <content src="le-morte-darthur-1.html#dlepubid00011"/>
+        </navPoint>
+        <navPoint id="np-13" playOrder="13">
+          <navLabel>
+            <text>CHAPTER VII. How King Arthur was crowned, and how he made officers.</text>
+          </navLabel>
+          <content src="le-morte-darthur-1.html#dlepubid00012"/>
+        </navPoint>
+        <navPoint id="np-14" playOrder="14">
+          <navLabel>
+            <text>CHAPTER VIII. How King Arthur held in Wales, at a Pentecost, a great feast, and what kings and lords came to his feast.</text>
+          </navLabel>
+          <content src="le-morte-darthur-1.html#dlepubid00013"/>
+        </navPoint>
+        <navPoint id="np-15" playOrder="15">
+          <navLabel>
+            <text>CHAPTER IX. Of the first war that King Arthur had, and how he won the field.</text>
+          </navLabel>
+          <content src="le-morte-darthur-1.html#dlepubid00014"/>
+        </navPoint>
+        <navPoint id="np-16" playOrder="16">
+          <navLabel>
+            <text>CHAPTER X. How Merlin counselled King Arthur to send for King Ban and King Bors, and of their counsel taken for the war.</text>
+          </navLabel>
+          <content src="le-morte-darthur-1.html#dlepubid00015"/>
+        </navPoint>
+        <navPoint id="np-17" playOrder="17">
+          <navLabel>
+            <text>CHAPTER XI. Of a great tourney made by King Arthur and the two kings Ban and Bors, and how they went over the sea.</text>
+          </navLabel>
+          <content src="le-morte-darthur-1.html#dlepubid00016"/>
+        </navPoint>
+        <navPoint id="np-18" playOrder="18">
+          <navLabel>
+            <text>CHAPTER XII. How eleven kings gathered a great host against King Arthur.</text>
+          </navLabel>
+          <content src="le-morte-darthur-2.html#dlepubid00017"/>
+        </navPoint>
+        <navPoint id="np-19" playOrder="19">
+          <navLabel>
+            <text>CHAPTER XIII. Of a dream of the King with the Hundred Knights.</text>
+          </navLabel>
+          <content src="le-morte-darthur-2.html#dlepubid00018"/>
+        </navPoint>
+        <navPoint id="np-20" playOrder="20">
+          <navLabel>
+            <text>CHAPTER XIV. How the eleven kings with their host fought against Arthur and his host, and many great feats of the war.</text>
+          </navLabel>
+          <content src="le-morte-darthur-2.html#dlepubid00019"/>
+        </navPoint>
+        <navPoint id="np-21" playOrder="21">
+          <navLabel>
+            <text>CHAPTER XV. Yet of the same battle.</text>
+          </navLabel>
+          <content src="le-morte-darthur-2.html#dlepubid00020"/>
+        </navPoint>
+        <navPoint id="np-22" playOrder="22">
+          <navLabel>
+            <text>CHAPTER XVI. Yet more of the same battle.</text>
+          </navLabel>
+          <content src="le-morte-darthur-2.html#dlepubid00021"/>
+        </navPoint>
+        <navPoint id="np-23" playOrder="23">
+          <navLabel>
+            <text>CHAPTER XVII. Yet more of the same battle, and how it was ended by Merlin.</text>
+          </navLabel>
+          <content src="le-morte-darthur-2.html#dlepubid00022"/>
+        </navPoint>
+        <navPoint id="np-24" playOrder="24">
+          <navLabel>
+            <text>CHAPTER XVIII. How King Arthur, King Ban, and King Bors rescued King Leodegrance, and other incidents.</text>
+          </navLabel>
+          <content src="le-morte-darthur-2.html#dlepubid00023"/>
+        </navPoint>
+        <navPoint id="np-25" playOrder="25">
+          <navLabel>
+            <text>CHAPTER XIX. How King Arthur rode to Carlion, and of his dream, and how he saw the questing beast.</text>
+          </navLabel>
+          <content src="le-morte-darthur-2.html#dlepubid00024"/>
+        </navPoint>
+        <navPoint id="np-26" playOrder="26">
+          <navLabel>
+            <text>CHAPTER XX. How King Pellinore took Arthur's horse and followed the Questing Beast, and how Merlin met with Arthur.</text>
+          </navLabel>
+          <content src="le-morte-darthur-2.html#dlepubid00025"/>
+        </navPoint>
+        <navPoint id="np-27" playOrder="27">
+          <navLabel>
+            <text>CHAPTER XXI. How Ulfius impeached Queen Igraine, Arthur's mother, of treason; and how a knight came and desired to have the death of his master</text>
+          </navLabel>
+          <content src="le-morte-darthur-2.html#dlepubid00026"/>
+        </navPoint>
+        <navPoint id="np-28" playOrder="28">
+          <navLabel>
+            <text>CHAPTER XXII. How Griflet was made knight, and jousted with a knight</text>
+          </navLabel>
+          <content src="le-morte-darthur-2.html#dlepubid00027"/>
+        </navPoint>
+        <navPoint id="np-29" playOrder="29">
+          <navLabel>
+            <text>CHAPTER XXIII. How twelve knights came from Rome and asked truage for this land of Arthur, and how Arthur fought with a knight.</text>
+          </navLabel>
+          <content src="le-morte-darthur-2.html#dlepubid00028"/>
+        </navPoint>
+        <navPoint id="np-30" playOrder="30">
+          <navLabel>
+            <text>CHAPTER XXIV. How Merlin saved Arthur's life, and threw an enchantment on King Pellinore and made him to sleep.</text>
+          </navLabel>
+          <content src="le-morte-darthur-2.html#dlepubid00029"/>
+        </navPoint>
+        <navPoint id="np-31" playOrder="31">
+          <navLabel>
+            <text>CHAPTER XXV. How Arthur by the mean of Merlin gat Excalibur his sword of the Lady of the Lake.</text>
+          </navLabel>
+          <content src="le-morte-darthur-3.html#dlepubid00030"/>
+        </navPoint>
+        <navPoint id="np-32" playOrder="32">
+          <navLabel>
+            <text>CHAPTER XXVI. How tidings came to Arthur that King Rience had overcome eleven kings, and how he desired Arthur's beard to trim his mantle.</text>
+          </navLabel>
+          <content src="le-morte-darthur-3.html#dlepubid00031"/>
+        </navPoint>
+        <navPoint id="np-33" playOrder="33">
+          <navLabel>
+            <text>CHAPTER XXVII. How all the children were sent for that were born on May-day, and how Mordred was saved.</text>
+          </navLabel>
+          <content src="le-morte-darthur-3.html#dlepubid00032"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-34" playOrder="34">
+        <navLabel>
+          <text>BOOK II.</text>
+        </navLabel>
+        <content src="le-morte-darthur-3.html#dlepubid00033"/>
+        <navPoint id="np-35" playOrder="35">
+          <navLabel>
+            <text>CHAPTER I. Of a damosel which came girt with a sword for to find a man of such virtue to draw it out of the scabbard.</text>
+          </navLabel>
+          <content src="le-morte-darthur-3.html#dlepubid00034"/>
+        </navPoint>
+        <navPoint id="np-36" playOrder="36">
+          <navLabel>
+            <text>CHAPTER II. How Balin, arrayed like a poor knight, pulled out the sword, which afterward was the cause of his death.</text>
+          </navLabel>
+          <content src="le-morte-darthur-3.html#dlepubid00035"/>
+        </navPoint>
+        <navPoint id="np-37" playOrder="37">
+          <navLabel>
+            <text>CHAPTER III. How the Lady of the Lake demanded the knight's head that had won the sword, or the maiden's head.</text>
+          </navLabel>
+          <content src="le-morte-darthur-3.html#dlepubid00036"/>
+        </navPoint>
+        <navPoint id="np-38" playOrder="38">
+          <navLabel>
+            <text>CHAPTER IV. How Merlin told the adventure of this damosel.</text>
+          </navLabel>
+          <content src="le-morte-darthur-3.html#dlepubid00037"/>
+        </navPoint>
+        <navPoint id="np-39" playOrder="39">
+          <navLabel>
+            <text>CHAPTER V. How Balin was pursued by Sir Lanceor, knight of Ireland, and how he jousted and slew him.</text>
+          </navLabel>
+          <content src="le-morte-darthur-3.html#dlepubid00038"/>
+        </navPoint>
+        <navPoint id="np-40" playOrder="40">
+          <navLabel>
+            <text>CHAPTER VI. How a damosel, which was love to Lanceor, slew herself for love, and how Balin met with his brother Balan.</text>
+          </navLabel>
+          <content src="le-morte-darthur-3.html#dlepubid00039"/>
+        </navPoint>
+        <navPoint id="np-41" playOrder="41">
+          <navLabel>
+            <text>CHAPTER VII. How a dwarf reproved Balin for the death of Lanceor, and how King Mark of Cornwall found them, and made a tomb over them.</text>
+          </navLabel>
+          <content src="le-morte-darthur-3.html#dlepubid00040"/>
+        </navPoint>
+        <navPoint id="np-42" playOrder="42">
+          <navLabel>
+            <text>CHAPTER VIII. How Merlin prophesied that two the best knights of the world should fight there, which were Sir Lancelot and Sir Tristram.</text>
+          </navLabel>
+          <content src="le-morte-darthur-3.html#dlepubid00041"/>
+        </navPoint>
+        <navPoint id="np-43" playOrder="43">
+          <navLabel>
+            <text>CHAPTER IX. How Balin and his brother, by the counsel of Merlin, took King Rience and brought him to King Arthur.</text>
+          </navLabel>
+          <content src="le-morte-darthur-3.html#dlepubid00042"/>
+        </navPoint>
+        <navPoint id="np-44" playOrder="44">
+          <navLabel>
+            <text>CHAPTER X. How King Arthur had a battle against Nero and King Lot of Orkney, and how King Lot was deceived by Merlin, and how twelve kings were slain.</text>
+          </navLabel>
+          <content src="le-morte-darthur-3.html#dlepubid00043"/>
+        </navPoint>
+        <navPoint id="np-45" playOrder="45">
+          <navLabel>
+            <text>CHAPTER XI. Of the interment of twelve kings, and of the prophecy of Merlin, and how Balin should give the dolorous stroke.</text>
+          </navLabel>
+          <content src="le-morte-darthur-3.html#dlepubid00044"/>
+        </navPoint>
+        <navPoint id="np-46" playOrder="46">
+          <navLabel>
+            <text>CHAPTER XII. How a sorrowful knight came before Arthur, and how Balin fetched him, and how that knight was slain by a knight invisible.</text>
+          </navLabel>
+          <content src="le-morte-darthur-3.html#dlepubid00045"/>
+        </navPoint>
+        <navPoint id="np-47" playOrder="47">
+          <navLabel>
+            <text>CHAPTER XIII. How Balin and the damosel met with a knight which was in likewise slain, and how the damosel bled for the custom of a castle.</text>
+          </navLabel>
+          <content src="le-morte-darthur-3.html#dlepubid00046"/>
+        </navPoint>
+        <navPoint id="np-48" playOrder="48">
+          <navLabel>
+            <text>CHAPTER XIV. How Balin met with that knight named Garlon at a feast, and there he slew him, to have his blood to heal therewith the son of his host.</text>
+          </navLabel>
+          <content src="le-morte-darthur-3.html#dlepubid00047"/>
+        </navPoint>
+        <navPoint id="np-49" playOrder="49">
+          <navLabel>
+            <text>CHAPTER XV. How Balin fought with King Pellam, and how his sword brake, and how he gat a spear wherewith he smote the dolorous stroke.</text>
+          </navLabel>
+          <content src="le-morte-darthur-4.html#dlepubid00048"/>
+        </navPoint>
+        <navPoint id="np-50" playOrder="50">
+          <navLabel>
+            <text>CHAPTER XVI. How Balin was delivered by Merlin, and saved a knight that would have slain himself for love.</text>
+          </navLabel>
+          <content src="le-morte-darthur-4.html#dlepubid00049"/>
+        </navPoint>
+        <navPoint id="np-51" playOrder="51">
+          <navLabel>
+            <text>CHAPTER XVII. How that knight slew his love and a knight lying by her, and after, how he slew himself with his own sword, and how Balin rode toward a</text>
+          </navLabel>
+          <content src="le-morte-darthur-4.html#dlepubid00050"/>
+        </navPoint>
+        <navPoint id="np-52" playOrder="52">
+          <navLabel>
+            <text>CHAPTER XVIII. How Balin met with his brother Balan, and how each of them slew other unknown, till they were wounded to death.</text>
+          </navLabel>
+          <content src="le-morte-darthur-4.html#dlepubid00051"/>
+        </navPoint>
+        <navPoint id="np-53" playOrder="53">
+          <navLabel>
+            <text>CHAPTER XIX. How Merlin buried them both in one tomb, and of Balin's sword.</text>
+          </navLabel>
+          <content src="le-morte-darthur-4.html#dlepubid00052"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-54" playOrder="54">
+        <navLabel>
+          <text>BOOK III.</text>
+        </navLabel>
+        <content src="le-morte-darthur-4.html#dlepubid00053"/>
+        <navPoint id="np-55" playOrder="55">
+          <navLabel>
+            <text>CHAPTER I. How King Arthur took a wife, and wedded Guenever, daughter to Leodegrance, King of the Land of Cameliard, with whom he had the Round Table.</text>
+          </navLabel>
+          <content src="le-morte-darthur-4.html#dlepubid00054"/>
+        </navPoint>
+        <navPoint id="np-56" playOrder="56">
+          <navLabel>
+            <text>CHAPTER II. How the Knights of the Round Table were ordained and their sieges blessed by the Bishop of Canterbury.</text>
+          </navLabel>
+          <content src="le-morte-darthur-4.html#dlepubid00055"/>
+        </navPoint>
+        <navPoint id="np-57" playOrder="57">
+          <navLabel>
+            <text>CHAPTER III. How a poor man riding upon a lean mare desired King Arthur to make his son knight.</text>
+          </navLabel>
+          <content src="le-morte-darthur-4.html#dlepubid00056"/>
+        </navPoint>
+        <navPoint id="np-58" playOrder="58">
+          <navLabel>
+            <text>CHAPTER IV. How Sir Tor was known for son of King Pellinore, and how Gawaine was made knight.</text>
+          </navLabel>
+          <content src="le-morte-darthur-4.html#dlepubid00057"/>
+        </navPoint>
+        <navPoint id="np-59" playOrder="59">
+          <navLabel>
+            <text>CHAPTER V. How at feast of the wedding of King Arthur to Guenever, a white hart came into the hall, and thirty couple hounds, and how a brachet</text>
+          </navLabel>
+          <content src="le-morte-darthur-4.html#dlepubid00058"/>
+        </navPoint>
+        <navPoint id="np-60" playOrder="60">
+          <navLabel>
+            <text>CHAPTER VI. How Sir Gawaine rode for to fetch again the hart, and how two brethren fought each against other for the hart.</text>
+          </navLabel>
+          <content src="le-morte-darthur-4.html#dlepubid00059"/>
+        </navPoint>
+        <navPoint id="np-61" playOrder="61">
+          <navLabel>
+            <text>CHAPTER VII How the hart was chased into a castle and there slain, and how Sir Gawaine slew a lady.</text>
+          </navLabel>
+          <content src="le-morte-darthur-4.html#dlepubid00060"/>
+        </navPoint>
+        <navPoint id="np-62" playOrder="62">
+          <navLabel>
+            <text>CHAPTER VIII. How four knights fought against Gawaine and Gaheris, and how they were overcome, and their lives saved at request of four ladies.</text>
+          </navLabel>
+          <content src="le-morte-darthur-4.html#dlepubid00061"/>
+        </navPoint>
+        <navPoint id="np-63" playOrder="63">
+          <navLabel>
+            <text>CHAPTER IX. How Sir Tor rode after the knight with the brachet, and of his adventure by the way.</text>
+          </navLabel>
+          <content src="le-morte-darthur-4.html#dlepubid00062"/>
+        </navPoint>
+        <navPoint id="np-64" playOrder="64">
+          <navLabel>
+            <text>CHAPTER X. How Sir Tor found the brachet with a lady, and how a knight assailed him for the said brachet.</text>
+          </navLabel>
+          <content src="le-morte-darthur-4.html#dlepubid00063"/>
+        </navPoint>
+        <navPoint id="np-65" playOrder="65">
+          <navLabel>
+            <text>CHAPTER XI. How Sir Tor overcame the knight, and how he lost his head at the request of a lady.</text>
+          </navLabel>
+          <content src="le-morte-darthur-4.html#dlepubid00064"/>
+        </navPoint>
+        <navPoint id="np-66" playOrder="66">
+          <navLabel>
+            <text>CHAPTER XII. How King Pellinore rode after the lady and the knight that led her away, and how a lady desired help of him, and how he fought with two</text>
+          </navLabel>
+          <content src="le-morte-darthur-5.html#dlepubid00065"/>
+        </navPoint>
+        <navPoint id="np-67" playOrder="67">
+          <navLabel>
+            <text>CHAPTER XIII. How King Pellinore gat the lady and brought her to Camelot to the court of King Arthur.</text>
+          </navLabel>
+          <content src="le-morte-darthur-5.html#dlepubid00066"/>
+        </navPoint>
+        <navPoint id="np-68" playOrder="68">
+          <navLabel>
+            <text>CHAPTER XIV. How on the way he heard two knights, as he lay by night in a valley, and of their adventures.</text>
+          </navLabel>
+          <content src="le-morte-darthur-5.html#dlepubid00067"/>
+        </navPoint>
+        <navPoint id="np-69" playOrder="69">
+          <navLabel>
+            <text>CHAPTER XV. How when he was come to Camelot he was sworn upon a book to tell the truth of his quest.</text>
+          </navLabel>
+          <content src="le-morte-darthur-5.html#dlepubid00068"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-70" playOrder="70">
+        <navLabel>
+          <text>BOOK IV.</text>
+        </navLabel>
+        <content src="le-morte-darthur-5.html#dlepubid00069"/>
+        <navPoint id="np-71" playOrder="71">
+          <navLabel>
+            <text>CHAPTER I. How Merlin was assotted and doted on one of the ladies of the lake, and how he was shut in a rock under a stone and there died.</text>
+          </navLabel>
+          <content src="le-morte-darthur-5.html#dlepubid00070"/>
+        </navPoint>
+        <navPoint id="np-72" playOrder="72">
+          <navLabel>
+            <text>CHAPTER II. How five kings came into this land to war against King Arthur, and what counsel Arthur had against them.</text>
+          </navLabel>
+          <content src="le-morte-darthur-5.html#dlepubid00071"/>
+        </navPoint>
+        <navPoint id="np-73" playOrder="73">
+          <navLabel>
+            <text>CHAPTER III. How King Arthur had ado with them and overthrew them, and slew the five kings and made the remnant to flee.</text>
+          </navLabel>
+          <content src="le-morte-darthur-5.html#dlepubid00072"/>
+        </navPoint>
+        <navPoint id="np-74" playOrder="74">
+          <navLabel>
+            <text>CHAPTER IV. How the battle was finished or he came, and how King Arthur founded an abbey where the battle was.</text>
+          </navLabel>
+          <content src="le-morte-darthur-5.html#dlepubid00073"/>
+        </navPoint>
+        <navPoint id="np-75" playOrder="75">
+          <navLabel>
+            <text>CHAPTER V. How Sir Tor was made knight of the Round Table, and how Bagdemagus was displeased.</text>
+          </navLabel>
+          <content src="le-morte-darthur-5.html#dlepubid00074"/>
+        </navPoint>
+        <navPoint id="np-76" playOrder="76">
+          <navLabel>
+            <text>CHAPTER VI. How King Arthur, King Uriens, and Sir Accolon of Gaul, chased an hart, and of their marvellous adventures.</text>
+          </navLabel>
+          <content src="le-morte-darthur-5.html#dlepubid00075"/>
+        </navPoint>
+        <navPoint id="np-77" playOrder="77">
+          <navLabel>
+            <text>CHAPTER VII. How Arthur took upon him to fight to be delivered out of prison, and also for to deliver twenty knights that were in prison.</text>
+          </navLabel>
+          <content src="le-morte-darthur-5.html#dlepubid00076"/>
+        </navPoint>
+        <navPoint id="np-78" playOrder="78">
+          <navLabel>
+            <text>CHAPTER VIII. How Accolon found himself by a well, and he took upon him to do battle against Arthur.</text>
+          </navLabel>
+          <content src="le-morte-darthur-5.html#dlepubid00077"/>
+        </navPoint>
+        <navPoint id="np-79" playOrder="79">
+          <navLabel>
+            <text>CHAPTER IX. Of the battle between King Arthur and Accolon.</text>
+          </navLabel>
+          <content src="le-morte-darthur-5.html#dlepubid00078"/>
+        </navPoint>
+        <navPoint id="np-80" playOrder="80">
+          <navLabel>
+            <text>CHAPTER X. How King Arthur's sword that he fought with brake, and how he recovered of Accolon his own sword Excalibur, and overcame his enemy.</text>
+          </navLabel>
+          <content src="le-morte-darthur-5.html#dlepubid00079"/>
+        </navPoint>
+        <navPoint id="np-81" playOrder="81">
+          <navLabel>
+            <text>CHAPTER XI. How Accolon confessed the treason of Morgan le Fay, King Arthur's sister, and how she would have done slay him.</text>
+          </navLabel>
+          <content src="le-morte-darthur-5.html#dlepubid00080"/>
+        </navPoint>
+        <navPoint id="np-82" playOrder="82">
+          <navLabel>
+            <text>CHAPTER XII. How Arthur accorded the two brethren, and delivered the twenty knights, and how Sir Accolon died.</text>
+          </navLabel>
+          <content src="le-morte-darthur-6.html#dlepubid00081"/>
+        </navPoint>
+        <navPoint id="np-83" playOrder="83">
+          <navLabel>
+            <text>CHAPTER XIII. How Morgan would have slain Sir Uriens her husband, and how Sir Uwaine her son saved him.</text>
+          </navLabel>
+          <content src="le-morte-darthur-6.html#dlepubid00082"/>
+        </navPoint>
+        <navPoint id="np-84" playOrder="84">
+          <navLabel>
+            <text>CHAPTER XIV. How Queen Morgan le Fay made great sorrow for the death of Accolon, and how she stole away the scabbard from Arthur.</text>
+          </navLabel>
+          <content src="le-morte-darthur-6.html#dlepubid00083"/>
+        </navPoint>
+        <navPoint id="np-85" playOrder="85">
+          <navLabel>
+            <text>CHAPTER XV. How Morgan le Fay saved a knight that should have been drowned, and how King Arthur returned home again.</text>
+          </navLabel>
+          <content src="le-morte-darthur-6.html#dlepubid00084"/>
+        </navPoint>
+        <navPoint id="np-86" playOrder="86">
+          <navLabel>
+            <text>CHAPTER XVI. How the Damosel of the Lake saved King Arthur from mantle that should have burnt him.</text>
+          </navLabel>
+          <content src="le-morte-darthur-6.html#dlepubid00085"/>
+        </navPoint>
+        <navPoint id="np-87" playOrder="87">
+          <navLabel>
+            <text>CHAPTER XVII. How Sir Gawaine and Sir Uwaine met with twelve fair damosels, and how they complained on Sir Marhaus.</text>
+          </navLabel>
+          <content src="le-morte-darthur-6.html#dlepubid00086"/>
+        </navPoint>
+        <navPoint id="np-88" playOrder="88">
+          <navLabel>
+            <text>CHAPTER XVIII. How Sir Marhaus jousted with Sir Gawaine and Sir Uwaine, and overthrew them both.</text>
+          </navLabel>
+          <content src="le-morte-darthur-6.html#dlepubid00087"/>
+        </navPoint>
+        <navPoint id="np-89" playOrder="89">
+          <navLabel>
+            <text>CHAPTER XIX. How Sir Marhaus, Sir Gawaine, and Sir Uwaine met three damosels, and each of them took one.</text>
+          </navLabel>
+          <content src="le-morte-darthur-6.html#dlepubid00088"/>
+        </navPoint>
+        <navPoint id="np-91" playOrder="91">
+          <navLabel>
+            <text>CHAPTER XX. How a knight and a dwarf strove for a lady.</text>
+          </navLabel>
+          <content src="le-morte-darthur-6.html#dlepubid00090"/>
+        </navPoint>
+        <navPoint id="np-92" playOrder="92">
+          <navLabel>
+            <text>CHAPTER XXI. How King Pelleas suffered himself to be taken prisoner because he would have a sight of his lady, and how Sir Gawaine promised him to get</text>
+          </navLabel>
+          <content src="le-morte-darthur-6.html#dlepubid00091"/>
+        </navPoint>
+        <navPoint id="np-93" playOrder="93">
+          <navLabel>
+            <text>CHAPTER XXII. How Sir Gawaine came to the Lady Ettard, and how Sir Pelleas found them sleeping.</text>
+          </navLabel>
+          <content src="le-morte-darthur-6.html#dlepubid00092"/>
+        </navPoint>
+        <navPoint id="np-94" playOrder="94">
+          <navLabel>
+            <text>CHAPTER XXIII. How Sir Pelleas loved no more Ettard by means of the Damosel of the Lake, whom he loved ever after.</text>
+          </navLabel>
+          <content src="le-morte-darthur-6.html#dlepubid00093"/>
+        </navPoint>
+        <navPoint id="np-95" playOrder="95">
+          <navLabel>
+            <text>CHAPTER XXIV. How Sir Marhaus rode with the damosel, and how he came to the Duke of the South Marches.</text>
+          </navLabel>
+          <content src="le-morte-darthur-6.html#dlepubid00094"/>
+        </navPoint>
+        <navPoint id="np-96" playOrder="96">
+          <navLabel>
+            <text>CHAPTER XXV. How Sir Marhaus fought with the duke and his four sons and made them to yield them.</text>
+          </navLabel>
+          <content src="le-morte-darthur-6.html#dlepubid00095"/>
+        </navPoint>
+        <navPoint id="np-97" playOrder="97">
+          <navLabel>
+            <text>CHAPTER XXVI. How Sir Uwaine rode with the damosel of sixty year of age, and how he gat the prize at tourneying.</text>
+          </navLabel>
+          <content src="le-morte-darthur-7.html#dlepubid00096"/>
+        </navPoint>
+        <navPoint id="np-98" playOrder="98">
+          <navLabel>
+            <text>CHAPTER XXVII. How Sir Uwaine fought with two knights and overcame them.</text>
+          </navLabel>
+          <content src="le-morte-darthur-7.html#dlepubid00097"/>
+        </navPoint>
+        <navPoint id="np-99" playOrder="99">
+          <navLabel>
+            <text>CHAPTER XXVIII. How at the year's end all three knights with their three damosels met at the fountain.</text>
+          </navLabel>
+          <content src="le-morte-darthur-7.html#dlepubid00098"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-100" playOrder="100">
+        <navLabel>
+          <text>BOOK V.</text>
+        </navLabel>
+        <content src="le-morte-darthur-7.html#dlepubid00099"/>
+        <navPoint id="np-101" playOrder="101">
+          <navLabel>
+            <text>CHAPTER I. How twelve aged ambassadors of Rome came to King Arthur to demand truage for Britain.</text>
+          </navLabel>
+          <content src="le-morte-darthur-7.html#dlepubid00100"/>
+        </navPoint>
+        <navPoint id="np-102" playOrder="102">
+          <navLabel>
+            <text>CHAPTER II. How the kings and lords promised to King Arthur aid and help against the Romans.</text>
+          </navLabel>
+          <content src="le-morte-darthur-7.html#dlepubid00101"/>
+        </navPoint>
+        <navPoint id="np-103" playOrder="103">
+          <navLabel>
+            <text>CHAPTER III. How King Arthur held a parliament at York, and how he ordained the realm should be governed in his absence.</text>
+          </navLabel>
+          <content src="le-morte-darthur-7.html#dlepubid00102"/>
+        </navPoint>
+        <navPoint id="np-104" playOrder="104">
+          <navLabel>
+            <text>CHAPTER IV. How King Arthur being shipped and lying in his cabin had a marvellous dream and of the exposition thereof.</text>
+          </navLabel>
+          <content src="le-morte-darthur-7.html#dlepubid00103"/>
+        </navPoint>
+        <navPoint id="np-105" playOrder="105">
+          <navLabel>
+            <text>CHAPTER V. How a man of the country told to him of a marvellous giant, and how he fought and conquered him.</text>
+          </navLabel>
+          <content src="le-morte-darthur-7.html#dlepubid00104"/>
+        </navPoint>
+        <navPoint id="np-106" playOrder="106">
+          <navLabel>
+            <text>CHAPTER VI. How King Arthur sent Sir Gawaine and other to Lucius, and how they were assailed and escaped with worship.</text>
+          </navLabel>
+          <content src="le-morte-darthur-7.html#dlepubid00105"/>
+        </navPoint>
+        <navPoint id="np-107" playOrder="107">
+          <navLabel>
+            <text>CHAPTER VII. How Lucius sent certain spies in a bushment for to have taken his knights being prisoners, and how they were letted.</text>
+          </navLabel>
+          <content src="le-morte-darthur-7.html#dlepubid00106"/>
+        </navPoint>
+        <navPoint id="np-108" playOrder="108">
+          <navLabel>
+            <text>CHAPTER VIII. How a senator told to Lucius of their discomfiture, and also of the great battle between Arthur and Lucius.</text>
+          </navLabel>
+          <content src="le-morte-darthur-7.html#dlepubid00107"/>
+        </navPoint>
+        <navPoint id="np-109" playOrder="109">
+          <navLabel>
+            <text>CHAPTER IX How Arthur, after he had achieved the battle against the Romans, entered into Almaine, and so into Italy.</text>
+          </navLabel>
+          <content src="le-morte-darthur-7.html#dlepubid00108"/>
+        </navPoint>
+        <navPoint id="np-110" playOrder="110">
+          <navLabel>
+            <text>CHAPTER X. Of a battle done by Sir Gawaine against a Saracen, which after was yielden and became Christian.</text>
+          </navLabel>
+          <content src="le-morte-darthur-7.html#dlepubid00109"/>
+        </navPoint>
+        <navPoint id="np-111" playOrder="111">
+          <navLabel>
+            <text>CHAPTER XI. How the Saracens came out of a wood for to rescue their beasts, and of a great battle.</text>
+          </navLabel>
+          <content src="le-morte-darthur-8.html#dlepubid00110"/>
+        </navPoint>
+        <navPoint id="np-112" playOrder="112">
+          <navLabel>
+            <text>CHAPTER XII. How Sir Gawaine returned to King Arthur with his prisoners, and how the King won a city, and how he was crowned Emperor.</text>
+          </navLabel>
+          <content src="le-morte-darthur-8.html#dlepubid00111"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-113" playOrder="113">
+        <navLabel>          
+          <text>BOOK VI.</text>
+        </navLabel>
+        <content src="le-morte-darthur-8.html#dlepubid00112"/>
+        <navPoint id="np-114" playOrder="114">
+          <navLabel>
+            <text>CHAPTER I. How Sir Launcelot and Sir Lionel departed from the court, and how Sir Lionel left him sleeping and was taken.</text>
+          </navLabel>
+          <content src="le-morte-darthur-8.html#dlepubid00113"/>
+        </navPoint>
+        <navPoint id="np-115" playOrder="115">
+          <navLabel>
+            <text>CHAPTER II. How Sir Ector followed for to seek Sir Launcelot, and how he was taken by Sir Turquine.</text>
+          </navLabel>
+          <content src="le-morte-darthur-8.html#dlepubid00114"/>
+        </navPoint>
+        <navPoint id="np-116" playOrder="116">
+          <navLabel>
+            <text>CHAPTER III. How four queens found Launcelot sleeping, and how by enchantment he was taken and led into a castle.</text>
+          </navLabel>
+          <content src="le-morte-darthur-8.html#dlepubid00115"/>
+        </navPoint>
+        <navPoint id="np-117" playOrder="117">
+          <navLabel>
+            <text>CHAPTER IV. How Sir Launcelot was delivered by the mean of a damosel.</text>
+          </navLabel>
+          <content src="le-morte-darthur-8.html#dlepubid00116"/>
+        </navPoint>
+        <navPoint id="np-118" playOrder="118">
+          <navLabel>
+            <text>CHAPTER V. How a knight found Sir Launcelot lying in his leman's bed, and how Sir Launcelot fought with the knight.</text>
+          </navLabel>
+          <content src="le-morte-darthur-8.html#dlepubid00117"/>
+        </navPoint>
+        <navPoint id="np-119" playOrder="119">
+          <navLabel>
+            <text>CHAPTER VI. How Sir Launcelot was received of King Bagdemagus' daughter, and how he made his complaint to her father.</text>
+          </navLabel>
+          <content src="le-morte-darthur-8.html#dlepubid00118"/>
+        </navPoint>
+        <navPoint id="np-120" playOrder="120">
+          <navLabel>
+            <text>CHAPTER VII. How Sir Launcelot behaved him in a tournament, and how he met with Sir Turquine leading Sir Gaheris.</text>
+          </navLabel>
+          <content src="le-morte-darthur-8.html#dlepubid00119"/>
+        </navPoint>
+        <navPoint id="np-121" playOrder="121">
+          <navLabel>
+            <text>CHAPTER VIII. How Sir Launcelot and Sir Turquine fought together.</text>
+          </navLabel>
+          <content src="le-morte-darthur-8.html#dlepubid00120"/>
+        </navPoint>
+        <navPoint id="np-122" playOrder="122">
+          <navLabel>
+            <text>CHAPTER IX. How Sir Turquine was slain, and how Sir Launcelot bade Sir Gaheris deliver all the prisoners.</text>
+          </navLabel>
+          <content src="le-morte-darthur-8.html#dlepubid00121"/>
+        </navPoint>
+        <navPoint id="np-123" playOrder="123">
+          <navLabel>
+            <text>CHAPTER X. How Sir Launcelot rode with a damosel and slew a knight that distressed all ladies and also a villain that kept a bridge.</text>
+          </navLabel>
+          <content src="le-morte-darthur-8.html#dlepubid00122"/>
+        </navPoint>
+        <navPoint id="np-124" playOrder="124">
+          <navLabel>
+            <text>CHAPTER XI. How Sir Launcelot slew two giants, and made a castle free.</text>
+          </navLabel>
+          <content src="le-morte-darthur-8.html#dlepubid00123"/>
+        </navPoint>
+        <navPoint id="np-125" playOrder="125">
+          <navLabel>
+            <text>CHAPTER XII. How Sir Launcelot rode disguised in Sir Kay's harness, and how he smote down a knight.</text>
+          </navLabel>
+          <content src="le-morte-darthur-9.html#dlepubid00124"/>
+        </navPoint>
+        <navPoint id="np-126" playOrder="126">
+          <navLabel>
+            <text>CHAPTER XIII. How Sir Launcelot jousted against four knights of the Round Table and overthrew them.</text>
+          </navLabel>
+          <content src="le-morte-darthur-9.html#dlepubid00125"/>
+        </navPoint>
+        <navPoint id="np-127" playOrder="127">
+          <navLabel>
+            <text>CHAPTER XIV. How Sir Launcelot followed a brachet into a castle, where he found a dead knight, and how he after was required of a damosel to heal her</text>
+          </navLabel>
+          <content src="le-morte-darthur-9.html#dlepubid00126"/>
+        </navPoint>
+        <navPoint id="np-128" playOrder="128">
+          <navLabel>
+            <text>CHAPTER XV. How Sir Launcelot came into the Chapel Perilous and gat there of a dead corpse a piece of the cloth and a sword.</text>
+          </navLabel>
+          <content src="le-morte-darthur-9.html#dlepubid00127"/>
+        </navPoint>
+        <navPoint id="np-129" playOrder="129">
+          <navLabel>
+            <text>CHAPTER XVI. How Sir Launcelot at the request of a lady recovered a falcon, by which he was deceived.</text>
+          </navLabel>
+          <content src="le-morte-darthur-9.html#dlepubid00128"/>
+        </navPoint>
+        <navPoint id="np-130" playOrder="130">
+          <navLabel>
+            <text>CHAPTER XVII. How Sir Launcelot overtook a knight which chased his wife to have slain her, and how he said to him.</text>
+          </navLabel>
+          <content src="le-morte-darthur-9.html#dlepubid00129"/>
+        </navPoint>
+        <navPoint id="np-131" playOrder="131">
+          <navLabel>
+            <text>CHAPTER XVIII. How Sir Launcelot came to King Arthur's Court, and how there were recounted all his noble feats and acts.</text>
+          </navLabel>
+          <content src="le-morte-darthur-9.html#dlepubid00130"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-132" playOrder="132">
+        <navLabel>
+          <text>BOOK VII.</text>
+        </navLabel>
+        <content src="le-morte-darthur-9.html#dlepubid00131"/>
+        <navPoint id="np-133" playOrder="133">
+          <navLabel>
+            <text>CHAPTER I. How Beaumains came to King Arthur's Court and demanded three petitions of King Arthur.</text>
+          </navLabel>
+          <content src="le-morte-darthur-9.html#dlepubid00132"/>
+        </navPoint>
+        <navPoint id="np-134" playOrder="134">
+          <navLabel>
+            <text>CHAPTER II. How Sir Launcelot and Sir Gawaine were wroth because Sir Kay mocked Beaumains, and of a damosel which desired a knight to fight for a lady.</text>
+          </navLabel>
+          <content src="le-morte-darthur-9.html#dlepubid00133"/>
+        </navPoint>
+        <navPoint id="np-135" playOrder="135">
+          <navLabel>
+            <text>CHAPTER III. How Beaumains desired the battle, and how it was granted to him, and how he desired to be made knight of Sir Launcelot.</text>
+          </navLabel>
+          <content src="le-morte-darthur-9.html#dlepubid00134"/>
+        </navPoint>
+        <navPoint id="np-136" playOrder="136">
+          <navLabel>
+            <text>CHAPTER IV. How Beaumains departed, and how he gat of Sir Kay a spear and a shield, and how he jousted with Sir Launcelot.</text>
+          </navLabel>
+          <content src="le-morte-darthur-9.html#dlepubid00135"/>
+        </navPoint>
+        <navPoint id="np-137" playOrder="137">
+          <navLabel>
+            <text>CHAPTER V. How Beaumains told to Sir Launcelot his name, and how he was dubbed knight of Sir Launcelot, and after overtook the damosel.</text>
+          </navLabel>
+          <content src="le-morte-darthur-9.html#dlepubid00136"/>
+        </navPoint>
+        <navPoint id="np-138" playOrder="138">
+          <navLabel>
+            <text>CHAPTER VI. How Beaumains fought and slew two knights at a passage.</text>
+          </navLabel>
+          <content src="le-morte-darthur-9.html#dlepubid00137"/>
+        </navPoint>
+        <navPoint id="np-139" playOrder="139">
+          <navLabel>
+            <text>CHAPTER VII. How Beaumains fought with the Knight of the Black Launds, and fought with him till he fell down and died.</text>
+          </navLabel>
+          <content src="le-morte-darthur-9.html#dlepubid00138"/>
+        </navPoint>
+        <navPoint id="np-140" playOrder="140">
+          <navLabel>
+            <text>CHAPTER VIII. How the brother of the knight that was slain met with Beaumains, and fought with Beaumains till he was yielden.</text>
+          </navLabel>
+          <content src="le-morte-darthur-10.html#dlepubid00139"/>
+        </navPoint>
+        <navPoint id="np-141" playOrder="141">
+          <navLabel>
+            <text>CHAPTER IX. How the damosel again rebuked Beaumains, and would not suffer him to sit at her table, but called him kitchen boy.</text>
+          </navLabel>
+          <content src="le-morte-darthur-10.html#dlepubid00140"/>
+        </navPoint>
+        <navPoint id="np-142" playOrder="142">
+          <navLabel>
+            <text>CHAPTER X. How the third brother, called the Red Knight, jousted and fought against Beaumains, and how Beaumains overcame him.</text>
+          </navLabel>
+          <content src="le-morte-darthur-10.html#dlepubid00141"/>
+        </navPoint>
+        <navPoint id="np-143" playOrder="143">
+          <navLabel>
+            <text>CHAPTER XI. How Sir Beaumains suffered great rebukes of the damosel, and he suffered it patiently.</text>
+          </navLabel>
+          <content src="le-morte-darthur-10.html#dlepubid00142"/>
+        </navPoint>
+        <navPoint id="np-144" playOrder="144">
+          <navLabel>
+            <text>CHAPTER XII. How Beaumains fought with Sir Persant of Inde, and made him to be yielden.</text>
+          </navLabel>
+          <content src="le-morte-darthur-10.html#dlepubid00143"/>
+        </navPoint>
+        <navPoint id="np-145" playOrder="145">
+          <navLabel>
+            <text>CHAPTER XIII. Of the goodly communication between Sir Persant and Beaumains, and how he told him that his name was Sir Gareth.</text>
+          </navLabel>
+          <content src="le-morte-darthur-10.html#dlepubid00144"/>
+        </navPoint>
+        <navPoint id="np-146" playOrder="146">
+          <navLabel>
+            <text>CHAPTER XIV. How the lady that was besieged had word from her sister how she had brought a knight to fight for her, and what battles he had achieved.</text>
+          </navLabel>
+          <content src="le-morte-darthur-10.html#dlepubid00145"/>
+        </navPoint>
+        <navPoint id="np-147" playOrder="147">
+          <navLabel>
+            <text>CHAPTER XV. How the damosel and Beaumains came to the siege; and came to a sycamore tree, and there Beaumains blew a horn, and then the Knight of the Red Launds came to fight with him.</text>
+          </navLabel>
+          <content src="le-morte-darthur-10.html#dlepubid00146"/>
+        </navPoint>
+        <navPoint id="np-148" playOrder="148">
+          <navLabel>
+            <text>CHAPTER XVI. How the two knights met together, and of their talking, and how they began their battle.</text>
+          </navLabel>
+          <content src="le-morte-darthur-10.html#dlepubid00147"/>
+        </navPoint>
+        <navPoint id="np-149" playOrder="149">
+          <navLabel>
+            <text>CHAPTER XVII. How after long fighting Beaumains overcame the knight and would have slain him, but at the request of the lords he saved his life, and made him to yield him to the lady.</text>
+          </navLabel>
+          <content src="le-morte-darthur-10.html#dlepubid00148"/>
+        </navPoint>
+        <navPoint id="np-150" playOrder="150">
+          <navLabel>
+            <text>CHAPTER XVIII. How the knight yielded him, and how Beaumains made him to go unto King Arthur's court, and to cry Sir Launcelot mercy.</text>
+          </navLabel>
+          <content src="le-morte-darthur-10.html#dlepubid00149"/>
+        </navPoint>
+        <navPoint id="np-151" playOrder="151">
+          <navLabel>
+            <text>CHAPTER XIX. How Beaumains came to the lady, and when he came to the castle the gates were closed against him, and of the words that the lady said to him.</text>
+          </navLabel>
+          <content src="le-morte-darthur-10.html#dlepubid00150"/>
+        </navPoint>
+        <navPoint id="np-152" playOrder="152">
+          <navLabel>
+            <text>CHAPTER XX. How Sir Beaumains rode after to rescue his dwarf, and came into the castle where he was.</text>
+          </navLabel>
+          <content src="le-morte-darthur-10.html#dlepubid00151"/>
+        </navPoint>
+        <navPoint id="np-153" playOrder="153">
+          <navLabel>
+            <text>CHAPTER XXI. How Sir Gareth, otherwise called Beaumains, came to the presence of his lady, and how they took acquaintance, and of their love.</text>
+          </navLabel>
+          <content src="le-morte-darthur-11.html#dlepubid00152"/>
+        </navPoint>
+        <navPoint id="np-154" playOrder="154">
+          <navLabel>
+            <text>CHAPTER XXII. How at night came an armed knight, and fought with Sir Gareth, and he, sore hurt in the thigh, smote off the knight's head.</text>
+          </navLabel>
+          <content src="le-morte-darthur-11.html#dlepubid00153"/>
+        </navPoint>
+        <navPoint id="np-155" playOrder="155">
+          <navLabel>
+            <text>CHAPTER XXIII. How the said knight came again the next night and was beheaded again, and how at the feast of Pentecost all the knights that Sir Gareth had overcome came and yielded them to King Arthur.</text>
+          </navLabel>
+          <content src="le-morte-darthur-11.html#dlepubid00154"/>
+        </navPoint>
+        <navPoint id="np-156" playOrder="156">
+          <navLabel>
+            <text>CHAPTER XXIV. How King Arthur pardoned them, and demanded of them where Sir Gareth was.</text>
+          </navLabel>
+          <content src="le-morte-darthur-11.html#dlepubid00155"/>
+        </navPoint>
+        <navPoint id="np-157" playOrder="157">
+          <navLabel>
+            <text>CHAPTER XXV. How the Queen of Orkney came to this feast of Pentecost, and Sir Gawaine and his brethren came to ask her blessing.</text>
+          </navLabel>
+          <content src="le-morte-darthur-11.html#dlepubid00156"/>
+        </navPoint>
+        <navPoint id="np-159" playOrder="159">
+          <navLabel>
+            <text>CHAPTER XXVI. How King Arthur sent for the Lady Lionesse, and how she let cry a tourney at her castle, whereas came many knights.</text>
+          </navLabel>
+          <content src="le-morte-darthur-11.html#dlepubid00158"/>
+        </navPoint>
+        <navPoint id="np-160" playOrder="160">
+          <navLabel>
+            <text>CHAPTER XXVII. How King Arthur went to the tournament with his knights, and how the lady received him worshipfully, and how the knights encountered.</text>
+          </navLabel>
+          <content src="le-morte-darthur-11.html#dlepubid00159"/>
+        </navPoint>
+        <navPoint id="np-161" playOrder="161">
+          <navLabel>
+            <text>CHAPTER XXVIII. How the knights bare them in the battle.</text>
+          </navLabel>
+          <content src="le-morte-darthur-11.html#dlepubid00160"/>
+        </navPoint>
+        <navPoint id="np-162" playOrder="162">
+          <navLabel>
+            <text>CHAPTER XXIX. Yet of the said tournament.</text>
+          </navLabel>
+          <content src="le-morte-darthur-11.html#dlepubid00161"/>
+        </navPoint>
+        <navPoint id="np-163" playOrder="163">
+          <navLabel>
+            <text>CHAPTER XXX. How Sir Gareth was espied by the heralds, and how he escaped out of the field.</text>
+          </navLabel>
+          <content src="le-morte-darthur-11.html#dlepubid00162"/>
+        </navPoint>
+        <navPoint id="np-164" playOrder="164">
+          <navLabel>
+            <text>CHAPTER XXXI. How Sir Gareth came to a castle where he was well lodged, and he jousted with a knight and slew him.</text>
+          </navLabel>
+          <content src="le-morte-darthur-11.html#dlepubid00163"/>
+        </navPoint>
+        <navPoint id="np-165" playOrder="165">
+          <navLabel>
+            <text>CHAPTER XXXII. How Sir Gareth fought with a knight that held within his castle thirty ladies, and how he slew him.</text>
+          </navLabel>
+          <content src="le-morte-darthur-11.html#dlepubid00164"/>
+        </navPoint>
+        <navPoint id="np-166" playOrder="166">
+          <navLabel>
+            <text>CHAPTER XXXIII. How Sir Gareth and Sir Gawaine fought each against other, and how they knew each other by the damosel Linet.</text>
+          </navLabel>
+          <content src="le-morte-darthur-12.html#dlepubid00165"/>
+        </navPoint>
+        <navPoint id="np-167" playOrder="167">
+          <navLabel>
+            <text>CHAPTER XXXIV. How Sir Gareth acknowledged that they loved each other to King Arthur, and of the appointment of their wedding.</text>
+          </navLabel>
+          <content src="le-morte-darthur-12.html#dlepubid00166"/>
+        </navPoint>
+        <navPoint id="np-168" playOrder="168">
+          <navLabel>
+            <text>CHAPTER XXXV. Of the Great Royalty, and what officers were made at the feast of the wedding, and of the jousts at the feast.</text>
+          </navLabel>
+          <content src="le-morte-darthur-12.html#dlepubid00167"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-169" playOrder="169">
+        <navLabel>
+          <text>BOOK VIII</text>
+        </navLabel>
+        <content src="le-morte-darthur-12.html#dlepubid00168"/>
+        <navPoint id="np-170" playOrder="170">
+          <navLabel>
+            <text>CHAPTER I. How Sir Tristram de Liones was born, and how his mother died at his birth, wherefore she named him Tristram.</text>
+          </navLabel>
+          <content src="le-morte-darthur-12.html#dlepubid00169"/>
+        </navPoint>
+        <navPoint id="np-171" playOrder="171">
+          <navLabel>
+            <text>CHAPTER II. How the stepmother of Sir Tristram had ordained poison for to have poisoned Sir Tristram.</text>
+          </navLabel>
+          <content src="le-morte-darthur-12.html#dlepubid00170"/>
+        </navPoint>
+        <navPoint id="np-172" playOrder="172">
+          <navLabel>
+            <text>CHAPTER III. How Sir Tristram was sent into France, and had one to govern him named Gouvernail, and how he learned to harp, hawk, and hunt.</text>
+          </navLabel>
+          <content src="le-morte-darthur-12.html#dlepubid00171"/>
+        </navPoint>
+        <navPoint id="np-173" playOrder="173">
+          <navLabel>
+            <text>CHAPTER IV. How Sir Marhaus came out of Ireland for to ask truage of Cornwall, or else he would fight therefore.</text>
+          </navLabel>
+          <content src="le-morte-darthur-12.html#dlepubid00172"/>
+        </navPoint>
+        <navPoint id="np-174" playOrder="174">
+          <navLabel>
+            <text>CHAPTER V. How Tristram enterprized the battle to fight for the truage of Cornwall, and how he was made knight.</text>
+          </navLabel>
+          <content src="le-morte-darthur-12.html#dlepubid00173"/>
+        </navPoint>
+        <navPoint id="np-175" playOrder="175">
+          <navLabel>
+            <text>CHAPTER VI. How Sir Tristram arrived into the Island for to furnish the battle with Sir Marhaus.</text>
+          </navLabel>
+          <content src="le-morte-darthur-12.html#dlepubid00174"/>
+        </navPoint>
+        <navPoint id="np-176" playOrder="176">
+          <navLabel>
+            <text>CHAPTER VII. How Sir Tristram fought against Sir Marhaus and achieved his battle, and how Sir Marhaus fled to his ship.</text>
+          </navLabel>
+          <content src="le-morte-darthur-12.html#dlepubid00175"/>
+        </navPoint>
+        <navPoint id="np-177" playOrder="177">
+          <navLabel>
+            <text>CHAPTER VIII. How Sir Marhaus after that he was arrived in Ireland died of the stroke that Sir Tristram had given him, and how Tristram was hurt.</text>
+          </navLabel>
+          <content src="le-morte-darthur-12.html#dlepubid00176"/>
+        </navPoint>
+        <navPoint id="np-178" playOrder="178">
+          <navLabel>
+            <text>CHAPTER IX. How Sir Tristram was put to the keeping of La Beale Isoud first for to be healed of his wound.</text>
+          </navLabel>
+          <content src="le-morte-darthur-12.html#dlepubid00177"/>
+        </navPoint>
+        <navPoint id="np-179" playOrder="179">
+          <navLabel>
+            <text>CHAPTER X. How Sir Tristram won the degree at a tournament in Ireland, and there made Palamides to bear no more harness in a year.</text>
+          </navLabel>
+          <content src="le-morte-darthur-12.html#dlepubid00178"/>
+        </navPoint>
+        <navPoint id="np-180" playOrder="180">
+          <navLabel>
+            <text>CHAPTER XI. How the queen espied that Sir Tristram had slain her brother Sir Marhaus by his sword, and in what jeopardy he was.</text>
+          </navLabel>
+          <content src="le-morte-darthur-13.html#dlepubid00179"/>
+        </navPoint>
+        <navPoint id="np-181" playOrder="181">
+          <navLabel>
+            <text>CHAPTER XII. How Sir Tristram departed from the king and La Beale Isoud out of Ireland for to come into Cornwall.</text>
+          </navLabel>
+          <content src="le-morte-darthur-13.html#dlepubid00180"/>
+        </navPoint>
+        <navPoint id="np-182" playOrder="182">
+          <navLabel>
+            <text>CHAPTER XIII. How Sir Tristram and King Mark hurted each other for the love of a knight's wife.</text>
+          </navLabel>
+          <content src="le-morte-darthur-13.html#dlepubid00181"/>
+        </navPoint>
+        <navPoint id="np-183" playOrder="183">
+          <navLabel>
+            <text>CHAPTER XIV. How Sir Tristram lay with the lady, and how her husband fought with Sir Tristram.</text>
+          </navLabel>
+          <content src="le-morte-darthur-13.html#dlepubid00182"/>
+        </navPoint>
+        <navPoint id="np-184" playOrder="184">
+          <navLabel>
+            <text>CHAPTER XV. How Sir Bleoberis demanded the fairest lady in King Mark's court, whom he took away, and how he was fought with.</text>
+          </navLabel>
+          <content src="le-morte-darthur-13.html#dlepubid00183"/>
+        </navPoint>
+        <navPoint id="np-185" playOrder="185">
+          <navLabel>
+            <text>CHAPTER XVI. How Sir Tristram fought with two knights of the Round Table.</text>
+          </navLabel>
+          <content src="le-morte-darthur-13.html#dlepubid00184"/>
+        </navPoint>
+        <navPoint id="np-186" playOrder="186">
+          <navLabel>
+            <text>CHAPTER XVII. How Sir Tristram fought with Sir Bleoberis for a lady, and how the lady was put to choice to whom she would go.</text>
+          </navLabel>
+          <content src="le-morte-darthur-13.html#dlepubid00185"/>
+        </navPoint>
+        <navPoint id="np-187" playOrder="187">
+          <navLabel>
+            <text>CHAPTER XVIII. How the lady forsook Sir Tristram and abode with Sir Bleoberis, and how she desired to go to her husband.</text>
+          </navLabel>
+          <content src="le-morte-darthur-13.html#dlepubid00186"/>
+        </navPoint>
+        <navPoint id="np-188" playOrder="188">
+          <navLabel>
+            <text>CHAPTER XIX. How King Mark sent Sir Tristram for La Beale Isoud toward Ireland, and how by fortune he arrived into England.</text>
+          </navLabel>
+          <content src="le-morte-darthur-13.html#dlepubid00187"/>
+        </navPoint>
+        <navPoint id="np-189" playOrder="189">
+          <navLabel>
+            <text>CHAPTER XX. How King Anguish of Ireland was summoned to come to King Arthur's court for treason.</text>
+          </navLabel>
+          <content src="le-morte-darthur-13.html#dlepubid00188"/>
+        </navPoint>
+        <navPoint id="np-190" playOrder="190">
+          <navLabel>
+            <text>CHAPTER XXI. How Sir Tristram rescued a child from a knight, and how Gouvernail told him of King Anguish.</text>
+          </navLabel>
+          <content src="le-morte-darthur-13.html#dlepubid00189"/>
+        </navPoint>
+        <navPoint id="np-191" playOrder="191">
+          <navLabel>
+            <text>CHAPTER XXII. How Sir Tristram fought for Sir Anguish and overcame his adversary, and how his adversary would never yield him.</text>
+          </navLabel>
+          <content src="le-morte-darthur-13.html#dlepubid00190"/>
+        </navPoint>
+        <navPoint id="np-192" playOrder="192">
+          <navLabel>
+            <text>CHAPTER XXIII. How Sir Blamore desired Tristram to slay him, and how Sir Tristram spared him, and how they took appointment.</text>
+          </navLabel>
+          <content src="le-morte-darthur-13.html#dlepubid00191"/>
+        </navPoint>
+        <navPoint id="np-193" playOrder="193">
+          <navLabel>
+            <text>CHAPTER XXIV. How Sir Tristram demanded La Beale Isoud for King Mark, and how Sir Tristram and Isoud drank the love drink.</text>
+          </navLabel>
+          <content src="le-morte-darthur-13.html#dlepubid00192"/>
+        </navPoint>
+        <navPoint id="np-194" playOrder="194">
+          <navLabel>
+            <text>CHAPTER XXV. How Sir Tristram and Isoud were in prison, and how he fought for her beauty, and smote of another lady's head.</text>
+          </navLabel>
+          <content src="le-morte-darthur-13.html#dlepubid00193"/>
+        </navPoint>
+        <navPoint id="np-195" playOrder="195">
+          <navLabel>
+            <text>CHAPTER XXVI. How Sir Tristram fought with Sir Breunor, and at the last smote off his head.</text>
+          </navLabel>
+          <content src="le-morte-darthur-14.html#dlepubid00194"/>
+        </navPoint>
+        <navPoint id="np-196" playOrder="196">
+          <navLabel>
+            <text>CHAPTER XXVII. How Sir Galahad fought with Sir Tristram, and how Sir Tristram yielded him and promised to fellowship with Launcelot.</text>
+          </navLabel>
+          <content src="le-morte-darthur-14.html#dlepubid00195"/>
+        </navPoint>
+        <navPoint id="np-197" playOrder="197">
+          <navLabel>
+            <text>CHAPTER XXVIII. How Sir Launcelot met with Sir Carados bearing away Sir Gawaine, and of the rescue of Sir Gawaine.</text>
+          </navLabel>
+          <content src="le-morte-darthur-14.html#dlepubid00196"/>
+        </navPoint>
+        <navPoint id="np-198" playOrder="198">
+          <navLabel>
+            <text>CHAPTER XXIX. Of the wedding of King Mark to La Beale Isoud, and of Bragwaine her maid, and of Palamides.</text>
+          </navLabel>
+          <content src="le-morte-darthur-14.html#dlepubid00197"/>
+        </navPoint>
+        <navPoint id="np-199" playOrder="199">
+          <navLabel>
+            <text>CHAPTER XXX. How Palamides demanded Queen Isoud, and how Lambegus rode after to rescue her, and of the escape of Isoud.</text>
+          </navLabel>
+          <content src="le-morte-darthur-14.html#dlepubid00198"/>
+        </navPoint>
+        <navPoint id="np-200" playOrder="200">
+          <navLabel>
+            <text>CHAPTER XXXI. How Sir Tristram rode after Palamides, and how he found him and fought with him, and by the means of Isoud the battle ceased.</text>
+          </navLabel>
+          <content src="le-morte-darthur-14.html#dlepubid00199"/>
+        </navPoint>
+        <navPoint id="np-201" playOrder="201">
+          <navLabel>
+            <text>CHAPTER XXXII. How Sir Tristram brought Queen Isoud home, and of the debate of King Mark and Sir Tristram.</text>
+          </navLabel>
+          <content src="le-morte-darthur-14.html#dlepubid00200"/>
+        </navPoint>
+        <navPoint id="np-202" playOrder="202">
+          <navLabel>
+            <text>CHAPTER XXXIII. How Sir Lamorak jousted with thirty knights, and Sir Tristram at the request of King Mark smote his horse down.</text>
+          </navLabel>
+          <content src="le-morte-darthur-14.html#dlepubid00201"/>
+        </navPoint>
+        <navPoint id="np-203" playOrder="203">
+          <navLabel>
+            <text>CHAPTER XXXIV. How Sir Lamorak sent an horn to King Mark in despite of Sir Tristram, and how Sir Tristram was driven into a chapel.</text>
+          </navLabel>
+          <content src="le-morte-darthur-14.html#dlepubid00202"/>
+        </navPoint>
+        <navPoint id="np-204" playOrder="204">
+          <navLabel>
+            <text>CHAPTER XXXV. How Sir Tristram was holpen by his men, and of Queen Isoud which was put in a lazar-cote, and how Tristram was hurt.</text>
+          </navLabel>
+          <content src="le-morte-darthur-14.html#dlepubid00203"/>
+        </navPoint>
+        <navPoint id="np-205" playOrder="205">
+          <navLabel>
+            <text>CHAPTER XXXVI. How Sir Tristram served in war King Howel of Brittany, and slew his adversary in the field.</text>
+          </navLabel>
+          <content src="le-morte-darthur-14.html#dlepubid00204"/>
+        </navPoint>
+        <navPoint id="np-206" playOrder="206">
+          <navLabel>
+            <text>CHAPTER XXXVII. How Sir Suppinabiles told Sir Tristram how he was defamed in the court of King Arthur, and of Sir Lamorak.</text>
+          </navLabel>
+          <content src="le-morte-darthur-14.html#dlepubid00205"/>
+        </navPoint>
+        <navPoint id="np-207" playOrder="207">
+          <navLabel>
+            <text>CHAPTER XXXVIII. How Sir Tristram and his wife arrived in Wales, and how he met there with Sir Lamorak.</text>
+          </navLabel>
+          <content src="le-morte-darthur-14.html#dlepubid00206"/>
+        </navPoint>
+        <navPoint id="np-208" playOrder="208">
+          <navLabel>
+            <text>CHAPTER XXXIX. How Sir Tristram fought with Sir Nabon, and overcame him, and made Sir Segwarides lord of the isle.</text>
+          </navLabel>
+          <content src="le-morte-darthur-14.html#dlepubid00207"/>
+        </navPoint>
+        <navPoint id="np-209" playOrder="209">
+          <navLabel>
+            <text>CHAPTER XL. How Sir Lamorak departed from Sir Tristram, and how he met with Sir Frol, and after with Sir Launcelot.</text>
+          </navLabel>
+          <content src="le-morte-darthur-15.html#dlepubid00208"/>
+        </navPoint>
+        <navPoint id="np-211" playOrder="211">
+          <navLabel>
+            <text>CHAPTER XLI. How Sir Lamorak slew Sir Frol, and of the courteous fighting with Sir Belliance his brother.</text>
+          </navLabel>
+          <content src="le-morte-darthur-15.html#dlepubid00210"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-212" playOrder="212">
+        <navLabel>
+          <text>BOOK IX.</text>
+        </navLabel>
+        <content src="le-morte-darthur-15.html#dlepubid00211"/>
+        <navPoint id="np-213" playOrder="213">
+          <navLabel>
+            <text>CHAPTER I. How a young man came into the court of King Arthur, and how Sir Kay called him in scorn La Cote Male Taile.</text>
+          </navLabel>
+          <content src="le-morte-darthur-15.html#dlepubid00212"/>
+        </navPoint>
+        <navPoint id="np-214" playOrder="214">
+          <navLabel>
+            <text>CHAPTER II. How a damosel came into the court and desired a knight to take on him an enquest, which La Cote Male Taile emprised.</text>
+          </navLabel>
+          <content src="le-morte-darthur-15.html#dlepubid00213"/>
+        </navPoint>
+        <navPoint id="np-215" playOrder="215">
+          <navLabel>
+            <text>CHAPTER III. How La Cote Male Taile overthrew Sir Dagonet the king's fool, and of the rebuke that he had of the damosel.</text>
+          </navLabel>
+          <content src="le-morte-darthur-15.html#dlepubid00214"/>
+        </navPoint>
+        <navPoint id="np-216" playOrder="216">
+          <navLabel>
+            <text>CHAPTER IV. How La Cote Male Taile fought against an hundred knights, and how he escaped by the mean of a lady.</text>
+          </navLabel>
+          <content src="le-morte-darthur-15.html#dlepubid00215"/>
+        </navPoint>
+        <navPoint id="np-217" playOrder="217">
+          <navLabel>
+            <text>CHAPTER V. How Sir Launcelot came to the court and heard of La Cote Male Taile, and how he followed after him, and how La Cote Male Taile was prisoner.</text>
+          </navLabel>
+          <content src="le-morte-darthur-15.html#dlepubid00216"/>
+        </navPoint>
+        <navPoint id="np-218" playOrder="218">
+          <navLabel>
+            <text>CHAPTER VI. How Sir Launcelot fought with six knights, and after with Sir Brian, and how he delivered the prisoners.</text>
+          </navLabel>
+          <content src="le-morte-darthur-15.html#dlepubid00217"/>
+        </navPoint>
+        <navPoint id="np-219" playOrder="219">
+          <navLabel>
+            <text>CHAPTER VII. How Sir Launcelot met with the damosel named Male disant, and named her the Damosel Bienpensant.</text>
+          </navLabel>
+          <content src="le-morte-darthur-15.html#dlepubid00218"/>
+        </navPoint>
+        <navPoint id="np-220" playOrder="220">
+          <navLabel>
+            <text>CHAPTER VIII. How La Cote Male Taile was taken prisoner, and after rescued by Sir Launcelot, and how Sir Launcelot overcame four brethren.</text>
+          </navLabel>
+          <content src="le-morte-darthur-15.html#dlepubid00219"/>
+        </navPoint>
+        <navPoint id="np-221" playOrder="221">
+          <navLabel>
+            <text>CHAPTER IX. How Sir Launcelot made La Cote Male Taile lord of the Castle of Pendragon, and after was made knight of the Round Table.</text>
+          </navLabel>
+          <content src="le-morte-darthur-15.html#dlepubid00220"/>
+        </navPoint>
+        <navPoint id="np-222" playOrder="222">
+          <navLabel>
+            <text>CHAPTER X. How La Beale Isoud sent letters to Sir Tristram by her maid Bragwaine, and of divers adventures of Sir Tristram.</text>
+          </navLabel>
+          <content src="le-morte-darthur-15.html#dlepubid00221"/>
+        </navPoint>
+        <navPoint id="np-223" playOrder="223">
+          <navLabel>
+            <text>CHAPTER XI. How Sir Tristram met with Sir Lamorak de Galis, and how they fought, and after accorded never to fight together.</text>
+          </navLabel>
+          <content src="le-morte-darthur-15.html#dlepubid00222"/>
+        </navPoint>
+        <navPoint id="np-224" playOrder="224">
+          <navLabel>
+            <text>CHAPTER XII. How Sir Palomides followed the Questing Beast, and smote down Sir Tristram and Sir Lamorak with one spear.</text>
+          </navLabel>
+          <content src="le-morte-darthur-15.html#dlepubid00223"/>
+        </navPoint>
+        <navPoint id="np-225" playOrder="225">
+          <navLabel>
+            <text>CHAPTER XIII. How Sir Lamorak met with Sir Meliagaunce, and fought together for the beauty of Dame Guenever.</text>
+          </navLabel>
+          <content src="le-morte-darthur-16.html#dlepubid00224"/>
+        </navPoint>
+        <navPoint id="np-226" playOrder="226">
+          <navLabel>
+            <text>CHAPTER XIV. How Sir Meliagaunce told for what cause they fought, and how Sir Lamorak jousted with King Arthur.</text>
+          </navLabel>
+          <content src="le-morte-darthur-16.html#dlepubid00225"/>
+        </navPoint>
+        <navPoint id="np-227" playOrder="227">
+          <navLabel>
+            <text>CHAPTER XV. How Sir Kay met with Sir Tristram, and after of the shame spoken of the knights of Cornwall, and how they jousted.</text>
+          </navLabel>
+          <content src="le-morte-darthur-16.html#dlepubid00226"/>
+        </navPoint>
+        <navPoint id="np-228" playOrder="228">
+          <navLabel>
+            <text>CHAPTER XVI. How King Arthur was brought into the Forest Perilous, and how Sir Tristram saved his life.</text>
+          </navLabel>
+          <content src="le-morte-darthur-16.html#dlepubid00227"/>
+        </navPoint>
+        <navPoint id="np-229" playOrder="229">
+          <navLabel>
+            <text>CHAPTER XVII. How Sir Tristram came to La Beale Isoud, and how Kehydius began to love Beale Isoud, and of a letter that Tristram found.</text>
+          </navLabel>
+          <content src="le-morte-darthur-16.html#dlepubid00228"/>
+        </navPoint>
+        <navPoint id="np-230" playOrder="230">
+          <navLabel>
+            <text>CHAPTER XIX. How Sir Tristram soused Dagonet in a well, and how Palomides sent a damosel to seek Tristram, and how Palomides met with King Mark.</text>
+          </navLabel>
+          <content src="le-morte-darthur-16.html#dlepubid00229"/>
+        </navPoint>
+        <navPoint id="np-231" playOrder="231">
+          <navLabel>
+            <text>CHAPTER XX. How it was noised how Sir Tristram was dead, and how La Beale Isoud would have slain herself.</text>
+          </navLabel>
+          <content src="le-morte-darthur-16.html#dlepubid00230"/>
+        </navPoint>
+        <navPoint id="np-232" playOrder="232">
+          <navLabel>
+            <text>CHAPTER XXI. How King Mark found Sir Tristram naked, and made him to be borne home to Tintagil, and how he was there known by a brachet.</text>
+          </navLabel>
+          <content src="le-morte-darthur-16.html#dlepubid00231"/>
+        </navPoint>
+        <navPoint id="np-233" playOrder="233">
+          <navLabel>
+            <text>CHAPTER XXII. How King Mark, by the advice of his council, banished Sir Tristram out of Cornwall the term of ten years.</text>
+          </navLabel>
+          <content src="le-morte-darthur-16.html#dlepubid00232"/>
+        </navPoint>
+        <navPoint id="np-234" playOrder="234">
+          <navLabel>
+            <text>CHAPTER XXIII. How a damosel sought help to help Sir Launcelot against thirty knights, and how Sir Tristram fought with them.</text>
+          </navLabel>
+          <content src="le-morte-darthur-16.html#dlepubid00233"/>
+        </navPoint>
+        <navPoint id="np-235" playOrder="235">
+          <navLabel>
+            <text>CHAPTER XXIV. How Sir Tristram and Sir Dinadan came to a lodging where they must joust with two knights.</text>
+          </navLabel>
+          <content src="le-morte-darthur-16.html#dlepubid00234"/>
+        </navPoint>
+        <navPoint id="np-236" playOrder="236">
+          <navLabel>
+            <text>CHAPTER XXV. How Sir Tristram jousted with Sir Kay and Sir Sagramore le Desirous, and how Sir Gawaine turned Sir Tristram from Morgan le Fay.</text>
+          </navLabel>
+          <content src="le-morte-darthur-16.html#dlepubid00235"/>
+        </navPoint>
+        <navPoint id="np-237" playOrder="237">
+          <navLabel>
+            <text>CHAPTER XXVI. How Sir Tristram and Sir Gawaine rode to have foughten with the thirty knights, but they durst not come out.</text>
+          </navLabel>
+          <content src="le-morte-darthur-17.html#dlepubid00236"/>
+        </navPoint>
+        <navPoint id="np-238" playOrder="238">
+          <navLabel>
+            <text>CHAPTER XXVII. How damosel Bragwaine found Tristram sleeping by a well, and how she delivered letters to him from La Beale Isoud.</text>
+          </navLabel>
+          <content src="le-morte-darthur-17.html#dlepubid00237"/>
+        </navPoint>
+        <navPoint id="np-239" playOrder="239">
+          <navLabel>
+            <text>CHAPTER XXVIII. How Sir Tristram had a fall with Sir Palomides, and how Launcelot overthrew two knights.</text>
+          </navLabel>
+          <content src="le-morte-darthur-17.html#dlepubid00238"/>
+        </navPoint>
+        <navPoint id="np-240" playOrder="240">
+          <navLabel>
+            <text>CHAPTER XXIX. How Sir Launcelot jousted with Palomides and overthrew him, and after he was assailed with twelve knights.</text>
+          </navLabel>
+          <content src="le-morte-darthur-17.html#dlepubid00239"/>
+        </navPoint>
+        <navPoint id="np-241" playOrder="241">
+          <navLabel>
+            <text>CHAPTER XXX. How Sir Tristram behaved him the first day of the tournament, and there he had the prize.</text>
+          </navLabel>
+          <content src="le-morte-darthur-17.html#dlepubid00240"/>
+        </navPoint>
+        <navPoint id="np-242" playOrder="242">
+          <navLabel>
+            <text>CHAPTER XXXI. How Sir Tristram returned against King Arthur's party because he saw Sir Palomides on that party.</text>
+          </navLabel>
+          <content src="le-morte-darthur-17.html#dlepubid00241"/>
+        </navPoint>
+        <navPoint id="np-243" playOrder="243">
+          <navLabel>
+            <text>CHAPTER XXXII. How Sir Tristram found Palomides by a well, and brought him with him to his lodging.</text>
+          </navLabel>
+          <content src="le-morte-darthur-17.html#dlepubid00242"/>
+        </navPoint>
+        <navPoint id="np-244" playOrder="244">
+          <navLabel>
+            <text>CHAPTER XXXIII. How Sir Tristram smote down Sir Palomides, and how he jousted with King Arthur, and other feats.</text>
+          </navLabel>
+          <content src="le-morte-darthur-17.html#dlepubid00243"/>
+        </navPoint>
+        <navPoint id="np-245" playOrder="245">
+          <navLabel>
+            <text>CHAPTER XXXIV. How Sir Launcelot hurt Sir Tristram, and how after Sir Tristram smote down Sir Palomides.</text>
+          </navLabel>
+          <content src="le-morte-darthur-17.html#dlepubid00244"/>
+        </navPoint>
+        <navPoint id="np-246" playOrder="246">
+          <navLabel>
+            <text>CHAPTER XXXV. How the prize of the third day was given to Sir Launcelot, and Sir Launcelot gave it to Sir Tristram.</text>
+          </navLabel>
+          <content src="le-morte-darthur-17.html#dlepubid00245"/>
+        </navPoint>
+        <navPoint id="np-247" playOrder="247">
+          <navLabel>
+            <text>CHAPTER XXXVI. How Palomides came to the castle where Sir Tristram was, and of the quest that Sir Launcelot and ten knights made for Sir Tristram.</text>
+          </navLabel>
+          <content src="le-morte-darthur-17.html#dlepubid00246"/>
+        </navPoint>
+        <navPoint id="np-248" playOrder="248">
+          <navLabel>
+            <text>CHAPTER XXXVII. How Sir Tristram, Sir Palomides, and Sir Dinadan were taken and put in prison.</text>
+          </navLabel>
+          <content src="le-morte-darthur-17.html#dlepubid00247"/>
+        </navPoint>
+        <navPoint id="np-249" playOrder="249">
+          <navLabel>
+            <text>CHAPTER XXXVIII. How King Mark was sorry for the good renown of Sir Tristram. Some of King Arthur's knights jousted with knights of Cornwall.</text>
+          </navLabel>
+          <content src="le-morte-darthur-17.html#dlepubid00248"/>
+        </navPoint>
+        <navPoint id="np-250" playOrder="250">
+          <navLabel>
+            <text>CHAPTER XXXIX. Of the treason of King Mark, and how Sir Gaheris smote him down and Andred his cousin.</text>
+          </navLabel>
+          <content src="le-morte-darthur-18.html#dlepubid00249"/>
+        </navPoint>
+        <navPoint id="np-251" playOrder="251">
+          <navLabel>
+            <text>CHAPTER XL. How after that Sir Tristram, Sir Palomides, and Sir Dinadan had been long in prison they were delivered.</text>
+          </navLabel>
+          <content src="le-morte-darthur-18.html#dlepubid00250"/>
+        </navPoint>
+        <navPoint id="np-252" playOrder="252">
+          <navLabel>
+            <text>CHAPTER XLI. How Sir Dinadan rescued a lady from Sir Breuse Saunce Pite, and how Sir Tristram received a shield of Morgan le Fay.</text>
+          </navLabel>
+          <content src="le-morte-darthur-18.html#dlepubid00251"/>
+        </navPoint>
+        <navPoint id="np-253" playOrder="253">
+          <navLabel>
+            <text>CHAPTER XLII. How Sir Tristram took with him the shield, and also how he slew the paramour of Morgan le Fay.</text>
+          </navLabel>
+          <content src="le-morte-darthur-18.html#dlepubid00252"/>
+        </navPoint>
+        <navPoint id="np-254" playOrder="254">
+          <navLabel>
+            <text>CHAPTER XLIII. How Morgan le Fay buried her paramour, and how Sir Tristram praised Sir Launcelot and his kin.</text>
+          </navLabel>
+          <content src="le-morte-darthur-18.html#dlepubid00253"/>
+        </navPoint>
+        <navPoint id="np-255" playOrder="255">
+          <navLabel>
+            <text>CHAPTER XLIV. How Sir Tristram at a tournament bare the shield that Morgan le Fay delivered to him.</text>
+          </navLabel>
+          <content src="le-morte-darthur-18.html#dlepubid00254"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-256" playOrder="256">
+      <navLabel>
+        <text>VOLUME II</text>
+      </navLabel>
+      <content src="le-morte-darthur2-0.html#dlepubid00002"/>
+      <navPoint id="np-257" playOrder="257">
+        <navLabel>
+          <text>BOOK X</text>
+        </navLabel>
+        <content src="le-morte-darthur2-0.html#dlepubid00003"/>
+        <navPoint id="np-258" playOrder="258">
+          <navLabel>
+            <text>CHAPTER I. How Sir Tristram jousted, and smote down King Arthur, because he told him not the cause why he bare that shield.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-0.html#dlepubid00004"/>
+        </navPoint>
+        <navPoint id="np-259" playOrder="259">
+          <navLabel>
+            <text>CHAPTER II. How Sir Tristram saved Sir Palomides' life, and how they promised to fight together within a fortnight.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-0.html#dlepubid00005"/>
+        </navPoint>
+        <navPoint id="np-260" playOrder="260">
+          <navLabel>
+            <text>CHAPTER III. How Sir Tristram sought a strong knight that had smitten him down, and many other knights of the Round Table.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-0.html#dlepubid00006"/>
+        </navPoint>
+        <navPoint id="np-262" playOrder="262">
+          <navLabel>
+            <text>CHAPTER IV. How Sir Tristram smote down Sir Sagramore le Desirous and Sir Dodinas le Savage.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-0.html#dlepubid00008"/>
+        </navPoint>
+        <navPoint id="np-263" playOrder="263">
+          <navLabel>
+            <text>CHAPTER V. How Sir Tristram met at the peron with Sir Launcelot, and how they fought together unknown.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-0.html#dlepubid00009"/>
+        </navPoint>
+        <navPoint id="np-264" playOrder="264">
+          <navLabel>
+            <text>CHAPTER VI. How Sir Launcelot brought Sir Tristram to the court, and of the great joy that the king and other made for the coming of Sir Tristram.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-0.html#dlepubid00010"/>
+        </navPoint>
+        <navPoint id="np-265" playOrder="265">
+          <navLabel>
+            <text>CHAPTER VII. How for the despite of Sir Tristram King Mark came with two knights into England, and how he slew one of the knights.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-0.html#dlepubid00011"/>
+        </navPoint>
+        <navPoint id="np-266" playOrder="266">
+          <navLabel>
+            <text>CHAPTER VIII. How King Mark came to a fountain where he found Sir Lamorak complaining for the love of King Lot's wife.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-0.html#dlepubid00012"/>
+        </navPoint>
+        <navPoint id="np-267" playOrder="267">
+          <navLabel>
+            <text>CHAPTER IX. How King Mark, Sir Lamorak, and Sir Dinadan came to a castle, and how King Mark was known there.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-0.html#dlepubid00013"/>
+        </navPoint>
+        <navPoint id="np-268" playOrder="268">
+          <navLabel>
+            <text>CHAPTER X. How Sir Berluse met with King Mark, and how Sir Dinadan took his part.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-0.html#dlepubid00014"/>
+        </navPoint>
+        <navPoint id="np-269" playOrder="269">
+          <navLabel>
+            <text>CHAPTER XI. How King Mark mocked Sir Dinadan, and how they met with six knights of the Round Table.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-0.html#dlepubid00015"/>
+        </navPoint>
+        <navPoint id="np-270" playOrder="270">
+          <navLabel>
+            <text>CHAPTER XII. How the six knights sent Sir Dagonet to joust with King Mark, and how King Mark refused him.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-0.html#dlepubid00016"/>
+        </navPoint>
+        <navPoint id="np-271" playOrder="271">
+          <navLabel>
+            <text>CHAPTER XIII. How Sir Palomides by adventure met King Mark flying, and how he overthrew Dagonet and other knights.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-0.html#dlepubid00017"/>
+        </navPoint>
+        <navPoint id="np-272" playOrder="272">
+          <navLabel>
+            <text>CHAPTER XIV. How King Mark and Sir Dinadan heard Sir Palomides making great sorrow and mourning for La Beale Isoud.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-1.html#dlepubid00018"/>
+        </navPoint>
+        <navPoint id="np-273" playOrder="273">
+          <navLabel>
+            <text>CHAPTER XV. How King Mark had slain Sir Amant wrongfully to-fore King Arthur, and Sir Launcelot fetched King Mark to King Arthur.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-1.html#dlepubid00019"/>
+        </navPoint>
+        <navPoint id="np-274" playOrder="274">
+          <navLabel>
+            <text>CHAPTER XVI. How Sir Dinadan told Sir Palomides of the battle between Sir Launcelot and Sir Tristam.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-1.html#dlepubid00020"/>
+        </navPoint>
+        <navPoint id="np-275" playOrder="275">
+          <navLabel>
+            <text>CHAPTER XVII. How Sir Lamorak jousted with divers knights of the castle wherein was Morgan le Fay.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-1.html#dlepubid00021"/>
+        </navPoint>
+        <navPoint id="np-276" playOrder="276">
+          <navLabel>
+            <text>CHAPTER XVIII. How Sir Palomides would have jousted for Sir Lamorak with the knights of the castle.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-1.html#dlepubid00022"/>
+        </navPoint>
+        <navPoint id="np-277" playOrder="277">
+          <navLabel>
+            <text>CHAPTER XIX. How Sir Lamorak jousted with Sir Palomides, and hurt him grievously.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-1.html#dlepubid00023"/>
+        </navPoint>
+        <navPoint id="np-278" playOrder="278">
+          <navLabel>
+            <text>CHAPTER XX. How it was told Sir Launcelot that Dagonet chased King Mark, and how a knight overthrew him and six knights.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-1.html#dlepubid00024"/>
+        </navPoint>
+        <navPoint id="np-279" playOrder="279">
+          <navLabel>
+            <text>CHAPTER XXI. How King Arthur let do cry a jousts, and how Sir Lamorak came in, and overthrew Sir Gawaine and many other.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-1.html#dlepubid00025"/>
+        </navPoint>
+        <navPoint id="np-280" playOrder="280">
+          <navLabel>
+            <text>CHAPTER XXII. How King Arthur made King Mark to be accorded with Sir Tristram, and how they departed toward Cornwall.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-1.html#dlepubid00026"/>
+        </navPoint>
+        <navPoint id="np-281" playOrder="281">
+          <navLabel>
+            <text>CHAPTER XXIII. How Sir Percivale was made knight of King Arthur, and how a dumb maid spake, and brought him to the Round Table.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-1.html#dlepubid00027"/>
+        </navPoint>
+        <navPoint id="np-282" playOrder="282">
+          <navLabel>
+            <text>CHAPTER XXIV. How Sir Lamorak visited King Lot's wife, and how Sir Gaheris slew her which was his own mother.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-1.html#dlepubid00028"/>
+        </navPoint>
+        <navPoint id="np-283" playOrder="283">
+          <navLabel>
+            <text>CHAPTER XXV. How Sir Agravaine and Sir Mordred met with a knight fleeing, and how they both were overthrown, and of Sir Dinadan.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-1.html#dlepubid00029"/>
+        </navPoint>
+        <navPoint id="np-284" playOrder="284">
+          <navLabel>
+            <text>CHAPTER XXVI. How King Arthur, the Queen, and Launcelot received letters out of Cornwall, and of the answer again.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-1.html#dlepubid00030"/>
+        </navPoint>
+        <navPoint id="np-285" playOrder="285">
+          <navLabel>
+            <text>CHAPTER XXVII. How Sir Launcelot was wroth with the letter that he received from King Mark, and of Dinadan which made a lay of King Mark.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-2.html#dlepubid00031"/>
+        </navPoint>
+        <navPoint id="np-286" playOrder="286">
+          <navLabel>
+            <text>CHAPTER XXVIII. How Sir Tristram was hurt, and of a war made to King Mark; and of Sir Tristram how he promised to rescue him.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-2.html#dlepubid00032"/>
+        </navPoint>
+        <navPoint id="np-287" playOrder="287">
+          <navLabel>
+            <text>CHAPTER XXIX. How Sir Tristram overcame the battle, and how Elias desired a man to fight body for body.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-2.html#dlepubid00033"/>
+        </navPoint>
+        <navPoint id="np-288" playOrder="288">
+          <navLabel>
+            <text>CHAPTER XXX. How Sir Elias and Sir Tristram fought together for the truage, and how Sir Tristram slew Elias in the field.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-2.html#dlepubid00034"/>
+        </navPoint>
+        <navPoint id="np-289" playOrder="289">
+          <navLabel>
+            <text>CHAPTER XXXI. How at a great feast that King Mark made an harper came and sang the lay that Dinadan had made.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-2.html#dlepubid00035"/>
+        </navPoint>
+        <navPoint id="np-290" playOrder="290">
+          <navLabel>
+            <text>CHAPTER XXXII. How King Mark slew by treason his brother Boudwin, for good service that he had done to him.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-2.html#dlepubid00036"/>
+        </navPoint>
+        <navPoint id="np-291" playOrder="291">
+          <navLabel>
+            <text>CHAPTER XXXIII. How Anglides, Boudwin's wife, escaped with her young son, Alisander le Orphelin, and came to the Castle of Arundel.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-2.html#dlepubid00037"/>
+        </navPoint>
+        <navPoint id="np-292" playOrder="292">
+          <navLabel>
+            <text>CHAPTER XXXIV. How Anglides gave the bloody doublet to Alisander, her son, the same day that he was made knight, and the charge withal.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-2.html#dlepubid00038"/>
+        </navPoint>
+        <navPoint id="np-293" playOrder="293">
+          <navLabel>
+            <text>CHAPTER XXXV. How it was told to King Mark of Sir Alisander, and how he would have slain Sir Sadok for saving his life.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-2.html#dlepubid00039"/>
+        </navPoint>
+        <navPoint id="np-294" playOrder="294">
+          <navLabel>
+            <text>CHAPTER XXXVI. How Sir Alisander won the prize at a tournament, and of Morgan le Fay: and how he fought with Sir Malgrin, and slew him.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-2.html#dlepubid00040"/>
+        </navPoint>
+        <navPoint id="np-295" playOrder="295">
+          <navLabel>
+            <text>CHAPTER XXXVII. How Queen Morgan le Fay had Alisander in her castle, and how she healed his wounds.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-2.html#dlepubid00041"/>
+        </navPoint>
+        <navPoint id="np-296" playOrder="296">
+          <navLabel>
+            <text>CHAPTER XXXVIII. How Alisander was delivered from Queen Morgan le Fay by the means of a damosel.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-2.html#dlepubid00042"/>
+        </navPoint>
+        <navPoint id="np-297" playOrder="297">
+          <navLabel>
+            <text>CHAPTER XXXIX. How Alisander met with Alice la Beale Pilgrim, and how he jousted with two knights; and after of him and of Sir Mordred.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-2.html#dlepubid00043"/>
+        </navPoint>
+        <navPoint id="np-298" playOrder="298">
+          <navLabel>
+            <text>CHAPTER XL. How Sir Galahalt did do cry a jousts in Surluse, and Queen Guenever's knights should joust against all that would come.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-2.html#dlepubid00044"/>
+        </navPoint>
+        <navPoint id="np-299" playOrder="299">
+          <navLabel>
+            <text>CHAPTER XLI. How Sir Launcelot fought in the tournament, and how Sir Palomides did arms there for a damosel.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-3.html#dlepubid00045"/>
+        </navPoint>
+        <navPoint id="np-300" playOrder="300">
+          <navLabel>
+            <text>CHAPTER XLII. How Sir Galahalt and Palomides fought together, and of Sir Dinadan and Sir Galahalt.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-3.html#dlepubid00046"/>
+        </navPoint>
+        <navPoint id="np-301" playOrder="301">
+          <navLabel>
+            <text>CHAPTER XLIII. How Sir Archade appealed Sir Palomides of treason, and how Sir Palomides slew him.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-3.html#dlepubid00047"/>
+        </navPoint>
+        <navPoint id="np-302" playOrder="302">
+          <navLabel>
+            <text>CHAPTER XLIV. Of the third day, and how Sir Palomides jousted with Sir Lamorak, and other things.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-3.html#dlepubid00048"/>
+        </navPoint>
+        <navPoint id="np-303" playOrder="303">
+          <navLabel>
+            <text>CHAPTER XLV. Of the fourth day, and of many great feats of arms.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-3.html#dlepubid00049"/>
+        </navPoint>
+        <navPoint id="np-304" playOrder="304">
+          <navLabel>
+            <text>CHAPTER XLVI. Of the Fifth day, and how Sir Lamorak behaved him.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-3.html#dlepubid00050"/>
+        </navPoint>
+        <navPoint id="np-305" playOrder="305">
+          <navLabel>
+            <text>CHAPTER XLVII. How Sir Palomides fought with Corsabrin for a lady, and how Palomides slew Corsabrin.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-3.html#dlepubid00051"/>
+        </navPoint>
+        <navPoint id="np-306" playOrder="306">
+          <navLabel>
+            <text>CHAPTER XLVIII. Of the sixth day, and what then was done.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-3.html#dlepubid00052"/>
+        </navPoint>
+        <navPoint id="np-307" playOrder="307">
+          <navLabel>
+            <text>CHAPTER XLIX. Of the seventh battle, and how Sir Launcelot, being disguised like a maid, smote down Sir Dinadan.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-3.html#dlepubid00053"/>
+        </navPoint>
+        <navPoint id="np-308" playOrder="308">
+          <navLabel>
+            <text>CHAPTER L. How by treason Sir Tristram was brought to a tournament for to have been slain, and how he was put in prison.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-3.html#dlepubid00054"/>
+        </navPoint>
+        <navPoint id="np-309" playOrder="309">
+          <navLabel>
+            <text>CHAPTER LI. How King Mark let do counterfeit letters from the Pope, and how Sir Percivale delivered Sir Tristram out of prison.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-3.html#dlepubid00055"/>
+        </navPoint>
+        <navPoint id="np-310" playOrder="310">
+          <navLabel>
+            <text>CHAPTER LII. How Sir Tristram and La Beale Isoud came unto England, and how Sir Launcelot brought them to Joyous Gard.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-3.html#dlepubid00056"/>
+        </navPoint>
+        <navPoint id="np-311" playOrder="311">
+          <navLabel>
+            <text>CHAPTER LIII. How by the counsel of La Beale Isoud Sir Tristram rode armed, and how he met with Sir Palomides.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-3.html#dlepubid00057"/>
+        </navPoint>
+        <navPoint id="np-312" playOrder="312">
+          <navLabel>
+            <text>CHAPTER LIV. Of Sir Palomides, and how he met with Sir Bleoberis and with Sir Ector, and of Sir Pervivale.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-4.html#dlepubid00058"/>
+        </navPoint>
+        <navPoint id="np-313" playOrder="313">
+          <navLabel>
+            <text>CHAPTER LV. How Sir Tristram met with Sir Dinadan, and of their devices, and what he said to Sir Gawaine's brethren.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-4.html#dlepubid00059"/>
+        </navPoint>
+        <navPoint id="np-314" playOrder="314">
+          <navLabel>
+            <text>CHAPTER LVI. How Sir Tristram smote down Sir Agravaine and Sir Gaheris, and how Sir Dinadan was sent for by La Beale Isoud.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-4.html#dlepubid00060"/>
+        </navPoint>
+        <navPoint id="np-315" playOrder="315">
+          <navLabel>
+            <text>CHAPTER LVII. How Sir Dinadan met with Sir Tristram, and with jousting with Sir Palomides, Sir Dinadan knew him.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-4.html#dlepubid00061"/>
+        </navPoint>
+        <navPoint id="np-316" playOrder="316">
+          <navLabel>
+            <text>CHAPTER LVIII. How they approached the Castle Lonazep, and of other devices of the death of Sir Lamorak.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-4.html#dlepubid00062"/>
+        </navPoint>
+        <navPoint id="np-317" playOrder="317">
+          <navLabel>
+            <text>CHAPTER LIX. How they came to Humber bank, and how they found a ship there, wherein lay the body of King Hermance.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-4.html#dlepubid00063"/>
+        </navPoint>
+        <navPoint id="np-318" playOrder="318">
+          <navLabel>
+            <text>CHAPTER LX. How Sir Tristram with his fellowship came and were with an host which after fought with Sir Tristram; and other matters.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-4.html#dlepubid00064"/>
+        </navPoint>
+        <navPoint id="np-319" playOrder="319">
+          <navLabel>
+            <text>CHAPTER LXI. How Palomides went for to fight with two brethren for the death of King Hermance.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-4.html#dlepubid00065"/>
+        </navPoint>
+        <navPoint id="np-320" playOrder="320">
+          <navLabel>
+            <text>CHAPTER LXII. The copy of the letter written for to revenge the king's death, and how Sir Palomides fought for to have the battle.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-4.html#dlepubid00066"/>
+        </navPoint>
+        <navPoint id="np-321" playOrder="321">
+          <navLabel>
+            <text>CHAPTER LXIII. Of the preparation of Sir Palomides and the two brethren that should fight with him.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-4.html#dlepubid00067"/>
+        </navPoint>
+        <navPoint id="np-322" playOrder="322">
+          <navLabel>
+            <text>CHAPTER LXIV. Of the battle between Sir Palomides and the two brethren, and how the two brethren were slain.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-4.html#dlepubid00068"/>
+        </navPoint>
+        <navPoint id="np-323" playOrder="323">
+          <navLabel>
+            <text>CHAPTER LXV. How Sir Tristram and Sir Palomides met Breuse Saunce Pit&#233;, and how Sir Tristram and La Beale Isoud went unto Lonazep.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-5.html#dlepubid00069"/>
+        </navPoint>
+        <navPoint id="np-324" playOrder="324">
+          <navLabel>
+            <text>CHAPTER LXVI. How Sir Palomides jousted with Sir Galihodin, and after with Sir Gawaine, and smote them down.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-5.html#dlepubid00070"/>
+        </navPoint>
+        <navPoint id="np-325" playOrder="325">
+          <navLabel>
+            <text>CHAPTER LXVII. How Sir Tristram and his fellowship came into the tournament of Lonazep; and of divers jousts and matters.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-5.html#dlepubid00071"/>
+        </navPoint>
+        <navPoint id="np-326" playOrder="326">
+          <navLabel>
+            <text>CHAPTER LXVIII. How Sir Tristram and his fellowship jousted, and of the noble feats that they did in that tourneying.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-5.html#dlepubid00072"/>
+        </navPoint>
+        <navPoint id="np-327" playOrder="327">
+          <navLabel>
+            <text>CHAPTER LXIX. How Sir Tristram was unhorsed and smitten down by Sir Launcelot, and after that Sir Tristram smote down King Arthur.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-5.html#dlepubid00073"/>
+        </navPoint>
+        <navPoint id="np-328" playOrder="328">
+          <navLabel>
+            <text>CHAPTER LXX. How Sir Tristram changed his harness and it was all red, and how he demeaned him, and how Sir Palomides slew Launcelot's horse.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-5.html#dlepubid00074"/>
+        </navPoint>
+        <navPoint id="np-329" playOrder="329">
+          <navLabel>
+            <text>CHAPTER LXXI. How Sir Launcelot said to Sir Palomides, and how the prize of that day was given unto Sir Palomides.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-5.html#dlepubid00075"/>
+        </navPoint>
+        <navPoint id="np-330" playOrder="330">
+          <navLabel>
+            <text>CHAPTER LXXII. How Sir Dinadan provoked Sir Tristram to do well.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-5.html#dlepubid00076"/>
+        </navPoint>
+        <navPoint id="np-331" playOrder="331">
+          <navLabel>
+            <text>CHAPTER LXXIII. How King Arthur and Sir Lancelot came to see La Beale Isoud, and how Palomides smote down King Arthur.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-5.html#dlepubid00077"/>
+        </navPoint>
+        <navPoint id="np-332" playOrder="332">
+          <navLabel>
+            <text>CHAPTER LXXIV. How the second day Palomides forsook Sir Tristram, and went to the contrary part against him.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-5.html#dlepubid00078"/>
+        </navPoint>
+        <navPoint id="np-333" playOrder="333">
+          <navLabel>
+            <text>CHAPTER LXXV. How Sir Tristram departed of the field, and awaked Sir Dinadan, and changed his array into black.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-5.html#dlepubid00079"/>
+        </navPoint>
+        <navPoint id="np-334" playOrder="334">
+          <navLabel>
+            <text>CHAPTER LXXVI. How Sir Palomides changed his shield and his armour for to hurt Sir Tristram, and how Sir Launcelot did to Sir Tristram.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-5.html#dlepubid00080"/>
+        </navPoint>
+        <navPoint id="np-335" playOrder="335">
+          <navLabel>
+            <text>CHAPTER LXXVII. How Sir Tristram departed with La Beale Isoud, and how Palomides followed and excused him.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-6.html#dlepubid00081"/>
+        </navPoint>
+        <navPoint id="np-336" playOrder="336">
+          <navLabel>
+            <text>CHAPTER LXXVIII. How King Arthur and Sir Launcelot came unto their pavilions as they sat at supper, and of Sir Palomides.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-6.html#dlepubid00082"/>
+        </navPoint>
+        <navPoint id="np-337" playOrder="337">
+          <navLabel>
+            <text>CHAPTER LXXIX. How Sir Tristram and Sir Palomides did the next day, and how King Arthur was unhorsed.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-6.html#dlepubid00083"/>
+        </navPoint>
+        <navPoint id="np-338" playOrder="338">
+          <navLabel>
+            <text>CHAPTER LXXX. How Sir Tristram turned to King Arthur's side, and how Palomides would not.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-6.html#dlepubid00084"/>
+        </navPoint>
+        <navPoint id="np-339" playOrder="339">
+          <navLabel>
+            <text>CHAPTER LXXXI. How Sir Bleoberis and Sir Ector reported to Queen Guenever of the beauty of La Beale Isoud.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-6.html#dlepubid00085"/>
+        </navPoint>
+        <navPoint id="np-340" playOrder="340">
+          <navLabel>
+            <text>CHAPTER LXXXII. How Epinogris complained by a well, and how Sir Palomides came and found him, and of their both sorrowing.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-6.html#dlepubid00086"/>
+        </navPoint>
+        <navPoint id="np-341" playOrder="341">
+          <navLabel>
+            <text>CHAPTER LXXXIII. How Sir Palomides brought Sir Epinogris his lady; and how Sir Palomides and Sir Safere were assailed.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-6.html#dlepubid00087"/>
+        </navPoint>
+        <navPoint id="np-342" playOrder="342">
+          <navLabel>
+            <text>CHAPTER LXXXIV. How Sir Palomides and Sir Safere conducted Sir Epinogris to his castle, and of other adventures.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-6.html#dlepubid00088"/>
+        </navPoint>
+        <navPoint id="np-343" playOrder="343">
+          <navLabel>
+            <text>CHAPTER LXXXV. How Sir Tristram made him ready to rescue Sir Palomides, but Sir Launcelot rescued him or he came.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-6.html#dlepubid00089"/>
+        </navPoint>
+        <navPoint id="np-344" playOrder="344">
+          <navLabel>
+            <text>CHAPTER LXXXVI. How Sir Tristram and Launcelot, with Palomides, came to joyous Gard; and of Palomides and Sir Tristram.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-6.html#dlepubid00090"/>
+        </navPoint>
+        <navPoint id="np-345" playOrder="345">
+          <navLabel>
+            <text>CHAPTER LXXXVII. How there was a day set between Sir Tristram and Sir Palomides for to fight, and how Sir Tristram was hurt.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-6.html#dlepubid00091"/>
+        </navPoint>
+        <navPoint id="np-346" playOrder="346">
+          <navLabel>
+            <text>CHAPTER LXXXVIII. How Sir Palomides kept his day to have foughten, but Sir Tristram might not come; and other things.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-6.html#dlepubid00092"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-347" playOrder="347">
+        <navLabel>
+          <text>BOOK XI.</text>
+        </navLabel>
+        <content src="le-morte-darthur2-7.html#dlepubid00093"/>
+        <navPoint id="np-348" playOrder="348">
+          <navLabel>
+            <text>CHAPTER I. How Sir Launcelot rode on his adventure, and how he holp a dolorous lady from her pain, and how that he fought with a dragon.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-7.html#dlepubid00094"/>
+        </navPoint>
+        <navPoint id="np-349" playOrder="349">
+          <navLabel>
+            <text>CHAPTER II. How Sir Launcelot came to Pelles, and of the Sangreal, and of Elaine, King Pelles' daughter.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-7.html#dlepubid00095"/>
+        </navPoint>
+        <navPoint id="np-350" playOrder="350">
+          <navLabel>
+            <text>CHAPTER III. How Sir Launcelot was displeased when he knew that he had lain by Dame Elaine, and how she was delivered of Galahad.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-7.html#dlepubid00096"/>
+        </navPoint>
+        <navPoint id="np-351" playOrder="351">
+          <navLabel>
+            <text>CHAPTER IV. How Sir Bors came to Dame Elaine and saw Galahad, and how he was fed with the Sangreal.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-7.html#dlepubid00097"/>
+        </navPoint>
+        <navPoint id="np-352" playOrder="352">
+          <navLabel>
+            <text>CHAPTER V. How Sir Bors made Sir Pedivere to yield him, and of marvellous adventures that he had, and how he achieved them.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-7.html#dlepubid00098"/>
+        </navPoint>
+        <navPoint id="np-353" playOrder="353">
+          <navLabel>
+            <text>CHAPTER VI. How Sir Bors departed; and how Sir Launcelot was rebuked of Queen Guenever, and of his excuse.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-7.html#dlepubid00099"/>
+        </navPoint>
+        <navPoint id="np-354" playOrder="354">
+          <navLabel>
+            <text>CHAPTER VII. How Dame Elaine, Galahad's mother, came in great estate unto Camelot, and how Sir Launcelot behaved him there.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-7.html#dlepubid00100"/>
+        </navPoint>
+        <navPoint id="np-355" playOrder="355">
+          <navLabel>
+            <text>CHAPTER VIII. How Dame Brisen by enchantment brought Sir Launcelot to Dame Elaine's bed, and how Queen Guenever rebuked him.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-7.html#dlepubid00101"/>
+        </navPoint>
+        <navPoint id="np-356" playOrder="356">
+          <navLabel>
+            <text>CHAPTER IX. How Dame Elaine was commanded by Queen Guenever to avoid the court, and how Sir Launcelot became mad.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-7.html#dlepubid00102"/>
+        </navPoint>
+        <navPoint id="np-357" playOrder="357">
+          <navLabel>
+            <text>CHAPTER X. What sorrow Queen Guenever made for Sir Launcelot, and how he was sought by knights of his kin.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-7.html#dlepubid00103"/>
+        </navPoint>
+        <navPoint id="np-358" playOrder="358">
+          <navLabel>
+            <text>CHAPTER XI. How a servant of Sir Aglovale's was slain, and what vengeance Sir Aglovale and Sir Percivale did therefore.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-7.html#dlepubid00104"/>
+        </navPoint>
+        <navPoint id="np-359" playOrder="359">
+          <navLabel>
+            <text>CHAPTER XII. How Sir Pervivale departed secretly from his brother, and how he loosed a knight bound with a chain, and of other doings.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-7.html#dlepubid00105"/>
+        </navPoint>
+        <navPoint id="np-360" playOrder="360">
+          <navLabel>
+            <text>CHAPTER XIII. How Sir Percivale met with Sir Ector, and how they fought long, and each had almost slain other.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-7.html#dlepubid00106"/>
+        </navPoint>
+        <navPoint id="np-361" playOrder="361">
+          <navLabel>
+            <text>CHAPTER XIV. How by miracle they were both made whole by the coming of the holy vessel of Sangreal.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-7.html#dlepubid00107"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-362" playOrder="362">
+        <navLabel>
+          <text>BOOK XII.</text>
+        </navLabel>
+        <content src="le-morte-darthur2-8.html#dlepubid00108"/>
+        <navPoint id="np-363" playOrder="363">
+          <navLabel>
+            <text>CHAPTER I. How Sir Launcelot in his madness took a sword and fought with a knight, and leapt in a bed.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-8.html#dlepubid00109"/>
+        </navPoint>
+        <navPoint id="np-364" playOrder="364">
+          <navLabel>
+            <text>CHAPTER II. How Sir Lancelot was carried in an horse litter, and how Sir Launcelot rescued Sir Bliant, his host.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-8.html#dlepubid00110"/>
+        </navPoint>
+        <navPoint id="np-365" playOrder="365">
+          <navLabel>
+            <text>CHAPTER III. How Sir Launcelot fought against a boar and slew him, and how he was hurt, and brought unto an hermitage.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-8.html#dlepubid00111"/>
+        </navPoint>
+        <navPoint id="np-366" playOrder="366">
+          <navLabel>
+            <text>CHAPTER IV. How Sir Launcelot was known by Dame Elaine, and was borne into a chamber and after healed by the Sangreal.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-8.html#dlepubid00112"/>
+        </navPoint>
+        <navPoint id="np-367" playOrder="367">
+          <navLabel>
+            <text>CHAPTER V. How Sir Launcelot, after that he was whole and had his mind, he was ashamed, and how that Elaine desired a castle for him.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-8.html#dlepubid00113"/>
+        </navPoint>
+        <navPoint id="np-368" playOrder="368">
+          <navLabel>
+            <text>CHAPTER VI. How Sir Launcelot came into the joyous Isle, and there he named himself Le Chevaler Mal Fet.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-8.html#dlepubid00114"/>
+        </navPoint>
+        <navPoint id="np-369" playOrder="369">
+          <navLabel>
+            <text>CHAPTER VII. Of a great tourneying in the Joyous Isle, and how Sir Pervivale and Sir Ector came thither, and Sir Percivale fought with him.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-8.html#dlepubid00115"/>
+        </navPoint>
+        <navPoint id="np-370" playOrder="370">
+          <navLabel>
+            <text>CHAPTER VIII. How each of them knew other, and of their great courtesy, and how his brother Sir Ector came unto him, and of their joy.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-8.html#dlepubid00116"/>
+        </navPoint>
+        <navPoint id="np-371" playOrder="371">
+          <navLabel>
+            <text>CHAPTER IX. How Sir Bors and Sir Lionel came to King Brandegore, and how Sir Bors took his son Helin le Blank, and of Sir Launcelot.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-8.html#dlepubid00117"/>
+        </navPoint>
+        <navPoint id="np-372" playOrder="372">
+          <navLabel>
+            <text>CHAPTER X. How Sir Launcelot with Sir Percivale and Sir Ector came to the court, and of the great joy of him.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-8.html#dlepubid00118"/>
+        </navPoint>
+        <navPoint id="np-373" playOrder="373">
+          <navLabel>
+            <text>CHAPTER XI. How La Beale Isoud counselled Sir Tristram to go unto the court, to the great feast of Pentecost.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-8.html#dlepubid00119"/>
+        </navPoint>
+        <navPoint id="np-374" playOrder="374">
+          <navLabel>
+            <text>CHAPTER XII. How Sir Tristram departed unarmed and met with Sir Palomides, and how they smote each other, and how Sir Palomides forbare him.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-8.html#dlepubid00120"/>
+        </navPoint>
+        <navPoint id="np-375" playOrder="375">
+          <navLabel>
+            <text>CHAPTER XIII. How that Sir Tristram gat him harness of a knight which was hurt, and how he overthrew Sir Palomides.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-8.html#dlepubid00121"/>
+        </navPoint>
+        <navPoint id="np-376" playOrder="376">
+          <navLabel>
+            <text>CHAPTER XIV. How Sir Tristram and Sir Palomides fought long together, and after accorded, and how Sir Tristram made him to be christened.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-8.html#dlepubid00122"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-377" playOrder="377">
+        <navLabel>
+          <text>BOOK XIII.</text>
+        </navLabel>
+        <content src="le-morte-darthur2-8.html#dlepubid00123"/>
+        <navPoint id="np-378" playOrder="378">
+          <navLabel>
+            <text>CHAPTER I. How at the vigil of the Feast of Pentecost entered into the hall before King Arthur a damosel, and desired Sir Launcelot for to come and</text>
+          </navLabel>
+          <content src="le-morte-darthur2-8.html#dlepubid00124"/>
+        </navPoint>
+        <navPoint id="np-379" playOrder="379">
+          <navLabel>
+            <text>CHAPTER II. How the letters were found written in the Siege Perilous and of the marvellous adventure of the sword in a stone.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-8.html#dlepubid00125"/>
+        </navPoint>
+        <navPoint id="np-380" playOrder="380">
+          <navLabel>
+            <text>CHAPTER III. How Sir Gawaine assayed to draw out the sword, and how an old man brought in Galahad.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-9.html#dlepubid00126"/>
+        </navPoint>
+        <navPoint id="np-381" playOrder="381">
+          <navLabel>
+            <text>CHAPTER IV. How the old man brought Galahad to the Siege Perilous and set him therein, and how all the knights marvelled.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-9.html#dlepubid00127"/>
+        </navPoint>
+        <navPoint id="np-382" playOrder="382">
+          <navLabel>
+            <text>CHAPTER V. How King Arthur shewed the stone hoving on the water to Galahad, and how he drew out the sword.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-9.html#dlepubid00128"/>
+        </navPoint>
+        <navPoint id="np-383" playOrder="383">
+          <navLabel>
+            <text>CHAPTER VI. How King Arthur had all the knights together for to joust in the meadow beside Camelot or they departed.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-9.html#dlepubid00129"/>
+        </navPoint>
+        <navPoint id="np-384" playOrder="384">
+          <navLabel>
+            <text>CHAPTER VII. How the queen desired to see Galahad; and how after, all the knights were replenished with the Holy Sangreal, and how they avowed the enquest of the same.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-9.html#dlepubid00130"/>
+        </navPoint>
+        <navPoint id="np-385" playOrder="385">
+          <navLabel>
+            <text>CHAPTER VIII. How great sorrow was made of the king and the queen and ladies for the departing of the knights, and how they departed.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-9.html#dlepubid00131"/>
+        </navPoint>
+        <navPoint id="np-386" playOrder="386">
+          <navLabel>
+            <text>CHAPTER IX. How Galahad gat him a shield, and how they sped that presumed to take down the said shield.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-9.html#dlepubid00132"/>
+        </navPoint>
+        <navPoint id="np-387" playOrder="387">
+          <navLabel>
+            <text>CHAPTER X. How Galahad departed with the shield, and how King Evelake had received the shield of Joseph of Aramathie.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-9.html#dlepubid00133"/>
+        </navPoint>
+        <navPoint id="np-388" playOrder="388">
+          <navLabel>
+            <text>CHAPTER XI. How Joseph made a cross on the white shield with his blood, and how Galahad was by a monk brought to a tomb.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-9.html#dlepubid00134"/>
+        </navPoint>
+        <navPoint id="np-389" playOrder="389">
+          <navLabel>
+            <text>CHAPTER XII. Of the marvel that Sir Galahad saw and heard in the tomb, and how he made Melias knight.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-9.html#dlepubid00135"/>
+        </navPoint>
+        <navPoint id="np-390" playOrder="390">
+          <navLabel>
+            <text>CHAPTER XIII. Of the adventure that Melias had, and how Galahad revenged him, and how Melias was carried into an abbey.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-9.html#dlepubid00136"/>
+        </navPoint>
+        <navPoint id="np-391" playOrder="391">
+          <navLabel>
+            <text>CHAPTER XIV. How Sir Galahad departed, and how he was commanded to go to the Castle of Maidens to destroy the wicked custom.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-9.html#dlepubid00137"/>
+        </navPoint>
+        <navPoint id="np-392" playOrder="392">
+          <navLabel>
+            <text>CHAPTER XV. How Sir Galahad fought with the knights of the castle, and destroyed the wicked custom.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-9.html#dlepubid00138"/>
+        </navPoint>
+        <navPoint id="np-393" playOrder="393">
+          <navLabel>
+            <text>CHAPTER XVI. How Sir Gawaine came to the abbey for to follow Galahad, and how he was shriven to a hermit.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-9.html#dlepubid00139"/>
+        </navPoint>
+        <navPoint id="np-394" playOrder="394">
+          <navLabel>
+            <text>CHAPTER XVII. How Sir Galahad met with Sir Launcelot and Sir Percivale, and smote them down, and departed from them.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-10.html#dlepubid00140"/>
+        </navPoint>
+        <navPoint id="np-395" playOrder="395">
+          <navLabel>
+            <text>CHAPTER XVIII. How Sir Launcelot, half sleeping and half waking, saw a sick man borne in a litter, and how he was healed with the Sangreal.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-10.html#dlepubid00141"/>
+        </navPoint>
+        <navPoint id="np-396" playOrder="396">
+          <navLabel>
+            <text>CHAPTER XIX. How a voice spake to Sir Launcelot, and how he found his horse and his helm borne away, and after went afoot.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-10.html#dlepubid00142"/>
+        </navPoint>
+        <navPoint id="np-397" playOrder="397">
+          <navLabel>
+            <text>CHAPTER XX. How Sir Launcelot was shriven, and what sorrow he made and of the good ensamples which were shewed him.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-10.html#dlepubid00143"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-398" playOrder="398">
+        <navLabel>
+          <text>BOOK XIV.</text>
+        </navLabel>
+        <content src="le-morte-darthur2-10.html#dlepubid00144"/>
+        <navPoint id="np-399" playOrder="399">
+          <navLabel>
+            <text>CHAPTER I. How Sir Percivale came to a recluse and asked counsel, and how she told him that she was his aunt.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-10.html#dlepubid00145"/>
+        </navPoint>
+        <navPoint id="np-400" playOrder="400">
+          <navLabel>
+            <text>CHAPTER II. How Merlin likened the Round Table to the world, and how the knights that should achieve the Sangreal should be known.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-10.html#dlepubid00146"/>
+        </navPoint>
+        <navPoint id="np-401" playOrder="401">
+          <navLabel>
+            <text>CHAPTER III. How Sir Percivale came into a monastery, where he found King Evelake, which was an old man.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-10.html#dlepubid00147"/>
+        </navPoint>
+        <navPoint id="np-402" playOrder="402">
+          <navLabel>
+            <text>CHAPTER IV. How Sir Percivale saw many men of arms bearing a dead knight, and how he fought against them.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-10.html#dlepubid00148"/>
+        </navPoint>
+        <navPoint id="np-403" playOrder="403">
+          <navLabel>
+            <text>CHAPTER V. How a yeoman desired him to get again an horse, and how Sir Percivale's hackney was slain, and how he gat an horse.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-10.html#dlepubid00149"/>
+        </navPoint>
+        <navPoint id="np-404" playOrder="404">
+          <navLabel>
+            <text>CHAPTER VI. Of the great danger that Sir Percivale was in by his horse, and how he saw a serpent and a lion fight.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-10.html#dlepubid00150"/>
+        </navPoint>
+        <navPoint id="np-405" playOrder="405">
+          <navLabel>
+            <text>CHAPTER VII. Of the vision that Sir Percivale saw, and how his vision was expounded, and of his lion.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-10.html#dlepubid00151"/>
+        </navPoint>
+        <navPoint id="np-406" playOrder="406">
+          <navLabel>
+            <text>CHAPTER VIII. How Sir Percivale saw a ship coming to him-ward, and how the lady of the ship told him of her disheritance.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-10.html#dlepubid00152"/>
+        </navPoint>
+        <navPoint id="np-407" playOrder="407">
+          <navLabel>
+            <text>CHAPTER IX. How Sir Percivale promised her help, and how he required her of love, and how he was saved from the fiend.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-10.html#dlepubid00153"/>
+        </navPoint>
+        <navPoint id="np-408" playOrder="408">
+          <navLabel>
+            <text>CHAPTER X. How Sir Percivale for penance rove himself through the thigh; and how she was known for the devil.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-10.html#dlepubid00154"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-409" playOrder="409">
+        <navLabel>
+          <text>BOOK XV.</text>
+        </navLabel>
+        <content src="le-morte-darthur2-10.html#dlepubid00155"/>
+        <navPoint id="np-410" playOrder="410">
+          <navLabel>
+            <text>CHAPTER I. How Sir Launcelot came to a chapel, where he found dead, in a white shirt, a man of religion, of an hundred winter old.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-10.html#dlepubid00156"/>
+        </navPoint>
+        <navPoint id="np-411" playOrder="411">
+          <navLabel>
+            <text>CHAPTER II. Of a dead man, how men would have hewn him, and it would not be, and how Sir Launcelot took the hair of the dead man.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-10.html#dlepubid00157"/>
+        </navPoint>
+        <navPoint id="np-412" playOrder="412">
+          <navLabel>
+            <text>CHAPTER III. Of an advision that Sir Launcelot had, and how he told it to an hermit, and desired counsel of him.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-11.html#dlepubid00158"/>
+        </navPoint>
+        <navPoint id="np-413" playOrder="413">
+          <navLabel>
+            <text>CHAPTER IV. How the hermit expounded to Sir Launcelot his advision, and told him that Sir Galahad was his son.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-11.html#dlepubid00159"/>
+        </navPoint>
+        <navPoint id="np-414" playOrder="414">
+          <navLabel>
+            <text>CHAPTER V. How Sir Launcelot jousted with many knights, and how he was taken.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-11.html#dlepubid00160"/>
+        </navPoint>
+        <navPoint id="np-415" playOrder="415">
+          <navLabel>
+            <text>CHAPTER VI. How Sir Launcelot told his advision to a woman, and how she expounded it to him.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-11.html#dlepubid00161"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-416" playOrder="416">
+        <navLabel>
+          <text>BOOK XVI.</text>
+        </navLabel>
+        <content src="le-morte-darthur2-11.html#dlepubid00162"/>
+        <navPoint id="np-417" playOrder="417">
+          <navLabel>
+            <text>CHAPTER I. How Sir Gawaine was nigh weary of the quest of the Sangreal, and of his marvellous dream.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-11.html#dlepubid00163"/>
+        </navPoint>
+        <navPoint id="np-418" playOrder="418">
+          <navLabel>
+            <text>CHAPTER II. Of the advision of Sir Ector, and how he jousted with Sir Uwaine les Avoutres, his sworn brother.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-11.html#dlepubid00164"/>
+        </navPoint>
+        <navPoint id="np-419" playOrder="419">
+          <navLabel>
+            <text>CHAPTER III. How Sir Gawaine and Sir Ector came to an hermitage to be confessed, and how they told to the hermit their advisions.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-11.html#dlepubid00165"/>
+        </navPoint>
+        <navPoint id="np-420" playOrder="420">
+          <navLabel>
+            <text>CHAPTER IV. How the hermit expounded their advision.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-11.html#dlepubid00166"/>
+        </navPoint>
+        <navPoint id="np-421" playOrder="421">
+          <navLabel>
+            <text>CHAPTER V. Of the good counsel that the hermit gave to them.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-11.html#dlepubid00167"/>
+        </navPoint>
+        <navPoint id="np-422" playOrder="422">
+          <navLabel>
+            <text>CHAPTER VI. How Sir Bors met with an hermit, and how he was confessed to him, and of his penance enjoined to him.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-11.html#dlepubid00168"/>
+        </navPoint>
+        <navPoint id="np-423" playOrder="423">
+          <navLabel>
+            <text>CHAPTER VII. How Sir Bors was lodged with a lady, and how he took upon him for to fight against a champion for her land.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-11.html#dlepubid00169"/>
+        </navPoint>
+        <navPoint id="np-424" playOrder="424">
+          <navLabel>
+            <text>CHAPTER VIII. Of an advision which Sir Bors had that night, and how he fought and overcame his adversary.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-11.html#dlepubid00170"/>
+        </navPoint>
+        <navPoint id="np-425" playOrder="425">
+          <navLabel>
+            <text>CHAPTER IX. How the lady was returned to her lands by the battle of Sir Bors, and of his departing, and how he met Sir Lionel taken and beaten with thorns, and also of a maid which should have been devoured.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-11.html#dlepubid00171"/>
+        </navPoint>
+        <navPoint id="np-426" playOrder="426">
+          <navLabel>
+            <text>CHAPTER X. How Sir Bors left to rescue his brother, and rescued the damosel; and how it was told him that Lionel was dead.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-11.html#dlepubid00172"/>
+        </navPoint>
+        <navPoint id="np-427" playOrder="427">
+          <navLabel>
+            <text>CHAPTER XI. How Sir Bors told his dream to a priest, which he had dreamed, and of the counsel that the priest gave to him.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-11.html#dlepubid00173"/>
+        </navPoint>
+        <navPoint id="np-428" playOrder="428">
+          <navLabel>
+            <text>CHAPTER XII. How the devil in a woman's likeness would have had Sir Bors to have lain by her, and how by God's grace he escaped.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-12.html#dlepubid00174"/>
+        </navPoint>
+        <navPoint id="np-429" playOrder="429">
+          <navLabel>
+            <text>CHAPTER XIII. Of the holy communication of an Abbot to Sir Bors, and how the Abbot counselled him.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-12.html#dlepubid00175"/>
+        </navPoint>
+        <navPoint id="np-430" playOrder="430">
+          <navLabel>
+            <text>CHAPTER XIV. How Sir Bors met with his brother Sir Lionel, and how Sir Lionel would have slain Sir Bors.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-12.html#dlepubid00176"/>
+        </navPoint>
+        <navPoint id="np-431" playOrder="431">
+          <navLabel>
+            <text>CHAPTER XV. How Sir Colgrevance fought against Sir Lionel for to save Sir Bors, and how the hermit was slain.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-12.html#dlepubid00177"/>
+        </navPoint>
+        <navPoint id="np-432" playOrder="432">
+          <navLabel>
+            <text>CHAPTER XVI. How Sir Lionel slew Sir Colgrevance, and how after he would have slain Sir Bors.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-12.html#dlepubid00178"/>
+        </navPoint>
+        <navPoint id="np-433" playOrder="433">
+          <navLabel>
+            <text>CHAPTER XVII. How there came a voice which charged Sir Bors to touch him not, and of a cloud that came between them.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-12.html#dlepubid00179"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-434" playOrder="434">
+        <navLabel>
+          <text>BOOK XVII.</text>
+        </navLabel>
+        <content src="le-morte-darthur2-12.html#dlepubid00180"/>
+        <navPoint id="np-435" playOrder="435">
+          <navLabel>
+            <text>CHAPTER I. How Sir Galahad fought at a tournament, and how he was known of Sir Gawaine and Sir Ector de Maris.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-12.html#dlepubid00181"/>
+        </navPoint>
+        <navPoint id="np-436" playOrder="436">
+          <navLabel>
+            <text>CHAPTER II. How Sir Galahad rode with a damosel, and came to the ship whereas Sir Bors and Sir Percivale were in.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-12.html#dlepubid00182"/>
+        </navPoint>
+        <navPoint id="np-437" playOrder="437">
+          <navLabel>
+            <text>CHAPTER III. How Sir Galahad entered into the ship, and of a fair bed therein, with other marvellous things, and of a sword.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-12.html#dlepubid00183"/>
+        </navPoint>
+        <navPoint id="np-438" playOrder="438">
+          <navLabel>
+            <text>CHAPTER IV. Of the marvels of the sword and of the scabbard.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-12.html#dlepubid00184"/>
+        </navPoint>
+        <navPoint id="np-439" playOrder="439">
+          <navLabel>
+            <text>CHAPTER V. How King Pelles was smitten through both thighs because he drew the sword, and other marvellous histories.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-12.html#dlepubid00185"/>
+        </navPoint>
+        <navPoint id="np-440" playOrder="440">
+          <navLabel>
+            <text>CHAPTER VI. How Solomon took David's sword by the counsel of his wife, and of other matters marvellous.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-12.html#dlepubid00186"/>
+        </navPoint>
+        <navPoint id="np-441" playOrder="441">
+          <navLabel>
+            <text>CHAPTER VII. A wonderful tale of King Solomon and his wife.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-12.html#dlepubid00187"/>
+        </navPoint>
+        <navPoint id="np-442" playOrder="442">
+          <navLabel>
+            <text>CHAPTER VIII. How Galahad and his fellows came to a castle, and how they were fought withal, and how they slew their adversaries, and other matters.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-12.html#dlepubid00188"/>
+        </navPoint>
+        <navPoint id="np-443" playOrder="443">
+          <navLabel>
+            <text>CHAPTER IX. How the three knights, with Percivale's sister, came unto the same forest, and of an hart and four lions, and other things.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-13.html#dlepubid00189"/>
+        </navPoint>
+        <navPoint id="np-444" playOrder="444">
+          <navLabel>
+            <text>CHAPTER X. How they were desired of a strange custom, the which they would not obey; wherefore they fought and slew many knights.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-13.html#dlepubid00190"/>
+        </navPoint>
+        <navPoint id="np-445" playOrder="445">
+          <navLabel>
+            <text>CHAPTER XI. How Sir Percivale's sister bled a dish full of blood for to heal a lady, wherefore she died; and how that the body was put in a ship.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-13.html#dlepubid00191"/>
+        </navPoint>
+        <navPoint id="np-446" playOrder="446">
+          <navLabel>
+            <text>CHAPTER XII. How Galahad and Percivale found in a castle many tombs of maidens that had bled to death.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-13.html#dlepubid00192"/>
+        </navPoint>
+        <navPoint id="np-447" playOrder="447">
+          <navLabel>
+            <text>CHAPTER XIII. How Sir Launcelot entered into the ship where Sir Percivale's sister lay dead, and how he met with Sir Galahad, his son.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-13.html#dlepubid00193"/>
+        </navPoint>
+        <navPoint id="np-448" playOrder="448">
+          <navLabel>
+            <text>CHAPTER XIV. How a knight brought unto Sir Galahad a horse, and bade him come from his father, Sir Launcelot.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-13.html#dlepubid00194"/>
+        </navPoint>
+        <navPoint id="np-449" playOrder="449">
+          <navLabel>
+            <text>CHAPTER XV. How Sir Launcelot was to-fore the door of the chamber wherein the Holy Sangreal was.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-13.html#dlepubid00195"/>
+        </navPoint>
+        <navPoint id="np-450" playOrder="450">
+          <navLabel>
+            <text>CHAPTER XVI. How Sir launcelot had lain four-and-twenty days and as many nights as a dead man, and other divers matters.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-13.html#dlepubid00196"/>
+        </navPoint>
+        <navPoint id="np-451" playOrder="451">
+          <navLabel>
+            <text>CHAPTER XVII. How Sir Launcelot returned towards Logris, and of other adventures which he saw in the way.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-13.html#dlepubid00197"/>
+        </navPoint>
+        <navPoint id="np-452" playOrder="452">
+          <navLabel>
+            <text>CHAPTER XVIII. How Galahad came to King Mordrains, and of other matters and adventures.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-13.html#dlepubid00198"/>
+        </navPoint>
+        <navPoint id="np-453" playOrder="453">
+          <navLabel>
+            <text>CHAPTER XIX. How Sir Percivale and Sir Bors met with Sir Galahad, and how they came to the castle of Carbonek, and other matters.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-13.html#dlepubid00199"/>
+        </navPoint>
+        <navPoint id="np-454" playOrder="454">
+          <navLabel>
+            <text>CHAPTER XX. How Galahad and his fellows were fed of the Holy Sangreal, and how Our Lord appeared to them, and other things.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-13.html#dlepubid00200"/>
+        </navPoint>
+        <navPoint id="np-455" playOrder="455">
+          <navLabel>
+            <text>CHAPTER XXI. How Galahad anointed with the blood of the spear the Maimed King, and of other adventures.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-13.html#dlepubid00201"/>
+        </navPoint>
+        <navPoint id="np-456" playOrder="456">
+          <navLabel>
+            <text>CHAPTER XXII. How they were fed with the Sangreal while they were in prison, and how Galahad was made king.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-13.html#dlepubid00202"/>
+        </navPoint>
+        <navPoint id="np-457" playOrder="457">
+          <navLabel>
+            <text>CHAPTER XXIII. Of the sorrow that Percivale and Bors made when Galahad was dead: and of Percivale how he died, and other matters.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-14.html#dlepubid00203"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-458" playOrder="458">
+        <navLabel>
+          <text>BOOK XVIII.</text>
+        </navLabel>
+        <content src="le-morte-darthur2-14.html#dlepubid00204"/>
+        <navPoint id="np-459" playOrder="459">
+          <navLabel>
+            <text>CHAPTER I. Of the joy King Arthur and the queen had of the achievement of the Sangreal; and how Launcelot fell to his old love again.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-14.html#dlepubid00205"/>
+        </navPoint>
+        <navPoint id="np-460" playOrder="460">
+          <navLabel>
+            <text>CHAPTER II. How the queen commanded Sir Launcelot to avoid the court, and of the sorrow that Launcelot made.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-14.html#dlepubid00206"/>
+        </navPoint>
+        <navPoint id="np-461" playOrder="461">
+          <navLabel>
+            <text>CHAPTER III. How at a dinner that the queen made there was a knight enpoisoned, which Sir Mador laid on the queen.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-14.html#dlepubid00207"/>
+        </navPoint>
+        <navPoint id="np-462" playOrder="462">
+          <navLabel>
+            <text>CHAPTER IV. How Sir Mador appeached the queen of treason, and there was no knight would fight for her at the first time.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-14.html#dlepubid00208"/>
+        </navPoint>
+        <navPoint id="np-463" playOrder="463">
+          <navLabel>
+            <text>CHAPTER V. How the queen required Sir Bors to fight for her, and how he granted upon condition; and how he warned Sir Launcelot thereof.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-14.html#dlepubid00209"/>
+        </navPoint>
+        <navPoint id="np-464" playOrder="464">
+          <navLabel>
+            <text>CHAPTER VI. How at the day Sir Bors made him ready for to fight for the queen; and when he would fight how another discharged him.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-14.html#dlepubid00210"/>
+        </navPoint>
+        <navPoint id="np-465" playOrder="465">
+          <navLabel>
+            <text>CHAPTER VII. How Sir Launcelot fought against Sir Mador for the queen, and how he overcame Sir Mador, and discharged the queen.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-14.html#dlepubid00211"/>
+        </navPoint>
+        <navPoint id="np-466" playOrder="466">
+          <navLabel>
+            <text>CHAPTER VIII. How the truth was known by the Maiden of the Lake, and of divers other matters.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-14.html#dlepubid00212"/>
+        </navPoint>
+        <navPoint id="np-467" playOrder="467">
+          <navLabel>
+            <text>CHAPTER IX. How Sir Launcelot rode to Astolat, and received a sleeve to wear upon his helm at the request of a maid.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-14.html#dlepubid00213"/>
+        </navPoint>
+        <navPoint id="np-468" playOrder="468">
+          <navLabel>
+            <text>CHAPTER X. How the tourney began at Winchester, and what knights were at the jousts; and other things.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-14.html#dlepubid00214"/>
+        </navPoint>
+        <navPoint id="np-469" playOrder="469">
+          <navLabel>
+            <text>CHAPTER XI. How Sir Launcelot and Sir Lavaine entered in the field against them of King Arthur's court, and how Launcelot was hurt.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-14.html#dlepubid00215"/>
+        </navPoint>
+        <navPoint id="np-470" playOrder="470">
+          <navLabel>
+            <text>CHAPTER XII. How Sir Launcelot and Sir Lavaine departed out of the field, and in what jeopardy Launcelot was.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-14.html#dlepubid00216"/>
+        </navPoint>
+        <navPoint id="np-471" playOrder="471">
+          <navLabel>
+            <text>CHAPTER XIII. How Launcelot was brought to an hermit for to be healed of his wound, and of other matters.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-15.html#dlepubid00217"/>
+        </navPoint>
+        <navPoint id="np-472" playOrder="472">
+          <navLabel>
+            <text>CHAPTER XIV. How Sir Gawaine was lodged with the lord of Astolat, and there had knowledge that it was Sir Launcelot that bare the red sleeve.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-15.html#dlepubid00218"/>
+        </navPoint>
+        <navPoint id="np-473" playOrder="473">
+          <navLabel>
+            <text>CHAPTER XV. Of the sorrow that Sir Bors had for the hurt of Launcelot; and of the anger that the queen had because Launcelot bare the sleeve.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-15.html#dlepubid00219"/>
+        </navPoint>
+        <navPoint id="np-474" playOrder="474">
+          <navLabel>
+            <text>CHAPTER XVI. How Sir Bors sought Launcelot and found him in the hermitage, and of the lamentation between them.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-15.html#dlepubid00220"/>
+        </navPoint>
+        <navPoint id="np-475" playOrder="475">
+          <navLabel>
+            <text>CHAPTER XVII. How Sir Launcelot armed him to assay if he might bear arms, and how his wounds brast out again.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-15.html#dlepubid00221"/>
+        </navPoint>
+        <navPoint id="np-476" playOrder="476">
+          <navLabel>
+            <text>CHAPTER XVIII. How Sir Bors returned and told tidings of Sir Launcelot; and of the tourney, and to whom the prize was given.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-15.html#dlepubid00222"/>
+        </navPoint>
+        <navPoint id="np-477" playOrder="477">
+          <navLabel>
+            <text>CHAPTER XIX. Of the great lamentation of the Fair Maid of Astolat when Launcelot should depart, and how she died for his love.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-15.html#dlepubid00223"/>
+        </navPoint>
+        <navPoint id="np-478" playOrder="478">
+          <navLabel>
+            <text>CHAPTER XX. How the corpse of the Maid of Astolat arrived to-fore King Arthur, and of the burying, and how Sir Launcelot offered the mass-penny.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-15.html#dlepubid00224"/>
+        </navPoint>
+        <navPoint id="np-479" playOrder="479">
+          <navLabel>
+            <text>CHAPTER XXI. Of great jousts done all a Christmas, and of a great jousts and tourney ordained by King Arthur, and of Sir Launcelot.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-15.html#dlepubid00225"/>
+        </navPoint>
+        <navPoint id="np-480" playOrder="480">
+          <navLabel>
+            <text>CHAPTER XXII. How Launcelot after that he was hurt of a gentlewoman came to an hermit, and of other matters.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-15.html#dlepubid00226"/>
+        </navPoint>
+        <navPoint id="np-481" playOrder="481">
+          <navLabel>
+            <text>CHAPTER XXIII. How Sir Launcelot behaved him at the jousts, and other men also.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-15.html#dlepubid00227"/>
+        </navPoint>
+        <navPoint id="np-482" playOrder="482">
+          <navLabel>
+            <text>CHAPTER XXIV. How King Arthur marvelled much of the jousting in the field, and how he rode and found Sir Launcelot.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-16.html#dlepubid00228"/>
+        </navPoint>
+        <navPoint id="np-483" playOrder="483">
+          <navLabel>
+            <text>CHAPTER XXV. How true love is likened to summer.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-16.html#dlepubid00229"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-484" playOrder="484">
+        <navLabel>
+          <text>BOOK XIX.</text>
+        </navLabel>
+        <content src="le-morte-darthur2-16.html#dlepubid00230"/>
+        <navPoint id="np-485" playOrder="485">
+          <navLabel>
+            <text>CHAPTER I. How Queen Guenever rode a-Maying with certain knights of the Round Table and clad all in green.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-16.html#dlepubid00231"/>
+        </navPoint>
+        <navPoint id="np-486" playOrder="486">
+          <navLabel>
+            <text>CHAPTER II. How Sir Meliagrance took the queen and her knights, which were sore hurt in fighting</text>
+          </navLabel>
+          <content src="le-morte-darthur2-16.html#dlepubid00232"/>
+        </navPoint>
+        <navPoint id="np-487" playOrder="487">
+          <navLabel>
+            <text>CHAPTER III. How Sir Launcelot had word how the queen was taken, and how Sir Meliagrance laid a bushment for Launcelot</text>
+          </navLabel>
+          <content src="le-morte-darthur2-16.html#dlepubid00233"/>
+        </navPoint>
+        <navPoint id="np-488" playOrder="488">
+          <navLabel>
+            <text>CHAPTER IV. How Sir Launcelot's horse was slain, and how Sir Launcelot rode in a cart for to rescue the queen</text>
+          </navLabel>
+          <content src="le-morte-darthur2-16.html#dlepubid00234"/>
+        </navPoint>
+        <navPoint id="np-489" playOrder="489">
+          <navLabel>
+            <text>CHAPTER V. How Sir Meliagrance required forgiveness of the queen, and how she appeased Sir Launcelot; and other matters</text>
+          </navLabel>
+          <content src="le-morte-darthur2-16.html#dlepubid00235"/>
+        </navPoint>
+        <navPoint id="np-490" playOrder="490">
+          <navLabel>
+            <text>CHAPTER VI. How Sir Launcelot came in the night to the queen and lay with her, and how Sir Meliagrance appeached the queen of treason</text>
+          </navLabel>
+          <content src="le-morte-darthur2-16.html#dlepubid00236"/>
+        </navPoint>
+        <navPoint id="np-491" playOrder="491">
+          <navLabel>
+            <text>CHAPTER VII. How Sir Launcelot answered for the queen, and waged battle against Sir Meliagrance; and how Sir Launcelot was taken in a trap</text>
+          </navLabel>
+          <content src="le-morte-darthur2-16.html#dlepubid00237"/>
+        </navPoint>
+        <navPoint id="np-492" playOrder="492">
+          <navLabel>
+            <text>CHAPTER VIII. How Sir Launcelot was delivered out of prison by a lady, and took a white courser and came for to keep his day</text>
+          </navLabel>
+          <content src="le-morte-darthur2-16.html#dlepubid00238"/>
+        </navPoint>
+        <navPoint id="np-493" playOrder="493">
+          <navLabel>
+            <text>CHAPTER IX. How Sir Launcelot came the same time that Sir Meliagrance abode him in the field and dressed him to battle</text>
+          </navLabel>
+          <content src="le-morte-darthur2-16.html#dlepubid00239"/>
+        </navPoint>
+        <navPoint id="np-494" playOrder="494">
+          <navLabel>
+            <text>CHAPTER X. How Sir Urre came into Arthur's court for to be healed of his wounds, and how King Arthur would begin to handle him</text>
+          </navLabel>
+          <content src="le-morte-darthur2-16.html#dlepubid00240"/>
+        </navPoint>
+        <navPoint id="np-495" playOrder="495">
+          <navLabel>
+            <text>CHAPTER XI. How King Arthur handled Sir Urre, and after him many other knights of the Round Table</text>
+          </navLabel>
+          <content src="le-morte-darthur2-17.html#dlepubid00241"/>
+        </navPoint>
+        <navPoint id="np-496" playOrder="496">
+          <navLabel>
+            <text>CHAPTER XII. How Sir Launcelot was commanded by Arthur to handle his wounds, and anon he was all whole, and how they thanked God</text>
+          </navLabel>
+          <content src="le-morte-darthur2-17.html#dlepubid00242"/>
+        </navPoint>
+        <navPoint id="np-497" playOrder="497">
+          <navLabel>
+            <text>CHAPTER XIII. How there was a party made of an hundred knights against an hundred knights, and of other matters</text>
+          </navLabel>
+          <content src="le-morte-darthur2-17.html#dlepubid00243"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-498" playOrder="498">
+        <navLabel>
+          <text>BOOK XX.</text>
+        </navLabel>
+        <content src="le-morte-darthur2-17.html#dlepubid00244"/>
+        <navPoint id="np-499" playOrder="499">
+          <navLabel>
+            <text>CHAPTER I. How Sir Agravaine and Sir Mordred were busy upon Sir Gawaine for to disclose the love between Sir Launcelot and Queen Guenever</text>
+          </navLabel>
+          <content src="le-morte-darthur2-17.html#dlepubid00245"/>
+        </navPoint>
+        <navPoint id="np-500" playOrder="500">
+          <navLabel>
+            <text>CHAPTER II. How Sir Agravaine disclosed their love to King Arthur, and how King Arthur gave them licence to take him</text>
+          </navLabel>
+          <content src="le-morte-darthur2-17.html#dlepubid00246"/>
+        </navPoint>
+        <navPoint id="np-501" playOrder="501">
+          <navLabel>
+            <text>CHAPTER III. How Sir Launcelot was espied in the queen's chamber, and how Sir Agravaine and Sir Mordred came with twelve knights to slay him</text>
+          </navLabel>
+          <content src="le-morte-darthur2-17.html#dlepubid00247"/>
+        </navPoint>
+        <navPoint id="np-502" playOrder="502">
+          <navLabel>
+            <text>CHAPTER IV. How Sir Launcelot slew Sir Colgrevance, and armed him in his harness, and after slew Sir Agravaine, and twelve of his fellows</text>
+          </navLabel>
+          <content src="le-morte-darthur2-17.html#dlepubid00248"/>
+        </navPoint>
+        <navPoint id="np-503" playOrder="503">
+          <navLabel>
+            <text>CHAPTER V. How Sir Launcelot came to Sir Bors, and told him how he had sped, and in what adventure he had been, and how he had escaped</text>
+          </navLabel>
+          <content src="le-morte-darthur2-17.html#dlepubid00249"/>
+        </navPoint>
+        <navPoint id="np-504" playOrder="504">
+          <navLabel>
+            <text>CHAPTER VI. Of the counsel and advice that was taken by Sir Launcelot and his friends for to save the queen</text>
+          </navLabel>
+          <content src="le-morte-darthur2-17.html#dlepubid00250"/>
+        </navPoint>
+        <navPoint id="np-505" playOrder="505">
+          <navLabel>
+            <text>CHAPTER VII. How Sir Mordred rode hastily to the king, to tell him of the affray and death of Sir Agravaine and the other knights</text>
+          </navLabel>
+          <content src="le-morte-darthur2-17.html#dlepubid00251"/>
+        </navPoint>
+        <navPoint id="np-506" playOrder="506">
+          <navLabel>
+            <text>CHAPTER VIII. How Sir Launcelot and his kinsmen rescued the queen from the fire, and how he slew many knights</text>
+          </navLabel>
+          <content src="le-morte-darthur2-17.html#dlepubid00252"/>
+        </navPoint>
+        <navPoint id="np-507" playOrder="507">
+          <navLabel>
+            <text>CHAPTER IX. Of the sorrow and lamentation of King Arthur for the death of his nephews and other good knights, and also for the queen, his wife</text>
+          </navLabel>
+          <content src="le-morte-darthur2-17.html#dlepubid00253"/>
+        </navPoint>
+        <navPoint id="np-508" playOrder="508">
+          <navLabel>
+            <text>CHAPTER X. How King Arthur at the request of Sir Gawaine concluded to make war against Sir Launcelot, and laid siege to his castle called Joyous Gard</text>
+          </navLabel>
+          <content src="le-morte-darthur2-18.html#dlepubid00254"/>
+        </navPoint>
+        <navPoint id="np-509" playOrder="509">
+          <navLabel>
+            <text>CHAPTER XI. Of the communication between King Arthur and Sir Launcelot, and how King Arthur reproved him.</text>
+          </navLabel>
+          <content src="le-morte-darthur2-18.html#dlepubid00255"/>
+        </navPoint>
+        <navPoint id="np-510" playOrder="510">
+          <navLabel>
+            <text>CHAPTER XII. How the cousins and kinsmen of Sir Launcelot excited him to go out to battle, and how they made them ready</text>
+          </navLabel>
+          <content src="le-morte-darthur2-18.html#dlepubid00256"/>
+        </navPoint>
+        <navPoint id="np-511" playOrder="511">
+          <navLabel>
+            <text>CHAPTER XIII. How Sir Gawaine jousted and smote down Sir Lionel, and how Sir Launcelot horsed King Arthur</text>
+          </navLabel>
+          <content src="le-morte-darthur2-18.html#dlepubid00257"/>
+        </navPoint>
+        <navPoint id="np-512" playOrder="512">
+          <navLabel>
+            <text>CHAPTER XIV. How the Pope sent down his bulls to make peace, and how Sir Launcelot brought the queen to King Arthur</text>
+          </navLabel>
+          <content src="le-morte-darthur2-18.html#dlepubid00258"/>
+        </navPoint>
+        <navPoint id="np-513" playOrder="513">
+          <navLabel>
+            <text>CHAPTER XV. Of the deliverance of the queen to the king by Sir Launcelot, and what language Sir Gawaine had to Sir Launcelot</text>
+          </navLabel>
+          <content src="le-morte-darthur2-18.html#dlepubid00259"/>
+        </navPoint>
+        <navPoint id="np-514" playOrder="514">
+          <navLabel>
+            <text>CHAPTER XVI. Of the communication between Sir Gawaine and Sir Launcelot, with much other language</text>
+          </navLabel>
+          <content src="le-morte-darthur2-18.html#dlepubid00260"/>
+        </navPoint>
+        <navPoint id="np-515" playOrder="515">
+          <navLabel>
+            <text>CHAPTER XVII. How Sir Launcelot departed from the king and from Joyous Gard over seaward, and what knights went with him</text>
+          </navLabel>
+          <content src="le-morte-darthur2-18.html#dlepubid00261"/>
+        </navPoint>
+        <navPoint id="np-516" playOrder="516">
+          <navLabel>
+            <text>CHAPTER XVIII. How Sir Launcelot passed over the sea, and how he made great lords of the knights that went with him</text>
+          </navLabel>
+          <content src="le-morte-darthur2-18.html#dlepubid00262"/>
+        </navPoint>
+        <navPoint id="np-517" playOrder="517">
+          <navLabel>
+            <text>CHAPTER XIX. How King Arthur and Sir Gawaine made a great host ready to go over sea to make war on Sir Launcelot</text>
+          </navLabel>
+          <content src="le-morte-darthur2-18.html#dlepubid00263"/>
+        </navPoint>
+        <navPoint id="np-518" playOrder="518">
+          <navLabel>
+            <text>CHAPTER XX. What message Sir Gawaine sent to Sir Launcelot; and how King Arthur laid siege to Benwick, and other matters</text>
+          </navLabel>
+          <content src="le-morte-darthur2-18.html#dlepubid00264"/>
+        </navPoint>
+        <navPoint id="np-519" playOrder="519">
+          <navLabel>
+            <text>CHAPTER XXI. How Sir Launcelot and Sir Gawaine did battle together, and how Sir Gawaine was overthrown and hurt</text>
+          </navLabel>
+          <content src="le-morte-darthur2-19.html#dlepubid00265"/>
+        </navPoint>
+        <navPoint id="np-520" playOrder="520">
+          <navLabel>
+            <text>CHAPTER XXII. Of the sorrow that King Arthur made for the war, and of another battle where also Sir Gawaine had the worse</text>
+          </navLabel>
+          <content src="le-morte-darthur2-19.html#dlepubid00266"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-521" playOrder="521">
+        <navLabel>
+          <text>BOOK XXI.</text>
+        </navLabel>
+        <content src="le-morte-darthur2-19.html#dlepubid00267"/>
+        <navPoint id="np-522" playOrder="522">
+          <navLabel>
+            <text>CHAPTER I. How Sir Mordred presumed and took on him to be King of England, and would have married the queen, his father's wife</text>
+          </navLabel>
+          <content src="le-morte-darthur2-19.html#dlepubid00268"/>
+        </navPoint>
+        <navPoint id="np-523" playOrder="523">
+          <navLabel>
+            <text>CHAPTER II. How after that King Arthur had tidings, he returned and came to Dover, where Sir Mordred met him to let his landing; and of the death of Sir Gawaine</text>
+          </navLabel>
+          <content src="le-morte-darthur2-19.html#dlepubid00269"/>
+        </navPoint>
+        <navPoint id="np-524" playOrder="524">
+          <navLabel>
+            <text>CHAPTER III. How after, Sir Gawaine's ghost appeared to King Arthur, and warned him that he should not fight that day</text>
+          </navLabel>
+          <content src="le-morte-darthur2-19.html#dlepubid00270"/>
+        </navPoint>
+        <navPoint id="np-525" playOrder="525">
+          <navLabel>
+            <text>CHAPTER IV. How by misadventure of an adder the battle began, where Mordred was slain, and Arthur hurt to the death</text>
+          </navLabel>
+          <content src="le-morte-darthur2-19.html#dlepubid00271"/>
+        </navPoint>
+        <navPoint id="np-526" playOrder="526">
+          <navLabel>
+            <text>CHAPTER V. How King Arthur commanded to cast his sword Excalibur into the water, and how he was delivered to ladies in a barge</text>
+          </navLabel>
+          <content src="le-morte-darthur2-19.html#dlepubid00272"/>
+        </navPoint>
+        <navPoint id="np-527" playOrder="527">
+          <navLabel>
+            <text>CHAPTER VI. How Sir Bedivere found him on the morrow dead in an hermitage, and how he abode there with the hermit</text>
+          </navLabel>
+          <content src="le-morte-darthur2-19.html#dlepubid00273"/>
+        </navPoint>
+        <navPoint id="np-528" playOrder="528">
+          <navLabel>
+            <text>CHAPTER VII. Of the opinion of some men of the death of King Arthur; and how Queen Guenever made her a nun in Almesbury</text>
+          </navLabel>
+          <content src="le-morte-darthur2-19.html#dlepubid00274"/>
+        </navPoint>
+        <navPoint id="np-529" playOrder="529">
+          <navLabel>
+            <text>CHAPTER VIII. How when Sir Lancelot heard of the death of King Arthur, and of Sir Gawaine, and other matters, he came into England</text>
+          </navLabel>
+          <content src="le-morte-darthur2-19.html#dlepubid00275"/>
+        </navPoint>
+        <navPoint id="np-530" playOrder="530">
+          <navLabel>
+            <text>CHAPTER IX. How Sir Launcelot departed to seek the Queen Guenever, and how he found her at Almesbury</text>
+          </navLabel>
+          <content src="le-morte-darthur2-19.html#dlepubid00276"/>
+        </navPoint>
+        <navPoint id="np-531" playOrder="531">
+          <navLabel>
+            <text>CHAPTER X. How Sir Launcelot came to the hermitage where the Archbishop of Canterbury was, and how he took the habit on him</text>
+          </navLabel>
+          <content src="le-morte-darthur2-19.html#dlepubid00277"/>
+        </navPoint>
+        <navPoint id="np-532" playOrder="532">
+          <navLabel>
+            <text>CHAPTER XI. How Sir Launcelot went with his seven fellows to Almesbury, and found there Queen Guenever dead, whom they brought to Glastonbury</text>
+          </navLabel>
+          <content src="le-morte-darthur2-20.html#dlepubid00278"/>
+        </navPoint>
+        <navPoint id="np-533" playOrder="533">
+          <navLabel>
+            <text>CHAPTER XII. How Sir Launcelot began to sicken, and after died, whose body was borne to Joyous Gard for to be buried</text>
+          </navLabel>
+          <content src="le-morte-darthur2-20.html#dlepubid00279"/>
+        </navPoint>
+        <navPoint id="np-534" playOrder="534">
+          <navLabel>
+            <text>CHAPTER XIII. How Sir Ector found Sir Launcelot his brother dead, and how Constantine reigned next after Arthur; and of the end of this book</text>
+          </navLabel>
+          <content src="le-morte-darthur2-20.html#dlepubid00280"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-535" playOrder="535">
+        <navLabel>
+          <text>GLOSSARY</text>
+        </navLabel>
+        <content src="le-morte-darthur2-20.html#dlepubid00281"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
