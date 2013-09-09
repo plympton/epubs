@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="the-arabian-nights" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Arabian Nights</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>THE MERCHANT AND THE GENIE.</text>
+      </navLabel>
+      <content src="the-arabian-nights-0.html#id00082"/>
+    </navPoint>
+    <navPoint id="np-2" playOrder="2">
+      <navLabel>
+        <text>THE STORY OF THE FISHERMAN.</text>
+      </navLabel>
+      <content src="the-arabian-nights-0.html#id00134"/>
+    </navPoint>
+    <navPoint id="np-3" playOrder="3">
+      <navLabel>
+        <text>STORY OF THE THREE CALENDERS, SONS OF SULTANS; AND OF THE FIVE LADIES OF BAGDAD.</text>
+      </navLabel>
+      <content src="the-arabian-nights-0.html#id00265"/>
+    </navPoint>
+    <navPoint id="np-4" playOrder="4">
+      <navLabel>
+        <text>THE STORY OF SINBAD THE VOYAGER.</text>
+      </navLabel>
+      <content src="the-arabian-nights-1.html#id00603"/>
+    </navPoint>
+    <navPoint id="np-5" playOrder="5">
+      <navLabel>
+        <text>THE THREE APPLES.</text>
+      </navLabel>
+      <content src="the-arabian-nights-2.html#id00782"/>
+    </navPoint>
+    <navPoint id="np-6" playOrder="6">
+      <navLabel>
+        <text>THE HISTORY OF GANEM, SON OF ABOU AYOUB, AND KNOWN BY THE SURNAME OF LOVE'S SLAVE.</text>
+      </navLabel>
+      <content src="the-arabian-nights-2.html#id00966"/>
+    </navPoint>
+    <navPoint id="np-7" playOrder="7">
+      <navLabel>
+        <text>THE STORY OF THE LITTLE HUNCH-BACK.</text>
+      </navLabel>
+      <content src="the-arabian-nights-3.html#id01116"/>
+    </navPoint>
+    <navPoint id="np-8" playOrder="8">
+      <navLabel>
+        <text>THE STORY OF NOOR AD DEEN AND THE FAIR PERSIAN.</text>
+      </navLabel>
+      <content src="the-arabian-nights-5.html#id02071"/>
+    </navPoint>
+    <navPoint id="np-9" playOrder="9">
+      <navLabel>
+        <text>THE STORY OF BEDER, PRINCE OF PERSIA, AND JEHAUN-ARA, PRINCESS OF SAMANDAL, OR SUMMUNDER.</text>
+      </navLabel>
+      <content src="the-arabian-nights-6.html#id02292"/>
+    </navPoint>
+    <navPoint id="np-10" playOrder="10">
+      <navLabel>
+        <text>THE HISTORY OF PRINCE ZEYN ALASNAM AND THE SULTAN OF THE GENII.</text>
+      </navLabel>
+      <content src="the-arabian-nights-6.html#id02506"/>
+    </navPoint>
+    <navPoint id="np-11" playOrder="11">
+      <navLabel>
+        <text>THE HISTORY OF CODADAD, AND HIS BROTHERS.</text>
+      </navLabel>
+      <content src="the-arabian-nights-7.html#id02554"/>
+    </navPoint>
+    <navPoint id="np-12" playOrder="12">
+      <navLabel>
+        <text>THE STORY OF ABOU HASSAN, OR THE SLEEPER AWAKENED.</text>
+      </navLabel>
+      <content src="the-arabian-nights-7.html#id02622"/>
+    </navPoint>
+    <navPoint id="np-13" playOrder="13">
+      <navLabel>
+        <text>THE STORY OF ALLA AD DEEN; OR, THE WONDERFUL LAMP.</text>
+      </navLabel>
+      <content src="the-arabian-nights-8.html#id02824"/>
+    </navPoint>
+    <navPoint id="np-14" playOrder="14">
+      <navLabel>
+        <text>ADVENTURE OF THE CALIPH HAROON AL RUSHEED.</text>
+      </navLabel>
+      <content src="the-arabian-nights-9.html#id03130"/>
+    </navPoint>
+    <navPoint id="np-15" playOrder="15">
+      <navLabel>
+        <text>THE STORY OF ALI BABA AND THE FORTY ROBBERS DESTROYED BY A SLAVE.</text>
+      </navLabel>
+      <content src="the-arabian-nights-9.html#id03375"/>
+    </navPoint>
+    <navPoint id="np-16" playOrder="16">
+      <navLabel>
+        <text>THE STORY OF ALI KHAUJEH, A MERCHANT OF BAGDAD.</text>
+      </navLabel>
+      <content src="the-arabian-nights-9.html#id03505"/>
+    </navPoint>
+    <navPoint id="np-17" playOrder="17">
+      <navLabel>
+        <text>THE STORY OF THE ENCHANTED HORSE.</text>
+      </navLabel>
+      <content src="the-arabian-nights-10.html#id03572"/>
+    </navPoint>
+    <navPoint id="np-18" playOrder="18">
+      <navLabel>
+        <text>THE STORY OF PRINCE AHMED, AND THE FAIRY PERIE BANOU.</text>
+      </navLabel>
+      <content src="the-arabian-nights-10.html#id03695"/>
+    </navPoint>
+    <navPoint id="np-19" playOrder="19">
+      <navLabel>
+        <text>THE STORY OF THE SISTERS WHO ENVIED THEIR YOUNGER SISTER.</text>
+      </navLabel>
+      <content src="the-arabian-nights-10.html#id03860"/>
+    </navPoint>
+    <navPoint id="np-20" playOrder="20">
+      <navLabel>
+        <text>STORY OF THE SULTAN OF YEMEN AND HIS THREE SONS.</text>
+      </navLabel>
+      <content src="the-arabian-nights-11.html#id04021"/>
+    </navPoint>
+    <navPoint id="np-21" playOrder="21">
+      <navLabel>
+        <text>STORY OF THE THREE SHARPERS AND THE SULTAN.</text>
+      </navLabel>
+      <content src="the-arabian-nights-11.html#id04034"/>
+    </navPoint>
+    <navPoint id="np-22" playOrder="22">
+      <navLabel>
+        <text>STORY OF THE BANG-EATER AND THE CAUZEE.</text>
+      </navLabel>
+      <content src="the-arabian-nights-11.html#id04196"/>
+    </navPoint>
+    <navPoint id="np-23" playOrder="23">
+      <navLabel>
+        <text>THE SULTAN AND THE TRAVELLER MHAMOOD AL HYJEMMEE.</text>
+      </navLabel>
+      <content src="the-arabian-nights-12.html#id04240"/>
+    </navPoint>
+    <navPoint id="np-24" playOrder="24">
+      <navLabel>
+        <text>STORY OF THE FISHERMAN'S SON.</text>
+      </navLabel>
+      <content src="the-arabian-nights-12.html#id04338"/>
+    </navPoint>
+    <navPoint id="np-25" playOrder="25">
+      <navLabel>
+        <text>STORY OF ABOU NEEUT AND ABOU NEEUTEEN; OR, THE WELL-INTENTIONED AND THE DOUBLE-MINDED.</text>
+      </navLabel>
+      <content src="the-arabian-nights-12.html#id04340"/>
+    </navPoint>
+    <navPoint id="np-26" playOrder="26">
+      <navLabel>
+        <text>ADVENTURE OF A COURTIER, RELATED BY HIMSELF TO HIS PATRON, AN AMEER OF EGYPT.</text>
+      </navLabel>
+      <content src="the-arabian-nights-12.html#id04359"/>
+    </navPoint>
+    <navPoint id="np-27" playOrder="27">
+      <navLabel>
+        <text>STORY OF THE PRINCE OF SIND, AND FATIMA, DAUGHTER OF AMIR BIN NAOMAUN.</text>
+      </navLabel>
+      <content src="the-arabian-nights-12.html#id04372"/>
+    </navPoint>
+    <navPoint id="np-28" playOrder="28">
+      <navLabel>
+        <text>STORY OF THE LOVERS OF SYRIA; OR, THE HEROINE.</text>
+      </navLabel>
+      <content src="the-arabian-nights-12.html#id04378"/>
+    </navPoint>
+    <navPoint id="np-29" playOrder="29">
+      <navLabel>
+        <text>STORY OF HYJAUJE, THE TYRANNICAL GOVERNOR OF COUFEH, AND THE YOUNG SYED.</text>
+      </navLabel>
+      <content src="the-arabian-nights-12.html#id04382"/>
+    </navPoint>
+    <navPoint id="np-30" playOrder="30">
+      <navLabel>
+        <text>STORY OF INS AL WUJJOOD AND WIRD AL IKMAUM, DAUGHTER OF IBRAHIM, VIZIER TO SULTAN SHAMIKH.</text>
+      </navLabel>
+      <content src="the-arabian-nights-12.html#id04429"/>
+    </navPoint>
+    <navPoint id="np-31" playOrder="31">
+      <navLabel>
+        <text>THE ADVENTURES OF MAZIN OF KHORASSAUN.</text>
+      </navLabel>
+      <content src="the-arabian-nights-12.html#id04440"/>
+    </navPoint>
+    <navPoint id="np-32" playOrder="32">
+      <navLabel>
+        <text>STORY OF THE SULTAN, THE DERVISH, AND THE BARBER'S SON.</text>
+      </navLabel>
+      <content src="the-arabian-nights-13.html#id04531"/>
+    </navPoint>
+    <navPoint id="np-33" playOrder="33">
+      <navLabel>
+        <text>ADVENTURES OF ALEEFA, DAUGHTER OF MHEREJAUN, SULTAN OF HIND, AND EUSUFF, SON OF SOHUL, SULTAN OF SIND.</text>
+      </navLabel>
+      <content src="the-arabian-nights-13.html#id04533"/>
+    </navPoint>
+    <navPoint id="np-34" playOrder="34">
+      <navLabel>
+        <text>ADVENTURES OF THE THREE PRINCES, SONS OF THE SULTAN OF CHINA.</text>
+      </navLabel>
+      <content src="the-arabian-nights-13.html#id04544"/>
+    </navPoint>
+    <navPoint id="np-35" playOrder="35">
+      <navLabel>
+        <text>STORY OF THE GOOD VIZIER UNJUSTLY IMPRISONED.</text>
+      </navLabel>
+      <content src="the-arabian-nights-13.html#id04548"/>
+    </navPoint>
+    <navPoint id="np-36" playOrder="36">
+      <navLabel>
+        <text>STORY OF THE LADY OF CAIRO AND HER FOUR GALLANTS.</text>
+      </navLabel>
+      <content src="the-arabian-nights-13.html#id04551"/>
+    </navPoint>
+    <navPoint id="np-37" playOrder="37">
+      <navLabel>
+        <text>STORY OF THE MERCHANT, HIS DAUGHTER, AND THE PRINCE OF EERAUK.</text>
+      </navLabel>
+      <content src="the-arabian-nights-13.html#id04562"/>
+    </navPoint>
+    <navPoint id="np-38" playOrder="38">
+      <navLabel>
+        <text>CONCLUSION.</text>
+      </navLabel>
+      <content src="the-arabian-nights-13.html#id04576"/>
+    </navPoint>
+  </navMap>
+</ncx>
